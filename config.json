@@ -1,0 +1,17 @@
+{
+  "backfill_days": 120,
+  "recent_days": 7,
+  "max_size_checks_per_run": 400,
+  "max_items_per_channel_feed": 300,
+  "channels": {
+    "kool": "Kool FM",
+    "uk": "Rinse FM",
+    "france": "Rinse France",
+    "swu": "SWU FM"
+  },
+  "artists": [
+    "Decibella",
+    "Settle Down",
+    "Tim Reaper"
+  ]
+}
