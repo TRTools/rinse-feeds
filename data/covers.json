@@ -1,0 +1,22 @@
+{
+ "france": {
+  "checked": "2026-10-14",
+  "source": "generated:Rinse France:#46525E",
+  "ver": "9e2e4d4b"
+ },
+ "kool": {
+  "checked": "2026-10-14",
+  "source": "generated:Kool FM:#C8102E",
+  "ver": "fa4d748c"
+ },
+ "swu": {
+  "checked": "2026-10-14",
+  "source": "generated:SWU FM:#6B3FA0",
+  "ver": "fcc91b27"
+ },
+ "uk": {
+  "checked": "2026-10-14",
+  "source": "generated:Rinse FM:#46525E",
+  "ver": "0393229a"
+ }
+}
