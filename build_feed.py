@@ -10,6 +10,7 @@ a new link and a new date shows up as the same episode in the podcast app.
 Run by GitHub Actions once a day. Standard library only.
 """
 
+import collections
 import json
 import os
 import re
@@ -272,7 +273,7 @@ COVERS_FILE = os.path.join(DATA, "covers.json")
 COVER_DIR = os.path.join(DOCS, "covers")
 COVER_PX = 1400
 COVER_REFRESH_DAYS = 7
-PAGE_SLUGS = {"uk": ["uk", "rinse-fm", "rinsefm", "london"]}   # other channels use their own key
+PAGE_SLUGS = {"uk": ["uk", "rinse-fm", "rinsefm"]}   # other channels use their own key
 PALETTE = {"red": "#C8102E", "steel": "#46525E", "blue": "#1F4FD1", "navy": "#1B2A4A",
            "green": "#1E8C4E", "yellow": "#F2C230", "orange": "#E8692A", "pink": "#E84D8A",
            "purple": "#6B3FA0", "black": "#111111", "white": "#F2F2F2", "grey": "#6E6E6E", "gray": "#6E6E6E"}
@@ -292,20 +293,6 @@ def fetch_bytes(url, limit=30_000_000):
         return r.read(limit)
 
 
-def page_image(key):
-    """og:image of the channel page on rinse.fm, without resize parameters."""
-    for slug in PAGE_SLUGS.get(key, [key]):
-        try:
-            html = fetch_bytes(f"https://www.rinse.fm/channels/{slug}").decode("utf-8", "replace")
-        except Exception:
-            continue
-        m = (re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html)
-             or re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', html))
-        if m:
-            return m.group(1).replace("&amp;", "&").split("?", 1)[0]
-    return None
-
-
 def colour_for(key, colour_slug):
     for word, hexv in PALETTE.items():
         if colour_slug and word in colour_slug.lower():
@@ -313,14 +300,38 @@ def colour_for(key, colour_slug):
     return DEFAULT_COLOURS.get(key, "#333333")
 
 
-def make_cover_from_image(data, dest):
-    from io import BytesIO
+def footer_logos(keys):
+    """Rinse draws each station logo inline in the site footer, right after the
+    link to that channel. Returns key -> svg text for the stations it finds."""
+    try:
+        html = fetch_bytes("https://www.rinse.fm/channels/kool").decode("utf-8", "replace")
+    except Exception as e:
+        log(f"  logo page failed: {e}")
+        return {}
+    out = {}
+    for k in keys:
+        for slug in PAGE_SLUGS.get(k, [k]):
+            i = html.rfind(f'href="/channels/{slug}"')
+            if i < 0:
+                continue
+            m = re.compile(r"<svg\b.*?</svg>", re.S).search(html, i, i + 6000)
+            if m and "currentColor" in m.group(0):
+                out[k] = m.group(0)
+                break
+    return out
+
+
+def make_cover_from_logo(svg, hexv, dest):
+    import io
+    import cairosvg
     from PIL import Image
-    im = Image.open(BytesIO(data)).convert("RGB")
-    w, h = im.size
-    side = min(w, h)
-    im = im.crop(((w - side) // 2, (h - side) // 2, (w - side) // 2 + side, (h - side) // 2 + side))
-    im.resize((COVER_PX, COVER_PX), Image.LANCZOS).save(dest, "JPEG", quality=88)
+    rgb = tuple(int(hexv[i:i + 2], 16) for i in (1, 3, 5))
+    ink = "#111111" if (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) > 160 else "#FFFFFF"
+    svg = re.sub(r'\sclass="[^"]*"', "", svg, count=1).replace("currentColor", ink)
+    logo = Image.open(io.BytesIO(cairosvg.svg2png(bytestring=svg.encode(), output_width=int(COVER_PX * 0.7)))).convert("RGBA")
+    im = Image.new("RGB", (COVER_PX, COVER_PX), rgb)
+    im.paste(logo, ((COVER_PX - logo.width) // 2, (COVER_PX - logo.height) // 2), logo)
+    im.save(dest, "JPEG", quality=92)
 
 
 def make_cover_generated(name, hexv, dest):
@@ -343,10 +354,11 @@ def make_cover_generated(name, hexv, dest):
     im.save(dest, "JPEG", quality=92)
 
 
-def station_covers(channels, colours, base_url, today):
-    """One square cover per station: Rinse's channel page image, cropped square,
-    or a generated cover in the station colour when the page has none, or the
-    same image as another station. Returns key -> absolute URL."""
+def station_covers(channels, colours, base_url, today, cover_colours=None):
+    """One square cover per station: Rinse's own station logo from the site footer,
+    white on the station colour. Falls back to a plain name cover if the logo
+    cannot be found or rendered. Returns key -> absolute URL."""
+    cover_colours = cover_colours or {}
     if not base_url:
         return {}
     try:
@@ -356,54 +368,39 @@ def station_covers(channels, colours, base_url, today):
         return {}
     os.makedirs(COVER_DIR, exist_ok=True)
     state = load_json(COVERS_FILE, {})
-    stale = lambda k: (k not in state or not os.path.exists(os.path.join(COVER_DIR, f"{k}.jpg"))
-                       or (today - datetime.fromisoformat(state[k]["checked"]).date()).days >= COVER_REFRESH_DAYS)
+    def stale(k):
+        st = state.get(k)
+        return (not st or not os.path.exists(os.path.join(COVER_DIR, f"{k}.jpg"))
+                or not st["source"].startswith("logo:")      # keep trying until the logo cover exists
+                or (today - datetime.fromisoformat(st["checked"]).date()).days >= COVER_REFRESH_DAYS)
 
-    found = {k: page_image(k) for k in channels if stale(k)}
-    dupes = {u for u in found.values() if u and list(found.values()).count(u) > 1}
-    for k, src in found.items():
+    todo = [k for k in channels if stale(k)]
+    logos = footer_logos(todo) if todo else {}
+    import hashlib
+    for k in todo:
         dest = os.path.join(COVER_DIR, f"{k}.jpg")
-        colour = colour_for(k, colours.get(k))
-        if src and src not in dupes:
-            if state.get(k, {}).get("source") != src or not os.path.exists(dest):
-                try:
-                    make_cover_from_image(fetch_bytes(src), dest)
-                except Exception as e:
-                    log(f"  cover {k}: page image failed ({e}), generating")
-                    src = None
-        else:
-            src = None
+        colour = cover_colours.get(k) or colour_for(k, colours.get(k))
+        src = None
+        if k in logos:
+            want = f"logo:{hashlib.sha1(logos[k].encode()).hexdigest()[:10]}:{colour}"
+            try:
+                if state.get(k, {}).get("source") != want or not os.path.exists(dest):
+                    make_cover_from_logo(logos[k], colour, dest)
+                src = want
+            except Exception as e:
+                log(f"  cover {k}: logo render failed ({e}), generating")
         if not src:
             want = f"generated:{channels[k]}:{colour}"
             if state.get(k, {}).get("source") != want or not os.path.exists(dest):
                 make_cover_generated(channels[k], colour, dest)
             src = want
         with open(dest, "rb") as f:
-            import hashlib
             ver = hashlib.sha1(f.read()).hexdigest()[:8]
         state[k] = {"source": src, "checked": today.isoformat(), "ver": ver}
-        log(f"  cover {k}: {'generated' if src.startswith('generated') else 'from rinse.fm'}")
+        log(f"  cover {k}: {src.split(':')[0]}")
     save_json(COVERS_FILE, state)
     # ?v= changes only when the image changes, so Apple refetches it then and only then
     return {k: f"{base_url}/covers/{k}.jpg?v={v['ver']}" for k, v in state.items() if k in channels}
-
-
-def save_pages_for_logo_probe(channels):
-    """Temporary: keep the raw channel pages so the logo markup can be inspected."""
-    out = os.path.join(DATA, "pages")
-    os.makedirs(out, exist_ok=True)
-    targets = {"home": "https://www.rinse.fm/"}
-    for k in channels:
-        for slug in PAGE_SLUGS.get(k, [k]):
-            targets[f"{k}_{slug}"] = f"https://www.rinse.fm/channels/{slug}"
-    for name, url in targets.items():
-        try:
-            data = fetch_bytes(url)
-            with open(os.path.join(out, f"{name}.html"), "wb") as f:
-                f.write(data)
-            log(f"  saved page {name}: {len(data)} bytes")
-        except Exception as e:
-            log(f"  page {name}: {e}")
 
 
 # ---------------------------------------------------------------- rss
@@ -418,7 +415,8 @@ def describe(ep, dt):
 def rss(title, description, link, items, self_url="", fixed_cover=None):
     # Most used image in the feed, so the cover stays put instead of changing daily
     imgs = [ep["image"] for ep in items if ep.get("image")]
-    cover = max(set(imgs), key=imgs.count) if imgs else None
+    # ties go to the newest episode (items are newest first), so the result never flips between runs
+    cover = collections.Counter(imgs).most_common(1)[0][0] if imgs else None
     out = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" '
@@ -600,9 +598,7 @@ def main():
     log(f"Publishable episodes after repost merge: {len(ready)}")
 
     # 4. Write feeds.
-    covers = station_covers(channels, colours, base_url, today)
-    if not FIXTURE_DIR:
-        save_pages_for_logo_probe(channels)
+    covers = station_covers(channels, colours, base_url, today, cfg.get("cover_colours", {}))
     index = []
     keys = list(channels.keys()) + (["other"] if any(r["channel"] == "other" for r in ready) else [])
     for key in keys:
