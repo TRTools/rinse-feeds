@@ -8,6 +8,8 @@
 <itunes:author>Decibella on Rinse</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<itunes:image href="https://image.rinse.fm/_/Webite-Episode-Square_2023-05-02-204438_lnwc.png?w=1400&amp;h=1400&amp;fit=crop"/>
+<image><url>https://image.rinse.fm/_/Webite-Episode-Square_2023-05-02-204438_lnwc.png?w=1400&amp;h=1400&amp;fit=crop</url><title>Decibella on Rinse</title><link>https://www.rinse.fm/shows/decibella</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/artists/decibella.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Decibella - 12/08/2025 - 22:00</title>
@@ -16,14 +18,18 @@
 <guid isPermaLink="false">rinse-size-142774214</guid>
 <pubDate>Sun, 06 Sep 2026 22:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Decibella-March-2023_3.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Decibella - 02/05/2023 - 23:00</title>
-<description>Kool FM, broadcast 11 Aug 2026 23:00</description>
+<description>Kool FM, broadcast 11 Aug 2026 23:00. Drum &amp; Bass, Jungle, Dancefloor</description>
 <enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-290853708</guid>
 <pubDate>Tue, 11 Aug 2026 23:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Webite-Episode-Square_2023-05-02-204438_lnwc.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

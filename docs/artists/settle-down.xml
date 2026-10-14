@@ -8,30 +8,38 @@
 <itunes:author>Settle Down on Rinse</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<itunes:image href="https://image.rinse.fm/_/22.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<image><url>https://image.rinse.fm/_/22.jpg?w=1400&amp;h=1400&amp;fit=crop</url><title>Settle Down on Rinse</title><link>https://www.rinse.fm/shows/settle-down</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/artists/settle-down.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>SETTLE DOWN - 23/09/2026 - 23:00</title>
-<description>Kool FM, broadcast 23 Sep 2026 23:00</description>
+<description>Kool FM, broadcast 23 Sep 2026 23:00. Oldskool, Jungle, Hardcore</description>
 <enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN230926.mp3" length="288462759" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-288462759</guid>
 <pubDate>Wed, 23 Sep 2026 23:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/press-pic.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>SETTLE DOWN - 26/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 26 Aug 2026 23:00</description>
+<description>Kool FM, broadcast 26 Aug 2026 23:00. Drum &amp; Bass, Jungle, Oldskool</description>
 <enclosure url="https://replay.rinse.fm/kool/SettleDown260826.mp3" length="288508654" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-288508654</guid>
 <pubDate>Wed, 26 Aug 2026 23:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>SETTLE DOWN - 30/07/2026 - 23:00</title>
-<description>Kool FM, broadcast 22 Jul 2026 23:00</description>
+<description>Kool FM, broadcast 22 Jul 2026 23:00. Oldskool, Jungle, Drum &amp; Bass</description>
 <enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN220726.mp3" length="288421081" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-288421081</guid>
 <pubDate>Wed, 22 Jul 2026 23:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/22.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>SETTLE DOWN - 24/06/2026 - 23:00</title>
@@ -40,6 +48,8 @@
 <guid isPermaLink="false">rinse-size-288154487</guid>
 <pubDate>Wed, 24 Jun 2026 23:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
