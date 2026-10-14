@@ -30,7 +30,7 @@ STATE_FILE = os.path.join(DATA, "episodes.json")
 DATES_FILE = os.path.join(DATA, "fetched_dates.json")
 REPORT_FILE = os.path.join(DATA, "channel_report.json")
 META_FILE = os.path.join(DATA, "meta.json")
-STATE_VERSION = 3
+STATE_VERSION = 4
 SAMPLE_FILE = os.path.join(DATA, "sample_entry.json")
 ART = "?w=1400&h=1400&fit=crop"
 
@@ -163,6 +163,12 @@ def air_time(entry, day, channel):
 
 
 SKIP_KEYS = {"channel", "channels", "originalEpisode", "station"}
+IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)
+
+
+def art_url(u):
+    """Ask Rinse's image server for a 1400 px square. Other hosts get the link as is."""
+    return u + ART if "image.rinse.fm/" in u else u
 
 
 def find_image(entry, path=""):
@@ -184,12 +190,12 @@ def find_image(entry, path=""):
             u, p = find_image(v, f"{path}[{i}]")
             if u:
                 return u, p
-    elif isinstance(entry, str) and "image.rinse.fm/" in entry:
+    elif isinstance(entry, str) and ("image.rinse.fm/" in entry or IMG_EXT.search(entry)):
         u = entry.strip()
         if u.startswith("//"):
             u = "https:" + u
-        if u.startswith("http"):
-            return u.split("?", 1)[0], path
+        if u.startswith("http") and not u.lower().split("?")[0].endswith(".mp3"):
+            return (u.split("?", 1)[0] if "image.rinse.fm/" in u else u), path
     return None, None
 
 
@@ -253,8 +259,8 @@ def rss(title, description, link, items, self_url=""):
         "<itunes:block>Yes</itunes:block>",
     ]
     if cover:
-        out += [f'<itunes:image href="{escape(cover + ART)}"/>',
-                f"<image><url>{escape(cover + ART)}</url><title>{escape(title)}</title><link>{escape(link)}</link></image>"]
+        out += [f'<itunes:image href="{escape(art_url(cover))}"/>',
+                f"<image><url>{escape(art_url(cover))}</url><title>{escape(title)}</title><link>{escape(link)}</link></image>"]
     if self_url:
         out.append(f'<atom:link href="{escape(self_url)}" rel="self" type="application/rss+xml"/>')
     for ep in items:
@@ -269,7 +275,7 @@ def rss(title, description, link, items, self_url=""):
             f"<itunes:author>{escape(ep['channel_name'])}</itunes:author>",
         ]
         if ep.get("image"):
-            out.append(f'<itunes:image href="{escape(ep["image"] + ART)}"/>')
+            out.append(f'<itunes:image href="{escape(art_url(ep["image"]))}"/>')
         out += [
             "</item>",
         ]
@@ -336,7 +342,7 @@ def main():
                 img, img_path = find_image(e)
                 if not img:
                     img, img_path = top_img, ("parent" + (top_path or "")) if top_img else None
-                if sample is None and img:
+                if sample is None or (img and not sample.get("image")):
                     sample = {"image_found_at": img_path, "image": img, "entry": e}
                 ch = channel_of(e, url)
                 when = air_time(e, d, ch)
