@@ -6587,6 +6587,13 @@
   "size": 144014609,
   "title": "Circumference - 12/08/2026 - 21:00"
  },
+ "https://replay.rinse.fm/swu/Circumference141026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-14T21:00:00+01:00",
+  "image": null,
+  "size": 144013566,
+  "title": "Circumference - 14/10/2026 - 21:00"
+ },
  "https://replay.rinse.fm/swu/ClubDjembe020826FIX.mp3": {
   "channel": "swu",
   "date": "2026-08-02T14:00:00+01:00",
@@ -8284,6 +8291,13 @@
   "date": "2026-08-12T19:00:00+01:00",
   "size": 288006803,
   "title": "Kyrist - 29/08/2026 - 21:00"
+ },
+ "https://replay.rinse.fm/swu/Kyrist141026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-14T19:00:00+01:00",
+  "image": null,
+  "size": 288018146,
+  "title": "Kyrist - 14/10/2026 - 19:00"
  },
  "https://replay.rinse.fm/swu/LEXXI080726.mp3": {
   "channel": "swu",

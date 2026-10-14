@@ -10,6 +10,22 @@
 <itunes:block>Yes</itunes:block>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Circumference - 14/10/2026 - 21:00</title>
+<description>SWU FM, broadcast 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Circumference141026.mp3" length="144013566" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144013566</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Kyrist - 14/10/2026 - 19:00</title>
+<description>SWU FM, broadcast 14 Oct 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Kyrist141026.mp3" length="288018146" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288018146</guid>
+<pubDate>Wed, 14 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
 <title>Finlay Shakespeare - 13/10/2026 - 23:00</title>
 <description>SWU FM, broadcast 13 Oct 2026 23:00</description>
 <enclosure url="https://replay.rinse.fm/swu/FinlayShakespeare131026.mp3" length="288009020" type="audio/mpeg"/>
@@ -2391,22 +2407,6 @@
 <enclosure url="https://replay.rinse.fm/swu/Mistafire050726.mp3" length="288010341" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-288010341</guid>
 <pubDate>Sun, 05 Jul 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-</item>
-<item>
-<title>Javeon - 07/07/2026 - 01:00</title>
-<description>SWU FM, broadcast 05 Jul 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/swu/Javeon050726.mp3" length="288010299" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010299</guid>
-<pubDate>Sun, 05 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-</item>
-<item>
-<title>COCODUBZ - 16/07/2026 - 21:00</title>
-<description>SWU FM, broadcast 05 Jul 2026 18:00</description>
-<enclosure url="https://replay.rinse.fm/swu/COCODUBZ050726.mp3" length="144010804" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010804</guid>
-<pubDate>Sun, 05 Jul 2026 18:00:00 +0100</pubDate>
 <itunes:author>SWU FM</itunes:author>
 </item>
 </channel>
