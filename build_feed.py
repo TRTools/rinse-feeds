@@ -17,6 +17,8 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
+from zoneinfo import ZoneInfo
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
@@ -27,6 +29,8 @@ DOCS = os.path.join(ROOT, "docs")
 STATE_FILE = os.path.join(DATA, "episodes.json")
 DATES_FILE = os.path.join(DATA, "fetched_dates.json")
 REPORT_FILE = os.path.join(DATA, "channel_report.json")
+META_FILE = os.path.join(DATA, "meta.json")
+STATE_VERSION = 2
 
 API = "https://www.rinse.fm/api/query/v1/schedule/{}"
 UA = ("Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 "
@@ -118,45 +122,42 @@ def field_text(v):
     return str(v)
 
 
+KNOWN = {"kool": "kool", "uk": "uk", "rinsefm": "uk", "rinse": "uk", "france": "france", "swu": "swu"}
+
+
 def channel_of(entry, url):
-    path = url.split("replay.rinse.fm", 1)[-1].lower()
-    extra = " ".join(field_text(entry.get(k)) for k in ("channel", "channels", "station")).lower()
-    text = path + " " + extra
-    if "kool" in text:
-        return "kool"
-    if "swu" in text:
-        return "swu"
-    if "france" in text:
-        return "france"
-    if "rinse" in text or " uk" in text:
-        return "uk"
-    return "other"
+    """Rinse tags every entry with channel[].slug. Fall back to the replay path segment."""
+    ch = entry.get("channel")
+    for c in (ch if isinstance(ch, list) else [ch]):
+        if isinstance(c, dict) and c.get("slug"):
+            slug = str(c["slug"]).lower()
+            return KNOWN.get(slug, slug)
+    seg = url.split("replay.rinse.fm/", 1)[-1].split("/", 1)[0].lower()
+    return KNOWN.get(seg, "other")
 
 
-def air_time(entry, day):
-    """Best effort air time: ISO field if present, else HH:MM in the title, else midnight."""
+def air_time(entry, day, channel):
+    """When this slot went out: the schedule day plus the slot's clock time.
+
+    The API time field carries the right clock time and offset but not the right
+    date, and titles of rebroadcasts carry the original date, so the schedule day
+    we asked for is the only reliable date.
+    """
+    y, mo, d = (int(x) for x in day.split("-"))
     for k in ("episodeTime", "startTime", "start", "airDate", "date", "broadcastDate"):
         v = entry.get(k)
-        if isinstance(v, str) and re.match(r"\d{4}-\d{2}-\d{2}", v):
+        if isinstance(v, str) and re.match(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}", v):
             try:
-                dt = datetime.fromisoformat(v.replace("Z", "+00:00"))
-                return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+                t = datetime.fromisoformat(v.replace("Z", "+00:00"))
+                tz = t.tzinfo or timezone.utc
+                return datetime(y, mo, d, t.hour, t.minute, tzinfo=tz)
             except ValueError:
                 pass
-    title = entry.get("title") or ""
-    # Rinse titles end "dd/mm/yyyy - HH:MM", which is the real airing, also for rebroadcasts
-    m = re.search(r"(\d{2})/(\d{2})/(\d{4})\s*-\s*(\d{1,2}):(\d{2})", title)
-    if m:
-        try:
-            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)),
-                            int(m.group(4)) % 24, int(m.group(5)), tzinfo=timezone.utc)
-        except ValueError:
-            pass
-    base = datetime.strptime(day, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-    m = re.search(r"(\d{1,2}):(\d{2})\s*$", title)
+    tz = ZoneInfo("Europe/Paris" if channel == "france" else "Europe/London")
+    m = re.search(r"(\d{1,2}):(\d{2})\s*$", entry.get("title") or "")
     if m and int(m.group(1)) < 24:
-        return base.replace(hour=int(m.group(1)), minute=int(m.group(2)))
-    return base
+        return datetime(y, mo, d, int(m.group(1)), int(m.group(2)), tzinfo=tz)
+    return datetime(y, mo, d, tzinfo=tz)
 
 
 def is_mp3(url):
@@ -222,7 +223,7 @@ def rss(title, description, link, items, self_url=""):
         out += [
             "<item>",
             f"<title>{escape(ep['title'])}</title>",
-            f"<description>{escape(ep['channel_name'] + ', aired ' + dt.strftime('%d %b %Y %H:%M'))}</description>",
+            f"<description>{escape(ep['channel_name'] + ', broadcast ' + dt.strftime('%d %b %Y %H:%M'))}</description>",
             f'<enclosure url="{escape(ep["url"])}" length="{ep["size"]}" type="audio/mpeg"/>',
             f'<guid isPermaLink="false">rinse-size-{ep["size"]}</guid>',
             f"<pubDate>{format_datetime(dt)}</pubDate>",
@@ -260,6 +261,13 @@ def main():
 
     episodes = load_json(STATE_FILE, {})        # url -> record
     fetched = set(load_json(DATES_FILE, []))    # schedule days already read
+    meta = load_json(META_FILE, {})
+    if meta.get("version") != STATE_VERSION:
+        # v1 stored wrong dates. Keep sizes, reread every day to rebuild dates and channels.
+        log("Upgrading state: rereading schedule to fix dates")
+        for r in episodes.values():
+            r["date"] = None
+        fetched = set()
 
     # 1. Read the schedule. Recent days every run, older days once.
     today = datetime.now(timezone.utc).date()
@@ -281,39 +289,47 @@ def main():
                 if not is_mp3(url):
                     continue
                 ch = channel_of(e, url)
+                when = air_time(e, d, ch)
                 report.setdefault(ch, {"count": 0, "sample_url": url, "sample_fields": {}})
                 report[ch]["count"] += 1
                 if not report[ch]["sample_fields"]:
                     report[ch]["sample_fields"] = {k: e.get(k) for k in ("channel", "channels", "station") if k in e}
-                if url not in episodes:
+                rec = episodes.get(url)
+                if rec is None:
                     episodes[url] = {
                         "title": (e.get("title") or url.rsplit("/", 1)[-1]).strip(),
                         "channel": ch,
-                        "date": air_time(e, d).isoformat(),
+                        "date": when.isoformat(),
                         "size": None,
                     }
                     new_links += 1
+                else:
+                    rec["channel"] = ch
+                    # keep the first time it aired
+                    if not rec.get("date") or when < datetime.fromisoformat(rec["date"]):
+                        rec["date"] = when.isoformat()
         fetched.add(d)
         if not FIXTURE_DIR:
             time.sleep(0.4)
+    for u in [u for u, r in episodes.items() if not r.get("date")]:
+        del episodes[u]
     log(f"New links found: {new_links}, total known: {len(episodes)}")
 
     # 2. Get sizes, newest first, capped per run so the backfill spreads over days.
     pending = sorted((u for u, r in episodes.items() if r["size"] is None),
-                     key=lambda u: episodes[u]["date"], reverse=True)
-    checked = 0
-    for u in pending[:max_checks]:
-        s = remote_size(u)
-        if s is not None:
-            episodes[u]["size"] = s
-        checked += 1
-        if not FIXTURE_SIZES:
-            time.sleep(0.25)
-    log(f"Size checks: {checked}, still pending: {max(0, len(pending) - checked)}")
+                     key=lambda u: datetime.fromisoformat(episodes[u]["date"]), reverse=True)
+    batch = pending[:max_checks]
+    workers = 1 if FIXTURE_SIZES else 8
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        for u, s in zip(batch, pool.map(remote_size, batch)):
+            if s is not None:
+                episodes[u]["size"] = s
+    log(f"Size checks: {len(batch)}, still pending: {len(pending) - len(batch)}")
 
     save_json(STATE_FILE, episodes)
     save_json(DATES_FILE, sorted(fetched))
     save_json(REPORT_FILE, report)
+    save_json(META_FILE, {"version": STATE_VERSION})
 
     # 3. Collapse reposts: one episode per file size, keep the earliest airing.
     by_size = {}
@@ -321,10 +337,10 @@ def main():
         if not r["size"] or r["size"] <= 0:
             continue
         cur = by_size.get(r["size"])
-        if cur is None or r["date"] < cur["date"]:
+        if cur is None or datetime.fromisoformat(r["date"]) < datetime.fromisoformat(cur["date"]):
             by_size[r["size"]] = {**r, "url": u,
                                   "channel_name": channels.get(r["channel"], r["channel"].upper())}
-    ready = sorted(by_size.values(), key=lambda r: r["date"], reverse=True)
+    ready = sorted(by_size.values(), key=lambda r: datetime.fromisoformat(r["date"]), reverse=True)
     log(f"Publishable episodes after repost merge: {len(ready)}")
 
     # 4. Write feeds.
