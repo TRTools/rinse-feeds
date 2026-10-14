@@ -30,7 +30,9 @@ STATE_FILE = os.path.join(DATA, "episodes.json")
 DATES_FILE = os.path.join(DATA, "fetched_dates.json")
 REPORT_FILE = os.path.join(DATA, "channel_report.json")
 META_FILE = os.path.join(DATA, "meta.json")
-STATE_VERSION = 2
+STATE_VERSION = 3
+SAMPLE_FILE = os.path.join(DATA, "sample_entry.json")
+ART = "?w=1400&h=1400&fit=crop"
 
 API = "https://www.rinse.fm/api/query/v1/schedule/{}"
 UA = ("Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 "
@@ -160,6 +162,37 @@ def air_time(entry, day, channel):
     return datetime(y, mo, d, tzinfo=tz)
 
 
+SKIP_KEYS = {"channel", "channels", "originalEpisode", "station"}
+
+
+def find_image(entry, path=""):
+    """First image.rinse.fm link in the entry, ignoring channel logos and nested episodes.
+
+    Returns (base_url_without_query, json_path) or (None, None).
+    """
+    if isinstance(entry, dict):
+        # look at keys that sound like images first
+        keys = sorted(entry.keys(), key=lambda k: 0 if "image" in k.lower() or "artwork" in k.lower() else 1)
+        for k in keys:
+            if k in SKIP_KEYS:
+                continue
+            u, p = find_image(entry[k], f"{path}.{k}")
+            if u:
+                return u, p
+    elif isinstance(entry, list):
+        for i, v in enumerate(entry):
+            u, p = find_image(v, f"{path}[{i}]")
+            if u:
+                return u, p
+    elif isinstance(entry, str) and "image.rinse.fm/" in entry:
+        u = entry.strip()
+        if u.startswith("//"):
+            u = "https:" + u
+        if u.startswith("http"):
+            return u.split("?", 1)[0], path
+    return None, None
+
+
 def is_mp3(url):
     return isinstance(url, str) and url.lower().split("?")[0].endswith(".mp3")
 
@@ -203,6 +236,9 @@ def remote_size(url):
 # ---------------------------------------------------------------- rss
 
 def rss(title, description, link, items, self_url=""):
+    # Most used image in the feed, so the cover stays put instead of changing daily
+    imgs = [ep["image"] for ep in items if ep.get("image")]
+    cover = max(set(imgs), key=imgs.count) if imgs else None
     out = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" '
@@ -216,6 +252,9 @@ def rss(title, description, link, items, self_url=""):
         "<itunes:explicit>false</itunes:explicit>",
         "<itunes:block>Yes</itunes:block>",
     ]
+    if cover:
+        out += [f'<itunes:image href="{escape(cover + ART)}"/>',
+                f"<image><url>{escape(cover + ART)}</url><title>{escape(title)}</title><link>{escape(link)}</link></image>"]
     if self_url:
         out.append(f'<atom:link href="{escape(self_url)}" rel="self" type="application/rss+xml"/>')
     for ep in items:
@@ -228,6 +267,10 @@ def rss(title, description, link, items, self_url=""):
             f'<guid isPermaLink="false">rinse-size-{ep["size"]}</guid>',
             f"<pubDate>{format_datetime(dt)}</pubDate>",
             f"<itunes:author>{escape(ep['channel_name'])}</itunes:author>",
+        ]
+        if ep.get("image"):
+            out.append(f'<itunes:image href="{escape(ep["image"] + ART)}"/>')
+        out += [
             "</item>",
         ]
     out += ["</channel>", "</rss>", ""]
@@ -263,8 +306,8 @@ def main():
     fetched = set(load_json(DATES_FILE, []))    # schedule days already read
     meta = load_json(META_FILE, {})
     if meta.get("version") != STATE_VERSION:
-        # v1 stored wrong dates. Keep sizes, reread every day to rebuild dates and channels.
-        log("Upgrading state: rereading schedule to fix dates")
+        # Older state: wrong dates (v1) or no images (v2). Keep sizes, reread every day.
+        log(f"Upgrading state v{meta.get('version', 1)} to v{STATE_VERSION}: rereading schedule")
         for r in episodes.values():
             r["date"] = None
         fetched = set()
@@ -279,15 +322,22 @@ def main():
 
     report = {}
     new_links = 0
+    sample = None
     for d in to_read:
         entries = fetch_day(d)
         if entries is None:
             continue
         for top in entries:
+            top_img, top_path = find_image(top)
             for e in walk(top):
                 url = e.get("fileUrl")
                 if not is_mp3(url):
                     continue
+                img, img_path = find_image(e)
+                if not img:
+                    img, img_path = top_img, ("parent" + (top_path or "")) if top_img else None
+                if sample is None and img:
+                    sample = {"image_found_at": img_path, "image": img, "entry": e}
                 ch = channel_of(e, url)
                 when = air_time(e, d, ch)
                 report.setdefault(ch, {"count": 0, "sample_url": url, "sample_fields": {}})
@@ -301,10 +351,13 @@ def main():
                         "channel": ch,
                         "date": when.isoformat(),
                         "size": None,
+                        "image": img,
                     }
                     new_links += 1
                 else:
                     rec["channel"] = ch
+                    if img:
+                        rec["image"] = img
                     # keep the first time it aired
                     if not rec.get("date") or when < datetime.fromisoformat(rec["date"]):
                         rec["date"] = when.isoformat()
@@ -330,6 +383,10 @@ def main():
     save_json(DATES_FILE, sorted(fetched))
     save_json(REPORT_FILE, report)
     save_json(META_FILE, {"version": STATE_VERSION})
+    if sample:
+        save_json(SAMPLE_FILE, sample)
+    with_img = sum(1 for r in episodes.values() if r.get("image"))
+    log(f"Episodes with artwork: {with_img} of {len(episodes)}")
 
     # 3. Collapse reposts: one episode per file size, keep the earliest airing.
     by_size = {}
