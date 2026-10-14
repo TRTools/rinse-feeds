@@ -16,6 +16,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
@@ -30,7 +31,7 @@ STATE_FILE = os.path.join(DATA, "episodes.json")
 DATES_FILE = os.path.join(DATA, "fetched_dates.json")
 REPORT_FILE = os.path.join(DATA, "channel_report.json")
 META_FILE = os.path.join(DATA, "meta.json")
-STATE_VERSION = 4
+STATE_VERSION = 5
 SAMPLE_FILE = os.path.join(DATA, "sample_entry.json")
 ART = "?w=1400&h=1400&fit=crop"
 
@@ -166,6 +167,32 @@ SKIP_KEYS = {"channel", "channels", "originalEpisode", "station"}
 IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)
 
 
+def asset_filename(v):
+    """First filename in a Craft asset list like featuredImage: [{"filename": "x.jpg"}]."""
+    if isinstance(v, list):
+        for a in v:
+            if isinstance(a, dict) and isinstance(a.get("filename"), str) and IMG_EXT.search(a["filename"]):
+                return a["filename"]
+    return None
+
+
+def episode_image(entry):
+    """Episode art, else the show's default episode art, else the show's own image."""
+    f = asset_filename(entry.get("featuredImage"))
+    path = ".featuredImage.filename"
+    if not f:
+        shows = entry.get("parentShow")
+        show = shows[0] if isinstance(shows, list) and shows and isinstance(shows[0], dict) else {}
+        for k in ("defaultEpisodeImage", "featuredImage"):
+            f = asset_filename(show.get(k))
+            if f:
+                path = f".parentShow.{k}.filename"
+                break
+    if f:
+        return "https://image.rinse.fm/_/" + urllib.parse.quote(f), path
+    return find_image(entry)
+
+
 def art_url(u):
     """Ask Rinse's image server for a 1400 px square. Other hosts get the link as is."""
     return u + ART if "image.rinse.fm/" in u else u
@@ -241,6 +268,13 @@ def remote_size(url):
 
 # ---------------------------------------------------------------- rss
 
+def describe(ep, dt):
+    text = f"{ep['channel_name']}, broadcast {dt.strftime('%d %b %Y %H:%M')}"
+    if ep.get("genres"):
+        text += ". " + ", ".join(ep["genres"])
+    return text
+
+
 def rss(title, description, link, items, self_url=""):
     # Most used image in the feed, so the cover stays put instead of changing daily
     imgs = [ep["image"] for ep in items if ep.get("image")]
@@ -268,12 +302,14 @@ def rss(title, description, link, items, self_url=""):
         out += [
             "<item>",
             f"<title>{escape(ep['title'])}</title>",
-            f"<description>{escape(ep['channel_name'] + ', broadcast ' + dt.strftime('%d %b %Y %H:%M'))}</description>",
+            f"<description>{escape(describe(ep, dt))}</description>",
             f'<enclosure url="{escape(ep["url"])}" length="{ep["size"]}" type="audio/mpeg"/>',
             f'<guid isPermaLink="false">rinse-size-{ep["size"]}</guid>',
             f"<pubDate>{format_datetime(dt)}</pubDate>",
             f"<itunes:author>{escape(ep['channel_name'])}</itunes:author>",
         ]
+        if ep.get("minutes"):
+            out.append(f"<itunes:duration>{ep['minutes'] * 60}</itunes:duration>")
         if ep.get("image"):
             out.append(f'<itunes:image href="{escape(art_url(ep["image"]))}"/>')
         out += [
@@ -334,12 +370,15 @@ def main():
         if entries is None:
             continue
         for top in entries:
-            top_img, top_path = find_image(top)
+            top_img, top_path = episode_image(top)
             for e in walk(top):
                 url = e.get("fileUrl")
                 if not is_mp3(url):
                     continue
-                img, img_path = find_image(e)
+                img, img_path = episode_image(e)
+                minutes = e.get("episodeLength") if isinstance(e.get("episodeLength"), int) else None
+                genres = [g.get("title") for g in (e.get("genreTag") or [])
+                          if isinstance(g, dict) and g.get("title")]
                 if not img:
                     img, img_path = top_img, ("parent" + (top_path or "")) if top_img else None
                 if sample is None or (img and not sample.get("image")):
@@ -358,12 +397,18 @@ def main():
                         "date": when.isoformat(),
                         "size": None,
                         "image": img,
+                        "minutes": minutes,
+                        "genres": genres,
                     }
                     new_links += 1
                 else:
                     rec["channel"] = ch
                     if img:
                         rec["image"] = img
+                    if minutes:
+                        rec["minutes"] = minutes
+                    if genres:
+                        rec["genres"] = genres
                     # keep the first time it aired
                     if not rec.get("date") or when < datetime.fromisoformat(rec["date"]):
                         rec["date"] = when.isoformat()
