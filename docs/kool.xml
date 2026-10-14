@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Kool FM</title>
+<link>https://www.rinse.fm</link>
+<description>Kool FM shows from the rinse.fm schedule.</description>
+<language>en</language>
+<itunes:author>Kool FM</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>Yes</itunes:block>
+<atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>blkout. - 13/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/blkoutTX131026_FINAL.mp3" length="287509751" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287509751</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Spearhead Records - 10/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SpearheadRecords101026__.mp3" length="288440755" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288440755</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>North Base - 07/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/NorthBase071026.mp3" length="285671351" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-285671351</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Patife - 08/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJPatife081026.mp3" length="288574473" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288574473</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Enta - 06/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Enta061026.mp3" length="171896413" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-171896413</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>IYRE - 05/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/IYRIE051026.mp3" length="288039517" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288039517</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>GAIA - 04/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Gaia041026.mp3" length="148180968" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-148180968</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Transparent Audio - 03/10/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Transparent&amp;Yamatai031026.mp3" length="289928797" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289928797</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sounds of Ukraine - 24/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Soundsofukraine240926.mp3" length="288344221" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288344221</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>L-Side - 29/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/L-Side290926.mp3" length="288210445" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288210445</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Tesen - 20/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Tesen200826.mp3" length="282739740" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-282739740</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Paul T &amp; Edward Oberon - 30/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/PaulTEdwardOberon070926.mp3" length="287924569" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287924569</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Klute - 28/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Klute280926_.mp3" length="288216804" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288216804</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Marcus Visionary - 26/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarcusVisionary260626.mp3" length="288548406" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288548406</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sheba Q - 25/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ShebaQ250926.mp3" length="288154126" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288154126</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>SETTLE DOWN - 23/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN230926.mp3" length="288462759" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288462759</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Basic Rhythm - 22/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicRhythm220926.mp3" length="288010284" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010284</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Gino - 19/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Gino190926.mp3" length="288530667" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288530667</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Xeonz - 20/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Xeonz200926.mp3" length="144291808" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144291808</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Tesen - 16/04/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Tesen160426.mp3" length="288621585" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288621585</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>4K - 18/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/4K180926.mp3" length="287020772" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287020772</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>North Base - 02/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/NorthBase020926.mp3" length="286306071" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286306071</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Spearhead Records - 12/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BCeeSpearheadRecords120926.mp3" length="288427186" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288427186</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Zar - 11/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Zar110926.mp3" length="288460552" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288460552</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Flexout Audio - 09/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/FlexoutAudio090926.mp3" length="288426116" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288426116</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Patife - 10/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJPatife100926.mp3" length="288425901" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288425901</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>blkout. - 08/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/blkout080926mp3.mp3" length="288426195" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288426195</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>IYRE - 07/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/IYRE070926.mp3" length="288210838" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288210838</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Transparent Audio - 05/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/TransparentYamatai050926.mp3" length="288230838" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288230838</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Teej - 04/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Teej040926.mp3" length="288188921" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288188921</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Vektah - 03/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Vektah030926.mp3" length="290914027" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290914027</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Enta - 01/09/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Enta010926.mp3" length="288220222" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288220222</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Marcus Visionary - 31/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarcusVisionary220826.mp3" length="290459606" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290459606</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Soul In Motion Records - 30/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulInMotion130826.mp3" length="267164438" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-267164438</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sounds of Ukraine - 27/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoundsOfUkraine270826.mp3" length="289089711" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289089711</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Vektah - 29/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Vektah060826.mp3" length="289078094" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289078094</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sheba Q - 28/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ShebaQ280826.mp3" length="287467919" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287467919</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>SETTLE DOWN - 26/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SettleDown260826.mp3" length="288508654" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288508654</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Basic Rhythm - 25/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicRhythm250826_.mp3" length="287403409" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287403409</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Klute - 24/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Klute240826.mp3" length="287832582" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287832582</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>BEXLO - 23/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BEXLO230826.mp3" length="148557304" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-148557304</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Gino - 15/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Gino150826.mp3" length="288171306" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288171306</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Xeonz - 16/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Xeonz160826.mp3" length="144406935" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144406935</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Zar - 14/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Zar140826.mp3" length="288370732" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288370732</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Patife - 13/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Patife130826.mp3" length="288306860" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288306860</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Flexout Audio - 12/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/FlexoutAudio120826.mp3" length="288435283" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288435283</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>blkout. - 11/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/blkout110826.mp3" length="290630805" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290630805</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Decibella - 02/05/2023 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290853708</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Spearhead Records - 08/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SpearheadRecords080826.mp3" length="288399026" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288399026</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>North Base - 03/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/NorthBase030626.mp3" length="286502691" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286502691</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>North Base - 05/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/NorthBase050826.mp3" length="288391634" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288391634</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Enta - 04/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Enta040826.mp3" length="286605595" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286605595</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Marcus Visionary - 25/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarcusVisionary250726.mp3" length="288227878" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288227878</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Transparent Audio - 01/08/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/TransparentYamatai010826_.mp3" length="288366672" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288366672</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Randall - 31/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Randall110623.mp3" length="145457532" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145457532</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>SETTLE DOWN - 30/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN220726.mp3" length="288421081" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288421081</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Zar - 29/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Zar100726.mp3" length="289548140" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289548140</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Basic Rhythm - 28/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicRhythm280726.mp3" length="288404355" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288404355</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Klute - 27/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Klute270726.mp3" length="288449005" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288449005</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>BEXLO - 26/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BEXLO260726.mp3" length="145862483" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145862483</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sheba Q - 24/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ShebaQ240726.mp3" length="281458960" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-281458960</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sounds of Ukraine - 23/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoundsOfUkraine230726.mp3" length="288215735" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288215735</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>IYRE - 06/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/IYRE060726.mp3" length="287963262" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287963262</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Xeonz - 19/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Xeonz190726.mp3" length="144293206" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144293206</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Gino - 18/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Gino180726.mp3" length="287949689" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287949689</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>4K - 17/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/4K170726.mp3" length="288263965" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288263965</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Flexout Audio - 08/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/FlexoutAudio080726.mp3" length="288420088" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288420088</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>blkout. - 14/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/blkout140726.mp3" length="288724594" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288724594</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Spearhead Records - 11/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SpearheadRecords110726.mp3" length="288270283" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288270283</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Patife - 09/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJPatife090726.mp3" length="288272655" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288272655</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Xeonz - 21/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Xeonz210626.mp3" length="144310536" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144310536</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Enta - 07/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Enta070726.mp3" length="292016559" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-292016559</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Transparent Audio - 04/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Transparent&amp;Yamatai040726.mp3" length="288185806" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288185806</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Teej - 03/07/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Teej030726.mp3" length="288251711" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288251711</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>North Base - 06/05/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/NorthBase060526.mp3" length="287950904" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287950904</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sounds of Ukraine - 25/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoundsOfUkraine250626.mp3" length="287883867" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287883867</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>BEXLO - 28/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Bexlo280626.mp3" length="144598112" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144598112</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Marcus Visionary - 27/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarcusVisionary270626.mp3" length="287951829" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287951829</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Sheba Q - 26/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ShebaQ260626.mp3" length="288083422" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288083422</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>SETTLE DOWN - 24/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN240626.mp3" length="288154487" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288154487</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Klute - 25/05/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Klute20526.mp3" length="287332487" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287332487</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Basic Rhythm - 23/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicRhythm230626.mp3" length="286631028" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286631028</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Gino - 20/06/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Gino200626.mp3" length="288207416" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288207416</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>4K - 17/04/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/4K170426.mp3" length="288259041" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288259041</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>North Base - 01/04/2026 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/NorthBase010426.mp3" length="288739842" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288739842</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Run In The Jungle (T&gt;I &amp; D*Minds) - 19/07/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/RunInTheJungle190726.mp3" length="133876542" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-133876542</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Overview Music - 17/09/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/OverviewMusic170926.mp3" length="145649274" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145649274</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Uno - 13/09/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJUno130926.mp3" length="144559415" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144559415</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Decibella - 12/08/2025 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella120825.mp3" length="142774214" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142774214</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>CK3 - 24/05/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/CK3240526.mp3" length="145021242" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145021242</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Overview Music - 16/04/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/OverviewMusic160426.mp3" length="144328558" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144328558</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Overview Music - 20/08/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Overview200826.mp3" length="142113286" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142113286</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Chinese Daughter - 20/10/2023 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ChineseDaughter201023.mp3" length="288743665" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288743665</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>DJ Uno - 09/08/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJUno090826.mp3" length="134412586" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-134412586</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Chinese Daughter - 16/08/2024 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ChineseDaughter160824.mp3" length="287888832" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287888832</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Overview Music - 16/07/2026 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/OverviewMusic160726.mp3" length="144220135" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144220135</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>MC Det - 17/04/2025 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MCDet170425.mp3" length="143708537" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143708537</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Silva Snipa - 13/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SilvaSnipa171025.mp3" length="276777132" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-276777132</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Daddy Nature - 10/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DaddyNature101026.mp3" length="288010249" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010249</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Soul In Motion Records - 08/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulInMotion081026.mp3" length="288383365" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288383365</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Chinese Daughter - 25/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/ChineseDaughter250926.mp3" length="285640054" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-285640054</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>N4 Records with Pete Cannon - 07/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/N4Records071026.mp3" length="288456004" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288456004</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Catching Cairo - 06/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/CatchingCairo061026.mp3" length="278920639" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-278920639</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Crucast - 03/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Crucast031026.mp3" length="292070684" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-292070684</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Mindstate - 05/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Mindstate081225.mp3" length="288137558" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288137558</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>OS:MAN - 02/10/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/OSMAN021026.mp3" length="288588073" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288588073</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>SABRINA - 24/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Sabrina240926.mp3" length="289015033" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289015033</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Soul In Motion Records - 10/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulInMotionRecords1009266.mp3" length="172864311" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-172864311</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Fabio &amp; Grooverider - 30/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Fabio&amp;Grooverider160926.mp3" length="279471402" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-279471402</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Visionobi - 28/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Visionobi280926.mp3" length="283200065" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-283200065</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Over/shadow - 26/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/OverShadow26092026.mp3" length="288179131" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288179131</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Chef presents Identity Sessions - 30/08/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Chef300826Final.mp3" length="137653528" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137653528</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Space Cadet - 23/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SpaceCadet230926.mp3" length="288410466" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288410466</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Soulvent Records - 16/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulventRecords160926.mp3" length="286857847" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286857847</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Liquicity - 21/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/LiquicityB2BTelomic210926.mp3" length="288407394" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288407394</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Kara - 19/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Kara190926.mp3" length="288410495" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288410495</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>MC Det - 19/04/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MCDet190426.mp3" length="139515694" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139515694</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Daddy Nature - 12/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DaddyNature120926_.mp3" length="288618365" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288618365</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Silva Snipa - 20/03/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SilvaSnipa200326.mp3" length="286626115" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286626115</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Marly Marl - 16/09/2025 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarlyMarl160925.mp3" length="287774293" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287774293</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Hugh Hardie - 15/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/HughHardie150926.mp3" length="288499888" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288499888</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Hoax - 14/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Hoax140926.mp3" length="288436900" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288436900</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>OS:MAN - 04/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/OSMAN040926.mp3" length="289199356" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289199356</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Soulvent Records - 09/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulventRecords150726.mp3" length="296219087" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-296219087</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Liquicity - 08/09/2026 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Liquicity170826.mp3" length="288258939" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288258939</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>GAIA - 21/06/2025 - 21:00</title>
+<description>Kool FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Gaia210625.mp3" length="144153278" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144153278</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+</channel>
+</rss>

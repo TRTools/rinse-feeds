@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Rinse France</title>
+<link>https://www.rinse.fm</link>
+<description>Rinse France shows from the rinse.fm schedule.</description>
+<language>en</language>
+<itunes:author>Rinse France</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>Yes</itunes:block>
+<atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Queer Cult Takeover - 30/06/2026 - 23:00</title>
+<description>Rinse France, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/france/yaelpride(VBR).mp3" length="114875506" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-114875506</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+</item>
+<item>
+<title>Queer Cult Takeover - 29/06/2026 - 23:00</title>
+<description>Rinse France, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/france/Jumer(VBR).mp3" length="134420741" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-134420741</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+</item>
+<item>
+<title>Queer Cult Takeover - 28/06/2026 - 23:00</title>
+<description>Rinse France, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/france/Crustasex280626(VBR).mp3" length="132073940" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-132073940</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+</item>
+<item>
+<title>Queer Cult Takeover - 30/06/2026 - 22:00</title>
+<description>Rinse France, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/france/SnakeB2BDarren(VBR).mp3" length="55174490" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-55174490</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+</item>
+<item>
+<title>Queer Cult Takeover - 29/06/2026 - 22:00</title>
+<description>Rinse France, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/france/QueerCultTakeoverAriezzz290626(VBR).mp3" length="109575097" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-109575097</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+</item>
+<item>
+<title>Queer Cult Takeover - 28/06/2026 - 22:00</title>
+<description>Rinse France, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/france/Fallon(VBR).mp3" length="146483144" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-146483144</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+</item>
+</channel>
+</rss>

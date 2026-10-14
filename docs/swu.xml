@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>SWU FM</title>
+<link>https://www.rinse.fm</link>
+<description>SWU FM shows from the rinse.fm schedule.</description>
+<language>en</language>
+<itunes:author>SWU FM</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>Yes</itunes:block>
+<atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Finlay Shakespeare - 13/10/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FinlayShakespeare131026.mp3" length="288009020" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009020</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Sophia Loizou - 27/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SophiaLoizou270926.mp3" length="288008964" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008964</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Ternion Sound - 09/10/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/TernionSound240325.mp3" length="288009879" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009879</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>ALYA L - 08/10/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ALYAL081026.mp3" length="144010682" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010682</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Surgeons Girl - 20/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SurgeonsGirl200926.mp3" length="288008944" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008944</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Palm Way View - 04/10/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/PalmWayView041026.mp3" length="288008940" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008940</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>A For Alpha - 29/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/AForAlpha040826.mp3" length="288009902" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009902</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hypho - 28/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Hypho280926.mp3" length="288009952" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009952</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Body Clinic - 26/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/BodyClinic260926.mp3" length="144010820" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010820</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>RSD - 21/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/RSD210926.mp3" length="288008926" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008926</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>TRUTH - 13/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/TRUTH130726.mp3" length="288009886" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009886</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>A Sagittariun - 15/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ASagittariun150926.mp3" length="288009910" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009910</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Sophia Loizou - 23/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SophiaLoizou230826.mp3" length="288009932" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009932</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>TOYS Berlin - 12/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ToysBerlin120926.mp3" length="288010868" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010868</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>ALYA L - 10/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/AlyaL100926.mp3" length="144010700" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010700</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Mystic State - 07/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/MysticState170826.mp3" length="288009948" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009948</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Amen4Tekno - 05/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Amen4Tekno050926.mp3" length="288010247" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010247</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Notion - 04/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Notion031024.mp3" length="288008928" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008928</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hypershé - 02/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Hypershe020926.mp3" length="144010425" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010425</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>EM + STAV - 01/09/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/EM+STAV010926.mp3" length="288009898" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009898</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hypershé - 30/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Hypershe050826.mp3" length="144010435" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010435</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Western Lore - 27/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/WesternLore270826.mp3" length="288009911" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009911</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>DJ Cosworth - 27/01/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/DJCosworth270126.mp3" length="144009443" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009443</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Super Sonic Booty Bangers - 19/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SSBB150726.mp3" length="288009962" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009962</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Finlay Shakespeare - 11/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FinlayShakespeare110826.mp3" length="288009914" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009914</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Sophia Loizou - 26/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SophiaLoizou260726.mp3" length="288008972" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008972</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>TOYS Berlin - 08/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ToysBerlin080826.mp3" length="288010289" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010289</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Amen4Tekno - 01/08/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Amen4Tekno010826.mp3" length="288011070" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011070</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Born On Road - 31/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/BornOnRoad010726.mp3" length="288008934" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008934</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Rea - 30/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Rea230726.mp3" length="217646831" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-217646831</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hodge - 29/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Hodge070726.mp3" length="286030850" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286030850</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hypho - 27/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Hypho270726.mp3" length="288009936" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009936</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Body Clinic - 25/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/BodyClinic250726.mp3" length="144010836" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010836</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Western Lore - 23/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/WesternLore230726.mp3" length="288010323" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010323</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Stay Up Forever - 18/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/StayUpForever180726.mp3" length="288010343" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010343</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Joeti - 12/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Joeti120726.mp3" length="288008918" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008918</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>TOYS Berlin - 11/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ToysBerlin110726.mp3" length="288010291" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010291</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>ALYA L - 09/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ALYAL090726.mp3" length="144012910" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144012910</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>EM + STAV - 07/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/EM+STAV070726.mp3" length="288009894" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009894</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Lamont - 03/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Lamont200324.mp3" length="288018309" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288018309</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>LMajor - 02/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/LMajor020726.mp3" length="144009445" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009445</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Frenetic - 01/07/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Frenetic240626.mp3" length="144009449" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009449</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Keeno - 30/06/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/nJam300626.mp3" length="144009567" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009567</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Samba, Glume and Phossa - 29/06/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SambaGlume&amp;Phossa220626.mp3" length="288009922" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009922</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Western Lore - 25/06/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/WesternLore250626.mp3" length="288009942" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009942</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Stay Up Forever - 20/06/2026 - 23:00</title>
+<description>SWU FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/StayUpForever200626.mp3" length="288010356" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010356</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>ZUKKI - 08/10/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ZUKKI081026.mp3" length="144010680" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010680</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Foundation Audio with Chad Dubz - 05/10/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FoundationAudio051026.mp3" length="144010467" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010467</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>GLM - 28/09/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/GLM280926.mp3" length="144010415" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010415</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Dom Carlo - 24/09/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/DomCarlo240926.mp3" length="144010738" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010738</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Toby Ross - 09/09/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/TobyRoss090926.mp3" length="144010427" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010427</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>GLM - 24/08/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/GLM240826.mp3" length="144010409" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010409</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Bell Curve - 08/09/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/BellCurve220826.mp3" length="144010816" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010816</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Synkro - 25/08/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Synkro250826.mp3" length="144010413" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010413</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Fez The Kid - 19/08/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Fez190826.mp3" length="144018022" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144018022</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Versa - 17/08/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Versa170826.mp3" length="144010411" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010411</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Toby Ross - 12/08/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/TobyRoss120826.mp3" length="144010730" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010730</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>0079 - 06/08/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/0079_060826.mp3" length="144010688" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010688</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Synkro - 28/07/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Synkro280726.mp3" length="144010788" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010788</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Dom Carlo - 23/07/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/DomCarlo250626.mp3" length="144010447" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010447</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>ZUKKI - 09/07/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/ZUKKI090726.mp3" length="144012934" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144012934</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Foundation Audio with Chad Dubz - 06/07/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FoundationAudio060726.mp3" length="141333432" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-141333432</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>0079 - 02/07/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/0079020726.mp3" length="144009441" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009441</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Keeno - 30/06/2026 - 22:00</title>
+<description>SWU FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/swu/TomFinster300626.mp3" length="144009541" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009541</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Trends - 21/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Trends070926.mp3" length="144010421" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010421</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>SSSLIP - 08/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SSSLIP080926.mp3" length="144010419" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010419</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Sir Hiss - 22/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/SirHiss220926.mp3" length="144009477" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009477</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Headset with Skillis - 09/10/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Skillis091026FIX.mp3" length="288010303" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010303</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>OH91 - 08/10/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/OH91_081026.mp3" length="144010678" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010678</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Mistafire - 04/10/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Mistafire041026.mp3" length="288008932" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008932</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Alexisitry - 03/10/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Alexisitry031026.mp3" length="288010157" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010157</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hardcore Energy - 02/10/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/HardcoreEnergy020626.mp3" length="288010221" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010221</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Born On Road - 30/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/BornOnRoad020926.mp3" length="288009954" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009954</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Josi Devil - 29/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/JosiDevil080926.mp3" length="288009904" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009904</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Escher - 27/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Escher270926.mp3" length="288009920" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009920</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Deselecta - 25/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Deselecta250926.mp3" length="288010301" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010301</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Disaffected - 24/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Disaffected240926.mp3" length="144010728" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010728</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Stay Up Forever - 19/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/StayUpForever190926.mp3" length="288010205" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010205</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Time To Rush - 18/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/TimeToRush180926.mp3" length="288010169" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010169</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+<item>
+<title>Hijinx - 17/09/2026 - 21:00</title>
+<description>SWU FM, aired 14 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/swu/HIJINX030926.mp3" length="144010702" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010702</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+</item>
+</channel>
+</rss>

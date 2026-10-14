@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Decibella on Rinse</title>
+<link>https://www.rinse.fm/shows/decibella</link>
+<description>Every Decibella set found across Rinse channels.</description>
+<language>en</language>
+<itunes:author>Decibella on Rinse</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>Yes</itunes:block>
+<atom:link href="https://TRTools.github.io/rinse-feeds/artists/decibella.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decibella - 02/05/2023 - 23:00</title>
+<description>Kool FM, aired 14 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290853708</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+<item>
+<title>Decibella - 12/08/2025 - 22:00</title>
+<description>Kool FM, aired 14 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella120825.mp3" length="142774214" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142774214</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+</item>
+</channel>
+</rss>
