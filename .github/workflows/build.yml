@@ -23,8 +23,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install Pillow
-        run: pip install --quiet pillow
+      - name: Install image tools
+        run: |
+          sudo apt-get install -y -qq libcairo2 >/dev/null
+          pip install --quiet pillow cairosvg
 
       - name: Build feeds
         env:
