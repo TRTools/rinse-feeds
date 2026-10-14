@@ -1,0 +1,37 @@
+name: Build Rinse feeds
+
+on:
+  schedule:
+    - cron: "17 9 * * *"   # daily, about 5am Toronto time
+  workflow_dispatch:         # Run workflow button for manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build feeds
+        env:
+          FEED_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: python build_feed.py
+
+      - name: Save results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          git diff --cached --quiet || git commit -m "Update feeds"
+          git push
