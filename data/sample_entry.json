@@ -1,0 +1,127 @@
+{
+ "entry": {
+  "__typename": "episode_episode_Entry",
+  "artistTitle": null,
+  "channel": [
+   {
+    "__typename": "channel_channel_Entry",
+    "channelColour": [
+     {
+      "__typename": "colour_Entry",
+      "id": "1331125",
+      "slug": "swu-purple",
+      "title": "SWU Purple"
+     }
+    ],
+    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+    "channelPagePreviewDateTime": null,
+    "defaultTimezoneOffset": "Europe/London",
+    "extract": null,
+    "id": "1016220",
+    "isPermanentChannel": true,
+    "lft": 12,
+    "slug": "swu",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
+    "title": "SWU FM"
+   }
+  ],
+  "displayTitle": null,
+  "episodeDate": "2026-09-22T23:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-10-14T23:00:00+01:00",
+  "extract": null,
+  "featuredImage": [
+   {
+    "__typename": "media_Asset",
+    "filename": "Rotate_SEPT_2026.JPG",
+    "focalPoint": [
+     0.5,
+     0.5
+    ],
+    "hasFocalPoint": false,
+    "height": 4538,
+    "width": 3025
+   }
+  ],
+  "fileUrl": "https://replay.rinse.fm/swu/Rotate230926.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "broken-beat",
+    "title": "Broken Beat"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "dubstep",
+    "title": "Dubstep"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "garage",
+    "title": "Garage"
+   }
+  ],
+  "id": "2307416",
+  "isRebroadcast": false,
+  "parentShow": [
+   {
+    "__typename": "show_show_Entry",
+    "channel": [
+     {
+      "__typename": "channel_channel_Entry",
+      "slug": "swu"
+     }
+    ],
+    "defaultEpisodeImage": [],
+    "extract": "Rotate will be exploring the eclectic undergound sonics that are leading the path of left feild bass music",
+    "featuredImage": [
+     {
+      "__typename": "media_Asset",
+      "filename": "fqs-2025-08-03-72317.583-pm-RWB.jpg",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 3470,
+      "width": 2313
+     }
+    ],
+    "genreTag": [
+     {
+      "__typename": "genre_Tag",
+      "slug": "bass",
+      "title": "Bass"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "darkstep",
+      "title": "Darkstep"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "broken-beat",
+      "title": "Broken Beat"
+     }
+    ],
+    "id": "2196349",
+    "showStatus": "highlighted",
+    "slug": "rotate",
+    "title": "Rotate",
+    "url": "https://admin.rinse.fm/shows/rotate"
+   }
+  ],
+  "slug": "rotate-23-09-2026-2200",
+  "subtitle": null,
+  "title": "Rotate - 23/09/2026 - 23:00",
+  "youtubeStreamUrl": null
+ },
+ "image": null,
+ "image_found_at": null
+}
