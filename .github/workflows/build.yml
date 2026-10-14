@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Pillow
+        run: pip install --quiet pillow
+
       - name: Build feeds
         env:
           FEED_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
