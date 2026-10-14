@@ -13,5 +13,11 @@
     "Decibella",
     "Settle Down",
     "Tim Reaper"
-  ]
+  ],
+  "cover_colours": {
+    "kool": "#C8102E",
+    "uk": "#111111",
+    "france": "#46525E",
+    "swu": "#6B3FA0"
+  }
 }
