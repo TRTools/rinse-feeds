@@ -29,7 +29,7 @@
   "sample_url": "https://replay.rinse.fm/france/RONIetherea141026(VBR).mp3"
  },
  "kool": {
-  "count": 661,
+  "count": 647,
   "sample_fields": {
    "channel": [
     {
@@ -57,15 +57,8 @@
   },
   "sample_url": "https://replay.rinse.fm/kool/100Photek160426.mp3"
  },
- "other": {
-  "count": 1,
-  "sample_fields": {
-   "channel": []
-  },
-  "sample_url": "https://replay.rinse.fm/uk/MallGrab020621.mp3"
- },
  "swu": {
-  "count": 1750,
+  "count": 1751,
   "sample_fields": {
    "channel": [
     {
@@ -94,7 +87,7 @@
   "sample_url": "https://replay.rinse.fm/swu/Rotate230926.mp3"
  },
  "uk": {
-  "count": 1084,
+  "count": 1099,
   "sample_fields": {
    "channel": [
     {

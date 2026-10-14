@@ -10,19 +10,19 @@
 <itunes:block>Yes</itunes:block>
 <atom:link href="https://TRTools.github.io/rinse-feeds/artists/decibella.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Decibella - 02/05/2023 - 23:00</title>
-<description>Kool FM, aired 14 Oct 2026 23:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-290853708</guid>
-<pubDate>Wed, 14 Oct 2026 23:00:00 +0100</pubDate>
+<title>Decibella - 12/08/2025 - 22:00</title>
+<description>Kool FM, broadcast 06 Sep 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella120825.mp3" length="142774214" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142774214</guid>
+<pubDate>Sun, 06 Sep 2026 22:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
 </item>
 <item>
-<title>Decibella - 12/08/2025 - 22:00</title>
-<description>Kool FM, aired 14 Oct 2026 22:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Decibella120825.mp3" length="142774214" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142774214</guid>
-<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<title>Decibella - 02/05/2023 - 23:00</title>
+<description>Kool FM, broadcast 11 Aug 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290853708</guid>
+<pubDate>Tue, 11 Aug 2026 23:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
 </item>
 </channel>
