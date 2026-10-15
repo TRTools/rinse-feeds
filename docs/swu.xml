@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Toby Ross - 14/10/2026 - 22:00</title>
+<description>SWU FM, broadcast 14 Oct 2026 22:00. Jungle</description>
+<enclosure url="https://replay.rinse.fm/swu/TobyRoss141026.mp3" length="144010453" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010453</guid>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ALZOC-III_OCT_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Circumference - 14/10/2026 - 21:00</title>
 <description>SWU FM, broadcast 14 Oct 2026 21:00. Drum &amp; Bass, Electronic, Experimental</description>
 <enclosure url="https://replay.rinse.fm/swu/Circumference141026.mp3" length="144013566" type="audio/mpeg"/>
@@ -259,7 +269,7 @@
 <pubDate>Tue, 06 Oct 2026 21:00:00 +0100</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Hodge_Oct_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 07/10/2026 - 05:00</title>
@@ -272,16 +282,6 @@
 <itunes:image href="https://image.rinse.fm/_/Jonny-Palmer_Oct_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
-<title>Mornings with... - 05/10/2026 - 10:00</title>
-<description>SWU FM, broadcast 05 Oct 2026 09:00. House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/MWDAD170925.mp3" length="144009485" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144009485</guid>
-<pubDate>Mon, 05 Oct 2026 09:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mornings-With-Square.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
 <title>Mornings with... - 05/10/2026 - 11:00</title>
 <description>SWU FM, broadcast 05 Oct 2026 09:00. Multigenre, Indie</description>
 <enclosure url="https://replay.rinse.fm/swu/MorningsWith110825.mp3" length="144010848" type="audio/mpeg"/>
@@ -290,6 +290,16 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/MEDIS_JAN_24.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Mornings with... - 05/10/2026 - 10:00</title>
+<description>SWU FM, broadcast 05 Oct 2026 09:00. House, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/MWDAD170925.mp3" length="144009485" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009485</guid>
+<pubDate>Mon, 05 Oct 2026 09:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Mornings-With-Square.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Palm Way View - 04/10/2026 - 23:00</title>
@@ -352,7 +362,7 @@
 <itunes:image href="https://image.rinse.fm/_/Alexisitry_OCT_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
-<title>Dan Kelly - 05/10/2026 - 03:00</title>
+<title>Dan Kelly - 03/10/2026 - 14:00</title>
 <description>SWU FM, broadcast 03 Oct 2026 14:00. Footwork, Dancefloor, Jungle</description>
 <enclosure url="https://replay.rinse.fm/swu/DanKelly031026WEB.mp3" length="285418891" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-285418891</guid>
@@ -1292,14 +1302,14 @@
 <itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
-<title>MINTY - 14/03/2025 - 16:00</title>
-<description>SWU FM, broadcast 24 Aug 2026 16:00. Bass, Dubstep, Grime</description>
-<enclosure url="https://replay.rinse.fm/swu/Minty140325.mp3" length="144010789" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010789</guid>
-<pubDate>Mon, 24 Aug 2026 16:00:00 +0100</pubDate>
+<title>Hypho - 26/08/2026 - 03:00</title>
+<description>SWU FM, broadcast 24 Aug 2026 23:00. Bass, Dubstep, Techno</description>
+<enclosure url="https://replay.rinse.fm/swu/HYPHO240826.mp3" length="288009938" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009938</guid>
+<pubDate>Mon, 24 Aug 2026 23:00:00 +0100</pubDate>
 <itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MINTY_March_2025.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Hypho_AUG_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Sufferah's Choice with Stryda - 24/08/2026 - 16:00</title>
@@ -1310,6 +1320,16 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Stryda_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>MINTY - 14/03/2025 - 16:00</title>
+<description>SWU FM, broadcast 24 Aug 2026 16:00. Bass, Dubstep, Grime</description>
+<enclosure url="https://replay.rinse.fm/swu/Minty140325.mp3" length="144010789" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010789</guid>
+<pubDate>Mon, 24 Aug 2026 16:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MINTY_March_2025.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>More Soup DJs - 22/09/2026 - 07:00</title>
@@ -2990,26 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/FelixJoy_Mondays_2026-07-06-114831_qjfk.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Palm Way View - 05/07/2026 - 23:00</title>
-<description>SWU FM, broadcast 05 Jul 2026 23:00. Techno, Ambient, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/PalmWayView050726.mp3" length="288010291" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010291</guid>
-<pubDate>Sun, 05 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Palm-Way-View-JULY-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mistafire - 05/07/2026 - 21:00</title>
-<description>SWU FM, broadcast 05 Jul 2026 21:00. Hip-Hop, Grime, Dub</description>
-<enclosure url="https://replay.rinse.fm/swu/Mistafire050726.mp3" length="288010341" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010341</guid>
-<pubDate>Sun, 05 Jul 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mistafire_JUL_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

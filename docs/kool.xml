@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>DJ Brockie - 14/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 14 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJBrockie141026.mp3" length="288554224" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288554224</guid>
+<pubDate>Wed, 14 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Brockie-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>100% - 14/10/2026 - 16:00</title>
 <description>Kool FM, broadcast 14 Oct 2026 16:00</description>
 <enclosure url="https://replay.rinse.fm/kool/100Photek160426.mp3" length="144310807" type="audio/mpeg"/>
@@ -1611,16 +1621,6 @@
 <itunes:image href="https://image.rinse.fm/_/Stairs-Sweetpea_2026-09-02-201223_cfdm.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
-<title>Benny V - 03/09/2026 - 17:00</title>
-<description>Kool FM, broadcast 03 Sep 2026 17:00. Drum &amp; Bass, Rollers, Jump Up</description>
-<enclosure url="https://replay.rinse.fm/kool/BennyV030926.mp3" length="288530612" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288530612</guid>
-<pubDate>Thu, 03 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/img_1_1786561007104-Benny-V.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
 <title>Oko - 16/07/2025 - 17:00</title>
 <description>Kool FM, broadcast 03 Sep 2026 17:00</description>
 <enclosure url="https://replay.rinse.fm/kool/OKO160725Mk2.mp3" length="279514131" type="audio/mpeg"/>
@@ -1629,6 +1629,16 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Oko-July-2023.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Benny V - 03/09/2026 - 17:00</title>
+<description>Kool FM, broadcast 03 Sep 2026 17:00. Drum &amp; Bass, Rollers, Jump Up</description>
+<enclosure url="https://replay.rinse.fm/kool/BennyV030926.mp3" length="288530612" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288530612</guid>
+<pubDate>Thu, 03 Sep 2026 17:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/img_1_1786561007104-Benny-V.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>North Base - 02/09/2026 - 23:00</title>
@@ -2551,16 +2561,6 @@
 <itunes:image href="https://image.rinse.fm/_/Reinforced_Records_logo.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
-<title>Decibella - 02/05/2023 - 23:00</title>
-<description>Kool FM, broadcast 11 Aug 2026 23:00. Drum &amp; Bass, Jungle, Dancefloor</description>
-<enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-290853708</guid>
-<pubDate>Tue, 11 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Webite-Episode-Square_2023-05-02-204438_lnwc.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
 <title>blkout. - 11/08/2026 - 23:00</title>
 <description>Kool FM, broadcast 11 Aug 2026 23:00. Drum &amp; Bass, Dancefloor, Jump Up</description>
 <enclosure url="https://replay.rinse.fm/kool/blkout110826.mp3" length="290630805" type="audio/mpeg"/>
@@ -2569,6 +2569,16 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/dnd-down-under-ft-jezza-plain-image-no-text-Daniel-Raschilla.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Decibella - 02/05/2023 - 23:00</title>
+<description>Kool FM, broadcast 11 Aug 2026 23:00. Drum &amp; Bass, Jungle, Dancefloor</description>
+<enclosure url="https://replay.rinse.fm/kool/Decibella020523.mp3" length="290853708" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290853708</guid>
+<pubDate>Tue, 11 Aug 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Webite-Episode-Square_2023-05-02-204438_lnwc.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Bailey - 30/08/2026 - 02:00</title>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DJ-FUNKY-FLIRT-March-2023_2023-07-12-120424_nbvu.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DJ Randall - 31/07/2026 - 23:00</title>
-<description>Kool FM, broadcast 31 Jul 2026 23:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/Randall110623.mp3" length="145457532" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145457532</guid>
-<pubDate>Fri, 31 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/randall.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

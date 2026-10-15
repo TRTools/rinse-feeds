@@ -1,0 +1,118 @@
+{
+ "france": {
+  "count": 475,
+  "sample_fields": {
+   "channel": [
+    {
+     "__typename": "channel_channel_Entry",
+     "channelColour": [
+      {
+       "__typename": "colour_Entry",
+       "id": "95203",
+       "slug": "rinse-steel",
+       "title": "Rinse Steel"
+      }
+     ],
+     "channelLaunchDateTime": null,
+     "channelPagePreviewDateTime": null,
+     "defaultTimezoneOffset": "Europe/Paris",
+     "extract": "France Extract",
+     "id": "32",
+     "isPermanentChannel": true,
+     "lft": 4,
+     "slug": "france",
+     "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
+     "title": "France"
+    }
+   ]
+  },
+  "sample_url": "https://replay.rinse.fm/france/LAZE151026(320).mp3"
+ },
+ "kool": {
+  "count": 644,
+  "sample_fields": {
+   "channel": [
+    {
+     "__typename": "channel_channel_Entry",
+     "channelColour": [
+      {
+       "__typename": "colour_Entry",
+       "id": "1164956",
+       "slug": "kool-red",
+       "title": "Kool Red"
+      }
+     ],
+     "channelLaunchDateTime": "2023-04-23T11:00:00+00:00",
+     "channelPagePreviewDateTime": null,
+     "defaultTimezoneOffset": "Europe/London",
+     "extract": null,
+     "id": "946125",
+     "isPermanentChannel": true,
+     "lft": 10,
+     "slug": "kool",
+     "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
+     "title": "Kool FM"
+    }
+   ]
+  },
+  "sample_url": "https://replay.rinse.fm/kool/DJBrockie141026.mp3"
+ },
+ "swu": {
+  "count": 1750,
+  "sample_fields": {
+   "channel": [
+    {
+     "__typename": "channel_channel_Entry",
+     "channelColour": [
+      {
+       "__typename": "colour_Entry",
+       "id": "1331125",
+       "slug": "swu-purple",
+       "title": "SWU Purple"
+      }
+     ],
+     "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+     "channelPagePreviewDateTime": null,
+     "defaultTimezoneOffset": "Europe/London",
+     "extract": null,
+     "id": "1016220",
+     "isPermanentChannel": true,
+     "lft": 12,
+     "slug": "swu",
+     "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
+     "title": "SWU FM"
+    }
+   ]
+  },
+  "sample_url": "https://replay.rinse.fm/swu/Hypershe071026.mp3"
+ },
+ "uk": {
+  "count": 1102,
+  "sample_fields": {
+   "channel": [
+    {
+     "__typename": "channel_channel_Entry",
+     "channelColour": [
+      {
+       "__typename": "colour_Entry",
+       "id": "95198",
+       "slug": "rinse-cyan",
+       "title": "Rinse Cyan"
+      }
+     ],
+     "channelLaunchDateTime": null,
+     "channelPagePreviewDateTime": null,
+     "defaultTimezoneOffset": "Europe/London",
+     "extract": "Live from London",
+     "id": "35",
+     "isPermanentChannel": true,
+     "lft": 2,
+     "slug": "uk",
+     "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+     "title": "UK"
+    }
+   ]
+  },
+  "sample_url": "https://replay.rinse.fm/uk/NancyJune270826.mp3"
+ }
+}

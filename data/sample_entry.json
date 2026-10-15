@@ -1,0 +1,93 @@
+{
+ "entry": {
+  "__typename": "episode_episode_Entry",
+  "artistTitle": null,
+  "channel": [
+   {
+    "__typename": "channel_channel_Entry",
+    "channelColour": [
+     {
+      "__typename": "colour_Entry",
+      "id": "1331125",
+      "slug": "swu-purple",
+      "title": "SWU Purple"
+     }
+    ],
+    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+    "channelPagePreviewDateTime": null,
+    "defaultTimezoneOffset": "Europe/London",
+    "extract": null,
+    "id": "1016220",
+    "isPermanentChannel": true,
+    "lft": 12,
+    "slug": "swu",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
+    "title": "SWU FM"
+   }
+  ],
+  "displayTitle": null,
+  "episodeDate": "2026-10-06T23:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-10-15T23:00:00+01:00",
+  "extract": null,
+  "featuredImage": [],
+  "fileUrl": "https://replay.rinse.fm/swu/Hypershe071026.mp3",
+  "genreTag": [],
+  "id": "2310847",
+  "isRebroadcast": false,
+  "parentShow": [
+   {
+    "__typename": "show_show_Entry",
+    "channel": [
+     {
+      "__typename": "channel_channel_Entry",
+      "slug": "swu"
+     }
+    ],
+    "defaultEpisodeImage": [],
+    "extract": "A turbo-charged blend of Hardcore, 160, Jungle & Techno",
+    "featuredImage": [
+     {
+      "__typename": "media_Asset",
+      "filename": "Hypershé-Aug-23.jpeg",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1371,
+      "width": 1371
+     }
+    ],
+    "genreTag": [
+     {
+      "__typename": "genre_Tag",
+      "slug": "hardcore",
+      "title": "Hardcore"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "jungle",
+      "title": "Jungle"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "techno",
+      "title": "Techno"
+     }
+    ],
+    "id": "1344524",
+    "showStatus": "highlighted",
+    "slug": "hypershé",
+    "title": "Hypershé",
+    "url": "https://admin.rinse.fm/shows/hypershé"
+   }
+  ],
+  "slug": "hypershé-07-11-2026-2300",
+  "subtitle": null,
+  "title": "Hypershé - 07/10/2026 - 23:00",
+  "youtubeStreamUrl": null
+ },
+ "image": "https://image.rinse.fm/_/Hypershe%CC%81-Aug-23.jpeg",
+ "image_found_at": ".parentShow.featuredImage.filename"
+}

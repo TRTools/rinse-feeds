@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>LAZE - 15/10/2026 - 20:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 20:00</description>
+<enclosure url="https://replay.rinse.fm/france/LAZE151026(320).mp3" length="143702992" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143702992</guid>
+<pubDate>Thu, 15 Oct 2026 20:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/C-LAZE.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ERNA - 15/10/2026 - 17:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 17:00. Latin, Techno, Ekectronic</description>
+<enclosure url="https://replay.rinse.fm/france/ErnaSIDEQUESTavecTEDESCO150926(320).mp3" length="95068646" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-95068646</guid>
+<pubDate>Thu, 15 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ab9d462b-51c3-4c16-b53f-31d734d5936d.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Shilita - 15/10/2026 - 16:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 16:00. Latin, Reggaeton, Trance</description>
+<enclosure url="https://replay.rinse.fm/france/MamiPistola121026(VBR).mp3" length="125787494" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-125787494</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MAMI-PISTOLA-10_2026-Mami-Pistola.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Andy4000 - 15/10/2026 - 14:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 14:00. Rap, Hiphop, Trap</description>
+<enclosure url="https://replay.rinse.fm/france/Andy4000141026(320).mp3" length="172163173" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-172163173</guid>
+<pubDate>Thu, 15 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/NES5-CANDIDATS-Keita-Andre%CC%81e.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>RONI - 14/10/2026 - 20:00</title>
 <description>Rinse France, broadcast 14 Oct 2026 20:00. Bass, Techno, Garage</description>
 <enclosure url="https://replay.rinse.fm/france/RONIetherea141026(VBR).mp3" length="140053095" type="audio/mpeg"/>
@@ -2969,46 +3009,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-06-29-at-19.20.24-la-bambaataa.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Jim Irie - 03/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 03 Jul 2026 15:00. ambienthouse, italo house, eurohouse, balearic</description>
-<enclosure url="https://replay.rinse.fm/france/malko030726(VBR).mp3" length="129001524" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-129001524</guid>
-<pubDate>Fri, 03 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/malkorinse-jim-bigjim.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Technopol - 03/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 03 Jul 2026 14:00. Talk</description>
-<enclosure url="https://replay.rinse.fm/france/Technopol030726(VBR).mp3" length="100957197" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-100957197</guid>
-<pubDate>Fri, 03 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Technopol56-Candice-Demirdjibashian.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gaîté L'Été - 02/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 02 Jul 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/TEKILATEX(VBR).mp3" length="124757735" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-124757735</guid>
-<pubDate>Thu, 02 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>5400</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MINITEKI-LATEX.00_19_50_01.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DOUBLE-O-THEATRE - 02/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 02 Jul 2026 15:00. Electronic, Jazz, Rap</description>
-<enclosure url="https://replay.rinse.fm/france/DOUBLEOTHEATRE020726(VBR).mp3" length="142983946" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142983946</guid>
-<pubDate>Thu, 02 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DOT-202607-Monsieur-Boo.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
