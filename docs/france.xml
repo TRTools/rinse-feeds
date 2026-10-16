@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>MumBeats - 16/10/2026 - 14:00</title>
+<description>Rinse France, broadcast 16 Oct 2026 14:00. Podcast, Talk</description>
+<enclosure url="https://replay.rinse.fm/france/MumBeatsavecRamonaYacef161026(320).mp3" length="148594056" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-148594056</guid>
+<pubDate>Fri, 16 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RY-PREGNANT_MONO-Marie-Ayme%CC%81.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>LAZE - 15/10/2026 - 20:00</title>
 <description>Rinse France, broadcast 15 Oct 2026 20:00</description>
 <enclosure url="https://replay.rinse.fm/france/LAZE151026(320).mp3" length="143702992" type="audio/mpeg"/>
@@ -20,6 +30,26 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/C-LAZE.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Soeurs Malsaines - 15/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 19:00. Techno</description>
+<enclosure url="https://replay.rinse.fm/france/SoeursMalsainesPetitemort151026(VBR).mp3" length="132525046" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-132525046</guid>
+<pubDate>Thu, 15 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Petite-mort-Octobre-2026-Charlotte-Bouchoux.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>TTristana - 15/10/2026 - 18:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 18:00. Breakbeat, Techno, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/TTristanaB2BSaturday26151026(VBR).mp3" length="122986804" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-122986804</guid>
+<pubDate>Thu, 15 Oct 2026 18:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/TTRistana.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>ERNA - 15/10/2026 - 17:00</title>
@@ -2979,36 +3009,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Soa420-invite-Raja-Zam-Zam-Sounds-Special-07_2026-Soa420.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Carlos do Complexo - 03/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 03 Jul 2026 18:00. Electronic, Latin, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/carlosdocomplexo030726(VBR).mp3" length="114370953" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-114370953</guid>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/CarlosDoComplexo_JUL2026-CDC-MGMT.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LA CREOLE - 03/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 03 Jul 2026 17:00. Dancehall, BrokenBeat, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/LACREOLE030726(VBR).mp3" length="133838998" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-133838998</guid>
-<pubDate>Fri, 03 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-07-03-at-10.51.28-Vincent-FREDERIC-COLOMBO.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Queer Cult - 03/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 03 Jul 2026 16:00. Afrobeat, House, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/queerculte030726(VBR).mp3" length="137784603" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137784603</guid>
-<pubDate>Fri, 03 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-06-29-at-19.20.24-la-bambaataa.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 475,
+  "count": 36,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/LAZE151026(320).mp3"
+  "sample_url": "https://replay.rinse.fm/france/BAÏLEavecMAÏAinviteDjeizza1610226(VBR).mp3"
  },
  "kool": {
-  "count": 644,
+  "count": 31,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/DJBrockie141026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/DJRon180926.mp3"
  },
  "swu": {
-  "count": 1750,
+  "count": 107,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Hypershe071026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/FelixJoy161026.mp3"
  },
  "uk": {
-  "count": 1102,
+  "count": 70,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/NancyJune270826.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/ClementauminvitesBARROSKINI180926.mp3"
  }
 }

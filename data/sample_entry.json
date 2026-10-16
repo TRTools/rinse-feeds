@@ -26,15 +26,50 @@
    }
   ],
   "displayTitle": null,
-  "episodeDate": "2026-10-06T23:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-10-15T23:00:00+01:00",
+  "episodeDate": "2026-10-15T23:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-10-16T10:00:00+01:00",
   "extract": null,
-  "featuredImage": [],
-  "fileUrl": "https://replay.rinse.fm/swu/Hypershe071026.mp3",
-  "genreTag": [],
-  "id": "2310847",
+  "featuredImage": [
+   {
+    "__typename": "media_Asset",
+    "filename": "Felix-Joy-Press-Pic3_2026-10-16-134630_mqmm.jpeg",
+    "focalPoint": [
+     0.5,
+     0.5
+    ],
+    "hasFocalPoint": false,
+    "height": 1310,
+    "width": 1080
+   }
+  ],
+  "fileUrl": "https://replay.rinse.fm/swu/FelixJoy161026.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "disco",
+    "title": "Disco"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "r-b",
+    "title": "R&B"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "house",
+    "title": "House"
+   }
+  ],
+  "id": "2314315",
   "isRebroadcast": false,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
@@ -45,49 +80,49 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "A turbo-charged blend of Hardcore, 160, Jungle & Techno",
+    "extract": "The SWU Breakfast Show baby!",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Hypershé-Aug-23.jpeg",
+      "filename": "FelixJoy2024.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1371,
-      "width": 1371
+      "height": 1024,
+      "width": 768
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "hardcore",
-      "title": "Hardcore"
+      "slug": "disco",
+      "title": "Disco"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "jungle",
-      "title": "Jungle"
+      "slug": "house",
+      "title": "House"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
+      "slug": "r-b",
+      "title": "R&B"
      }
     ],
-    "id": "1344524",
+    "id": "1016718",
     "showStatus": "highlighted",
-    "slug": "hypershé",
-    "title": "Hypershé",
-    "url": "https://admin.rinse.fm/shows/hypershé"
+    "slug": "felix-joy",
+    "title": "Felix Joy",
+    "url": "https://admin.rinse.fm/shows/felix-joy"
    }
   ],
-  "slug": "hypershé-07-11-2026-2300",
+  "slug": "felix-joy-16-10-2026-1000",
   "subtitle": null,
-  "title": "Hypershé - 07/10/2026 - 23:00",
+  "title": "Felix Joy - 16/10/2026 - 10:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Hypershe%CC%81-Aug-23.jpeg",
- "image_found_at": ".parentShow.featuredImage.filename"
+ "image": "https://image.rinse.fm/_/Felix-Joy-Press-Pic3_2026-10-16-134630_mqmm.jpeg",
+ "image_found_at": ".featuredImage.filename"
 }
