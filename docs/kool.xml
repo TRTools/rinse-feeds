@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ibiza Records Show - 16/10/2026 - 16:00</title>
+<description>Kool FM, broadcast 16 Oct 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/kool/IbizaRecords161026.mp3" length="144438094" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144438094</guid>
+<pubDate>Fri, 16 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Crate Classics - 16/10/2026 - 14:00</title>
+<description>Kool FM, broadcast 16 Oct 2026 14:00. Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/CrateClassics161026.mp3" length="306918819" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-306918819</guid>
+<pubDate>Fri, 16 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FullSizeRender-preview_2026-10-14-215221_vocm.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Metalheadz - 15/10/2026 - 19:00</title>
 <description>Kool FM, broadcast 15 Oct 2026 19:00. Drum &amp; Bass</description>
 <enclosure url="https://replay.rinse.fm/kool/MetalheadzWithDunkAndCounterCulture151026.mp3" length="288216210" type="audio/mpeg"/>
@@ -2989,26 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/A2955970-F60F-4DAC-98A4-C0BD7C064B53-Duncan-Winslow.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Pressure X - 02/08/2026 - 14:00</title>
-<description>Kool FM, broadcast 02 Aug 2026 14:00. Drum &amp; Bass, Jungle, Rollers</description>
-<enclosure url="https://replay.rinse.fm/kool/PressureX020826.mp3" length="288363573" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288363573</guid>
-<pubDate>Sun, 02 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8903-Pressure-X.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Eastman - 02/08/2026 - 10:00</title>
-<description>Kool FM, broadcast 02 Aug 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Eastman020826.mp3" length="287681807" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287681807</guid>
-<pubDate>Sun, 02 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Eastman-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

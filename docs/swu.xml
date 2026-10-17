@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ruth Royall &amp; Euphonique - 16/10/2026 - 16:00</title>
+<description>SWU FM, broadcast 16 Oct 2026 16:00. Drum &amp; Bass, Jungle</description>
+<enclosure url="https://replay.rinse.fm/swu/RuthRoyall161026.mp3" length="288010050" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010050</guid>
+<pubDate>Fri, 16 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Euphonique_OCT_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ruffneck Ting with Dazee - 16/10/2026 - 14:00</title>
+<description>SWU FM, broadcast 16 Oct 2026 14:00. Drum &amp; Bass, Jump Up, Jungle</description>
+<enclosure url="https://replay.rinse.fm/swu/RuffneckTing161026.mp3" length="288010994" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010994</guid>
+<pubDate>Fri, 16 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/JBigz_Press_October-2026-Dj-Dazee.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ben Daley - 16/10/2026 - 12:00</title>
+<description>SWU FM, broadcast 16 Oct 2026 12:00. House, Garage, Old Skool</description>
+<enclosure url="https://replay.rinse.fm/swu/BenDaley161026.mp3" length="288010914" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010914</guid>
+<pubDate>Fri, 16 Oct 2026 12:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Ben-Daley-June-2023_1.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Felix Joy - 16/10/2026 - 10:00</title>
 <description>SWU FM, broadcast 16 Oct 2026 10:00. Disco, R&amp;B, House</description>
 <enclosure url="https://replay.rinse.fm/swu/FelixJoy161026.mp3" length="288010944" type="audio/mpeg"/>
@@ -2980,36 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/hodge-july-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>A For Alpha - 29/07/2026 - 19:00</title>
-<description>SWU FM, broadcast 07 Jul 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/swu/AForAlpha070726.mp3" length="288009898" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009898</guid>
-<pubDate>Tue, 07 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/A-For-Alpha-new-press-shot.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Beavs - 05/08/2026 - 07:00</title>
-<description>SWU FM, broadcast 07 Jul 2026 12:00. Disco, House, Afrobeat</description>
-<enclosure url="https://replay.rinse.fm/swu/Beavs070726.mp3" length="288009932" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009932</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Beavs_JULY_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Foundation Audio with Chad Dubz - 06/07/2026 - 22:00</title>
-<description>SWU FM, broadcast 06 Jul 2026 22:00. Dubstep, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/FoundationAudio060726.mp3" length="141333432" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141333432</guid>
-<pubDate>Mon, 06 Jul 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/CHAD-DUBZ-JULY-2026-Chad-Smit.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

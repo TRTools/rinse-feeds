@@ -12,6 +12,55 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>SYLVERE - 17/10/2026 - 18:00</title>
+<description>Rinse France, broadcast 17 Oct 2026 18:00. Techno</description>
+<enclosure url="https://replay.rinse.fm/france/SYLVERE(VBR).mp3" length="132920267" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-132920267</guid>
+<pubDate>Sat, 17 Oct 2026 18:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_3314.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Shampain - 17/10/2026 - 17:00</title>
+<description>Rinse France, broadcast 17 Oct 2026 17:00. Soul, Multigenre, Ambient</description>
+<enclosure url="https://replay.rinse.fm/france/ShampainYouAreNotAlone171026(VBR).mp3" length="57139726" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-57139726</guid>
+<pubDate>Sat, 17 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-10-14-at-19.40.22-Co%CC%81ili%CC%81-Collins.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Useless Seconds - 16/10/2026 - 20:00</title>
+<description>Rinse France, broadcast 16 Oct 2026 20:00. Bass, Dub, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/UselessSecondsinviteFedericoSpini161026(VBR).mp3" length="111595035" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-111595035</guid>
+<pubDate>Fri, 16 Oct 2026 20:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Federico-Spini-SEPTEMBRE-2026-Aure%CC%81lien-Proust.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Exa-Terra - 16/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 16 Oct 2026 19:00. Electronic, Dub, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/EXA-TERRAwithSubsism161026(VBR).mp3" length="112619653" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-112619653</guid>
+<pubDate>Fri, 16 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/acf2ebad-d53d-4bcd-9c7d-f2621d1d5222-Subsism.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>MELANIN - 16/10/2026 - 15:00</title>
+<description>Rinse France, broadcast 16 Oct 2026 15:00</description>
+<enclosure url="https://replay.rinse.fm/france/Melanin161026(VBR).mp3" length="134816285" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-134816285</guid>
+<pubDate>Fri, 16 Oct 2026 15:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+</item>
+<item>
 <title>MumBeats - 16/10/2026 - 14:00</title>
 <description>Rinse France, broadcast 16 Oct 2026 14:00. Podcast, Talk</description>
 <enclosure url="https://replay.rinse.fm/france/MumBeatsavecRamonaYacef161026(320).mp3" length="148594056" type="audio/mpeg"/>
@@ -2959,56 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>14400</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Design-sans-titre-DJ-Physical.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Vanille - 04/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 04 Jul 2026 19:00. Techno, Trance, Dub</description>
-<enclosure url="https://replay.rinse.fm/france/VanilleinviteMohajer040626(VBR).mp3" length="137600303" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137600303</guid>
-<pubDate>Sat, 04 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mohajer_JULY4_2026-Melinda-Mohajer_2026-07-03-091922_zvme.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>RAAR - 04/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 04 Jul 2026 18:00</description>
-<enclosure url="https://replay.rinse.fm/france/PLACKBLAGUE040726(VBR).mp3" length="121965157" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-121965157</guid>
-<pubDate>Sat, 04 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-07-03-at-05.07.02-LOUISAHHH-Pillot.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rama - 04/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 04 Jul 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/france/Rama040726(VBR).mp3" length="114042236" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-114042236</guid>
-<pubDate>Sat, 04 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Rama-Juillet-2026-Rama-Mahanna.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Griffes d'Anges - 04/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 04 Jul 2026 16:00. Breakbeat, Electro, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/GriffesdAnges040726(VBR).mp3" length="125713889" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-125713889</guid>
-<pubDate>Sat, 04 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_3745-Griffes-dAnges.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>SOA420 - 03/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 03 Jul 2026 20:00. Dub, Dubstep</description>
-<enclosure url="https://replay.rinse.fm/france/Soa420030726(VBR).mp3" length="78012949" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-78012949</guid>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Soa420-invite-Raja-Zam-Zam-Sounds-Special-07_2026-Soa420.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

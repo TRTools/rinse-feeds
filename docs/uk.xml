@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>DJ Polo - 16/10/2026 - 18:00</title>
+<description>Rinse FM, broadcast 16 Oct 2026 18:00. Funky, Broken Beat, Amapiano</description>
+<enclosure url="https://replay.rinse.fm/uk/DJPolo161026.mp3" length="144301183" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144301183</guid>
+<pubDate>Fri, 16 Oct 2026 18:00:00 +0100</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/33-POLO-DJ.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ella Knight - 16/10/2026 - 16:00</title>
+<description>Rinse FM, broadcast 16 Oct 2026 16:00. House, Garage</description>
+<enclosure url="https://replay.rinse.fm/uk/EllaKnight161026.mp3" length="286805478" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286805478</guid>
+<pubDate>Fri, 16 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-10-15-at-15.48.00-Ella-Knight.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jeremy Sylvester - 16/10/2026 - 14:00</title>
+<description>Rinse FM, broadcast 16 Oct 2026 14:00. Garage, House, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/JeremySylvester161026.mp3" length="290450168" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290450168</guid>
+<pubDate>Fri, 16 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/1DSC_4685-copy-1-Jeremy-Sylvester.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Uncle Dugs - 16/10/2026 - 11:00</title>
+<description>Rinse FM, broadcast 16 Oct 2026 11:00</description>
+<enclosure url="https://replay.rinse.fm/uk/UncleDugs161026.mp3" length="425961810" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-425961810</guid>
+<pubDate>Fri, 16 Oct 2026 11:00:00 +0100</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>10800</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>LILA - 16/10/2026 - 10:00</title>
+<description>Rinse FM, broadcast 16 Oct 2026 10:00. Reggae, Jazz</description>
+<enclosure url="https://replay.rinse.fm/uk/LILATX161026.mp3" length="150119225" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-150119225</guid>
+<pubDate>Fri, 16 Oct 2026 10:00:00 +0100</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8756-Lila-Cusset.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Steel City Dance Discs - 15/10/2026 - 22:00</title>
 <description>Rinse FM, broadcast 15 Oct 2026 22:00. Electronic, Jungle</description>
 <enclosure url="https://replay.rinse.fm/uk/SteelCityDanceDiscs151026.mp3" length="144590701" type="audio/mpeg"/>
@@ -2960,56 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yazmin Lacey - 03/09/2026 - 10:00</title>
-<description>Rinse FM, broadcast 03 Sep 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/YazminLacey030926.mp3" length="280228907" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-280228907</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Fever AM - 02/09/2026 - 22:00</title>
-<description>Rinse FM, broadcast 02 Sep 2026 22:00. Bass, Techno, Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/FeverAM020926.mp3" length="144418302" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144418302</guid>
-<pubDate>Wed, 02 Sep 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Sulk_FEVER-AM-2-SEPT-2026-Fever-AM.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Riria - 02/09/2026 - 20:00</title>
-<description>Rinse FM, broadcast 02 Sep 2026 20:00. Garage, Bass, Dub</description>
-<enclosure url="https://replay.rinse.fm/uk/riria020926.mp3" length="144549922" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144549922</guid>
-<pubDate>Wed, 02 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DSC01946-Riria-Booking.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ESC - 02/09/2026 - 18:00</title>
-<description>Rinse FM, broadcast 02 Sep 2026 18:00. Bass, Garage, House</description>
-<enclosure url="https://replay.rinse.fm/uk/ESC020926.mp3" length="142830801" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142830801</guid>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_0888_VSCO-Ella.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>George FitzGerald - 04/04/2026 - 18:00</title>
-<description>Rinse FM, broadcast 02 Sep 2026 18:00. Electronic, House, Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/GeorgeFitzGerald040426.mp3" length="144006113" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144006113</guid>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_0021_-_George_FitzGerald.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

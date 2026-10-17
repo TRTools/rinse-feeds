@@ -1144,6 +1144,19 @@
   "size": null,
   "title": "ERNA - 17/09/2026 - 17:00"
  },
+ "https://replay.rinse.fm/france/EXA-TERRAwithSubsism161026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-16T19:00:00+01:00",
+  "genres": [
+   "Electronic",
+   "Dub",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/acf2ebad-d53d-4bcd-9c7d-f2621d1d5222-Subsism.jpg",
+  "minutes": 60,
+  "size": 112619653,
+  "title": "Exa-Terra - 16/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/EXATERRAwithSubsism170726(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-17T19:00:00+01:00",
@@ -1456,6 +1469,19 @@
   "size": null,
   "title": "Glitter55 - 06/07/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/GOODYaëlOhayon151026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-17T14:00:00+01:00",
+  "genres": [
+   "Disco",
+   "House",
+   "Funk"
+  ],
+  "image": "https://image.rinse.fm/_/3c56d77a-b7bf-48e9-87c9-b8a8219bde30-3-Ygal-Ohayon.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "Yaël Ohayon - 17/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/france/GOODhoneymel230626(320).mp3": {
   "channel": "france",
   "date": "2026-06-23T15:00:00+01:00",
@@ -1735,6 +1761,19 @@
   "minutes": 60,
   "size": null,
   "title": "Human Disease Network - 19/09/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/france/HumanDiseaseNetworkprésenteStanislasSalvatoré171026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-17T15:00:00+01:00",
+  "genres": [
+   "Bass",
+   "Dub",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Human-Disease-Network-pre%CC%81sente-Stanislas-Salvatore%CC%81-promo-hdn.jpeg",
+  "minutes": 60,
+  "size": null,
+  "title": "Human Disease Network - 17/10/2026 - 15:00"
  },
  "https://replay.rinse.fm/france/HyasinviteDJstrawberry150726(VBR).mp3": {
   "channel": "france",
@@ -2954,6 +2993,15 @@
   "size": 144591010,
   "title": "Mayashiba - 31/07/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/Melanin161026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-16T15:00:00+01:00",
+  "genres": [],
+  "image": null,
+  "minutes": 60,
+  "size": 134816285,
+  "title": "MELANIN - 16/10/2026 - 15:00"
+ },
  "https://replay.rinse.fm/france/MeliMena020726.(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-02T14:00:00+01:00",
@@ -4121,6 +4169,17 @@
   "size": 206674269,
   "title": "Queer Cult Takeover - 30/06/2026 - 08:00"
  },
+ "https://replay.rinse.fm/france/SYLVERE(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-17T18:00:00+01:00",
+  "genres": [
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_3314.jpg",
+  "minutes": 60,
+  "size": 132920267,
+  "title": "SYLVERE - 17/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/france/SaborAMiMusicadelAlma140926(VBR).mp3": {
   "channel": "france",
   "date": "2026-09-14T16:00:00+01:00",
@@ -4302,6 +4361,19 @@
   "minutes": 60,
   "size": null,
   "title": "Sébastien Forrester - 21/09/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/france/ShampainYouAreNotAlone171026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-17T17:00:00+01:00",
+  "genres": [
+   "Soul",
+   "Multigenre",
+   "Ambient"
+  ],
+  "image": "https://image.rinse.fm/_/Screenshot-2026-10-14-at-19.40.22-Co%CC%81ili%CC%81-Collins.png",
+  "minutes": 60,
+  "size": 57139726,
+  "title": "Shampain - 17/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/Sinom290926(VBR).mp3": {
   "channel": "france",
@@ -4851,6 +4923,19 @@
   "minutes": 60,
   "size": 143281950,
   "title": "Tysha Cee - 08/10/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/UselessSecondsinviteFedericoSpini161026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-16T20:00:00+01:00",
+  "genres": [
+   "Bass",
+   "Dub",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Federico-Spini-SEPTEMBRE-2026-Aure%CC%81lien-Proust.jpg",
+  "minutes": 60,
+  "size": 111595035,
+  "title": "Useless Seconds - 16/10/2026 - 20:00"
  },
  "https://replay.rinse.fm/france/V2TONAK.fmMusicForTheSoul21240926(320).mp3": {
   "channel": "france",
@@ -6957,6 +7042,17 @@
   "size": 288225525,
   "title": "Crate Classics - 14/08/2026 - 14:00"
  },
+ "https://replay.rinse.fm/kool/CrateClassics161026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-16T14:00:00+01:00",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "image": "https://image.rinse.fm/_/FullSizeRender-preview_2026-10-14-215221_vocm.jpg",
+  "minutes": 120,
+  "size": 306918819,
+  "title": "Crate Classics - 16/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/kool/CrateClassics170726.mp3": {
   "channel": "kool",
   "date": "2026-07-17T14:00:00+01:00",
@@ -8403,6 +8499,15 @@
   "minutes": 60,
   "size": 141367190,
   "title": "Ibiza Records Show - 14/08/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/kool/IbizaRecords161026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-16T16:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg",
+  "minutes": 60,
+  "size": 144438094,
+  "title": "Ibiza Records Show - 16/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/kool/IbizaRecords170726.mp3": {
   "channel": "kool",
@@ -12300,6 +12405,19 @@
   "size": 288010175,
   "title": "Ben Daley - 08/08/2026 - 07:00"
  },
+ "https://replay.rinse.fm/swu/BenDaley161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T12:00:00+01:00",
+  "genres": [
+   "House",
+   "Garage",
+   "Old Skool"
+  ],
+  "image": "https://image.rinse.fm/_/Ben-Daley-June-2023_1.jpeg",
+  "minutes": 120,
+  "size": 288010914,
+  "title": "Ben Daley - 16/10/2026 - 12:00"
+ },
  "https://replay.rinse.fm/swu/BenDaley170726.mp3": {
   "channel": "swu",
   "date": "2026-07-17T12:00:00+01:00",
@@ -12802,6 +12920,19 @@
   "minutes": 120,
   "size": 288013486,
   "title": "Carbon Music with Jubei - 01/10/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/swu/CheffTheBoy161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T20:00:00+01:00",
+  "genres": [
+   "Breakbeat",
+   "Jungle",
+   "Hardcore"
+  ],
+  "image": "https://image.rinse.fm/_/Cheff-The-Boy-Sept-2026_2026-10-15-191000_rjwc.JPG",
+  "minutes": 60,
+  "size": 144010431,
+  "title": "Cheff The Boy - 16/10/2026 - 20:00"
  },
  "https://replay.rinse.fm/swu/CheffTheBoy170726.mp3": {
   "channel": "swu",
@@ -18357,6 +18488,19 @@
   "size": 144010415,
   "title": "Rotate - 26/08/2026 - 23:00"
  },
+ "https://replay.rinse.fm/swu/RuffneckTing161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T14:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Jump Up",
+   "Jungle"
+  ],
+  "image": "https://image.rinse.fm/_/JBigz_Press_October-2026-Dj-Dazee.jpeg",
+  "minutes": 120,
+  "size": 288010994,
+  "title": "Ruffneck Ting with Dazee - 16/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/swu/RuffneckTing170726.mp3": {
   "channel": "swu",
   "date": "2026-07-17T14:00:00+01:00",
@@ -18589,6 +18733,18 @@
   "minutes": 120,
   "size": -1,
   "title": "Ruth Royall, APH & Euphonique - 31/07/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/swu/RuthRoyall161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T16:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle"
+  ],
+  "image": "https://image.rinse.fm/_/Euphonique_OCT_2026.png",
+  "minutes": 120,
+  "size": 288010050,
+  "title": "Ruth Royall & Euphonique - 16/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/swu/RuthRoyall180926.mp3": {
   "channel": "swu",
@@ -20440,6 +20596,17 @@
   "minutes": 120,
   "size": 286338102,
   "title": "Worm Disco Club - 21/07/2026 - 07:00"
+ },
+ "https://replay.rinse.fm/swu/Yanari161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T18:00:00+01:00",
+  "genres": [
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Screenshot-2026-10-15-at-15.46.23.png",
+  "minutes": 60,
+  "size": 144010417,
+  "title": "Yanari - 16/10/2026 - 18:00"
  },
  "https://replay.rinse.fm/swu/Yanari170726.mp3": {
   "channel": "swu",
@@ -22825,6 +22992,19 @@
   "size": 288962852,
   "title": "DJ Polo - 15/08/2026 - 10:00"
  },
+ "https://replay.rinse.fm/uk/DJPolo161026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-16T18:00:00+01:00",
+  "genres": [
+   "Funky",
+   "Broken Beat",
+   "Amapiano"
+  ],
+  "image": "https://image.rinse.fm/_/33-POLO-DJ.JPG",
+  "minutes": 60,
+  "size": 144301183,
+  "title": "DJ Polo - 16/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/uk/DJPolo170726.mp3": {
   "channel": "uk",
   "date": "2026-07-17T18:00:00+01:00",
@@ -23937,6 +24117,18 @@
   "minutes": 120,
   "size": 288333243,
   "title": "Eliza Rose - 31/08/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/EllaKnight161026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-16T16:00:00+01:00",
+  "genres": [
+   "House",
+   "Garage"
+  ],
+  "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-10-15-at-15.48.00-Ella-Knight.jpeg",
+  "minutes": 120,
+  "size": 286805478,
+  "title": "Ella Knight - 16/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/uk/EllaKnight170726.mp3": {
   "channel": "uk",
@@ -25267,6 +25459,19 @@
   "size": 127690239,
   "title": "TraTraTrax - 30/06/2026 - 19:00"
  },
+ "https://replay.rinse.fm/uk/JeremySylvester161026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-16T14:00:00+01:00",
+  "genres": [
+   "Garage",
+   "House",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/1DSC_4685-copy-1-Jeremy-Sylvester.jpg",
+  "minutes": 120,
+  "size": 290450168,
+  "title": "Jeremy Sylvester - 16/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/uk/JeremySylvester170726.mp3": {
   "channel": "uk",
   "date": "2026-07-17T14:00:00+01:00",
@@ -25649,6 +25854,18 @@
   "minutes": 60,
   "size": 144005011,
   "title": "LILA - 07/07/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/LILATX161026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-16T10:00:00+01:00",
+  "genres": [
+   "Reggae",
+   "Jazz"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_8756-Lila-Cusset.jpg",
+  "minutes": 60,
+  "size": 150119225,
+  "title": "LILA - 16/10/2026 - 10:00"
  },
  "https://replay.rinse.fm/uk/LILI15092026.mp3": {
   "channel": "uk",
@@ -30006,6 +30223,15 @@
   "minutes": 180,
   "size": 432757966,
   "title": "Uncle Dugs - 12/06/2026 - 11:00"
+ },
+ "https://replay.rinse.fm/uk/UncleDugs161026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-16T11:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg",
+  "minutes": 180,
+  "size": 425961810,
+  "title": "Uncle Dugs - 16/10/2026 - 11:00"
  },
  "https://replay.rinse.fm/uk/UncleDugs170726.mp3": {
   "channel": "uk",
