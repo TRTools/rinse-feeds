@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>MUTEK - 18/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 18 Oct 2026 19:00. Techno, Experimental, Trance</description>
+<enclosure url="https://replay.rinse.fm/france/MUTEKinviteISTANBULGHETTOCLUB181026(VBR).mp3" length="98096424" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-98096424</guid>
+<pubDate>Sun, 18 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MUTEKinviteIstanbulGhettoClub_OCT26-Thomas-Giboudeaux.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jokkoo Collective - 18/10/2026 - 18:00</title>
+<description>Rinse France, broadcast 18 Oct 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/france/JOKKOOCOLLECTIVEINVITESMARCOLAN181026(VBR).mp3" length="111461145" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-111461145</guid>
+<pubDate>Sun, 18 Oct 2026 18:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Marcolan-1026-Jokkoo-Collective.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Promesses - 18/10/2026 - 16:00</title>
+<description>Rinse France, broadcast 18 Oct 2026 16:00. Bass, Trap, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/Promessesinvitebivou4c181026(VBR).mp3" length="195764559" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-195764559</guid>
+<pubDate>Sun, 18 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RINSE-OCT-26-square-Raphae%CC%88l-Ha%CC%88rdi.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Miss Sheitana - 18/10/2026 - 15:00</title>
+<description>Rinse France, broadcast 18 Oct 2026 15:00. Techno, Oldskool, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/DJSpanishFly181026(320).mp3" length="65909361" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-65909361</guid>
+<pubDate>Sun, 18 Oct 2026 15:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Spanish-Fly-lead-press-shot-by-Neva-miss-sheitana.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>SYLVERE - 17/10/2026 - 18:00</title>
 <description>Rinse France, broadcast 17 Oct 2026 18:00. Techno</description>
 <enclosure url="https://replay.rinse.fm/france/SYLVERE(VBR).mp3" length="132920267" type="audio/mpeg"/>
@@ -2968,46 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/bait100.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>kIM0 presents POV - 05/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 05 Jul 2026 17:00. Ambient, Pop, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/kIM0050726(VBR).mp3" length="109545341" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-109545341</guid>
-<pubDate>Sun, 05 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/kIM0-0726-Kim-Huynh.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Lil Rosy - 05/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 05 Jul 2026 16:00. Reggaeton, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/LilRosyinviteA.BotOne(fromPuertoRico)(320).mp3" length="134860112" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-134860112</guid>
-<pubDate>Sun, 05 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_4213.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hadj Sameer - 05/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 05 Jul 2026 15:00. Talk</description>
-<enclosure url="https://replay.rinse.fm/france/HadjSameerinviteJohnStapletoWantedRecords12LaBomba050726(VBR).mp3" length="91087109" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-91087109</guid>
-<pubDate>Sun, 05 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/unnamed_2026-07-03-115434_deqp.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Playlist France - 04/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 04 Jul 2026 20:00. Bass, Techno, Garage</description>
-<enclosure url="https://replay.rinse.fm/france/DJPhysicalB2BMe&amp;George040726(VBR).mp3" length="128799011" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-128799011</guid>
-<pubDate>Sat, 04 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>14400</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Design-sans-titre-DJ-Physical.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

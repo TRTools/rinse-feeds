@@ -956,6 +956,19 @@
   "size": 128799011,
   "title": "Playlist France - 04/07/2026 - 20:00"
  },
+ "https://replay.rinse.fm/france/DJSpanishFly181026(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-18T15:00:00+01:00",
+  "genres": [
+   "Techno",
+   "Oldskool",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/DJ-Spanish-Fly-lead-press-shot-by-Neva-miss-sheitana.jpg",
+  "minutes": 60,
+  "size": 65909361,
+  "title": "Miss Sheitana - 18/10/2026 - 15:00"
+ },
  "https://replay.rinse.fm/france/DOUBLEOTHEATRE011026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-01T15:00:00+01:00",
@@ -1818,6 +1831,15 @@
   "minutes": 60,
   "size": 116425927,
   "title": "Rinse France Guest Show - 01/10/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/france/JOKKOOCOLLECTIVEINVITESMARCOLAN181026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-18T18:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Marcolan-1026-Jokkoo-Collective.jpeg",
+  "minutes": 60,
+  "size": 111461145,
+  "title": "Jokkoo Collective - 18/10/2026 - 18:00"
  },
  "https://replay.rinse.fm/france/JPMano090726(VBR).mp3": {
   "channel": "france",
@@ -2821,6 +2843,19 @@
   "size": 80550891,
   "title": "MUTEK - 20/09/2026 - 19:00"
  },
+ "https://replay.rinse.fm/france/MUTEKinviteISTANBULGHETTOCLUB181026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-18T19:00:00+01:00",
+  "genres": [
+   "Techno",
+   "Experimental",
+   "Trance"
+  ],
+  "image": "https://image.rinse.fm/_/MUTEKinviteIstanbulGhettoClub_OCT26-Thomas-Giboudeaux.jpg",
+  "minutes": 60,
+  "size": 98096424,
+  "title": "MUTEK - 18/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/MYSTIQUEinviteLO2THEMOONFRIENDS100726(320).mp3": {
   "channel": "france",
   "date": "2026-07-10T18:00:00+01:00",
@@ -3611,6 +3646,19 @@
   "minutes": 120,
   "size": 220337781,
   "title": "Promesses - 19/07/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/Promessesinvitebivou4c181026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-18T16:00:00+01:00",
+  "genres": [
+   "Bass",
+   "Trap",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/RINSE-OCT-26-square-Raphae%CC%88l-Ha%CC%88rdi.png",
+  "minutes": 120,
+  "size": 195764559,
+  "title": "Promesses - 18/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/france/PureblastinvitePasdequartier130726(VBR).mp3": {
   "channel": "france",
@@ -10422,6 +10470,19 @@
   "minutes": 120,
   "size": 287308107,
   "title": "Shockin B - 06/09/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/kool/SilvaSnipa161026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-16T21:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Techstep",
+   "Jungle"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_4102-Silva-Snipa.JPEG",
+  "minutes": 120,
+  "size": 286106031,
+  "title": "Silva Snipa - 16/10/2026 - 21:00"
  },
  "https://replay.rinse.fm/kool/SilvaSnipa170726.mp3": {
   "channel": "kool",
@@ -26175,6 +26236,15 @@
   "minutes": 60,
   "size": 143103842,
   "title": "Lupe Fuentes - 27/06/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/uk/Lure61026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-16T21:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Lu.Re-October-2023.jpeg",
+  "minutes": 60,
+  "size": 144762692,
+  "title": "Lu.Re - 16/10/2026 - 21:00"
  },
  "https://replay.rinse.fm/uk/MASTERplano300626.mp3": {
   "channel": "uk",

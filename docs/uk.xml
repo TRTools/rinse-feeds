@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Lu.Re - 16/10/2026 - 21:00</title>
+<description>Rinse FM, broadcast 16 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Lure61026.mp3" length="144762692" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144762692</guid>
+<pubDate>Fri, 16 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Lu.Re-October-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>DJ Polo - 16/10/2026 - 18:00</title>
 <description>Rinse FM, broadcast 16 Oct 2026 18:00. Funky, Broken Beat, Amapiano</description>
 <enclosure url="https://replay.rinse.fm/uk/DJPolo161026.mp3" length="144301183" type="audio/mpeg"/>
@@ -3000,16 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/SK__OS___DSC00225-SK-Vibemaker_2026-09-02-200050_qudu.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hi-Fidelity - 03/09/2026 - 12:00</title>
-<description>Rinse FM, broadcast 03 Sep 2026 12:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Cafe1001030926.mp3" length="145090139" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145090139</guid>
-<pubDate>Thu, 03 Sep 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

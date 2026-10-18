@@ -25,49 +25,42 @@
     "title": "SWU FM"
    }
   ],
-  "displayTitle": "10 years of SWU",
-  "episodeDate": "2026-09-05T23:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-10-17T18:00:00+01:00",
-  "extract": "Celebrating 10 years of SWU, Cocodubz brings some new production and some underground heaters from the uk with a sprinkle of old school.",
+  "displayTitle": "with Rumble In The Jungle (Noisy Antics), Ticky & Nooch",
+  "episodeDate": "2026-10-15T23:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-10-18T16:00:00+01:00",
+  "extract": "A massive show - special guest Rumble In The Jungle owner Noisy Antics, Rising Rythmn from Ticky and guest co-host Nooch alongside Euphonique.",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "COCODUBZ-SEPT-2026-COCO-DUBZ.JPG",
+    "filename": "Euphonique_OCT_2026.png",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1600,
-    "width": 2400
+    "height": 1350,
+    "width": 1080
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/COCODUBZ060926.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/RuthRoyall161026.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": false,
+    "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "dubstep",
-    "title": "Dubstep"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "dub",
-    "title": "Dub"
+    "slug": "dnb",
+    "title": "Drum & Bass"
    },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "r-b",
-    "title": "R&B"
+    "slug": "jungle",
+    "title": "Jungle"
    }
   ],
-  "id": "2301371",
+  "id": "2314321",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -79,49 +72,49 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Bass driven frequencies - self productions, Grime & Dubstep realms. Incorporating all things in the 140bpm range",
+    "extract": "2 hours of the best underground sounds from the UK and beyond with Ruth Royall & Euphonique",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "COCO2-COCO-DUBZ.JPG",
+      "filename": "RuthRoyall_01.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 5395,
-      "width": 4449
+      "height": 6452,
+      "width": 4301
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "electronic",
-      "title": "Electronic"
+      "slug": "dnb",
+      "title": "Drum & Bass"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "dubstep",
-      "title": "Dubstep"
+      "slug": "breakbeat",
+      "title": "Breakbeat"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "grime",
-      "title": "Grime"
+      "slug": "garage",
+      "title": "Garage"
      }
     ],
-    "id": "2196483",
+    "id": "2143115",
     "showStatus": "highlighted",
-    "slug": "cocodubz",
-    "title": "COCODUBZ",
-    "url": "https://admin.rinse.fm/shows/cocodubz"
+    "slug": "ruth-royall-aph",
+    "title": "Ruth Royall & Euphonique",
+    "url": "https://admin.rinse.fm/shows/ruth-royall-aph"
    }
   ],
-  "slug": "cocodubz-06-09-2026-1800",
+  "slug": "ruth-royall-euphonique-16-10-2026-1600",
   "subtitle": null,
-  "title": "COCODUBZ - 06/09/2026 - 18:00",
+  "title": "Ruth Royall & Euphonique - 16/10/2026 - 16:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/COCODUBZ-SEPT-2026-COCO-DUBZ.JPG",
+ "image": "https://image.rinse.fm/_/Euphonique_OCT_2026.png",
  "image_found_at": ".featuredImage.filename"
 }

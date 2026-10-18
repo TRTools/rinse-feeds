@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Silva Snipa - 16/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 16 Oct 2026 21:00. Drum &amp; Bass, Techstep, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/SilvaSnipa161026.mp3" length="286106031" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286106031</guid>
+<pubDate>Fri, 16 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_4102-Silva-Snipa.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Ibiza Records Show - 16/10/2026 - 16:00</title>
 <description>Kool FM, broadcast 16 Oct 2026 16:00</description>
 <enclosure url="https://replay.rinse.fm/kool/IbizaRecords161026.mp3" length="144438094" type="audio/mpeg"/>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DJ-KANE.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>winslow - 02/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 02 Aug 2026 16:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/Winslow020826.mp3" length="144596968" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144596968</guid>
-<pubDate>Sun, 02 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/A2955970-F60F-4DAC-98A4-C0BD7C064B53-Duncan-Winslow.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
