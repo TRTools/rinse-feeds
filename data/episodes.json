@@ -180,6 +180,19 @@
   "size": 143470691,
   "title": "Adam BFD - 16/09/2026 - 20:00"
  },
+ "https://replay.rinse.fm/france/AfraaavedJungeEkoSébastienForrester191026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-19T15:00:00+01:00",
+  "genres": [
+   "Ambient",
+   "Experimental",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/afraa-avec-junge-eko-se%CC%81bastien-forrester_191026-Se%CC%81bastien-Forrester-Holy-Strays.jpeg",
+  "minutes": 60,
+  "size": null,
+  "title": "Sébastien Forrester - 19/10/2026 - 15:00"
+ },
  "https://replay.rinse.fm/france/AhoSsanICO051026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-05T14:00:00+01:00",
@@ -492,6 +505,19 @@
   "minutes": 60,
   "size": 150299164,
   "title": "Bambi - 07/09/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/france/Baselitzjuniorssousgamberge191026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-19T14:00:00+01:00",
+  "genres": [
+   "Dance",
+   "Presenters",
+   "Hip-Hop"
+  ],
+  "image": "https://image.rinse.fm/_/Baselitz-Octobre-2016.jpeg",
+  "minutes": 60,
+  "size": 57811466,
+  "title": "Baselitz - 19/10/2026 - 14:00"
  },
  "https://replay.rinse.fm/france/Batida240626(VBR).mp3": {
   "channel": "france",
@@ -5257,6 +5283,19 @@
   "size": 141260757,
   "title": "Queer Cult Takeover - 28/06/2026 - 18:00"
  },
+ "https://replay.rinse.fm/france/YoungPulseBOOGIETOTHETOP191026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-19T16:00:00+01:00",
+  "genres": [
+   "Funk",
+   "Disco",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/Screenshot_20261018_235519_Gallery-Young-Pulse.jpg",
+  "minutes": 60,
+  "size": 121284625,
+  "title": "Young Pulse - 19/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/ZAVITNIK300726(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-30T16:00:00+01:00",
@@ -6398,6 +6437,18 @@
   "minutes": 60,
   "size": 152619914,
   "title": "Basics Records - 17/08/2026 - 00:00"
+ },
+ "https://replay.rinse.fm/kool/BasicsRecords181026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-19T00:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle"
+  ],
+  "image": "https://image.rinse.fm/_/COLD-Peter-Gubby.jpg",
+  "minutes": 60,
+  "size": 144163321,
+  "title": "Basics Records - 19/10/2026 - 00:00"
  },
  "https://replay.rinse.fm/kool/BasicsRecords190726.mp3": {
   "channel": "kool",
@@ -7781,6 +7832,15 @@
   "size": 324502310,
   "title": "Eastman - 16/08/2026 - 10:00"
  },
+ "https://replay.rinse.fm/kool/Eastman181026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T10:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Eastman-April-2023.jpeg",
+  "minutes": 120,
+  "size": 307326189,
+  "title": "Eastman - 18/10/2026 - 10:00"
+ },
  "https://replay.rinse.fm/kool/Eastman200725.mp3": {
   "channel": "kool",
   "date": "2026-07-05T10:00:00+01:00",
@@ -8995,6 +9055,28 @@
   "size": 288327498,
   "title": "The Jinx - 04/10/2026 - 12:00"
  },
+ "https://replay.rinse.fm/kool/KoolOriginalswithFunkyFlirt181026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T12:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/DJ-FUNKY-FLIRT-March-2023.jpeg",
+  "minutes": 120,
+  "size": 253505698,
+  "title": "Funky Flirt - 18/10/2026 - 12:00"
+ },
+ "https://replay.rinse.fm/kool/KoolOriginalswithPressuerX181026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T14:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle",
+   "Rollers"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_6877-Pressure-X.jpeg",
+  "minutes": 120,
+  "size": 288226607,
+  "title": "Pressure X - 18/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/kool/KoolOriginalswithSL300826.mp3": {
   "channel": "kool",
   "date": "2026-08-30T12:00:00+01:00",
@@ -9700,6 +9782,19 @@
   "size": 288131665,
   "title": "Nicky Blackmarket - 16/08/2026 - 17:00"
  },
+ "https://replay.rinse.fm/kool/NickyBlackmarket190426.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T17:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle",
+   "Jump Up"
+  ],
+  "image": "https://image.rinse.fm/_/Nicky-Blackmarket-2021-by-Chelone-Wolf_web-fb_005-Nicholas-Andersson-gylden.jpg",
+  "minutes": 120,
+  "size": 288242345,
+  "title": "Nicky Blackmarket - 19/04/2026 - 17:00"
+ },
  "https://replay.rinse.fm/kool/NorthBase020926.mp3": {
   "channel": "kool",
   "date": "2026-09-02T23:00:00+01:00",
@@ -10171,6 +10266,18 @@
   "minutes": 120,
   "size": 285849537,
   "title": "Rebel Music with OB1 - 17/05/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/kool/RebelMusic181026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T19:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle"
+  ],
+  "image": "https://image.rinse.fm/_/Screenshot_20261016_132511_Gallery-Ben-FutureSoul.jpg",
+  "minutes": 120,
+  "size": 288343611,
+  "title": "Rebel Music - 18/10/2026 - 19:00"
  },
  "https://replay.rinse.fm/kool/RebelMusic290726__.mp3": {
   "channel": "kool",
@@ -10823,6 +10930,19 @@
   "size": 144089675,
   "title": "Swampman - 16/08/2026 - 16:00"
  },
+ "https://replay.rinse.fm/kool/Swampman181026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T16:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Liquid",
+   "minimal"
+  ],
+  "image": "https://image.rinse.fm/_/2e955f8e-cdf1-4922-b6db-010ab605bd3c-Sam-Yates.JPG",
+  "minutes": 60,
+  "size": 144308550,
+  "title": "Swampman - 18/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/kool/Swampman190726.mp3": {
   "channel": "kool",
   "date": "2026-07-19T16:00:00+01:00",
@@ -11326,6 +11446,17 @@
   "minutes": 60,
   "size": 144406935,
   "title": "Xeonz - 16/08/2026 - 23:00"
+ },
+ "https://replay.rinse.fm/kool/Xeonz182016.mp3": {
+  "channel": "kool",
+  "date": "2026-10-18T23:00:00+01:00",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-10-15-at-11.04.12-Xeonz-UK.jpeg",
+  "minutes": 60,
+  "size": 144322119,
+  "title": "Xeonz - 18/10/2026 - 23:00"
  },
  "https://replay.rinse.fm/kool/Xeonz190726.mp3": {
   "channel": "kool",
@@ -12007,6 +12138,19 @@
   "size": 144010692,
   "title": "Argo - 03/09/2026 - 00:00"
  },
+ "https://replay.rinse.fm/swu/Argo181026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-18T18:00:00+01:00",
+  "genres": [
+   "Electronic",
+   "Dubstep",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/Argo-October-2026.jpg",
+  "minutes": 60,
+  "size": 144011388,
+  "title": "Argo - 18/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/swu/Argo190726.mp3": {
   "channel": "swu",
   "date": "2026-07-19T18:00:00+01:00",
@@ -12237,6 +12381,19 @@
   "minutes": 60,
   "size": 144010740,
   "title": "Banoffee Pies with DJ Autumn - 21/09/2026 - 01:00"
+ },
+ "https://replay.rinse.fm/swu/BanoffeePies171026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-17T19:00:00+01:00",
+  "genres": [
+   "Techno",
+   "House",
+   "Dance"
+  ],
+  "image": "https://image.rinse.fm/_/Banoffee_OCT_2026.jpg",
+  "minutes": 120,
+  "size": 288010913,
+  "title": "Banoffee Pies with DJ Autumn - 17/10/2026 - 19:00"
  },
  "https://replay.rinse.fm/swu/BanoffeePies180726.mp3": {
   "channel": "swu",
@@ -15340,6 +15497,19 @@
   "size": 288010215,
   "title": "Hazel Marimba - 17/08/2026 - 03:00"
  },
+ "https://replay.rinse.fm/swu/HazelMarimba171026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-17T14:00:00+01:00",
+  "genres": [
+   "Bass",
+   "Techno",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/Hazel_Oct_2026.jpg",
+  "minutes": 120,
+  "size": 288010917,
+  "title": "Hazel Marimba - 17/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/swu/HazelMarimba180726.mp3": {
   "channel": "swu",
   "date": "2026-07-18T14:00:00+01:00",
@@ -15417,6 +15587,19 @@
   "minutes": 60,
   "size": 144016042,
   "title": "Hijinx - 02/07/2026 - 21:00"
+ },
+ "https://replay.rinse.fm/swu/Hijinx311225.mp3": {
+  "channel": "swu",
+  "date": "2026-10-19T17:00:00+01:00",
+  "genres": [
+   "Bass",
+   "Garage",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/HIJINX_NOV_2025.JPG",
+  "minutes": 60,
+  "size": 144011799,
+  "title": "NYE To NYD - 19/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/swu/HijinxKoast101026.mp3": {
   "channel": "swu",
@@ -16201,6 +16384,19 @@
   "size": 288009926,
   "title": "Joe Valek - 30/08/2026 - 03:00"
  },
+ "https://replay.rinse.fm/swu/JoeValek181026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-18T21:00:00+01:00",
+  "genres": [
+   "Multigenre",
+   "Presenters",
+   "Hip-Hop"
+  ],
+  "image": "https://image.rinse.fm/_/Joe-Valek-Oct-2026.jpeg",
+  "minutes": 120,
+  "size": 288008964,
+  "title": "Joe Valek - 18/10/2026 - 21:00"
+ },
  "https://replay.rinse.fm/swu/JoeValek190726.mp3": {
   "channel": "swu",
   "date": "2026-07-19T21:00:00+01:00",
@@ -16405,6 +16601,19 @@
   "minutes": 120,
   "size": 288010211,
   "title": "Kaotik Kartel - 17/08/2026 - 07:00"
+ },
+ "https://replay.rinse.fm/swu/KaotikKartel181026_FIX.mp3": {
+  "channel": "swu",
+  "date": "2026-10-18T10:00:00+01:00",
+  "genres": [
+   "Reggae",
+   "Dancehall",
+   "Dub"
+  ],
+  "image": "https://image.rinse.fm/_/Kaotik-Kartel-Oct-26.jpeg",
+  "minutes": 120,
+  "size": 288010909,
+  "title": "Kaotik Kartel - 18/10/2026 - 10:00"
  },
  "https://replay.rinse.fm/swu/KaotikKartel190726.mp3": {
   "channel": "swu",
@@ -17069,6 +17278,19 @@
   "size": 288010000,
   "title": "Marcus Nasty - 08/08/2026 - 01:00"
  },
+ "https://replay.rinse.fm/swu/Medis190426.mp3": {
+  "channel": "swu",
+  "date": "2026-10-18T16:00:00+01:00",
+  "genres": [
+   "Electronic",
+   "Experimental",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/Medis_april_2026.jpg",
+  "minutes": 120,
+  "size": 288009890,
+  "title": "Medis - 18/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/swu/Medis190726.mp3": {
   "channel": "swu",
   "date": "2026-07-19T16:00:00+01:00",
@@ -17416,6 +17638,15 @@
   "minutes": 60,
   "size": 144010407,
   "title": "NINA - 20/07/2026 - 21:00"
+ },
+ "https://replay.rinse.fm/swu/NYE2NYDSirHissTX010125_FINAL.mp3": {
+  "channel": "swu",
+  "date": "2026-10-19T16:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/SirHiss_OCT_2024.jpg",
+  "minutes": 60,
+  "size": 143887090,
+  "title": "Sir Hiss - 19/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/swu/NYEtoNYDRodneyTX311224_FINAL.mp3": {
   "channel": "swu",
@@ -19570,6 +19801,19 @@
   "size": 287443839,
   "title": "Spiney - 18/08/2026 - 01:00"
  },
+ "https://replay.rinse.fm/swu/Spiney181026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-18T14:00:00+01:00",
+  "genres": [
+   "House",
+   "Amapiano",
+   "Funky"
+  ],
+  "image": "https://image.rinse.fm/_/Spiney_OCT_2026.jpeg",
+  "minutes": 120,
+  "size": 288010871,
+  "title": "Spiney - 18/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/swu/Spiney190726.mp3": {
   "channel": "swu",
   "date": "2026-07-19T14:00:00+01:00",
@@ -19627,6 +19871,18 @@
   "minutes": 120,
   "size": 288010243,
   "title": "Stay Up Forever - 02/09/2026 - 03:00"
+ },
+ "https://replay.rinse.fm/swu/StayUpForever171026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-17T23:00:00+01:00",
+  "genres": [
+   "Techno",
+   "Acid"
+  ],
+  "image": "https://image.rinse.fm/_/Bahar-Canca_Oct_26.jpeg",
+  "minutes": 120,
+  "size": 286467609,
+  "title": "Stay Up Forever - 17/10/2026 - 23:00"
  },
  "https://replay.rinse.fm/swu/StayUpForever180726.mp3": {
   "channel": "swu",
@@ -19947,6 +20203,19 @@
   "size": 144010704,
   "title": "Swankout - 12/09/2026 - 19:00"
  },
+ "https://replay.rinse.fm/swu/Swankout161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T19:00:00+01:00",
+  "genres": [
+   "Breakbeat",
+   "Jungle",
+   "Hardcore"
+  ],
+  "image": "https://image.rinse.fm/_/Swankout_OCT_2026.jpg",
+  "minutes": 60,
+  "size": 144010421,
+  "title": "Swankout - 18/10/2026 - 03:00"
+ },
  "https://replay.rinse.fm/swu/Synkro220926.mp3": {
   "channel": "swu",
   "date": "2026-09-22T22:00:00+01:00",
@@ -20126,6 +20395,19 @@
   "minutes": 60,
   "size": 144009467,
   "title": "Thys - 04/09/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/swu/TimeToRush161026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-16T21:00:00+01:00",
+  "genres": [
+   "Hardcore",
+   "Jungle",
+   "Old Skool"
+  ],
+  "image": "https://image.rinse.fm/_/Noli_OCT_2026.JPG",
+  "minutes": 120,
+  "size": 288010183,
+  "title": "Time To Rush - 16/10/2026 - 21:00"
  },
  "https://replay.rinse.fm/swu/TimeToRush170726.mp3": {
   "channel": "swu",
@@ -20321,6 +20603,19 @@
   "minutes": 120,
   "size": 288010868,
   "title": "TOYS Berlin - 12/09/2026 - 23:00"
+ },
+ "https://replay.rinse.fm/swu/ToysBerlin171026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-17T21:00:00+01:00",
+  "genres": [
+   "Multigenre",
+   "R&B",
+   "Pop"
+  ],
+  "image": "https://image.rinse.fm/_/ASA808_OCT_2026.jpg",
+  "minutes": 120,
+  "size": 288010937,
+  "title": "TOYS Berlin - 17/10/2026 - 21:00"
  },
  "https://replay.rinse.fm/swu/Trends052026.mp3": {
   "channel": "swu",
@@ -20645,6 +20940,18 @@
   "size": 288009908,
   "title": "Worm Disco Club - 21/09/2026 - 12:00"
  },
+ "https://replay.rinse.fm/swu/WormDisco191026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-18T19:00:00+01:00",
+  "genres": [
+   "Multigenre",
+   "Drum & Bass"
+  ],
+  "image": "https://image.rinse.fm/_/Balance_Oct_2026.jpg",
+  "minutes": 120,
+  "size": -1,
+  "title": "Balance - 18/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/swu/WormDisco200726.mp3": {
   "channel": "swu",
   "date": "2026-07-20T12:00:00+01:00",
@@ -20725,6 +21032,18 @@
   "minutes": 60,
   "size": 288010201,
   "title": "YOSH - 15/08/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/swu/Yosh171026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-17T17:00:00+01:00",
+  "genres": [
+   "Garage",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/S.r._OCT_2026.jpg",
+  "minutes": 120,
+  "size": 288010889,
+  "title": "YOSH - 17/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/swu/Yosh180726.mp3": {
   "channel": "swu",
@@ -21014,6 +21333,18 @@
   "minutes": 120,
   "size": 288009936,
   "title": "ZamZam Sounds - 28/06/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/swu/ZenArcade171026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-17T12:00:00+01:00",
+  "genres": [
+   "Disco",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/ZenArcade_01.jpeg",
+  "minutes": 120,
+  "size": 281977677,
+  "title": "Zen Arcade - 18/10/2026 - 07:00"
  },
  "https://replay.rinse.fm/swu/ZenArcade190926.mp3": {
   "channel": "swu",
@@ -22006,6 +22337,19 @@
   "size": 263845985,
   "title": "Brighter Days Family - 29/09/2026 - 15:00"
  },
+ "https://replay.rinse.fm/uk/BruceTantum171026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-17T15:00:00+01:00",
+  "genres": [
+   "Talk",
+   "House",
+   "Soul"
+  ],
+  "image": "https://image.rinse.fm/_/Shot-by-Jihoon-Kang-001-Bruce-Tantum.JPG",
+  "minutes": 60,
+  "size": 143025414,
+  "title": "Bruce Tantum - 17/10/2026 - 15:00"
+ },
  "https://replay.rinse.fm/uk/BruceTantum210626.mp3": {
   "channel": "uk",
   "date": "2026-06-22T12:00:00+01:00",
@@ -22805,6 +23149,17 @@
   "minutes": 120,
   "size": 288006785,
   "title": "Continental GT - 28/08/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/uk/CoopPresents181026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-18T14:00:00+01:00",
+  "genres": [
+   "Broken Beat"
+  ],
+  "image": "https://image.rinse.fm/_/CoOp-2025-LOGO-WHT-Alex-Phountzi_2026-10-16-193035_bzaq.jpg",
+  "minutes": 120,
+  "size": 287849316,
+  "title": "CoOp Presents - 18/10/2026 - 14:00"
  },
  "https://replay.rinse.fm/uk/Cormac260926.mp3": {
   "channel": "uk",
@@ -24102,6 +24457,17 @@
   "size": 142953431,
   "title": "El Londo - 16/11/2025 - 17:00"
  },
+ "https://replay.rinse.fm/uk/ElLondo181026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-18T17:00:00+01:00",
+  "genres": [
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_9294-El-Londo.JPEG",
+  "minutes": 60,
+  "size": 144649168,
+  "title": "El Londo - 18/10/2026 - 17:00"
+ },
  "https://replay.rinse.fm/uk/ElLondo200926.mp3": {
   "channel": "uk",
   "date": "2026-09-20T17:00:00+01:00",
@@ -25330,6 +25696,19 @@
   "size": 143941014,
   "title": "IsGwan - 25/07/2026 - 23:00"
  },
+ "https://replay.rinse.fm/uk/IsGwan251025.mp3": {
+  "channel": "uk",
+  "date": "2026-10-19T21:00:00+01:00",
+  "genres": [
+   "Broken Beat",
+   "Bass",
+   "Funky"
+  ],
+  "image": "https://image.rinse.fm/_/Smiff-IsGwan-Isaac-Walker.jpg",
+  "minutes": 60,
+  "size": 143797252,
+  "title": "IsGwan - 19/10/2026 - 21:00"
+ },
  "https://replay.rinse.fm/uk/IsGwan260926.mp3": {
   "channel": "uk",
   "date": "2026-09-26T23:00:00+01:00",
@@ -25365,6 +25744,19 @@
   "size": 143519644,
   "title": "Isaac Carter - 09/07/2026 - 18:00"
  },
+ "https://replay.rinse.fm/uk/IveLovers171026_.mp3": {
+  "channel": "uk",
+  "date": "2026-10-17T16:00:00+01:00",
+  "genres": [
+   "Garage",
+   "House",
+   "Oldskool"
+  ],
+  "image": "https://image.rinse.fm/_/luuk-shoot-6-maes-doornbos.jpeg",
+  "minutes": 60,
+  "size": 142913561,
+  "title": "Ive Lovers - 17/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/uk/JAEL220726.mp3": {
   "channel": "uk",
   "date": "2026-07-22T19:00:00+01:00",
@@ -25398,6 +25790,17 @@
   "minutes": 120,
   "size": 286330711,
   "title": "JAEL - 26/03/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/uk/JD.REID181026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-18T18:00:00+01:00",
+  "genres": [
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/7c082de2-cbbc-4da5-bb4e-fd7c670706c0-JD.-REID.jpeg",
+  "minutes": 60,
+  "size": 144303303,
+  "title": "JD. REID - 18/10/2026 - 18:00"
  },
  "https://replay.rinse.fm/uk/JD.REID190726.mp3": {
   "channel": "uk",
@@ -27482,6 +27885,19 @@
   "size": 138403018,
   "title": "Oscar Farrell - 15/08/2026 - 18:00"
  },
+ "https://replay.rinse.fm/uk/OscarFarrell171026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-17T18:00:00+01:00",
+  "genres": [
+   "Electronic",
+   "Multigenre",
+   "Hardcore"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_2005-Oscar-Farrell.jpeg",
+  "minutes": 60,
+  "size": 139842660,
+  "title": "Oscar Farrell - 17/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/uk/OscarFarrell180726.mp3": {
   "channel": "uk",
   "date": "2026-07-18T18:00:00+01:00",
@@ -27920,6 +28336,19 @@
   "minutes": 120,
   "size": 286197520,
   "title": "Phonica Records - 16/08/2026 - 10:00"
+ },
+ "https://replay.rinse.fm/uk/PhonicaRecords181026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-18T09:00:00+01:00",
+  "genres": [
+   "Disco",
+   "Techno",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/PHOTO-2026-10-14-20-04-23-Daire-Carolan.jpg",
+  "minutes": 120,
+  "size": 288449105,
+  "title": "Phonica Records - 18/10/2026 - 09:00"
  },
  "https://replay.rinse.fm/uk/PhonicaRecords190726.mp3": {
   "channel": "uk",
@@ -28727,6 +29156,19 @@
   "minutes": 60,
   "size": 131470803,
   "title": "Savannah Blake - 26/08/2025 - 13:00"
+ },
+ "https://replay.rinse.fm/uk/ScottiDee181026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-18T16:00:00+01:00",
+  "genres": [
+   "Amapiano",
+   "House",
+   "Dance"
+  ],
+  "image": "https://image.rinse.fm/_/1000353878-Daniel-Reno.jpg",
+  "minutes": 60,
+  "size": 127764673,
+  "title": "Scotti Dee - 18/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/uk/ScottiDee200926.mp3": {
   "channel": "uk",

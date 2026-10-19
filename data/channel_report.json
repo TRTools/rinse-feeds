@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 37,
+  "count": 35,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/MUTEKinviteISTANBULGHETTOCLUB181026(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/YoungPulseBOOGIETOTHETOP191026(VBR).mp3"
  },
  "kool": {
-  "count": 21,
+  "count": 31,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/SilvaSnipa161026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/BasicsRecords181026.mp3"
  },
  "swu": {
-  "count": 97,
+  "count": 112,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/RuthRoyall161026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/KaotikKartel181026_FIX.mp3"
  },
  "uk": {
-  "count": 61,
+  "count": 79,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/DanceRegular230826.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Scratcha170826.mp3"
  }
 }

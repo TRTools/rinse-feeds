@@ -25,42 +25,49 @@
     "title": "SWU FM"
    }
   ],
-  "displayTitle": "with Rumble In The Jungle (Noisy Antics), Ticky & Nooch",
-  "episodeDate": "2026-10-15T23:00:00+00:00",
+  "displayTitle": "with Papa B",
+  "episodeDate": "2026-10-17T23:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-10-18T16:00:00+01:00",
-  "extract": "A massive show - special guest Rumble In The Jungle owner Noisy Antics, Rising Rythmn from Ticky and guest co-host Nooch alongside Euphonique.",
+  "episodeTime": "2026-10-19T10:00:00+01:00",
+  "extract": "Reggae and dancehall to start Sunday morning right",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Euphonique_OCT_2026.png",
+    "filename": "Kaotik-Kartel-Oct-26.jpeg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1350,
-    "width": 1080
+    "height": 4032,
+    "width": 3024
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/RuthRoyall161026.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/KaotikKartel181026_FIX.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": true,
+    "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "dnb",
-    "title": "Drum & Bass"
+    "slug": "reggae",
+    "title": "Reggae"
    },
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": true,
+    "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "jungle",
-    "title": "Jungle"
+    "slug": "dancehall",
+    "title": "Dancehall"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "dub",
+    "title": "Dub"
    }
   ],
-  "id": "2314321",
+  "id": "2314702",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -72,49 +79,49 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "2 hours of the best underground sounds from the UK and beyond with Ruth Royall & Euphonique",
+    "extract": "The freshest Reggae, Dancehall, Jungle and everything in between from Gurnsey, DJ Stivs, Ed Cox, Papa B & friends.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "RuthRoyall_01.jpg",
+      "filename": "Kaotik-Kartel-June23.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 6452,
-      "width": 4301
+      "height": 2684,
+      "width": 2016
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "dnb",
-      "title": "Drum & Bass"
+      "slug": "dancehall",
+      "title": "Dancehall"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "breakbeat",
-      "title": "Breakbeat"
+      "slug": "reggae",
+      "title": "Reggae"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "garage",
-      "title": "Garage"
+      "slug": "multigenre",
+      "title": "Multigenre"
      }
     ],
-    "id": "2143115",
+    "id": "1092475",
     "showStatus": "highlighted",
-    "slug": "ruth-royall-aph",
-    "title": "Ruth Royall & Euphonique",
-    "url": "https://admin.rinse.fm/shows/ruth-royall-aph"
+    "slug": "kaotik-kartel",
+    "title": "Kaotik Kartel",
+    "url": "https://admin.rinse.fm/shows/kaotik-kartel"
    }
   ],
-  "slug": "ruth-royall-euphonique-16-10-2026-1600",
+  "slug": "kaotik-kartel-18-10-2026-1000",
   "subtitle": null,
-  "title": "Ruth Royall & Euphonique - 16/10/2026 - 16:00",
+  "title": "Kaotik Kartel - 18/10/2026 - 10:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Euphonique_OCT_2026.png",
+ "image": "https://image.rinse.fm/_/Kaotik-Kartel-Oct-26.jpeg",
  "image_found_at": ".featuredImage.filename"
 }
