@@ -12,10 +12,30 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>DRIIA - 19/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 19 Oct 2026 17:00. Drum &amp; Bass, Jungle, Oldskool</description>
+<enclosure url="https://replay.rinse.fm/kool/DRIIA191026.mp3" length="288618995" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288618995</guid>
+<pubDate>Mon, 19 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_7536-DRIIA.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Basics Records - 19/10/2026 - 00:00</title>
 <description>Kool FM, broadcast 19 Oct 2026 00:00. Drum &amp; Bass, Jungle</description>
 <enclosure url="https://replay.rinse.fm/kool/BasicsRecords181026.mp3" length="144163321" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-144163321</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/COLD-Peter-Gubby.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Basics Records - 19/10/2026 - 00:00</title>
+<description>Kool FM, broadcast 19 Oct 2026 00:00. Drum &amp; Bass, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicsRecordsTX181026.mp3" length="144178028" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144178028</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
@@ -30,6 +50,16 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-10-15-at-11.04.12-Xeonz-UK.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>MC Det - 18/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 18 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MCDet181026.mp3" length="144484085" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144484085</guid>
+<pubDate>Sun, 18 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/20200305_013320.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Rebel Music - 18/10/2026 - 19:00</title>
@@ -2979,36 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/000265130015_-Pete-Cannon.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Loxy - 05/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 05 Aug 2026 19:00. Drum &amp; Bass, Jungle, Dub</description>
-<enclosure url="https://replay.rinse.fm/kool/Loxy050826_.mp3" length="288218139" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288218139</guid>
-<pubDate>Wed, 05 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_0689-Loxy-Cylon.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>100% - 05/10/2026 - 16:00</title>
-<description>Kool FM, broadcast 05 Aug 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/100CriticalMusic140526.mp3" length="144277407" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144277407</guid>
-<pubDate>Wed, 05 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/criticalLogo-medium.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Enta - 04/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 04 Aug 2026 23:00. Techstep, minimal, Rollers</description>
-<enclosure url="https://replay.rinse.fm/kool/Enta040826.mp3" length="286605595" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-286605595</guid>
-<pubDate>Tue, 04 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/30723a44-922d-4fc4-b792-eca49afed68a-LIAM-ENTA.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

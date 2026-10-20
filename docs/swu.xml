@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>NINA - 19/10/2026 - 21:00</title>
+<description>SWU FM, broadcast 19 Oct 2026 21:00. Electro, Dubstep, Garage</description>
+<enclosure url="https://replay.rinse.fm/swu/NINA191026.mp3" length="144010473" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010473</guid>
+<pubDate>Mon, 19 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/NINA_Oct_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>NYE To NYD - 19/10/2026 - 17:00</title>
 <description>SWU FM, broadcast 19 Oct 2026 17:00. Bass, Garage, Techno</description>
 <enclosure url="https://replay.rinse.fm/swu/Hijinx311225.mp3" length="144011799" type="audio/mpeg"/>
@@ -30,6 +40,26 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/SirHiss_OCT_2024.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 19/10/2026 - 14:00</title>
+<description>SWU FM, broadcast 19 Oct 2026 14:00. Multigenre, Dub, Talk</description>
+<enclosure url="https://replay.rinse.fm/swu/LaidBlak191026.mp3" length="288009052" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009052</guid>
+<pubDate>Mon, 19 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Cresco-Studios_Oct_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Balance - 18/10/2026 - 19:00</title>
+<description>SWU FM, broadcast 18 Oct 2026 19:00. Multigenre, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/Balance181026.mp3" length="288008938" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008938</guid>
+<pubDate>Sun, 18 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Balance_Oct_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Argo - 18/10/2026 - 18:00</title>
@@ -2980,36 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/OPR8_JUL_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 10/07/2026 - 10:00</title>
-<description>SWU FM, broadcast 10 Jul 2026 10:00. House, Disco, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy100726.mp3" length="288010409" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010409</guid>
-<pubDate>Fri, 10 Jul 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DAD-Adam-Purnell_July_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>IZZIT - 10/07/2026 - 00:00</title>
-<description>SWU FM, broadcast 10 Jul 2026 00:00. House, Electronic, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/IZZIT090726.mp3" length="144012908" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144012908</guid>
-<pubDate>Fri, 10 Jul 2026 00:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IZZIT_July-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ALYA L - 09/07/2026 - 23:00</title>
-<description>SWU FM, broadcast 09 Jul 2026 23:00. Electronic, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/ALYAL090726.mp3" length="144012910" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144012910</guid>
-<pubDate>Thu, 09 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ALYAL_01.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

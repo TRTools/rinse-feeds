@@ -25,50 +25,17 @@
     "title": "SWU FM"
    }
   ],
-  "displayTitle": "with Papa B",
-  "episodeDate": "2026-10-17T23:00:00+00:00",
+  "displayTitle": null,
+  "episodeDate": "2026-10-19T23:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-10-19T10:00:00+01:00",
-  "extract": "Reggae and dancehall to start Sunday morning right",
-  "featuredImage": [
-   {
-    "__typename": "media_Asset",
-    "filename": "Kaotik-Kartel-Oct-26.jpeg",
-    "focalPoint": [
-     0.5,
-     0.5
-    ],
-    "hasFocalPoint": false,
-    "height": 4032,
-    "width": 3024
-   }
-  ],
-  "fileUrl": "https://replay.rinse.fm/swu/KaotikKartel181026_FIX.mp3",
-  "genreTag": [
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "reggae",
-    "title": "Reggae"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "dancehall",
-    "title": "Dancehall"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "dub",
-    "title": "Dub"
-   }
-  ],
-  "id": "2314702",
-  "isRebroadcast": false,
+  "episodeTime": "2026-10-20T07:00:00+01:00",
+  "extract": null,
+  "featuredImage": [],
+  "fileUrl": "https://replay.rinse.fm/swu/WormDisco191026.mp3",
+  "genreTag": [],
+  "id": "2316600",
+  "isRebroadcast": true,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
@@ -79,30 +46,30 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "The freshest Reggae, Dancehall, Jungle and everything in between from Gurnsey, DJ Stivs, Ed Cox, Papa B & friends.",
+    "extract": "Join the Worms for an eclectic mix of music varying from Jazz, Latin, Brazilian and Caribbean grooves.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Kaotik-Kartel-June23.jpg",
+      "filename": "©-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 2684,
-      "width": 2016
+      "height": 1983,
+      "width": 2048
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "dancehall",
-      "title": "Dancehall"
+      "slug": "jazz",
+      "title": "Jazz"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "reggae",
-      "title": "Reggae"
+      "slug": "latin",
+      "title": "Latin"
      },
      {
       "__typename": "genre_Tag",
@@ -110,18 +77,18 @@
       "title": "Multigenre"
      }
     ],
-    "id": "1092475",
+    "id": "1095069",
     "showStatus": "highlighted",
-    "slug": "kaotik-kartel",
-    "title": "Kaotik Kartel",
-    "url": "https://admin.rinse.fm/shows/kaotik-kartel"
+    "slug": "worm-disco-club",
+    "title": "Worm Disco Club",
+    "url": "https://admin.rinse.fm/shows/worm-disco-club"
    }
   ],
-  "slug": "kaotik-kartel-18-10-2026-1000",
+  "slug": "worm-disco-club-20-10-2026-0700",
   "subtitle": null,
-  "title": "Kaotik Kartel - 18/10/2026 - 10:00",
+  "title": "Worm Disco Club - 20/10/2026 - 07:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Kaotik-Kartel-Oct-26.jpeg",
- "image_found_at": ".featuredImage.filename"
+ "image": "https://image.rinse.fm/_/%C2%A9-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
+ "image_found_at": ".parentShow.featuredImage.filename"
 }

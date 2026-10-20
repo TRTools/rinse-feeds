@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/YoungPulseBOOGIETOTHETOP191026(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/NyegeNyegeinviteAzziontheBeat201026(320).mp3"
  },
  "kool": {
-  "count": 31,
+  "count": 27,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/BasicsRecords181026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/DRIIA191026.mp3"
  },
  "swu": {
-  "count": 112,
+  "count": 114,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/KaotikKartel181026_FIX.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/WormDisco191026.mp3"
  },
  "uk": {
-  "count": 79,
+  "count": 83,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/Scratcha170826.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Surusinghe150926.mp3"
  }
 }
