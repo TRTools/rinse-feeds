@@ -26,16 +26,42 @@
    }
   ],
   "displayTitle": null,
-  "episodeDate": "2026-10-19T23:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-10-20T07:00:00+01:00",
-  "extract": null,
-  "featuredImage": [],
-  "fileUrl": "https://replay.rinse.fm/swu/WormDisco191026.mp3",
-  "genreTag": [],
-  "id": "2316600",
-  "isRebroadcast": true,
-  "originalEpisode": [],
+  "episodeDate": "2026-10-06T23:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-10-21T18:00:00+01:00",
+  "extract": "Taking it back to the 2000s with some cool 136bpm tracks",
+  "featuredImage": [
+   {
+    "__typename": "media_Asset",
+    "filename": "scruz-Oct-2026.PNG",
+    "focalPoint": [
+     0.5,
+     0.5
+    ],
+    "hasFocalPoint": false,
+    "height": 2532,
+    "width": 1170
+   }
+  ],
+  "fileUrl": "https://replay.rinse.fm/swu/Scruz071026.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "house",
+    "title": "House"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "techno",
+    "title": "Techno"
+   }
+  ],
+  "id": "2310841",
+  "isRebroadcast": false,
   "parentShow": [
    {
     "__typename": "show_show_Entry",
@@ -46,49 +72,44 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Join the Worms for an eclectic mix of music varying from Jazz, Latin, Brazilian and Caribbean grooves.",
+    "extract": null,
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "©-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
+      "filename": "ScruzPress2-Lachie-Thurlow.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1983,
-      "width": 2048
+      "height": 1600,
+      "width": 1066
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "jazz",
-      "title": "Jazz"
+      "slug": "garage",
+      "title": "Garage"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "latin",
-      "title": "Latin"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "multigenre",
-      "title": "Multigenre"
+      "slug": "bass",
+      "title": "Bass"
      }
     ],
-    "id": "1095069",
+    "id": "1852943",
     "showStatus": "highlighted",
-    "slug": "worm-disco-club",
-    "title": "Worm Disco Club",
-    "url": "https://admin.rinse.fm/shows/worm-disco-club"
+    "slug": "scruz",
+    "title": "Scruz",
+    "url": "https://admin.rinse.fm/shows/scruz"
    }
   ],
-  "slug": "worm-disco-club-20-10-2026-0700",
+  "slug": "scruz-07-11-2026-1800",
   "subtitle": null,
-  "title": "Worm Disco Club - 20/10/2026 - 07:00",
+  "title": "Scruz - 07/10/2026 - 18:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/%C2%A9-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
- "image_found_at": ".parentShow.featuredImage.filename"
+ "image": "https://image.rinse.fm/_/scruz-Oct-2026.PNG",
+ "image_found_at": ".featuredImage.filename"
 }

@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Tommy Jackson - 20/10/2026 - 21:00</title>
+<description>SWU FM, broadcast 20 Oct 2026 21:00. Techno, Dance</description>
+<enclosure url="https://replay.rinse.fm/swu/TommyJackson201026.mp3" length="144009463" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009463</guid>
+<pubDate>Tue, 20 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/TommyJackson_Oct_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>PBR Streetgang - 20/10/2026 - 16:00</title>
+<description>SWU FM, broadcast 20 Oct 2026 16:00. House, Disco, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/swu/PBRStreetgang201026.mp3" length="288008942" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008942</guid>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PBR-Streetgang-October-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>NINA - 19/10/2026 - 21:00</title>
 <description>SWU FM, broadcast 19 Oct 2026 21:00. Electro, Dubstep, Garage</description>
 <enclosure url="https://replay.rinse.fm/swu/NINA191026.mp3" length="144010473" type="audio/mpeg"/>
@@ -1999,7 +2019,7 @@
 <pubDate>Wed, 12 Aug 2026 16:00:00 +0100</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/3Ts_June-2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/IMG_9300-3TP-tv.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>SSSLIP - 11/08/2026 - 21:00</title>
@@ -2990,26 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Headset_JUL_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Lily Huu - 12/07/2026 - 01:00</title>
-<description>SWU FM, broadcast 10 Jul 2026 18:00. Bass, Jungle, Dancefloor</description>
-<enclosure url="https://replay.rinse.fm/swu/LilyHuu100726.mp3" length="144009471" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144009471</guid>
-<pubDate>Fri, 10 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OKDJ_JULY_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>OPR8 - 12/07/2026 - 03:00</title>
-<description>SWU FM, broadcast 10 Jul 2026 14:00. Multigenre, Breakbeat, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/OPR8_100726.mp3" length="288010293" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010293</guid>
-<pubDate>Fri, 10 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OPR8_JUL_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

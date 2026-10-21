@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Hugh Hardie - 20/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 20 Oct 2026 21:00. Drum &amp; Bass, Liquid, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/HughHardieTX201026.mp3" length="288464813" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288464813</guid>
+<pubDate>Tue, 20 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/HUGH_PRESS_V2_JPEG-11-Hugh.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Marly Marl - 20/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 20 Oct 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarlyMarlTX201026.mp3" length="288473027" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288473027</guid>
+<pubDate>Tue, 20 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Marly-Marl-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jamie G presents the United Colours Of Jungle Show - 20/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 20 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/JamieG201026.mp3" length="287935072" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287935072</guid>
+<pubDate>Tue, 20 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Jamie-G-July-2023_2.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Liquicity - 19/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 19 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Liquicity191026.mp3" length="288749620" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288749620</guid>
+<pubDate>Mon, 19 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SWM0662-Boudewijn-Kustner.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>DRIIA - 19/10/2026 - 17:00</title>
 <description>Kool FM, broadcast 19 Oct 2026 17:00. Drum &amp; Bass, Jungle, Oldskool</description>
 <enclosure url="https://replay.rinse.fm/kool/DRIIA191026.mp3" length="288618995" type="audio/mpeg"/>
@@ -36,6 +76,16 @@
 <description>Kool FM, broadcast 19 Oct 2026 00:00. Drum &amp; Bass, Jungle</description>
 <enclosure url="https://replay.rinse.fm/kool/BasicsRecordsTX181026.mp3" length="144178028" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-144178028</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/COLD-Peter-Gubby.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Basics Records - 19/10/2026 - 00:00</title>
+<description>Kool FM, broadcast 19 Oct 2026 00:00. Drum &amp; Bass, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicsRecords181026_.mp3" length="144178051" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144178051</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
@@ -130,6 +180,16 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_4102-Silva-Snipa.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>VXRGO - 16/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 16 Oct 2026 19:00. Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/VXRGO161026.mp3" length="288775735" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288775735</guid>
+<pubDate>Fri, 16 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/NEW_sdm-029-Monique-Wilson_2026-10-14-175349_xqfy.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Ibiza Records Show - 16/10/2026 - 16:00</title>
@@ -2949,66 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/OSO00613-copy-Mungos-Hifi.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Vektah - 29/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 06 Aug 2026 23:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/Vektah060826.mp3" length="289078094" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-289078094</guid>
-<pubDate>Thu, 06 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Boomtown-26-Lawrence-Bachell.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sweetpea - 06/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 06 Aug 2026 19:00. Drum &amp; Bass, Liquid</description>
-<enclosure url="https://replay.rinse.fm/kool/Sweetpea060826.mp3" length="288606868" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288606868</guid>
-<pubDate>Thu, 06 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2021-03-16-at-14.38.50-Sweetpea.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Benny V - 06/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 06 Aug 2026 17:00. Drum &amp; Bass, Liquid, Rollers</description>
-<enclosure url="https://replay.rinse.fm/kool/BennyV060826.mp3" length="287841996" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287841996</guid>
-<pubDate>Thu, 06 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OCEAN-BORN-NO-TEXT-SQUARE-Benny-V.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>100% - 06/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 06 Aug 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/100BadCompanyUK180526.mp3" length="144313920" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144313920</guid>
-<pubDate>Thu, 06 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/images_2026-05-17-134037_odpf.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>North Base - 05/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 05 Aug 2026 23:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/NorthBase050826.mp3" length="288391634" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288391634</guid>
-<pubDate>Wed, 05 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-08-04-at-21.27.57.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>N4 Records with Pete Cannon - 05/08/2026 - 21:00</title>
-<description>Kool FM, broadcast 05 Aug 2026 21:00. Jungle, Hardcore</description>
-<enclosure url="https://replay.rinse.fm/kool/N4Records050826.mp3" length="287501422" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287501422</guid>
-<pubDate>Wed, 05 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/000265130015_-Pete-Cannon.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

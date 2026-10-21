@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Hyas - 21/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 21 Oct 2026 19:00. Footwork, Trap, Jungle</description>
+<enclosure url="https://replay.rinse.fm/france/HyasinviteSLMVX211026(VBR).mp3" length="126249435" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-126249435</guid>
+<pubDate>Wed, 21 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/HYAS_OCTOBER1-Hyas.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ADRIXXX - 21/10/2026 - 16:00</title>
+<description>Rinse France, broadcast 21 Oct 2026 16:00. Dancehall, Reggaeton, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/ADRIXXXinviteTUKS211026(320).mp3" length="96034387" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-96034387</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_1254-Adrien-Constantin.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Nyege Nyege - 20/10/2026 - 19:00</title>
 <description>Rinse France, broadcast 20 Oct 2026 19:00</description>
 <enclosure url="https://replay.rinse.fm/france/NyegeNyegeinviteAzziontheBeat201026(320).mp3" length="136844425" type="audio/mpeg"/>
@@ -20,6 +40,16 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Nyege-Glowy-Po%CC%88-Beda.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>LE MOM - 20/10/2026 - 18:00</title>
+<description>Rinse France, broadcast 20 Oct 2026 18:00. Electronic, Bass, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/LEMOM201026(VBR).mp3" length="137491802" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137491802</guid>
+<pubDate>Tue, 20 Oct 2026 18:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LE-MOM-10_2026-LE-MOM.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Rinse France Guest Show - 20/10/2026 - 16:00</title>
@@ -179,6 +209,7 @@
 <pubDate>Fri, 16 Oct 2026 15:00:00 +0100</pubDate>
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Melanin-161026.00_23_32_02.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>MumBeats - 16/10/2026 - 14:00</title>
@@ -245,6 +276,16 @@
 <description>Rinse France, broadcast 15 Oct 2026 14:00. Rap, Hiphop, Trap</description>
 <enclosure url="https://replay.rinse.fm/france/Andy4000141026(320).mp3" length="172163173" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-172163173</guid>
+<pubDate>Thu, 15 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/NES5-CANDIDATS-Keita-Andre%CC%81e.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Andy4000 - 15/10/2026 - 14:00</title>
+<description>Rinse France, broadcast 15 Oct 2026 14:00. Rap, Hiphop, Trap</description>
+<enclosure url="https://replay.rinse.fm/france/GOODAndy4000141026(320).mp3" length="170552300" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-170552300</guid>
 <pubDate>Thu, 15 Oct 2026 14:00:00 +0100</pubDate>
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
@@ -2968,46 +3009,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/EE06CADB-59D2-407F-8941-6D1B55907AC3-Keita-Andre%CC%81e.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ShayBySchai - 08/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 08 Jul 2026 16:00. Electro, House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/shaybyschai080726(VBR).mp3" length="144550684" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144550684</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/D385B1B1-7FD1-4395-9F1B-96D6DD00A60D-schaitine-AURIVEL.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>STL-P - 07/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 07 Jul 2026 20:00. Bass, Techno, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/STLP100626(320).mp3" length="144344250" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144344250</guid>
-<pubDate>Tue, 07 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/STL-P-Juillet-Estelle-Paixao.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Teddy Kitano - 07/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 07 Jul 2026 19:00. Grime, Footwork, Jungle</description>
-<enclosure url="https://replay.rinse.fm/france/TeddyKitano070726(VBR).mp3" length="135207005" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-135207005</guid>
-<pubDate>Tue, 07 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/TEDDY-KITANO-JULY-2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Fièvre - 07/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 07 Jul 2026 18:00. Garage, Bass, dubst</description>
-<enclosure url="https://replay.rinse.fm/france/Fievre070726(VBR).mp3" length="144423751" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144423751</guid>
-<pubDate>Tue, 07 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Fie%CC%80vre-07-2026-Victor-Fie%CC%80vre.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
