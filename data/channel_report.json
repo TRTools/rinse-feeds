@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 36,
+  "count": 37,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/HyasinviteSLMVX211026(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/ToVanKao221026(VBR).mp3"
  },
  "kool": {
-  "count": 28,
+  "count": 35,
   "sample_fields": {
    "channel": [
     {
@@ -58,7 +58,7 @@
   "sample_url": "https://replay.rinse.fm/kool/HughHardieTX201026.mp3"
  },
  "swu": {
-  "count": 103,
+  "count": 100,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Scruz071026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/BigMiz080926.mp3"
  },
  "uk": {
-  "count": 88,
+  "count": 93,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/TashaTX191026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/EclecticistTX211026.mp3"
  }
 }

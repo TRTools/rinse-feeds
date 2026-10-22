@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>DJ Brockie - 21/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 21 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJBrockie211026.mp3" length="288907788" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288907788</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Brockie-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Hugh Hardie - 20/10/2026 - 21:00</title>
 <description>Kool FM, broadcast 20 Oct 2026 21:00. Drum &amp; Bass, Liquid, Rollers</description>
 <enclosure url="https://replay.rinse.fm/kool/HughHardieTX201026.mp3" length="288464813" type="audio/mpeg"/>
@@ -40,6 +50,16 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Jamie-G-July-2023_2.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>100% - 11/05/2026 - 16:00</title>
+<description>Kool FM, broadcast 20 Oct 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/kool/100LondonElektricity110526.mp3" length="144213632" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144213632</guid>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/avatars-000536004123-kbcqne-t500x500.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Liquicity - 19/10/2026 - 21:00</title>
@@ -74,8 +94,8 @@
 <item>
 <title>Basics Records - 19/10/2026 - 00:00</title>
 <description>Kool FM, broadcast 19 Oct 2026 00:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/BasicsRecordsTX181026.mp3" length="144178028" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144178028</guid>
+<enclosure url="https://replay.rinse.fm/kool/BasicsRecords181026_.mp3" length="144178051" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144178051</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
@@ -84,8 +104,8 @@
 <item>
 <title>Basics Records - 19/10/2026 - 00:00</title>
 <description>Kool FM, broadcast 19 Oct 2026 00:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/BasicsRecords181026_.mp3" length="144178051" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144178051</guid>
+<enclosure url="https://replay.rinse.fm/kool/BasicsRecordsTX181026.mp3" length="144178028" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144178028</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
@@ -2989,26 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Crate Classics - 07/08/2026 - 14:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/kool/CrateClassics070826.mp3" length="275010619" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-275010619</guid>
-<pubDate>Fri, 07 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Crate-Classics-March-2023_3.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mungo's Hi Fi - 07/08/2026 - 09:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 09:00. Dub, Bass, Afrobeat</description>
-<enclosure url="https://replay.rinse.fm/kool/MungosHiFi070826_.mp3" length="292184323" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-292184323</guid>
-<pubDate>Fri, 07 Aug 2026 09:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OSO00613-copy-Mungos-Hifi.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Party Response with ARLO - 21/10/2026 - 16:00</title>
+<description>SWU FM, broadcast 21 Oct 2026 16:00. House, Techno, Garage</description>
+<enclosure url="https://replay.rinse.fm/swu/PartyResponse211026.mp3" length="288014110" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288014110</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ARLO_Oct_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>A Sagittariun - 20/10/2026 - 23:00</title>
+<description>SWU FM, broadcast 20 Oct 2026 23:00. Techno, Electronic, Ambient</description>
+<enclosure url="https://replay.rinse.fm/swu/ASagittariun201026.mp3" length="288008962" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008962</guid>
+<pubDate>Tue, 20 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/A-Sagittariun_OCT_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Tommy Jackson - 20/10/2026 - 21:00</title>
 <description>SWU FM, broadcast 20 Oct 2026 21:00. Techno, Dance</description>
 <enclosure url="https://replay.rinse.fm/swu/TommyJackson201026.mp3" length="144009463" type="audio/mpeg"/>
@@ -30,6 +50,26 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/PBR-Streetgang-October-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>20 Years Of Roasted - 21/10/2026 - 08:00</title>
+<description>SWU FM, broadcast 20 Oct 2026 13:00</description>
+<enclosure url="https://replay.rinse.fm/swu/BookerT310824.mp3" length="144009453" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009453</guid>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/image1-Ben-Daley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Kerri Chandler - 21/10/2026 - 07:00</title>
+<description>SWU FM, broadcast 20 Oct 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/swu/KerriChandler310824.mp3" length="144009507" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009507</guid>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Kerri-Chandler-2022-Press-Picture-2-Shot-by-Joe-Finch.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>NINA - 19/10/2026 - 21:00</title>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Caragh_JUL_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Joe Koshin - 13/07/2026 - 05:00</title>
-<description>SWU FM, broadcast 11 Jul 2026 14:00. House, Techno, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/JoeKoshin110726.mp3" length="288010351" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010351</guid>
-<pubDate>Sat, 11 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MS_JUNE_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Emmet Read - 30/07/2026 - 05:00</title>
-<description>SWU FM, broadcast 11 Jul 2026 12:00. Disco</description>
-<enclosure url="https://replay.rinse.fm/swu/EmmetRead110726.mp3" length="288010311" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010311</guid>
-<pubDate>Sat, 11 Jul 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LLSS22_JULY_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Saaaz - 12/07/2026 - 07:00</title>
-<description>SWU FM, broadcast 11 Jul 2026 10:00. Hip-Hop, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/Saaaz110726.mp3" length="288010279" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010279</guid>
-<pubDate>Sat, 11 Jul 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SAAAZ-July-2026.PNG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Headset with Skillis - 16/08/2026 - 01:00</title>
-<description>SWU FM, broadcast 10 Jul 2026 21:00. Bass, Jungle, Dubstep</description>
-<enclosure url="https://replay.rinse.fm/swu/Skillis100726.mp3" length="288010309" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010309</guid>
-<pubDate>Fri, 10 Jul 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Headset_JUL_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

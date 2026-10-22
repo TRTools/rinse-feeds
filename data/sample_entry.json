@@ -26,25 +26,32 @@
    }
   ],
   "displayTitle": null,
-  "episodeDate": "2026-10-06T23:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-10-21T18:00:00+01:00",
-  "extract": "Taking it back to the 2000s with some cool 136bpm tracks",
+  "episodeDate": "2026-09-07T23:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-10-22T16:00:00+01:00",
+  "extract": "Glasgows Big Miz presents 2 hours of house and techno",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "scruz-Oct-2026.PNG",
+    "filename": "Big-Miz-Sept-2026.JPG",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2532,
-    "width": 1170
+    "height": 2700,
+    "width": 1800
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/Scruz071026.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/BigMiz080926.mp3",
   "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "electronic",
+    "title": "Electronic"
+   },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
@@ -60,7 +67,7 @@
     "title": "Techno"
    }
   ],
-  "id": "2310841",
+  "id": "2302972",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -72,44 +79,44 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": null,
+    "extract": "Big Miz returns to the airwaves, bringing you an energetic mix of House and Techno. Weaving together his favourite tracks old and new alongside exclusive unreleased cuts.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "ScruzPress2-Lachie-Thurlow.jpeg",
+      "filename": "Big-Miz-Press-pic-1-Sandy-Ritchie.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1600,
-      "width": 1066
+      "height": 1440,
+      "width": 1179
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "garage",
-      "title": "Garage"
+      "slug": "house",
+      "title": "House"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "bass",
-      "title": "Bass"
+      "slug": "techno",
+      "title": "Techno"
      }
     ],
-    "id": "1852943",
-    "showStatus": "highlighted",
-    "slug": "scruz",
-    "title": "Scruz",
-    "url": "https://admin.rinse.fm/shows/scruz"
+    "id": "13116",
+    "showStatus": "standard",
+    "slug": "big-miz",
+    "title": "Big Miz",
+    "url": "https://admin.rinse.fm/shows/big-miz"
    }
   ],
-  "slug": "scruz-07-11-2026-1800",
+  "slug": "big-miz-08-09-2026-1600",
   "subtitle": null,
-  "title": "Scruz - 07/10/2026 - 18:00",
+  "title": "Big Miz - 08/09/2026 - 16:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/scruz-Oct-2026.PNG",
+ "image": "https://image.rinse.fm/_/Big-Miz-Sept-2026.JPG",
  "image_found_at": ".featuredImage.filename"
 }
