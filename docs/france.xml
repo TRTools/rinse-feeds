@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Boukan Records - 23/10/2026 - 17:00</title>
+<description>Rinse France, broadcast 23 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/france/BoukanrecordsBLUEMEWb2bMELEETIME(320).mp3" length="146104029" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-146104029</guid>
+<pubDate>Fri, 23 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LOGOBLEND-WHITE.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Vie Garantie - 23/10/2026 - 14:00</title>
+<description>Rinse France, broadcast 23 Oct 2026 14:00. Multigenre, Electronic, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/VieGarantiewBismillah231026(320).mp3" length="146357437" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-146357437</guid>
+<pubDate>Fri, 23 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FB_IMG_17924173906701-Vie-Garantie.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>To Van Kao - 22/10/2026 - 20:00</title>
 <description>Rinse France, broadcast 22 Oct 2026 20:00. Ambient, Experimental, Multigenre</description>
 <enclosure url="https://replay.rinse.fm/france/ToVanKao221026(VBR).mp3" length="142633571" type="audio/mpeg"/>
@@ -30,6 +50,26 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Scarlett-2210226.00_27_17_12.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 22/10/2026 - 17:00</title>
+<description>Rinse France, broadcast 22 Oct 2026 17:00. Bass, Electronic, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/france/pleasewaitinvitesGRLS221026(VBR).mp3" length="129160140" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-129160140</guid>
+<pubDate>Thu, 22 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/GRLS.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Naomi - 22/10/2026 - 16:00</title>
+<description>Rinse France, broadcast 22 Oct 2026 16:00. R&amp;B, Rap, Presenters</description>
+<enclosure url="https://replay.rinse.fm/france/naomipresenter&amp;bgems221026(VBR).mp3" length="143398728" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143398728</guid>
+<pubDate>Thu, 22 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Naomi-octobre-2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>TONAK.fm - 22/10/2026 - 14:00</title>
@@ -2969,46 +3009,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/ELECTRAFRIQUE-invite-SPICECURLS-Jul-2026-ElectrAfrique.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Public System Recordings - 11/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 11 Jul 2026 19:00. Podcast, Talk, Presenters</description>
-<enclosure url="https://replay.rinse.fm/france/PUBLICSYSTEMRECORDINGS110726(VBR).mp3" length="144011455" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144011455</guid>
-<pubDate>Sat, 11 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/D5A1B8FB-966F-4151-B9CE-C883E3535DDC-labbet-app-Public-System-Recordings.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>La Mamie's - 11/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 11 Jul 2026 17:00. House</description>
-<enclosure url="https://replay.rinse.fm/france/LaMamies110726(VBR).mp3" length="144428751" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144428751</guid>
-<pubDate>Sat, 11 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/La-Mamies.00_22_43_15.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>D’Julz - 11/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 11 Jul 2026 16:00. House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/Djulz(VBR).mp3" length="144203116" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144203116</guid>
-<pubDate>Sat, 11 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/7-Julien-Veniel_2026-07-02-144139_jreu.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Trois-Quarts Taxi System - 10/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 10 Jul 2026 20:00. Ambient, Bass, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/TroisQuartsTaxiSystem100726(VBR).mp3" length="142189081" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142189081</guid>
-<pubDate>Fri, 10 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/TROIS-QUARTS-TAXI-SYSTEM-_-10_07_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

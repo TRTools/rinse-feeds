@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Disaffected - 22/10/2026 - 21:00</title>
+<description>SWU FM, broadcast 22 Oct 2026 21:00. Dance, Bass, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/swu/Disaffected221026.mp3" length="144010708" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010708</guid>
+<pubDate>Thu, 22 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Disaffected_Feb_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Party Response with ARLO - 21/10/2026 - 16:00</title>
 <description>SWU FM, broadcast 21 Oct 2026 16:00. House, Techno, Garage</description>
 <enclosure url="https://replay.rinse.fm/swu/PartyResponse211026.mp3" length="288014110" type="audio/mpeg"/>
@@ -3000,16 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Swankout_JULY_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Caragh - 29/07/2026 - 18:00</title>
-<description>SWU FM, broadcast 11 Jul 2026 16:00. Electronic, Dub</description>
-<enclosure url="https://replay.rinse.fm/swu/Caragh110726.mp3" length="141810249" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141810249</guid>
-<pubDate>Sat, 11 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Caragh_JUL_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

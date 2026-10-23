@@ -145,6 +145,17 @@
   "size": null,
   "title": "ASIAN CORE - 31/07/2026 - 18:00"
  },
+ "https://replay.rinse.fm/france/ASIANCOREinviteCollectifEmergées231026(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-23T20:00:00+01:00",
+  "genres": [
+   "Talk"
+  ],
+  "image": "https://image.rinse.fm/_/emergees-Laetitia-Muong.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "ASIAN CORE - 23/10/2026 - 20:00"
+ },
  "https://replay.rinse.fm/france/AYAIBEJIB2BBIDASARÔ041026(320).mp3": {
   "channel": "france",
   "date": "2026-10-04T18:00:00+01:00",
@@ -700,6 +711,15 @@
   "minutes": 60,
   "size": null,
   "title": "Boukan Records - 25/09/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/france/BoukanrecordsBLUEMEWb2bMELEETIME(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-23T17:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/LOGOBLEND-WHITE.png",
+  "minutes": 60,
+  "size": 146104029,
+  "title": "Boukan Records - 23/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/BoukanrecordsKontronatura260626(VBR).mp3": {
   "channel": "france",
@@ -5302,6 +5322,19 @@
   "size": 122513476,
   "title": "Vie Garantie - 23/07/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/VieGarantiewBismillah231026(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-23T14:00:00+01:00",
+  "genres": [
+   "Multigenre",
+   "Electronic",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/FB_IMG_17924173906701-Vie-Garantie.jpeg",
+  "minutes": 60,
+  "size": 146357437,
+  "title": "Vie Garantie - 23/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/france/VieGarantiewMulanSerrico(320).mp3": {
   "channel": "france",
   "date": "2026-06-18T14:00:00+01:00",
@@ -5882,6 +5915,32 @@
   "minutes": 60,
   "size": 120154755,
   "title": "Merca Bae - 06/09/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/naomipresenter&bgems221026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-22T16:00:00+01:00",
+  "genres": [
+   "R&B",
+   "Rap",
+   "Presenters"
+  ],
+  "image": "https://image.rinse.fm/_/Naomi-octobre-2026.jpeg",
+  "minutes": 60,
+  "size": 143398728,
+  "title": "Naomi - 22/10/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/pleasewaitinvitesGRLS221026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-22T17:00:00+01:00",
+  "genres": [
+   "Bass",
+   "Electronic",
+   "Drum & Bass"
+  ],
+  "image": "https://image.rinse.fm/_/GRLS.png",
+  "minutes": 60,
+  "size": 129160140,
+  "title": "Rinse France Guest Show - 22/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/poté191026(VBR2).mp3": {
   "channel": "france",
@@ -6989,6 +7048,15 @@
   "size": 144123585,
   "title": "Benny V - 21/08/2026 - 10:00"
  },
+ "https://replay.rinse.fm/kool/BennyV22102026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-22T17:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Benny-V-Press-Shot.jpeg",
+  "minutes": 120,
+  "size": 291016396,
+  "title": "Benny V - 22/10/2026 - 17:00"
+ },
  "https://replay.rinse.fm/kool/BennyV250626.mp3": {
   "channel": "kool",
   "date": "2026-06-25T17:00:00+01:00",
@@ -7759,6 +7827,15 @@
   "minutes": 120,
   "size": 291623646,
   "title": "DJ Flight - 28/04/2026 - 21:00"
+ },
+ "https://replay.rinse.fm/kool/DJHype221026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-22T19:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/DJ-Hype-April-2023_2.jpeg",
+  "minutes": 120,
+  "size": 287457473,
+  "title": "DJ Hype - 22/10/2026 - 19:00"
  },
  "https://replay.rinse.fm/kool/DJHype230726.mp3": {
   "channel": "kool",
@@ -10761,6 +10838,15 @@
   "size": 133876542,
   "title": "Run In The Jungle (T>I & D*Minds) - 19/07/2026 - 22:00"
  },
+ "https://replay.rinse.fm/kool/SABRINA221026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-22T21:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/IMG_3119-Team-Sabrina_2026-03-29-160913_wvgu.jpeg",
+  "minutes": 120,
+  "size": 285564152,
+  "title": "SABRINA - 22/10/2026 - 21:00"
+ },
  "https://replay.rinse.fm/kool/SAVANNAH110726.mp3.mp3": {
   "channel": "kool",
   "date": "2026-07-11T19:00:00+01:00",
@@ -11186,6 +11272,18 @@
   "minutes": 120,
   "size": 289089711,
   "title": "Sounds of Ukraine - 27/08/2026 - 23:00"
+ },
+ "https://replay.rinse.fm/kool/SoundsofUkraine221026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-22T23:00:00+01:00",
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "image": "https://image.rinse.fm/_/Anny-Tangents-SOU-Radio-picture-Olena-Yashchenko.jpg",
+  "minutes": 120,
+  "size": 288721856,
+  "title": "Sounds of Ukraine - 22/10/2026 - 23:00"
  },
  "https://replay.rinse.fm/kool/Soundsofukraine240926.mp3": {
   "channel": "kool",
@@ -12257,7 +12355,7 @@
    "Dance",
    "Latin"
   ],
-  "image": "https://image.rinse.fm/_/AAEE_SEPT_2026.jpeg",
+  "image": "https://image.rinse.fm/_/NewCMSPic_AUGUST_2025-06-17-162326_nvpx.jpg",
   "minutes": 60,
   "size": 144010431,
   "title": "Aæe - 27/09/2026 - 03:00"
@@ -14132,6 +14230,19 @@
   "size": 288011787,
   "title": "Deselecta - 28/08/2026 - 21:00"
  },
+ "https://replay.rinse.fm/swu/Disaffected221026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-22T21:00:00+01:00",
+  "genres": [
+   "Dance",
+   "Bass",
+   "Breakbeat"
+  ],
+  "image": "https://image.rinse.fm/_/Disaffected_Feb_26.jpg",
+  "minutes": 60,
+  "size": 144010708,
+  "title": "Disaffected - 22/10/2026 - 21:00"
+ },
  "https://replay.rinse.fm/swu/Disaffected230726.mp3": {
   "channel": "swu",
   "date": "2026-07-23T21:00:00+01:00",
@@ -14230,6 +14341,19 @@
   "minutes": 60,
   "size": 144010421,
   "title": "Distance - 14/10/2026 - 04:00"
+ },
+ "https://replay.rinse.fm/swu/DomCarlo221026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-22T22:00:00+01:00",
+  "genres": [
+   "Techno",
+   "Dubstep",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/Dom-Carlo-October-2026-domsouthall.jpg",
+  "minutes": 60,
+  "size": 144010704,
+  "title": "Dom Carlo - 22/10/2026 - 22:00"
  },
  "https://replay.rinse.fm/swu/DomCarlo240926.mp3": {
   "channel": "swu",
@@ -19081,6 +19205,19 @@
   "size": 288008926,
   "title": "RSD - 21/09/2026 - 23:00"
  },
+ "https://replay.rinse.fm/swu/Rea221026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-22T19:00:00+01:00",
+  "genres": [
+   "Latin",
+   "Bass",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/Rea_Oct_26.jpg",
+  "minutes": 120,
+  "size": 288010169,
+  "title": "Rea - 22/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/swu/Rea230726.mp3": {
   "channel": "swu",
   "date": "2026-07-23T19:00:00+01:00",
@@ -19670,6 +19807,15 @@
   "minutes": 120,
   "size": 288009932,
   "title": "Samba, Glume and Phossa - 12/10/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/swu/SPICYIVY221026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-22T12:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/SPICYIVY_Oct_2026.jpg",
+  "minutes": 120,
+  "size": 288009898,
+  "title": "SPICYIVY - 22/10/2026 - 12:00"
  },
  "https://replay.rinse.fm/swu/SPICYIVY230726.mp3": {
   "channel": "swu",
@@ -21299,6 +21445,19 @@
   "size": 144011763,
   "title": "Umbra - 08/10/2026 - 00:00"
  },
+ "https://replay.rinse.fm/swu/UniversalMagnetic221026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-22T14:00:00+01:00",
+  "genres": [
+   "Broken Beat",
+   "Jazz",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/Universal-Magnetic-swu-oct-2026-ben_dolo%40yahoo.co.uk.jpg",
+  "minutes": 120,
+  "size": 288009954,
+  "title": "Universal Magnetic - 22/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/swu/UniversalMagnetic230726.mp3": {
   "channel": "swu",
   "date": "2026-07-23T14:00:00+01:00",
@@ -22739,6 +22898,19 @@
   "minutes": 60,
   "size": 138956709,
   "title": "Bel Cobain - 06/10/2026 - 12:00"
+ },
+ "https://replay.rinse.fm/uk/BenHauke221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T21:00:00+01:00",
+  "genres": [
+   "Broken Beat",
+   "Electronic",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/View-recent-photos-Woop-Records-LDN.png",
+  "minutes": 60,
+  "size": 144293928,
+  "title": "Ben Hauke - 22/10/2026 - 21:00"
  },
  "https://replay.rinse.fm/uk/BenHawke260826.mp3": {
   "channel": "uk",
@@ -26558,6 +26730,17 @@
   "size": 286330711,
   "title": "JAEL - 26/03/2026 - 20:00"
  },
+ "https://replay.rinse.fm/uk/JD.REID18102026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-18T18:00:00+01:00",
+  "genres": [
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/7c082de2-cbbc-4da5-bb4e-fd7c670706c0-JD.-REID.jpeg",
+  "minutes": 60,
+  "size": 144728596,
+  "title": "JD. REID - 18/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/uk/JD.REID181026.mp3": {
   "channel": "uk",
   "date": "2026-10-18T18:00:00+01:00",
@@ -27937,6 +28120,15 @@
   "size": 144050051,
   "title": "MoMA Ready - 14/10/2026 - 23:00"
  },
+ "https://replay.rinse.fm/uk/MonaYim221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T17:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/IMG_124227_0-Mona-Yim.jpg",
+  "minutes": 60,
+  "size": 145731705,
+  "title": "Mona Yim - 22/10/2026 - 17:00"
+ },
  "https://replay.rinse.fm/uk/MonaYim230426.mp3": {
   "channel": "uk",
   "date": "2026-08-27T18:00:00+01:00",
@@ -28198,6 +28390,17 @@
   "size": 145422430,
   "title": "NIKS - 08/03/2026 - 19:00"
  },
+ "https://replay.rinse.fm/uk/NIKS221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T22:00:00+01:00",
+  "genres": [
+   "Dance"
+  ],
+  "image": "https://image.rinse.fm/_/NIKS-Rinse-Oct26.jpg",
+  "minutes": 60,
+  "size": 144292807,
+  "title": "NIKS - 22/10/2026 - 22:00"
+ },
  "https://replay.rinse.fm/uk/NIKS240926.mp3": {
   "channel": "uk",
   "date": "2026-09-24T22:00:00+01:00",
@@ -28316,6 +28519,15 @@
   "minutes": 60,
   "size": 143969602,
   "title": "Nancy June - 07/09/2025 - 23:00"
+ },
+ "https://replay.rinse.fm/uk/NancyJune221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T18:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Nancy-June-May-2025.jpg",
+  "minutes": 60,
+  "size": 143668037,
+  "title": "Nancy June - 22/10/2026 - 18:00"
  },
  "https://replay.rinse.fm/uk/NancyJune230726.mp3": {
   "channel": "uk",
@@ -29482,6 +29694,15 @@
   "size": 146294049,
   "title": "Rollo Jackson - 05/09/2026 - 16:00"
  },
+ "https://replay.rinse.fm/uk/RolloJackson221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T14:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/IMG_8063-Rollo-Jackson.jpeg",
+  "minutes": 60,
+  "size": 141144603,
+  "title": "Rollo Jackson - 22/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/uk/RolloJackson240926_.mp3": {
   "channel": "uk",
   "date": "2026-09-24T14:00:00+01:00",
@@ -29886,6 +30107,18 @@
   "minutes": 60,
   "size": 144835336,
   "title": "SK Vibemaker - 18/06/2026 - 13:00"
+ },
+ "https://replay.rinse.fm/uk/SKVibemaker221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T13:00:00+01:00",
+  "genres": [
+   "Hip-Hop",
+   "Dancehall"
+  ],
+  "image": "https://image.rinse.fm/_/Beenie-Man-2017.jpg",
+  "minutes": 60,
+  "size": 144586492,
+  "title": "SK Vibemaker - 22/10/2026 - 13:00"
  },
  "https://replay.rinse.fm/uk/SKVibemaker230726.mp3": {
   "channel": "uk",
@@ -30449,6 +30682,17 @@
   "minutes": 120,
   "size": 289774786,
   "title": "Silva Bumpa - 09/06/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/uk/SilvaBumpa100326.mp3": {
+  "channel": "uk",
+  "date": "2026-10-23T20:00:00+01:00",
+  "genres": [
+   "minimal"
+  ],
+  "image": "https://image.rinse.fm/_/SILVA-BUMPA-CLUB-DARC-%40SEBSEGURA-1-2-Harry-Eagle.JPG",
+  "minutes": 120,
+  "size": 285893986,
+  "title": "Silva Bumpa - 10/03/2026 - 20:00"
  },
  "https://replay.rinse.fm/uk/Skalah170926.mp3": {
   "channel": "uk",
@@ -31566,6 +31810,15 @@
   "minutes": 120,
   "size": 289534534,
   "title": "Tom Ravenscroft - 20/08/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/uk/TomRavenscroft221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T15:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Tom-Ravenscroft-June-2025-2.jpg",
+  "minutes": 120,
+  "size": 288441788,
+  "title": "Tom Ravenscroft - 22/10/2026 - 15:00"
  },
  "https://replay.rinse.fm/uk/TomRavenscroft240926.mp3": {
   "channel": "uk",

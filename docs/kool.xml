@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Sounds of Ukraine - 22/10/2026 - 23:00</title>
+<description>Kool FM, broadcast 22 Oct 2026 23:00. Drum &amp; Bass, Neurofunk</description>
+<enclosure url="https://replay.rinse.fm/kool/SoundsofUkraine221026.mp3" length="288721856" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288721856</guid>
+<pubDate>Thu, 22 Oct 2026 23:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Anny-Tangents-SOU-Radio-picture-Olena-Yashchenko.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>SABRINA - 22/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 22 Oct 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SABRINA221026.mp3" length="285564152" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-285564152</guid>
+<pubDate>Thu, 22 Oct 2026 21:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_3119-Team-Sabrina_2026-03-29-160913_wvgu.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Hype - 22/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 22 Oct 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJHype221026.mp3" length="287457473" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287457473</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Hype-April-2023_2.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Benny V - 22/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 22 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BennyV22102026.mp3" length="291016396" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-291016396</guid>
+<pubDate>Thu, 22 Oct 2026 17:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Benny-V-Press-Shot.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>DJ Brockie - 21/10/2026 - 17:00</title>
 <description>Kool FM, broadcast 21 Oct 2026 17:00</description>
 <enclosure url="https://replay.rinse.fm/kool/DJBrockie211026.mp3" length="288907788" type="audio/mpeg"/>
@@ -2969,46 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/halftone_1786029713.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Loxy - 03/06/2026 - 19:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 19:00. Drum &amp; Bass, Jungle, Experimental</description>
-<enclosure url="https://replay.rinse.fm/kool/Loxy030626.mp3" length="288106493" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288106493</guid>
-<pubDate>Fri, 07 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8778-Loxy-Cylon.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Planet Wax - 07/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 19:00. Hardcore, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/PlanetWax070826.mp3" length="287229364" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287229364</guid>
-<pubDate>Fri, 07 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/20260719_184549-Chris-Dexta.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Monaghan - 07/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 17:00. Drum &amp; Bass, Dub</description>
-<enclosure url="https://replay.rinse.fm/kool/Monaghan070826.mp3" length="288434465" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288434465</guid>
-<pubDate>Fri, 07 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LIAM-OTB_DSC047481633016875729-Liam-Monaghan_2026-08-09-142056_cbgz.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ibiza Records Show - 07/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/IbizaRecords070826.mp3" length="141565950" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141565950</guid>
-<pubDate>Fri, 07 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
