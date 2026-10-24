@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 36,
+  "count": 39,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/ASIANCOREinviteCollectifEmergées231026(320).mp3"
+  "sample_url": "https://replay.rinse.fm/france/coffintextsinvitesphiphi241026(VBR).mp3"
  },
  "kool": {
-  "count": 37,
+  "count": 38,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/SoulventRecords160926.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/IbizaRecordsShow231026.mp3"
  },
  "swu": {
-  "count": 100,
+  "count": 97,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Spectral081026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/Scuba101026.mp3"
  },
  "uk": {
-  "count": 91,
+  "count": 84,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/SilvaBumpa100326.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Roska071125.mp3"
  }
 }

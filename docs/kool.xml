@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ibiza Records Show - 23/10/2026 - 16:00</title>
+<description>Kool FM, broadcast 23 Oct 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/kool/IbizaRecordsShow231026.mp3" length="144459092" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144459092</guid>
+<pubDate>Fri, 23 Oct 2026 16:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Crate Classics - 23/10/2026 - 14:00</title>
+<description>Kool FM, broadcast 23 Oct 2026 14:00. Jungle, Drum &amp; Bass, Liquid</description>
+<enclosure url="https://replay.rinse.fm/kool/CrateClassics231026.mp3" length="288393801" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288393801</guid>
+<pubDate>Fri, 23 Oct 2026 14:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8999-Jamie-Rodigan.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rompa's Reggae Shack - 23/10/2026 - 09:00</title>
+<description>Kool FM, broadcast 23 Oct 2026 09:00</description>
+<enclosure url="https://replay.rinse.fm/kool/RompasReggaeShack231026.mp3" length="288849343" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288849343</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 +0100</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RRS-LOGO.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Sounds of Ukraine - 22/10/2026 - 23:00</title>
 <description>Kool FM, broadcast 22 Oct 2026 23:00. Drum &amp; Bass, Neurofunk</description>
 <enclosure url="https://replay.rinse.fm/kool/SoundsofUkraine221026.mp3" length="288721856" type="audio/mpeg"/>
@@ -2979,36 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/BCEE-by-Chelone-Wolf-web-res_09-Steve-Jefroy_2026-08-07-153906_bmgw.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Daddy Nature - 08/08/2026 - 21:00</title>
-<description>Kool FM, broadcast 08 Aug 2026 21:00. Jungle, Rollers, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/DaddyNature080826.mp3" length="288466865" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288466865</guid>
-<pubDate>Sat, 08 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/860921a3-5173-4e47-8930-165dbce9bb7c-3-Concrete-PR.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>North Base - 03/06/2026 - 23:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 23:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/NorthBase030626.mp3" length="286502691" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-286502691</guid>
-<pubDate>Fri, 07 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DSC00997-NORTHBASETVUK.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>OS:MAN - 07/08/2026 - 21:00</title>
-<description>Kool FM, broadcast 07 Aug 2026 21:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/Osman070826.mp3" length="287565133" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287565133</guid>
-<pubDate>Fri, 07 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/halftone_1786029713.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

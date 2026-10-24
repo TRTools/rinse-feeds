@@ -933,6 +933,19 @@
   "size": null,
   "title": "Club Mycélium - 10/07/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/ClubSSVDannSSVb2B77xenon231026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-23T16:00:00+01:00",
+  "genres": [
+   "Electronic",
+   "EDM",
+   "Afrobeat"
+  ],
+  "image": "https://image.rinse.fm/_/Dann-SSV-OCTOBRE-2026-Dann-SSV-Dann-SSV.jpg",
+  "minutes": 60,
+  "size": 144611616,
+  "title": "Dann SSV - 23/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/CoffintextsinviteMarieNyx270626(320).mp3": {
   "channel": "france",
   "date": "2026-06-27T19:00:00+01:00",
@@ -1675,6 +1688,19 @@
   "size": 111874438,
   "title": "Giorgi Pipia - 26/09/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/GiorgiPipiawithCleanRock241026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-24T14:00:00+01:00",
+  "genres": [
+   "House",
+   "Electro",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/CLENA-ROCK-Giorgi-Pipia_2026-10-23-163146_bten.jpeg",
+  "minutes": 120,
+  "size": 235471418,
+  "title": "Giorgi Pipia - 24/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/france/Glitter55inviteMolyness060726(320).mp3": {
   "channel": "france",
   "date": "2026-07-14T17:00:00+01:00",
@@ -2163,6 +2189,19 @@
   "minutes": 60,
   "size": 51208837,
   "title": "Queer Cult Takeover - 29/06/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/france/KingDoudou241026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-24T17:00:00+01:00",
+  "genres": [
+   "Dancehall",
+   "Electronic",
+   "Reggaeton"
+  ],
+  "image": "https://image.rinse.fm/_/King-Doudou-oct-2026_-hugo-passaquin.png",
+  "minutes": 60,
+  "size": 119492475,
+  "title": "King Doudou - 24/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/KingDoudouInviteZiggyTwiss250726.(VBR)mp3.mp3": {
   "channel": "france",
@@ -3310,6 +3349,19 @@
   "size": 119663339,
   "title": "Merca Bae - 27/06/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/MercaBae3PSGUESTMIXHOSTEDBYJINN_PR221026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-24T16:00:00+01:00",
+  "genres": [
+   "Dancehall",
+   "Trap",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/MERCA-BAE-OCT-2026-Merca-Bae.jpeg",
+  "minutes": 60,
+  "size": 57879867,
+  "title": "Merca Bae - 24/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/MileySeriousinviteJR2k270726(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-27T20:00:00+01:00",
@@ -3656,6 +3708,17 @@
   "minutes": 60,
   "size": 131777911,
   "title": "Ohjeelo - 26/06/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/france/OhjeeloinviteREDJeunes231026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-23T18:00:00+01:00",
+  "genres": [
+   "Podcast"
+  ],
+  "image": "https://image.rinse.fm/_/c7546a67-f6fe-479b-8bd4-48d47a0dfb4d-Lore%CC%81lia.jpeg",
+  "minutes": 60,
+  "size": 127285542,
+  "title": "Ohjeelo - 23/10/2026 - 18:00"
  },
  "https://replay.rinse.fm/france/OhjeeloinviteUCHE240726(VBR).mp3": {
   "channel": "france",
@@ -5676,6 +5739,19 @@
   "size": 138242088,
   "title": "Gaîté L'Été - 30/07/2026 - 19:00"
  },
+ "https://replay.rinse.fm/france/coffintextsinvitesphiphi241026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-24T19:00:00+01:00",
+  "genres": [
+   "Dance",
+   "Electronic",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/phipih-_-august-_-2026-alexandra-muggli.jpeg",
+  "minutes": 60,
+  "size": 130140788,
+  "title": "Coffintexts - 24/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/honeymel220926(VBR).mp3": {
   "channel": "france",
   "date": "2026-09-22T15:00:00+01:00",
@@ -6090,6 +6166,18 @@
   "minutes": 60,
   "size": 139981113,
   "title": "rougail space program - 25/09/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/france/rougailspaceprograminvitePSL231026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-23T19:00:00+01:00",
+  "genres": [
+   "Techno",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/rougail-space-program-octobre-2026-rougail-space-program.png",
+  "minutes": 60,
+  "size": 137099215,
+  "title": "rougail space program - 23/10/2026 - 19:00"
  },
  "https://replay.rinse.fm/france/rythmebrise060726(VBR).mp3": {
   "channel": "france",
@@ -7562,6 +7650,19 @@
   "minutes": 120,
   "size": 286689467,
   "title": "Crate Classics - 21/08/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/kool/CrateClassics231026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-23T14:00:00+01:00",
+  "genres": [
+   "Jungle",
+   "Drum & Bass",
+   "Liquid"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_8999-Jamie-Rodigan.JPG",
+  "minutes": 120,
+  "size": 288393801,
+  "title": "Crate Classics - 23/10/2026 - 14:00"
  },
  "https://replay.rinse.fm/kool/CrateClassics240726.mp3": {
   "channel": "kool",
@@ -9116,6 +9217,15 @@
   "minutes": 60,
   "size": 122226183,
   "title": "Ibiza Records Show - 10/07/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/kool/IbizaRecordsShow231026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-23T16:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg",
+  "minutes": 60,
+  "size": 144459092,
+  "title": "Ibiza Records Show - 23/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/kool/InspiredLou310726.mp3": {
   "channel": "kool",
@@ -10802,6 +10912,15 @@
   "minutes": 120,
   "size": 288791031,
   "title": "Rompa's Reggae Shack - 11/09/2026 - 09:00"
+ },
+ "https://replay.rinse.fm/kool/RompasReggaeShack231026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-23T09:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/RRS-LOGO.png",
+  "minutes": 120,
+  "size": 288849343,
+  "title": "Rompa's Reggae Shack - 23/10/2026 - 09:00"
  },
  "https://replay.rinse.fm/kool/RompasReggaeShack250926.mp3": {
   "channel": "kool",
@@ -12799,6 +12918,17 @@
   "size": 288010361,
   "title": "Bedroom Rat Records - 31/07/2026 - 05:00"
  },
+ "https://replay.rinse.fm/swu/BRUK231026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-23T20:00:00+01:00",
+  "genres": [
+   "Jungle"
+  ],
+  "image": "https://image.rinse.fm/_/BRUK_OCT_2026.JPG",
+  "minutes": 60,
+  "size": 144010413,
+  "title": "BRUK - 23/10/2026 - 20:00"
+ },
  "https://replay.rinse.fm/swu/BRUK240726.mp3": {
   "channel": "swu",
   "date": "2026-07-24T20:00:00+01:00",
@@ -12912,7 +13042,7 @@
    "House",
    "Dance"
   ],
-  "image": "https://image.rinse.fm/_/Banoffee_OCT_2026.jpg",
+  "image": "https://image.rinse.fm/_/Banoffee-Pies_AUGUST1_2023.jpeg",
   "minutes": 120,
   "size": 288010913,
   "title": "Banoffee Pies with DJ Autumn - 17/10/2026 - 19:00"
@@ -13209,6 +13339,19 @@
   "minutes": 120,
   "size": 288010181,
   "title": "Ben Daley - 05/09/2026 - 07:00"
+ },
+ "https://replay.rinse.fm/swu/BenDaley231026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-23T12:00:00+01:00",
+  "genres": [
+   "Old Skool",
+   "House",
+   "Garage"
+  ],
+  "image": "https://image.rinse.fm/_/Ben-Daley_May_2024_02_2026-10-23-160723_pngz.jpeg",
+  "minutes": 120,
+  "size": 288010181,
+  "title": "Ben Daley - 23/10/2026 - 12:00"
  },
  "https://replay.rinse.fm/swu/BenDaley240726.mp3": {
   "channel": "swu",
@@ -15391,6 +15534,19 @@
   "minutes": 120,
   "size": 288009968,
   "title": "Felix Joy - 23/09/2026 - 10:00"
+ },
+ "https://replay.rinse.fm/swu/FelixJoy231026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-23T10:00:00+01:00",
+  "genres": [
+   "R&B",
+   "Disco",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/FelixJoy2024.jpeg",
+  "minutes": 120,
+  "size": 288010211,
+  "title": "Felix Joy - 23/10/2026 - 10:00"
  },
  "https://replay.rinse.fm/swu/FelixJoy240626.mp3": {
   "channel": "swu",
@@ -18429,6 +18585,19 @@
   "size": 246660182,
   "title": "No Nation - 13/09/2026 - 05:00"
  },
+ "https://replay.rinse.fm/swu/NoNation231026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-23T16:00:00+01:00",
+  "genres": [
+   "Breakbeat",
+   "Drum & Bass",
+   "Hip-Hop"
+  ],
+  "image": "https://image.rinse.fm/_/Optimystic_OCT_2026.jpg",
+  "minutes": 120,
+  "size": 288009920,
+  "title": "No Nation - 23/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/swu/NoNation250926.mp3": {
   "channel": "swu",
   "date": "2026-09-25T16:00:00+01:00",
@@ -19576,6 +19745,19 @@
   "minutes": 120,
   "size": 288010259,
   "title": "Ruffneck Ting with Dazee - 21/08/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/swu/Ruggz231026.mp3": {
+  "channel": "swu",
+  "date": "2026-10-23T14:00:00+01:00",
+  "genres": [
+   "Funky",
+   "Bass",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Anything-but-Becky-SWU-OCTOBER-26-Miles-Ruggiero-copy.jpg",
+  "minutes": 120,
+  "size": 288010221,
+  "title": "Ruggz - 23/10/2026 - 14:00"
  },
  "https://replay.rinse.fm/swu/Ruggz240726.mp3": {
   "channel": "swu",
@@ -21687,7 +21869,7 @@
    "Breakbeat",
    "Dub"
   ],
-  "image": "https://image.rinse.fm/_/Dead-Mans-Chest_SEPT-2026_ORIG-Dead-Man.jpeg",
+  "image": "https://image.rinse.fm/_/BALTIC4.jpg",
   "minutes": 120,
   "size": 288010233,
   "title": "Western Lore - 26/09/2026 - 01:00"
@@ -21845,7 +22027,7 @@
    "Garage",
    "House"
   ],
-  "image": "https://image.rinse.fm/_/S.r._OCT_2026.jpg",
+  "image": "https://image.rinse.fm/_/Yosh_AUGUST3_2023.jpeg",
   "minutes": 120,
   "size": 288010889,
   "title": "YOSH - 17/10/2026 - 17:00"
@@ -24014,6 +24196,18 @@
   "minutes": 120,
   "size": 288238151,
   "title": "Continental GT - 05/06/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/ContinentalGT231026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-23T16:00:00+01:00",
+  "genres": [
+   "Electronic",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_1596-Continental-GT.jpeg",
+  "minutes": 120,
+  "size": 279793814,
+  "title": "Continental GT - 23/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/uk/ContinentalGT280826.mp3": {
   "channel": "uk",
@@ -26859,6 +27053,18 @@
   "minutes": 60,
   "size": 144447666,
   "title": "Jasper James - 27/05/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/JayCarder281024.mp3": {
+  "channel": "uk",
+  "date": "2026-10-24T09:00:00+01:00",
+  "genres": [
+   "Ambient",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/jay-carder-ambient-downtempo-show-281024-Josie-Carder.jpg",
+  "minutes": 60,
+  "size": 143723134,
+  "title": "Jay Carder - 24/10/2026 - 09:00"
  },
  "https://replay.rinse.fm/uk/JayMusic300626.mp3": {
   "channel": "uk",
@@ -29777,6 +29983,31 @@
   "size": 288339119,
   "title": "Rompa's Reggae Shack - 18/07/2025 - 09:00"
  },
+ "https://replay.rinse.fm/uk/Roska071125.mp3": {
+  "channel": "uk",
+  "date": "2026-10-24T15:00:00+01:00",
+  "genres": [
+   "Funky",
+   "Bass",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/Roska-B2B-KTM-B2B-Just-P-B2B-Just-Chillz-B2B-Murder-He-Wrote-B2B-Calm-Stiege-Website-Photo.png",
+  "minutes": 120,
+  "size": 287171975,
+  "title": "Roska - 24/10/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/uk/Roska231026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-23T18:00:00+01:00",
+  "genres": [
+   "Funky",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_0710-R-R-R-Roska.jpeg",
+  "minutes": 60,
+  "size": 144834121,
+  "title": "Roska - 23/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/uk/Roska240726.mp3": {
   "channel": "uk",
   "date": "2026-07-24T16:00:00+01:00",
@@ -31418,6 +31649,19 @@
   "size": 289129483,
   "title": "The MoodSwing Show - 14/08/2026 - 14:00"
  },
+ "https://replay.rinse.fm/uk/TheMoodswingShow231026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-23T14:00:00+01:00",
+  "genres": [
+   "Garage",
+   "House",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_7321-DJ-.Perception.JPG",
+  "minutes": 120,
+  "size": 288530709,
+  "title": "The MoodSwing Show - 23/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/uk/TheMoodswingShow240726.mp3": {
   "channel": "uk",
   "date": "2026-07-24T14:00:00+01:00",
@@ -32018,6 +32262,15 @@
   "size": 434138496,
   "title": "Uncle Dugs - 21/08/2026 - 11:00"
  },
+ "https://replay.rinse.fm/uk/UncleDugs231026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-23T11:00:00+01:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg",
+  "minutes": 180,
+  "size": 432360811,
+  "title": "Uncle Dugs - 23/10/2026 - 11:00"
+ },
  "https://replay.rinse.fm/uk/UncleDugs240726.mp3": {
   "channel": "uk",
   "date": "2026-07-24T11:00:00+01:00",
@@ -32573,6 +32826,19 @@
   "minutes": 120,
   "size": 288002916,
   "title": "Yazmin Lacey - 20/11/2025 - 09:00"
+ },
+ "https://replay.rinse.fm/uk/YazminLacey221026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-22T10:00:00+01:00",
+  "genres": [
+   "House",
+   "Breakbeat",
+   "Dance"
+  ],
+  "image": "https://image.rinse.fm/_/336EDBBE-C01F-4E07-8806-90324BE53A87-Krystall-Brown.png",
+  "minutes": 60,
+  "size": 287628841,
+  "title": "Yazmin Lacey - 22/10/2026 - 10:00"
  },
  "https://replay.rinse.fm/uk/YazminLacey230726.mp3": {
   "channel": "uk",
