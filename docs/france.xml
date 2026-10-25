@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>carin kelly - 25/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 25 Oct 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/france/carinkelly251026(320).mp3" length="146360289" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-146360289</guid>
+<pubDate>Sun, 25 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Snapinsta.app_312970275_1403676403785512_4369827688889055197_n_1080.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>POLAAR - 25/10/2026 - 17:00</title>
+<description>Rinse France, broadcast 25 Oct 2026 17:00. Dub, Bass, Dubstep</description>
+<enclosure url="https://replay.rinse.fm/france/POLAARinviteHoneydrip251026(320).mp3" length="148771807" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-148771807</guid>
+<pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/854229081_2009219033108226_6563971442825721365_n-Flore-Music.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Coffintexts - 24/10/2026 - 19:00</title>
 <description>Rinse France, broadcast 24 Oct 2026 19:00. Dance, Electronic, House</description>
 <enclosure url="https://replay.rinse.fm/france/coffintextsinvitesphiphi241026(VBR).mp3" length="130140788" type="audio/mpeg"/>
@@ -2989,26 +3009,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/GLITTER55_JUILLET26_2-Manar-Fegrouch.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Miley Serious - 13/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 13 Jul 2026 20:00. Bass, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/MILEYSERIOUSINVITETROMACC130726(VBR).mp3" length="119922031" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-119922031</guid>
-<pubDate>Mon, 13 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Tromac-taken-by-Tavon-Shaw-2-Miley-Serious.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Pureblast (ex Baraka) - 13/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 13 Jul 2026 18:00. Electro, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/PureblastinvitePasdequartier130726(VBR).mp3" length="127427005" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-127427005</guid>
-<pubDate>Mon, 13 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/pdq-Pureblast.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -25,25 +25,25 @@
     "title": "SWU FM"
    }
   ],
-  "displayTitle": "Not A Diving Club",
-  "episodeDate": "2026-10-09T23:00:00+00:00",
+  "displayTitle": "with Sootie",
+  "episodeDate": "2026-10-07T23:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-10-24T22:30:00+01:00",
-  "extract": "Check the weekly podcast Music Not Diving wherever you get your podcasts",
+  "episodeTime": "2026-10-25T19:00:00+00:00",
+  "extract": "Catch me in the mix for the 1st hour spinning a high energy multi-genre bass set, followed by Washington's own \"Sootie\" for the 2nd hour. He'll be running a full 140 set, highlighting the best of deep bass and all things dubstep",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Scuba_OcT_2026.PNG",
+    "filename": "Spectral_Oct_2026.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 3362,
-    "width": 2348
+    "height": 2048,
+    "width": 1365
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/Scuba101026.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/Spectral081026.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
@@ -56,18 +56,18 @@
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "breakbeat",
-    "title": "Breakbeat"
+    "slug": "dubstep",
+    "title": "Dubstep"
    },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "techno",
-    "title": "Techno"
+    "slug": "dnb",
+    "title": "Drum & Bass"
    }
   ],
-  "id": "2312552",
+  "id": "2311417",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -79,49 +79,49 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": null,
+    "extract": "A home for the best in bass music- bringing you a range of bpm flavours, tasty dubplates & special guests",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "scuba-1i-Paul-Rose.jpeg",
+      "filename": "Spectral-May-2024.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 2250,
-      "width": 3000
+      "height": 2048,
+      "width": 1365
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
+      "slug": "dubstep",
+      "title": "Dubstep"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "breakbeat",
-      "title": "Breakbeat"
+      "slug": "bass",
+      "title": "Bass"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "hardcore",
-      "title": "Hardcore"
+      "slug": "dnb",
+      "title": "Drum & Bass"
      }
     ],
-    "id": "1344894",
+    "id": "1027723",
     "showStatus": "highlighted",
-    "slug": "scuba",
-    "title": "Scuba",
-    "url": "https://admin.rinse.fm/shows/scuba"
+    "slug": "spectral-2",
+    "title": "Spectral",
+    "url": "https://admin.rinse.fm/shows/spectral-2"
    }
   ],
-  "slug": "scuba-10-10-2026-2230",
+  "slug": "spectral-08-10-2026-1900",
   "subtitle": null,
-  "title": "Scuba - 10/10/2026 - 22:30",
+  "title": "Spectral - 08/10/2026 - 19:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Scuba_OcT_2026.PNG",
+ "image": "https://image.rinse.fm/_/Spectral_Oct_2026.jpg",
  "image_found_at": ".featuredImage.filename"
 }

@@ -1252,6 +1252,18 @@
   "size": 109058735,
   "title": "Dubquake Records - 27/09/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/DubquakeRecordsO.B.FxTerremotoSãoPauloSpecial251026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-25T16:00:00+00:00",
+  "genres": [
+   "Dub",
+   "Reggae"
+  ],
+  "image": "https://image.rinse.fm/_/Dubquake-Records_O.B.F-x-Terremoto-Sao-Paolo-Special_Artwork-Zach-ODwyer.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "Dubquake Records - 25/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/ELECTRAFRIQUEinviteHARUNA130926(VBR).mp3": {
   "channel": "france",
   "date": "2026-09-13T15:00:00+01:00",
@@ -3844,6 +3856,19 @@
   "size": 117024949,
   "title": "POLAAR - 27/06/2026 - 20:00"
  },
+ "https://replay.rinse.fm/france/POLAARinviteHoneydrip251026(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-25T17:00:00+00:00",
+  "genres": [
+   "Dub",
+   "Bass",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/854229081_2009219033108226_6563971442825721365_n-Flore-Music.jpg",
+  "minutes": 60,
+  "size": 148771807,
+  "title": "POLAAR - 25/10/2026 - 17:00"
+ },
  "https://replay.rinse.fm/france/POLAARinviteTimKarbon270926(VBR).mp3": {
   "channel": "france",
   "date": "2026-09-27T17:00:00+01:00",
@@ -5716,6 +5741,15 @@
   "minutes": 60,
   "size": null,
   "title": "Aurélie Moreira - 05/07/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/france/carinkelly251026(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-25T19:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Snapinsta.app_312970275_1403676403785512_4369827688889055197_n_1080.jpg",
+  "minutes": 60,
+  "size": 146360289,
+  "title": "carin kelly - 25/10/2026 - 19:00"
  },
  "https://replay.rinse.fm/france/carlosdocomplexo030726(VBR).mp3": {
   "channel": "france",
@@ -18072,11 +18106,11 @@
   "channel": "swu",
   "date": "2026-10-18T16:00:00+01:00",
   "genres": [
-   "Electronic",
-   "Experimental",
-   "Dubstep"
+   "Grime",
+   "Rap",
+   "Drill"
   ],
-  "image": "https://image.rinse.fm/_/Medis_april_2026.jpg",
+  "image": "https://image.rinse.fm/_/Medis_Press-2.jpeg",
   "minutes": 120,
   "size": 288009890,
   "title": "Medis - 18/10/2026 - 16:00"
