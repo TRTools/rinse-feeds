@@ -8,120 +8,126 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "1331125",
-      "slug": "swu-purple",
-      "title": "SWU Purple"
+      "id": "95203",
+      "slug": "rinse-steel",
+      "title": "Rinse Steel"
      }
     ],
-    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+    "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/London",
-    "extract": null,
-    "id": "1016220",
+    "defaultTimezoneOffset": "Europe/Paris",
+    "extract": "France Extract",
+    "id": "32",
     "isPermanentChannel": true,
-    "lft": 12,
-    "slug": "swu",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
-    "title": "SWU FM"
+    "lft": 4,
+    "slug": "france",
+    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
+    "title": "France"
    }
   ],
-  "displayTitle": "with Sootie",
-  "episodeDate": "2026-10-07T23:00:00+00:00",
+  "displayTitle": "Les Témoins du Futur - La Montagne Creuse épisode 2 / Felix Vallette aka DJ Ixell",
+  "episodeDate": "2026-10-26T00:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-10-25T19:00:00+00:00",
-  "extract": "Catch me in the mix for the 1st hour spinning a high energy multi-genre bass set, followed by Washington's own \"Sootie\" for the 2nd hour. He'll be running a full 140 set, highlighting the best of deep bass and all things dubstep",
+  "episodeTime": "2026-10-26T14:00:00+00:00",
+  "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Spectral_Oct_2026.jpg",
+    "filename": "DJIxell10_2026-Cosmic-Neman.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2048,
-    "width": 1365
+    "height": 2708,
+    "width": 1796
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/Spectral081026.mp3",
+  "fileUrl": "https://replay.rinse.fm/france/CosmicNemanLesTémoinsduFuturLaMontagneCreuseépisode2FelixValletteakaDJIxell261026(VBR).mp3",
   "genreTag": [
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "bass",
-    "title": "Bass"
-   },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "dubstep",
-    "title": "Dubstep"
+    "slug": "electronic",
+    "title": "Electronic"
    },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "dnb",
-    "title": "Drum & Bass"
+    "slug": "house",
+    "title": "House"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "ambient",
+    "title": "Ambient"
    }
   ],
-  "id": "2311417",
+  "id": "2318607",
   "isRebroadcast": false,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "swu"
+      "slug": "france"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "A home for the best in bass music- bringing you a range of bpm flavours, tasty dubplates & special guests",
+    "extract": "Les Témoins du Futur est le projet de Cosmic Neman, batteur du groupe mythique Herman Düne et moitié du groupe Zombie Zombie, duo krautrock.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Spectral-May-2024.jpeg",
+      "filename": "CosmicNeman-SQUARE.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 2048,
-      "width": 1365
+      "height": 1080,
+      "width": 1080
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "dubstep",
-      "title": "Dubstep"
+      "slug": "electronic",
+      "title": "Electronic"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "bass",
-      "title": "Bass"
+      "slug": "ambient",
+      "title": "Ambient"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "dnb",
-      "title": "Drum & Bass"
+      "slug": "experimental",
+      "title": "Experimental"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "multigenre",
+      "title": "Multigenre"
      }
     ],
-    "id": "1027723",
+    "id": "52308",
     "showStatus": "highlighted",
-    "slug": "spectral-2",
-    "title": "Spectral",
-    "url": "https://admin.rinse.fm/shows/spectral-2"
+    "slug": "cosmic-neman",
+    "title": "Cosmic Neman",
+    "url": "https://admin.rinse.fm/shows/cosmic-neman"
    }
   ],
-  "slug": "spectral-08-10-2026-1900",
+  "slug": "cosmic-neman-26-10-2026-1400",
   "subtitle": null,
-  "title": "Spectral - 08/10/2026 - 19:00",
+  "title": "Cosmic Neman - 26/10/2026 - 14:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Spectral_Oct_2026.jpg",
+ "image": "https://image.rinse.fm/_/DJIxell10_2026-Cosmic-Neman.jpg",
  "image_found_at": ".featuredImage.filename"
 }

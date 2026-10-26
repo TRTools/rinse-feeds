@@ -12,6 +12,45 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Miley Serious - 26/10/2026 - 20:00</title>
+<description>Rinse France, broadcast 26 Oct 2026 20:00. Bass, Techno, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/MileySerious261026(VBR).mp3" length="145197811" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145197811</guid>
+<pubDate>Mon, 26 Oct 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_6654-Miley-Serious.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Neida - 26/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 26 Oct 2026 19:00. Bass, Techno, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/Neida261026(VBR).mp3" length="124831703" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-124831703</guid>
+<pubDate>Mon, 26 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Neida-Octobre-2026-Neida-NDA.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>HORS-SOL - 26/10/2026 - 18:00</title>
+<description>Rinse France, broadcast 26 Oct 2026 18:00. Trance, Electronic, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/HORSSOLMaryu261026(320).mp3" length="149271953" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-149271953</guid>
+<pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MARYU-Jules-G.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Sentaku - 26/10/2026 - 16:00</title>
+<description>Rinse France, broadcast 26 Oct 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/france/Sentaku261026.mp3" length="132432604" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-132432604</guid>
+<pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+</item>
+<item>
 <title>carin kelly - 25/10/2026 - 19:00</title>
 <description>Rinse France, broadcast 25 Oct 2026 19:00</description>
 <enclosure url="https://replay.rinse.fm/france/carinkelly251026(320).mp3" length="146360289" type="audio/mpeg"/>
@@ -2969,46 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/LIZZIE-NOT-SORRY-15-07-26.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Le Cercle - 15/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 15 Jul 2026 15:00. Afrobeat, R&amp;B, Rap</description>
-<enclosure url="https://replay.rinse.fm/france/LeCercle150726(VBR).mp3" length="72660170" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-72660170</guid>
-<pubDate>Wed, 15 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RINSE-Mgmt-VickyR.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 15/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 15 Jul 2026 14:00. R&amp;B, Hip-Hop, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/NEUFinviteOjerime150726(320).mp3" length="148765103" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-148765103</guid>
-<pubDate>Wed, 15 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ojerime_1782637629_3929370309625746928_30828656-Nathan-Sabate%CC%81.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 14/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 14 Jul 2026 20:00. Footwork, Grime, Trap</description>
-<enclosure url="https://replay.rinse.fm/france/OffTheWall140726(320).mp3" length="144798360" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144798360</guid>
-<pubDate>Tue, 14 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OffTheWall-Juillet2026-OffTheWall.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Glitter55 - 14/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 14 Jul 2026 17:00. Electro, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/Glitter55inviteMolyness060726(320).mp3" length="142234235" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142234235</guid>
-<pubDate>Tue, 14 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/GLITTER55_JUILLET26_2-Manar-Fegrouch.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

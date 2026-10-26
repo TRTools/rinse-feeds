@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 38,
+  "count": 36,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/carinkelly251026(320).mp3"
+  "sample_url": "https://replay.rinse.fm/france/CosmicNemanLesTémoinsduFuturLaMontagneCreuseépisode2FelixValletteakaDJIxell261026(VBR).mp3"
  },
  "kool": {
-  "count": 28,
+  "count": 49,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/IbizaRecordsShow231026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/100AGuyCalledGerald290426_.mp3"
  },
  "swu": {
-  "count": 86,
+  "count": 96,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Spectral081026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/SufferahsChoice280926.mp3"
  },
  "uk": {
-  "count": 70,
+  "count": 100,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/Roska071125.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Flyo251026.mp3"
  }
 }
