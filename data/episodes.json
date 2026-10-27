@@ -2293,6 +2293,19 @@
   "size": 144740763,
   "title": "Kokoprisci - 23/06/2026 - 19:00"
  },
+ "https://replay.rinse.fm/france/Kokoprisci271026(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-27T19:00:00+00:00",
+  "genres": [
+   "Footwork",
+   "Jungle",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg",
+  "minutes": 60,
+  "size": 150769575,
+  "title": "Kokoprisci - 27/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/KoraCore300626(VBR).mp3": {
   "channel": "france",
   "date": "2026-06-30T16:00:00+01:00",
@@ -2869,6 +2882,19 @@
   "minutes": 60,
   "size": null,
   "title": "Lorkestra - 22/09/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/france/LouisRoméo271029(320).mp3": {
+  "channel": "france",
+  "date": "2026-10-27T16:00:00+00:00",
+  "genres": [
+   "R&B",
+   "Hip-Hop",
+   "Breakbeat"
+  ],
+  "image": "https://image.rinse.fm/_/CRUSH_STOCKHOLM-12-Louis-Romeo.jpeg",
+  "minutes": 60,
+  "size": null,
+  "title": "Louis Roméo - 27/10/2026 - 16:00"
  },
  "https://replay.rinse.fm/france/LouisePétrouchkaDoubleTap030926(VBR).mp3": {
   "channel": "france",
@@ -5145,6 +5171,17 @@
   "minutes": 60,
   "size": 144039999,
   "title": "Tatie Dee - 21/09/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/TavoDJ271026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-27T14:00:00+00:00",
+  "genres": [
+   "Reggaton"
+  ],
+  "image": "https://image.rinse.fm/_/Tavo-DJ-271026.00_28_06_01.Still001.jpg",
+  "minutes": 60,
+  "size": 143640598,
+  "title": "Rinse France Guest Show - 27/10/2026 - 14:00"
  },
  "https://replay.rinse.fm/france/Technopol(VBR)300926.mp3": {
   "channel": "france",
@@ -16380,7 +16417,7 @@
    "House",
    "Dance"
   ],
-  "image": "https://image.rinse.fm/_/Baxter-Sept-26.jpg",
+  "image": "https://image.rinse.fm/_/Screenshot-2026-01-20-at-19.05.27.png",
   "minutes": 120,
   "size": 288010305,
   "title": "Gemi - 28/09/2026 - 01:00"
@@ -23991,6 +24028,19 @@
   "size": 144172858,
   "title": "COIDO - 27/07/2026 - 18:00"
  },
+ "https://replay.rinse.fm/uk/COIDOTX261026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-26T18:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Dubstep",
+   "Breakbeat"
+  ],
+  "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-10-23-at-17.11.25-Canegiallo23.jpeg",
+  "minutes": 60,
+  "size": 144397322,
+  "title": "COIDO - 26/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/uk/Cafe1001011026.mp3": {
   "channel": "uk",
   "date": "2026-10-01T12:00:00+01:00",
@@ -24072,6 +24122,19 @@
   "minutes": 60,
   "size": 151379355,
   "title": "Camille Munn - 24/08/2026 - 12:00"
+ },
+ "https://replay.rinse.fm/uk/CamilleMunn261026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-26T12:00:00+00:00",
+  "genres": [
+   "Dance",
+   "House",
+   "BrokenBeat"
+  ],
+  "image": "https://image.rinse.fm/_/Camille-rinse-cover-square-Camille-Munn.jpg",
+  "minutes": 60,
+  "size": 143368129,
+  "title": "Camille Munn - 26/10/2026 - 12:00"
  },
  "https://replay.rinse.fm/uk/CaraCrosby150926.mp3": {
   "channel": "uk",
@@ -24209,6 +24272,19 @@
   "minutes": 60,
   "size": 144500958,
   "title": "Changing Currents - 10/06/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/uk/ChangingCurrents270126.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T19:00:00+00:00",
+  "genres": [
+   "Electronic",
+   "Multigenre",
+   "Electro"
+  ],
+  "image": "https://image.rinse.fm/_/DSC02980-CC-stakim.jpg",
+  "minutes": 60,
+  "size": 141451414,
+  "title": "Changing Currents - 27/01/2026 - 19:00"
  },
  "https://replay.rinse.fm/uk/CharlesGreen030826.mp3": {
   "channel": "uk",
@@ -24978,6 +25054,17 @@
   "minutes": 60,
   "size": 145425655,
   "title": "DJ Stingray 313 - 28/09/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/uk/DJStingrayTX261026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-26T20:00:00+00:00",
+  "genres": [
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/2____0110-Isa-Modern-Matters.jpg",
+  "minutes": 60,
+  "size": 137361041,
+  "title": "DJ Stingray 313 - 26/10/2026 - 20:00"
  },
  "https://replay.rinse.fm/uk/DREA100726.mp3": {
   "channel": "uk",
@@ -26787,6 +26874,19 @@
   "minutes": 60,
   "size": 146275878,
   "title": "Ghoulish - 28/09/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/uk/GhoulishTX261026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-26T17:00:00+00:00",
+  "genres": [
+   "House",
+   "Garage",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/20260710_Hi_Dom_Dolla_0040_5000x4000px_-Adam-Harper.jpg",
+  "minutes": 60,
+  "size": 144711851,
+  "title": "Ghoulish - 26/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/uk/GreenteaPeng160725.mp3": {
   "channel": "uk",
@@ -32498,6 +32598,15 @@
   "size": 287273664,
   "title": "Tim Garcia - 19/10/2026 - 10:00"
  },
+ "https://replay.rinse.fm/uk/TimGarciaTX261026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-26T10:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/IMG-6961-Tim-Garcia.jpeg",
+  "minutes": 60,
+  "size": -1,
+  "title": "Tim Garcia - 26/10/2026 - 10:00"
+ },
  "https://replay.rinse.fm/uk/TimGarciaWithLexBlondin121026.mp3": {
   "channel": "uk",
   "date": "2026-10-12T10:00:00+01:00",
@@ -33752,6 +33861,17 @@
   "minutes": 120,
   "size": 287985798,
   "title": "p-rallel - 08/10/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/uk/patrickhintontx261026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-26T13:00:00+00:00",
+  "genres": [
+   "Talk"
+  ],
+  "image": "https://image.rinse.fm/_/PXL_20261019_161321901-Patrick-Hinton.jpg",
+  "minutes": 60,
+  "size": -1,
+  "title": "Patrick Hinton - 26/10/2026 - 13:00"
  },
  "https://replay.rinse.fm/uk/relax030826.mp3": {
   "channel": "uk",

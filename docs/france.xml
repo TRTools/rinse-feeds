@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Kokoprisci - 27/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 27 Oct 2026 19:00. Footwork, Jungle, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/Kokoprisci271026(320).mp3" length="150769575" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-150769575</guid>
+<pubDate>Tue, 27 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 27/10/2026 - 14:00</title>
+<description>Rinse France, broadcast 27 Oct 2026 14:00. Reggaton</description>
+<enclosure url="https://replay.rinse.fm/france/TavoDJ271026(VBR).mp3" length="143640598" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143640598</guid>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Tavo-DJ-271026.00_28_06_01.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Miley Serious - 26/10/2026 - 20:00</title>
 <description>Rinse France, broadcast 26 Oct 2026 20:00. Bass, Techno, Multigenre</description>
 <enclosure url="https://replay.rinse.fm/france/MileySerious261026(VBR).mp3" length="145197811" type="audio/mpeg"/>
@@ -2988,26 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_3055-Adam-BFD.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hyas - 15/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 15 Jul 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/HyasinviteDJstrawberry150726(VBR).mp3" length="124493486" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-124493486</guid>
-<pubDate>Wed, 15 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJStrawberry_PJ-Hyas.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Not Sorry - 15/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 15 Jul 2026 18:00. Bass, Dubstep, Breakbeat</description>
-<enclosure url="https://replay.rinse.fm/france/NotSorryAvecLizzie(VBR).mp3" length="141999704" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141999704</guid>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LIZZIE-NOT-SORRY-15-07-26.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

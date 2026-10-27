@@ -25,49 +25,49 @@
     "title": "France"
    }
   ],
-  "displayTitle": "Les Témoins du Futur - La Montagne Creuse épisode 2 / Felix Vallette aka DJ Ixell",
-  "episodeDate": "2026-10-26T00:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-10-26T14:00:00+00:00",
+  "displayTitle": "The Koko Show avec AG",
+  "episodeDate": "2026-10-27T00:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-10-27T19:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "DJIxell10_2026-Cosmic-Neman.jpg",
+    "filename": "The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2708,
-    "width": 1796
+    "height": 4321,
+    "width": 4795
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/CosmicNemanLesTémoinsduFuturLaMontagneCreuseépisode2FelixValletteakaDJIxell261026(VBR).mp3",
+  "fileUrl": "https://replay.rinse.fm/france/Kokoprisci271026(320).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "electronic",
-    "title": "Electronic"
+    "slug": "footwork",
+    "title": "Footwork"
    },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "house",
-    "title": "House"
+    "slug": "jungle",
+    "title": "Jungle"
    },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "ambient",
-    "title": "Ambient"
+    "slug": "experimental",
+    "title": "Experimental"
    }
   ],
-  "id": "2318607",
+  "id": "2318222",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -80,54 +80,84 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Les Témoins du Futur est le projet de Cosmic Neman, batteur du groupe mythique Herman Düne et moitié du groupe Zombie Zombie, duo krautrock.",
+    "extract": "Dj marseillaise d'origine togolaise basée à Paris, Kokoprisci oscille entre house, breakbeat et bass music.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "CosmicNeman-SQUARE.png",
+      "filename": "RINSE_BANNIERE_KOKOPRISCI_2026-09-22-120233_gdzb.png",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1440,
+      "width": 2560
+     }
+    ],
+    "genreTag": [
+     {
+      "__typename": "genre_Tag",
+      "slug": "house",
+      "title": "House"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "breakbeat",
+      "title": "Breakbeat"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "bass",
+      "title": "Bass"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "techno",
+      "title": "Techno"
+     }
+    ],
+    "id": "1431547",
+    "showStatus": "highlighted",
+    "slug": "kokoprisci",
+    "title": "Kokoprisci",
+    "url": "https://admin.rinse.fm/shows/kokoprisci"
+   },
+   {
+    "__typename": "show_show_Entry",
+    "channel": [
+     {
+      "__typename": "channel_channel_Entry",
+      "slug": "france"
+     }
+    ],
+    "defaultEpisodeImage": [],
+    "extract": null,
+    "featuredImage": [
+     {
+      "__typename": "media_Asset",
+      "filename": "RECORD-01.00_00_00_00.Still001.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
       "height": 1080,
-      "width": 1080
+      "width": 1920
      }
     ],
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "electronic",
-      "title": "Electronic"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "ambient",
-      "title": "Ambient"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "experimental",
-      "title": "Experimental"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "multigenre",
-      "title": "Multigenre"
-     }
-    ],
-    "id": "52308",
+    "genreTag": [],
+    "id": "2316850",
     "showStatus": "highlighted",
-    "slug": "cosmic-neman",
-    "title": "Cosmic Neman",
-    "url": "https://admin.rinse.fm/shows/cosmic-neman"
+    "slug": "rinse-france-live-from-the-studio",
+    "title": "Rinse France : Live From The Studio",
+    "url": "https://admin.rinse.fm/shows/rinse-france-live-from-the-studio"
    }
   ],
-  "slug": "cosmic-neman-26-10-2026-1400",
+  "slug": "kokoprisci-27-10-2026-1900",
   "subtitle": null,
-  "title": "Cosmic Neman - 26/10/2026 - 14:00",
-  "youtubeStreamUrl": null
+  "title": "Kokoprisci - 27/10/2026 - 19:00",
+  "youtubeStreamUrl": "ZbVEi3dSJhM"
  },
- "image": "https://image.rinse.fm/_/DJIxell10_2026-Cosmic-Neman.jpg",
+ "image": "https://image.rinse.fm/_/The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg",
  "image_found_at": ".featuredImage.filename"
 }
