@@ -8,66 +8,66 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95203",
-      "slug": "rinse-steel",
-      "title": "Rinse Steel"
+      "id": "95198",
+      "slug": "rinse-cyan",
+      "title": "Rinse Cyan"
      }
     ],
     "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/Paris",
-    "extract": "France Extract",
-    "id": "32",
+    "defaultTimezoneOffset": "Europe/London",
+    "extract": "Live from London",
+    "id": "35",
     "isPermanentChannel": true,
-    "lft": 4,
-    "slug": "france",
-    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
-    "title": "France"
+    "lft": 2,
+    "slug": "uk",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+    "title": "UK"
    }
   ],
-  "displayTitle": "The Koko Show avec AG",
-  "episodeDate": "2026-10-27T00:00:00+00:00",
+  "displayTitle": null,
+  "episodeDate": "2026-10-28T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-10-27T19:00:00+00:00",
-  "extract": null,
+  "episodeTime": "2026-10-28T13:00:00+00:00",
+  "extract": "In the ‘mix & blend’ with some yesteryear and some new music from Honeydrip, Jeshi, and Maya Jane Coles. Plus, Eclecticist takes a moment to bask in ‘Jamaica Love’.",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg",
+    "filename": "IMG_20260806_0921423142-Eclectivity.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 4321,
-    "width": 4795
+    "height": 7066,
+    "width": 3974
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/Kokoprisci271026(320).mp3",
+  "fileUrl": "https://replay.rinse.fm/uk/Eclecticist281026.mp3",
   "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "bass",
+    "title": "Bass"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": false,
+    "slug": "dupstep",
+    "title": "Dupstep"
+   },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "footwork",
-    "title": "Footwork"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "jungle",
-    "title": "Jungle"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "experimental",
-    "title": "Experimental"
+    "slug": "hip-hop",
+    "title": "Hip-Hop"
    }
   ],
-  "id": "2318222",
+  "id": "2319313",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -76,88 +76,53 @@
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "france"
+      "slug": "uk"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Dj marseillaise d'origine togolaise basée à Paris, Kokoprisci oscille entre house, breakbeat et bass music.",
+    "extract": "An eclectic array of wonderful music unified by culture, identity and vibes.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "RINSE_BANNIERE_KOKOPRISCI_2026-09-22-120233_gdzb.png",
+      "filename": "Eclectivity-October-2023.jpeg",
       "focalPoint": [
-       0.5,
-       0.5
+       0.5268,
+       0.3145
       ],
-      "hasFocalPoint": false,
-      "height": 1440,
-      "width": 2560
+      "hasFocalPoint": true,
+      "height": 4000,
+      "width": 6000
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "house",
-      "title": "House"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "breakbeat",
-      "title": "Breakbeat"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "bass",
-      "title": "Bass"
-     },
-     {
-      "__typename": "genre_Tag",
       "slug": "techno",
       "title": "Techno"
-     }
-    ],
-    "id": "1431547",
-    "showStatus": "highlighted",
-    "slug": "kokoprisci",
-    "title": "Kokoprisci",
-    "url": "https://admin.rinse.fm/shows/kokoprisci"
-   },
-   {
-    "__typename": "show_show_Entry",
-    "channel": [
+     },
      {
-      "__typename": "channel_channel_Entry",
-      "slug": "france"
-     }
-    ],
-    "defaultEpisodeImage": [],
-    "extract": null,
-    "featuredImage": [
+      "__typename": "genre_Tag",
+      "slug": "soul",
+      "title": "Soul"
+     },
      {
-      "__typename": "media_Asset",
-      "filename": "RECORD-01.00_00_00_00.Still001.jpg",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1080,
-      "width": 1920
+      "__typename": "genre_Tag",
+      "slug": "jungle",
+      "title": "Jungle"
      }
     ],
-    "genreTag": [],
-    "id": "2316850",
+    "id": "1478237",
     "showStatus": "highlighted",
-    "slug": "rinse-france-live-from-the-studio",
-    "title": "Rinse France : Live From The Studio",
-    "url": "https://admin.rinse.fm/shows/rinse-france-live-from-the-studio"
+    "slug": "eclecticist",
+    "title": "Eclecticist",
+    "url": "https://admin.rinse.fm/shows/eclecticist"
    }
   ],
-  "slug": "kokoprisci-27-10-2026-1900",
+  "slug": "eclecticist-28-10-2026-1300",
   "subtitle": null,
-  "title": "Kokoprisci - 27/10/2026 - 19:00",
-  "youtubeStreamUrl": "ZbVEi3dSJhM"
+  "title": "Eclecticist - 28/10/2026 - 13:00",
+  "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg",
+ "image": "https://image.rinse.fm/_/IMG_20260806_0921423142-Eclectivity.jpg",
  "image_found_at": ".featuredImage.filename"
 }

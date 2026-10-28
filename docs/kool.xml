@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Klute - 26/10/2026 - 23:00</title>
+<description>Kool FM, broadcast 26 Oct 2026 23:00. Drum &amp; Bass, Techstep, Intelligent</description>
+<enclosure url="https://replay.rinse.fm/kool/Klute261026.mp3" length="288011383" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011383</guid>
+<pubDate>Mon, 26 Oct 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/klute-oct26-Tom-Klute.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>K-CO - 26/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 26 Oct 2026 17:00. Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/KCO261026.mp3" length="174372485" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-174372485</guid>
+<pubDate>Mon, 26 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-10-23-at-22.21.00-Kirsty-Colahar.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>BEXLO - 25/10/2026 - 23:00</title>
 <description>Kool FM, broadcast 25 Oct 2026 23:00</description>
 <enclosure url="https://replay.rinse.fm/kool/BEXLO251026.mp3" length="144114141" type="audio/mpeg"/>
@@ -2989,26 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Nooch-Shoot-Edits-1-Florian-Kaiser.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DJ Brockie - 12/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 12 Aug 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/kool/DJBrockie120826.mp3" length="174771090" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-174771090</guid>
-<pubDate>Wed, 12 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-Brockie-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>100% - 12/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 12 Aug 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/100ReinforcedRecords120526.mp3" length="144266952" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144266952</guid>
-<pubDate>Wed, 12 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Reinforced_Records_logo.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

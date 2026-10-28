@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Pura Pura - 28/10/2026 - 19:00</title>
+<description>Rinse France, broadcast 28 Oct 2026 19:00. Footwork, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/PuraPuraFootworkSpecial281026(VBR).mp3" length="144116891" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144116891</guid>
+<pubDate>Wed, 28 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_5978-Pura-Pura.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>WEDOMiEL - 28/10/2026 - 15:00</title>
+<description>Rinse France, broadcast 28 Oct 2026 15:00. Amapiano, House, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/WEDOMIELavecBasei281026(VBR).mp3" length="138797513" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-138797513</guid>
+<pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/1-The%CC%81o-Marchand.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Kokoprisci - 27/10/2026 - 19:00</title>
 <description>Rinse France, broadcast 27 Oct 2026 19:00. Footwork, Jungle, Experimental</description>
 <enclosure url="https://replay.rinse.fm/france/Kokoprisci271026(320).mp3" length="150769575" type="audio/mpeg"/>
@@ -20,6 +40,16 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/The_Koko_Show_avec_AG_OCT_26-kokoprisci.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Mel V - 27/10/2026 - 18:00</title>
+<description>Rinse France, broadcast 27 Oct 2026 18:00. Bass, Breakbeat, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/TheMelVShow271026(VBR).mp3" length="137814378" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137814378</guid>
+<pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/BOX_MEL120323.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Rinse France Guest Show - 27/10/2026 - 14:00</title>
@@ -2978,36 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/ghozt-avas-combined-Tristana.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Marge - 16/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 16 Jul 2026 16:00. Bass, Multigenre, Dance</description>
-<enclosure url="https://replay.rinse.fm/france/Marge160726(VBR).mp3" length="153051458" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-153051458</guid>
-<pubDate>Thu, 16 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/marge-07.26-Margaux-Rapin.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MABOUL BASMATI - 16/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 16 Jul 2026 14:00. Funk, Soul, Pop, Jazz, vinyl</description>
-<enclosure url="https://replay.rinse.fm/france/MABOULBASMATIinviteRAREGROOVEHUNTER160726(VBR).mp3" length="148655580" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-148655580</guid>
-<pubDate>Thu, 16 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>18000</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Maboul-Basmati-mode-French-Vortex-jeudi-16-juillet-2026-FRENCH-VORTEX.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Adam BFD - 15/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 15 Jul 2026 20:00. Electronic, Bass, Garage</description>
-<enclosure url="https://replay.rinse.fm/france/AdamBFD(VBR).mp3" length="137528241" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137528241</guid>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_3055-Adam-BFD.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

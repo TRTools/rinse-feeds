@@ -580,6 +580,19 @@
   "size": null,
   "title": "NegoO - 23/09/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/BatidaÚnicabyNegoOpresentHero.created281026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-28T16:00:00+00:00",
+  "genres": [
+   "Electronic",
+   "Afrobeat",
+   "Pop"
+  ],
+  "image": "https://image.rinse.fm/_/0000271-Jet-Life-Paris.jpeg",
+  "minutes": 60,
+  "size": null,
+  "title": "NegoO - 28/10/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/BehindtheCurtainwithBustyandtheBass230626(VBR).mp3": {
   "channel": "france",
   "date": "2026-06-23T14:00:00+01:00",
@@ -2883,6 +2896,19 @@
   "size": null,
   "title": "Lorkestra - 22/09/2026 - 17:00"
  },
+ "https://replay.rinse.fm/france/LorkestraprésenteSecretGemsShowavecEkany-271026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-27T17:00:00+00:00",
+  "genres": [
+   "Multigenre",
+   "Afrobeat",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/Ekany-PK-2026-By-Red-Le-Rouge-19-Lorkestra.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "Lorkestra - 27/10/2026 - 17:00"
+ },
  "https://replay.rinse.fm/france/LouisRoméo271029(320).mp3": {
   "channel": "france",
   "date": "2026-10-27T16:00:00+00:00",
@@ -4069,6 +4095,18 @@
   "size": 195764559,
   "title": "Promesses - 18/10/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/PuraPuraFootworkSpecial281026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-28T19:00:00+00:00",
+  "genres": [
+   "Footwork",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_5978-Pura-Pura.jpeg",
+  "minutes": 60,
+  "size": 144116891,
+  "title": "Pura Pura - 28/10/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/PureblastinvitePasdequartier130726(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-13T18:00:00+01:00",
@@ -5251,6 +5289,19 @@
   "size": 56971709,
   "title": "Kokoprisci - 28/07/2026 - 19:00"
  },
+ "https://replay.rinse.fm/france/TheMelVShow271026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-27T18:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Breakbeat",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/BOX_MEL120323.jpg",
+  "minutes": 60,
+  "size": 137814378,
+  "title": "Mel V - 27/10/2026 - 18:00"
+ },
  "https://replay.rinse.fm/france/Theiuekeshow080726(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-08T19:00:00+01:00",
@@ -5583,6 +5634,19 @@
   "minutes": 60,
   "size": 127714257,
   "title": "Tysha Cee - 10/09/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/WEDOMIELavecBasei281026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-10-28T15:00:00+00:00",
+  "genres": [
+   "Amapiano",
+   "House",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/1-The%CC%81o-Marchand.jpeg",
+  "minutes": 60,
+  "size": 138797513,
+  "title": "WEDOMiEL - 28/10/2026 - 15:00"
  },
  "https://replay.rinse.fm/france/WEDOMiELavecEunice230926(VBR).mp3": {
   "channel": "france",
@@ -9647,6 +9711,17 @@
   "size": 288254968,
   "title": "Jamie G presents the United Colours Of Jungle Show - 30/06/2026 - 17:00"
  },
+ "https://replay.rinse.fm/kool/KCO261026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-26T17:00:00+00:00",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-10-23-at-22.21.00-Kirsty-Colahar.jpeg",
+  "minutes": 120,
+  "size": 174372485,
+  "title": "K-CO - 26/10/2026 - 17:00"
+ },
  "https://replay.rinse.fm/kool/Kara150826.mp3": {
   "channel": "kool",
   "date": "2026-08-15T21:00:00+01:00",
@@ -9716,6 +9791,19 @@
   "minutes": 120,
   "size": 287832582,
   "title": "Klute - 24/08/2026 - 23:00"
+ },
+ "https://replay.rinse.fm/kool/Klute261026.mp3": {
+  "channel": "kool",
+  "date": "2026-10-26T23:00:00+00:00",
+  "genres": [
+   "Drum & Bass",
+   "Techstep",
+   "Intelligent"
+  ],
+  "image": "https://image.rinse.fm/_/klute-oct26-Tom-Klute.JPG",
+  "minutes": 120,
+  "size": 288011383,
+  "title": "Klute - 26/10/2026 - 23:00"
  },
  "https://replay.rinse.fm/kool/Klute270726.mp3": {
   "channel": "kool",
@@ -23809,6 +23897,15 @@
   "size": 288010286,
   "title": "Brighter Days Family - 25/08/2026 - 15:00"
  },
+ "https://replay.rinse.fm/uk/BrighterDaysFamily271026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T15:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Brighter-Days-March-2023.jpeg",
+  "minutes": 120,
+  "size": 287233879,
+  "title": "Brighter Days Family - 27/10/2026 - 15:00"
+ },
  "https://replay.rinse.fm/uk/BrighterDaysFamily280726.mp3": {
   "channel": "uk",
   "date": "2026-07-28T15:00:00+01:00",
@@ -24888,6 +24985,19 @@
   "size": 143779778,
   "title": "DJ Gilla - 01/09/2026 - 06:00"
  },
+ "https://replay.rinse.fm/uk/DJGilla281026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-28T12:00:00+00:00",
+  "genres": [
+   "Soul",
+   "R&B",
+   "Jazz"
+  ],
+  "image": "https://image.rinse.fm/_/unnamed-4-Aly-Gillani.jpg",
+  "minutes": 60,
+  "size": 144010715,
+  "title": "DJ Gilla - 28/10/2026 - 12:00"
+ },
  "https://replay.rinse.fm/uk/DJLOVE120826.mp3": {
   "channel": "uk",
   "date": "2026-08-12T17:00:00+01:00",
@@ -25397,6 +25507,19 @@
   "minutes": 60,
   "size": 144497681,
   "title": "Diffrent - 25/08/2026 - 23:00"
+ },
+ "https://replay.rinse.fm/uk/Diffrent271026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T23:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Garage",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/Diffrent_Thuishaven_ADE26-Felipe-Pineros.png",
+  "minutes": 60,
+  "size": 144234325,
+  "title": "Diffrent - 27/10/2026 - 23:00"
  },
  "https://replay.rinse.fm/uk/Diffrent280726.mp3": {
   "channel": "uk",
@@ -25950,6 +26073,19 @@
   "size": 144418476,
   "title": "Eclecticist - 27/08/2025 - 12:00"
  },
+ "https://replay.rinse.fm/uk/Eclecticist281026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-28T13:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Dupstep",
+   "Hip-Hop"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_20260806_0921423142-Eclectivity.jpg",
+  "minutes": 60,
+  "size": 146206060,
+  "title": "Eclecticist - 28/10/2026 - 13:00"
+ },
  "https://replay.rinse.fm/uk/Eclecticist290726.mp3": {
   "channel": "uk",
   "date": "2026-07-29T13:00:00+01:00",
@@ -26390,6 +26526,15 @@
   "size": 223737370,
   "title": "Esk - 23/09/2026 - 10:00"
  },
+ "https://replay.rinse.fm/uk/Esk281026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-28T10:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/eskpic.JPG",
+  "minutes": 120,
+  "size": 286140890,
+  "title": "Esk - 28/10/2026 - 10:00"
+ },
  "https://replay.rinse.fm/uk/Esk300926.mp3": {
   "channel": "uk",
   "date": "2026-09-30T10:00:00+01:00",
@@ -26659,6 +26804,19 @@
   "minutes": 60,
   "size": 144092255,
   "title": "Fracture - 25/08/2026 - 22:00"
+ },
+ "https://replay.rinse.fm/uk/Fracture271026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T22:00:00+00:00",
+  "genres": [
+   "Jungle",
+   "Electro",
+   "Footwork"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_0701-Charlie-Fieber.jpeg",
+  "minutes": 60,
+  "size": 144569779,
+  "title": "Fracture - 27/10/2026 - 22:00"
  },
  "https://replay.rinse.fm/uk/Fracture280726.mp3": {
   "channel": "uk",
@@ -27932,6 +28090,19 @@
   "size": 142789246,
   "title": "Kojay - 25/08/2026 - 14:00"
  },
+ "https://replay.rinse.fm/uk/KOJAY271026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T14:00:00+00:00",
+  "genres": [
+   "Latin",
+   "Electronic",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_2053-Kojay-Innis.JPG",
+  "minutes": 60,
+  "size": 144318907,
+  "title": "Kojay - 27/10/2026 - 14:00"
+ },
  "https://replay.rinse.fm/uk/KOJAY280426.mp3": {
   "channel": "uk",
   "date": "2026-06-23T14:00:00+01:00",
@@ -29038,6 +29209,15 @@
   "size": 145035838,
   "title": "Morf - 25/08/2026 - 13:00"
  },
+ "https://replay.rinse.fm/uk/Morf271026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T13:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Morf-6-May-2025.JPG",
+  "minutes": 60,
+  "size": 143661739,
+  "title": "Morf - 27/10/2026 - 13:00"
+ },
  "https://replay.rinse.fm/uk/MorningsRedley020623.mp3": {
   "channel": "uk",
   "date": "2026-09-11T10:00:00+01:00",
@@ -30100,6 +30280,15 @@
   "minutes": 120,
   "size": 279610263,
   "title": "Papaoul - 25/08/2026 - 10:00"
+ },
+ "https://replay.rinse.fm/uk/Papaoul271026..mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T10:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg",
+  "minutes": 120,
+  "size": 286788147,
+  "title": "Papaoul - 27/10/2026 - 10:00"
  },
  "https://replay.rinse.fm/uk/Papaoul290926.mp3": {
   "channel": "uk",
@@ -32234,8 +32423,12 @@
  "https://replay.rinse.fm/uk/Teklife251026.mp3": {
   "channel": "uk",
   "date": "2026-10-25T23:00:00+00:00",
-  "genres": [],
-  "image": "https://image.rinse.fm/_/TEKLIFE-MAY-2025_2025-05-29-144414_cime.jpg",
+  "genres": [
+   "Footwork",
+   "Electronic",
+   "Grime"
+  ],
+  "image": "https://image.rinse.fm/_/PHOTO_BANCAL_2026_BW.jpg",
   "minutes": 60,
   "size": 144231132,
   "title": "TEKLIFE - 25/10/2026 - 23:00"
@@ -33814,6 +34007,19 @@
   "minutes": 60,
   "size": 144672470,
   "title": "nora - 25/08/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/uk/nora271026.mp3": {
+  "channel": "uk",
+  "date": "2026-10-27T17:00:00+00:00",
+  "genres": [
+   "House",
+   "Garage",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_6446-Ellie-Warner.jpeg",
+  "minutes": 60,
+  "size": 144182086,
+  "title": "nora - 27/10/2026 - 17:00"
  },
  "https://replay.rinse.fm/uk/p-rallel090726.mp3": {
   "channel": "uk",
