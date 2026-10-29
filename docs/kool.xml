@@ -12,6 +12,76 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>SETTLE DOWN - 28/10/2026 - 23:00</title>
+<description>Kool FM, broadcast 28 Oct 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN281026.mp3" length="288389484" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288389484</guid>
+<pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth_2026-10-28-142525_sqmp.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Space Cadet - 28/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 28 Oct 2026 21:00. Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/SpaceCadet28102026.mp3" length="289873108" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289873108</guid>
+<pubDate>Wed, 28 Oct 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-10-29-at-09.22.25.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Bryan Gee - 28/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 28 Oct 2026 19:00. Drum &amp; Bass, Liquid, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/BryanGee281026_.mp3" length="292447336" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-292447336</guid>
+<pubDate>Wed, 28 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PHOTO-2026-10-29-09-19-42.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Brockie - 28/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 28 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJBrockie281026.mp3" length="292447344" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-292447344</guid>
+<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Brockie-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Basic Rhythm - 27/10/2026 - 23:00</title>
+<description>Kool FM, broadcast 27 Oct 2026 23:00. Drum &amp; Bass, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/BasicRhythm271026.mp3" length="288378828" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288378828</guid>
+<pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Basic-Rhythm-Stanmore-Anthoney-Hart.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Technimatic - 27/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 27 Oct 2026 19:00. Drum &amp; Bass, Liquid, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/Technimatic271026.mp3" length="288516991" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288516991</guid>
+<pubDate>Tue, 27 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/T-bw-4-of-4-peter-rogers_2026-10-27-102738_oagi.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jamie G presents the United Colours Of Jungle Show - 27/10/2026 - 11:42</title>
+<description>Kool FM, broadcast 27 Oct 2026 11:42. Hardcore, Jungle, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/JamieG271026.mp3" length="286886880" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286886880</guid>
+<pubDate>Tue, 27 Oct 2026 11:42:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9813-Jamie-G.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Klute - 26/10/2026 - 23:00</title>
 <description>Kool FM, broadcast 26 Oct 2026 23:00. Drum &amp; Bass, Techstep, Intelligent</description>
 <enclosure url="https://replay.rinse.fm/kool/Klute261026.mp3" length="288011383" type="audio/mpeg"/>
@@ -150,6 +220,16 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/sieprinski-rula-bula-kool-fm-Ariel-Remy.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Collette Warren - 23/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 23 Oct 2026 17:00. Drum &amp; Bass, Liquid, Podcast</description>
+<enclosure url="https://replay.rinse.fm/kool/ColletteWarren231026.mp3" length="288417310" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288417310</guid>
+<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/unnamed-Collette-Warren.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Ibiza Records Show - 23/10/2026 - 16:00</title>
@@ -2929,86 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG-20251231-WA0035-Stephen-Newton.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ibiza Records Show - 14/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/IbizaRecords140826_.mp3" length="141367190" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141367190</guid>
-<pubDate>Fri, 14 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Crate Classics - 14/08/2026 - 14:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 14:00. Drum &amp; Bass, Jungle, Liquid</description>
-<enclosure url="https://replay.rinse.fm/kool/CrateClassics140826.mp3" length="288225525" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288225525</guid>
-<pubDate>Fri, 14 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/PHOTO-2026-08-10-20-26-03-Jamie-Rodigan.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rompa's Reggae Shack - 14/08/2026 - 09:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 09:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Rompa'sReggaeShack140826.mp3" length="289301778" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-289301778</guid>
-<pubDate>Fri, 14 Aug 2026 09:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RRS-LOGO.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DJ Patife - 13/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 13 Aug 2026 23:00. Drum &amp; Bass, Liquid, Sambass</description>
-<enclosure url="https://replay.rinse.fm/kool/Patife130826.mp3" length="288306860" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288306860</guid>
-<pubDate>Thu, 13 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-Patife-Apr-2022-DJ-Patife.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Soul In Motion Records - 30/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 13 Aug 2026 21:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/SoulInMotion130826.mp3" length="267164438" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-267164438</guid>
-<pubDate>Thu, 13 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/bigos-sim-records-Soul-In-Motion.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ant TC1 presents Dispatch Recordings - 13/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 13 Aug 2026 19:00. Drum &amp; Bass, Oldskool, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/AntTC1130826.mp3" length="288226116" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288226116</guid>
-<pubDate>Thu, 13 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/C2F2E67F-77EA-47B8-A283-2B915A3AE03F-Ant-C.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Benny V - 13/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 13 Aug 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/kool/BennyV130826.mp3" length="288314933" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288314933</guid>
-<pubDate>Thu, 13 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Benny-V-Press-Shot.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Flexout Audio - 12/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 12 Aug 2026 23:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/FlexoutAudio120826.mp3" length="288435283" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288435283</guid>
-<pubDate>Wed, 12 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Nooch-Shoot-Edits-1-Florian-Kaiser.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

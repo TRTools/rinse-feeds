@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 32,
+  "count": 29,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/PuraPuraFootworkSpecial281026(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/LushLata&guest(VBR).mp3"
  },
  "kool": {
-  "count": 39,
+  "count": 47,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/CatchingCairo061026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/DJFlight141026.mp3"
  },
  "swu": {
-  "count": 76,
+  "count": 61,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Minnim011026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/PeterStorm211026.mp3"
  },
  "uk": {
-  "count": 91,
+  "count": 95,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/Eclecticist281026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Ryota100926.mp3"
  }
 }

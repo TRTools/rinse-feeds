@@ -8,102 +8,96 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95198",
-      "slug": "rinse-cyan",
-      "title": "Rinse Cyan"
+      "id": "1164956",
+      "slug": "kool-red",
+      "title": "Kool Red"
      }
     ],
-    "channelLaunchDateTime": null,
+    "channelLaunchDateTime": "2023-04-23T11:00:00+00:00",
     "channelPagePreviewDateTime": null,
     "defaultTimezoneOffset": "Europe/London",
-    "extract": "Live from London",
-    "id": "35",
+    "extract": null,
+    "id": "946125",
     "isPermanentChannel": true,
-    "lft": 2,
-    "slug": "uk",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-    "title": "UK"
+    "lft": 10,
+    "slug": "kool",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
+    "title": "Kool FM"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2026-10-28T00:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-10-28T13:00:00+00:00",
-  "extract": "In the ‘mix & blend’ with some yesteryear and some new music from Honeydrip, Jeshi, and Maya Jane Coles. Plus, Eclecticist takes a moment to bask in ‘Jamaica Love’.",
+  "displayTitle": "presents Flight:Mode 013",
+  "episodeDate": "2026-10-13T23:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-10-29T19:00:00+00:00",
+  "extract": "Deeper shades of jungle drum & bass",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "IMG_20260806_0921423142-Eclectivity.jpg",
+    "filename": "DJ-Flight-by-@lauraobscurum-_-Laura-Baumann-DJ-Flight.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 7066,
-    "width": 3974
+    "height": 2048,
+    "width": 1368
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/uk/Eclecticist281026.mp3",
+  "fileUrl": "https://replay.rinse.fm/kool/DJFlight141026.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "bass",
-    "title": "Bass"
+    "slug": "dnb",
+    "title": "Drum & Bass"
    },
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": false,
-    "slug": "dupstep",
-    "title": "Dupstep"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
+    "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "hip-hop",
-    "title": "Hip-Hop"
+    "slug": "jungle",
+    "title": "Jungle"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "jazz",
+    "title": "Jazz"
    }
   ],
-  "id": "2319313",
+  "id": "2313657",
   "isRebroadcast": false,
-  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "uk"
+      "slug": "kool"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "An eclectic array of wonderful music unified by culture, identity and vibes.",
+    "extract": "DJ Flight is widely regarded as one of the foundations of Drum & Bass and a pioneer of dance music. As a DJ and a radio presenter, she has been at the forefront of the scene’s transitional periods by championing underground music and eclectic producers.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Eclectivity-October-2023.jpeg",
+      "filename": "DJ-Flight-April-2023.jpeg",
       "focalPoint": [
-       0.5268,
-       0.3145
+       0.5,
+       0.5
       ],
-      "hasFocalPoint": true,
-      "height": 4000,
-      "width": 6000
+      "hasFocalPoint": false,
+      "height": 1365,
+      "width": 2048
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "soul",
-      "title": "Soul"
+      "slug": "dnb",
+      "title": "Drum & Bass"
      },
      {
       "__typename": "genre_Tag",
@@ -111,18 +105,18 @@
       "title": "Jungle"
      }
     ],
-    "id": "1478237",
+    "id": "1042359",
     "showStatus": "highlighted",
-    "slug": "eclecticist",
-    "title": "Eclecticist",
-    "url": "https://admin.rinse.fm/shows/eclecticist"
+    "slug": "dj-flight",
+    "title": "DJ Flight",
+    "url": "https://admin.rinse.fm/shows/dj-flight"
    }
   ],
-  "slug": "eclecticist-28-10-2026-1300",
+  "slug": "dj-flight-14-10-2026-1900",
   "subtitle": null,
-  "title": "Eclecticist - 28/10/2026 - 13:00",
+  "title": "DJ Flight - 14/10/2026 - 19:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/IMG_20260806_0921423142-Eclectivity.jpg",
+ "image": "https://image.rinse.fm/_/DJ-Flight-by-%40lauraobscurum-_-Laura-Baumann-DJ-Flight.jpg",
  "image_found_at": ".featuredImage.filename"
 }
