@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Millz - 30/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 30 Oct 2026 17:00. Jungle, Drum &amp; Bass, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/Millz111026.mp3" length="288463683" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288463683</guid>
+<pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MILLZ-SUPER-SUNDAYS-PIC-millie-andersson-gylden.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Benny V - 29/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 29 Oct 2026 17:00. Drum &amp; Bass, Jump Up, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/BennyV291026.mp3" length="288591147" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288591147</guid>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Benny-V...ampire-on-the-bed-29t-Oct.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>SETTLE DOWN - 28/10/2026 - 23:00</title>
 <description>Kool FM, broadcast 28 Oct 2026 23:00</description>
 <enclosure url="https://replay.rinse.fm/kool/SETTLEDOWN281026.mp3" length="288389484" type="audio/mpeg"/>
@@ -2989,26 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2023-10-19-at-09.58.40-Leila-Beesley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>NRG CRU - 14/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 19:00. Jungle, Techno</description>
-<enclosure url="https://replay.rinse.fm/kool/NRGCRU1400826.mp3" length="288209942" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288209942</guid>
-<pubDate>Fri, 14 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/NRG-AUGUST-NRG-CRU.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Goldfat Music - 14/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 17:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/GoldfatMusic140826.mp3" length="287773082" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287773082</guid>
-<pubDate>Fri, 14 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG-20251231-WA0035-Stephen-Newton.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

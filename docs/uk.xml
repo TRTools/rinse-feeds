@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>ELOQ - 30/10/2026 - 23:00</title>
+<description>Rinse FM, broadcast 30 Oct 2026 23:00. Garage</description>
+<enclosure url="https://replay.rinse.fm/uk/ELOQ091026.mp3" length="143919819" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143919819</guid>
+<pubDate>Fri, 30 Oct 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/9DA976B6-C1A1-4392-8A34-C90AB87BCDE6_1_105_c-August-Janson-ELOQ.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Amber's - 30/10/2026 - 22:00</title>
+<description>Rinse FM, broadcast 30 Oct 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Ambers091026.mp3" length="144425535" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144425535</guid>
+<pubDate>Fri, 30 Oct 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Ambers-2025-Marketing_05-James-Hutchins.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Uncle Dugs - 30/10/2026 - 11:00</title>
+<description>Rinse FM, broadcast 30 Oct 2026 11:00</description>
+<enclosure url="https://replay.rinse.fm/uk/UncleDugs301026.mp3" length="432625851" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-432625851</guid>
+<pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>10800</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>SK Vibemaker - 29/10/2026 - 13:00</title>
+<description>Rinse FM, broadcast 29 Oct 2026 13:00</description>
+<enclosure url="https://replay.rinse.fm/uk/SKVibemaker291026.mp3" length="142321123" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142321123</guid>
+<pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SK-Vibemaker-January-2023_3.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Yazmin Lacey - 29/10/2026 - 10:00</title>
+<description>Rinse FM, broadcast 29 Oct 2026 10:00</description>
+<enclosure url="https://replay.rinse.fm/uk/YazminLacey291026.mp3" length="288130361" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288130361</guid>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>shekdash - 28/10/2026 - 23:00</title>
 <description>Rinse FM, broadcast 28 Oct 2026 23:00</description>
 <enclosure url="https://replay.rinse.fm/uk/Shekdash281026.mp3" length="144725190" type="audio/mpeg"/>
@@ -2960,56 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Paradise - 16/09/2026 - 22:00</title>
-<description>Rinse FM, broadcast 16 Sep 2026 22:00. Dance, House</description>
-<enclosure url="https://replay.rinse.fm/uk/Paradise160926_.mp3" length="145136777" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145136777</guid>
-<pubDate>Wed, 16 Sep 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DaleMay2026-122-Edit-1-Esther-Chan.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Of Paradise - 16/09/2026 - 21:00</title>
-<description>Rinse FM, broadcast 16 Sep 2026 21:00. Bass, Breakbeat, Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/PaulPandSilentEra300526.mp3" length="144411163" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144411163</guid>
-<pubDate>Wed, 16 Sep 2026 21:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Of-Paradise-Rinse-Takeover-31-May-2026-Paul-Patterson.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Just Jane - 16/09/2026 - 18:00</title>
-<description>Rinse FM, broadcast 16 Sep 2026 18:00. Dubstep, Techno, Bass</description>
-<enclosure url="https://replay.rinse.fm/uk/JustJaneB2BSteady160926.mp3" length="143369266" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143369266</guid>
-<pubDate>Wed, 16 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Untitled-design-14-Just-Jane.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>T.NO - 16/09/2026 - 17:00</title>
-<description>Rinse FM, broadcast 16 Sep 2026 17:00. Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/T.NO160926.mp3" length="144640834" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144640834</guid>
-<pubDate>Wed, 16 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/jj-show-Tino.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Utopia Presents - 04/10/2026 - 07:00</title>
-<description>Rinse FM, broadcast 16 Sep 2026 15:00. House, Latin, Disco</description>
-<enclosure url="https://replay.rinse.fm/uk/UtopiaPresents160926.mp3" length="288136729" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288136729</guid>
-<pubDate>Wed, 16 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-09-11-at-18.09.26-Sophie-Wanendeya.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

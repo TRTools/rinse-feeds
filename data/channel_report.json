@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 29,
+  "count": 27,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/LushLata&guest(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/GiammarcoOrsinipresHypnoticaRomantica301026(VBR).mp3"
  },
  "kool": {
-  "count": 47,
+  "count": 52,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/DJFlight141026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/IbizaRecords161026.mp3"
  },
  "swu": {
-  "count": 61,
+  "count": 72,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/PeterStorm211026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/WormDisco191026.mp3"
  },
  "uk": {
-  "count": 95,
+  "count": 103,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/Ryota100926.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Roska231026.mp3"
  }
 }
