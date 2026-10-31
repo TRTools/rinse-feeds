@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 27,
+  "count": 34,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/GiammarcoOrsinipresHypnoticaRomantica301026(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/MariaGehnyei(VBR).mp3"
  },
  "kool": {
-  "count": 52,
+  "count": 48,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/IbizaRecords161026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Crucast031026.mp3"
  },
  "swu": {
-  "count": 72,
+  "count": 62,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/WormDisco191026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/PBRStreetgang201026.mp3"
  },
  "uk": {
-  "count": 103,
+  "count": 88,
   "sample_fields": {
    "channel": [
     {

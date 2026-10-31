@@ -32,6 +32,16 @@
 <itunes:image href="https://image.rinse.fm/_/Ambers-2025-Marketing_05-James-Hutchins.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
+<title>Joe Armon-Jones - 30/10/2026 - 14:00</title>
+<description>Rinse FM, broadcast 30 Oct 2026 14:00. Electronic, Dub, BrokenBeat</description>
+<enclosure url="https://replay.rinse.fm/uk/MaxwellOwin301026.mp3" length="288381799" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288381799</guid>
+<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/000026520029-Joe-Armon-Jones.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Uncle Dugs - 30/10/2026 - 11:00</title>
 <description>Rinse FM, broadcast 30 Oct 2026 11:00</description>
 <enclosure url="https://replay.rinse.fm/uk/UncleDugs301026.mp3" length="432625851" type="audio/mpeg"/>
@@ -3000,16 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/bcd79063-3335-41a9-8767-1b3ba1f08468-Aideen-Ryan.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yazmin Lacey - 17/09/2026 - 10:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/YazminLacey170926.mp3" length="292547179" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-292547179</guid>
-<pubDate>Thu, 17 Sep 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -25,15 +25,35 @@
     "title": "Kool FM"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2026-10-15T23:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-10-30T16:00:00+00:00",
-  "extract": null,
-  "featuredImage": [],
-  "fileUrl": "https://replay.rinse.fm/kool/IbizaRecords161026.mp3",
-  "genreTag": [],
-  "id": "2314153",
+  "displayTitle": "with Gino & ORA",
+  "episodeDate": "2026-10-02T23:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-10-31T21:00:00+00:00",
+  "extract": "Crucast returns to Rinse FM with Gino & ORA stepping up for the latest edition of the show.  Gino digs deep into his own catalogue for a special 100% productions mix, while ORA brings her own selection of upfront Drum & Bass to the Crucast airwaves.  Two distinct sides of the scene, two guest mixes, live on Rinse FM.",
+  "featuredImage": [
+   {
+    "__typename": "media_Asset",
+    "filename": "418a8d0b-6a0b-4739-873f-4f3e887eb329.png",
+    "focalPoint": [
+     0.5,
+     0.5
+    ],
+    "hasFocalPoint": false,
+    "height": 1254,
+    "width": 1254
+   }
+  ],
+  "fileUrl": "https://replay.rinse.fm/uk/Crucast031026.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "dnb",
+    "title": "Drum & Bass"
+   }
+  ],
+  "id": "2310364",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -44,50 +64,62 @@
       "slug": "kool"
      }
     ],
-    "defaultEpisodeImage": [],
-    "extract": "Paul Ibiza is responsible for bringing the world the legendary records label Ibiza Records, he is a promoter that has put on cutting edged events Fantastic Ibiza, Jungle Splash and MC Convention to name a few.",
-    "featuredImage": [
+    "defaultEpisodeImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Paul-Ibiza-April-2023.jpeg",
+      "filename": "Crucast_Press-Shot_1600x900.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1400,
-      "width": 933
+      "height": 900,
+      "width": 1600
+     }
+    ],
+    "extract": "An institution for underground dance music, CruCast have been the UK Bass scenes leading light since their foundation",
+    "featuredImage": [
+     {
+      "__typename": "media_Asset",
+      "filename": "CruCast-June-2023_1.jpg",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1354,
+      "width": 2031
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "old-skool",
-      "title": "Old Skool"
+      "slug": "bass",
+      "title": "Bass"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "jungle",
-      "title": "Jungle"
+      "slug": "dnb",
+      "title": "Drum & Bass"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "hardcore",
-      "title": "Hardcore"
+      "slug": "garage",
+      "title": "Garage"
      }
     ],
-    "id": "1019389",
+    "id": "12630",
     "showStatus": "highlighted",
-    "slug": "paul-ibiza",
-    "title": "Ibiza Records Show",
-    "url": "https://admin.rinse.fm/shows/paul-ibiza"
+    "slug": "crucast",
+    "title": "Crucast",
+    "url": "https://admin.rinse.fm/shows/crucast"
    }
   ],
-  "slug": "ibiza-records-show-16-10-2026-1600",
+  "slug": "crucast-03-10-2026-2100",
   "subtitle": null,
-  "title": "Ibiza Records Show - 16/10/2026 - 16:00",
+  "title": "Crucast - 03/10/2026 - 21:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg",
- "image_found_at": ".parentShow.featuredImage.filename"
+ "image": "https://image.rinse.fm/_/418a8d0b-6a0b-4739-873f-4f3e887eb329.png",
+ "image_found_at": ".featuredImage.filename"
 }
