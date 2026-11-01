@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Kara - 17/10/2026 - 21:00</title>
+<description>Kool FM, broadcast 01 Nov 2026 21:00. Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/Kara171026.mp3" length="288425817" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288425817</guid>
+<pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Kara-30-Kara-Foundation.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Millz - 30/10/2026 - 19:00</title>
 <description>Kool FM, broadcast 30 Oct 2026 17:00. Jungle, Drum &amp; Bass, Rollers</description>
 <enclosure url="https://replay.rinse.fm/kool/Millz111026.mp3" length="288463683" type="audio/mpeg"/>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_5262-Pierluigi-Zardetto.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Chinese Daughter - 20/10/2023 - 22:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 22:00. Jungle, Oldskool, Hardcore</description>
-<enclosure url="https://replay.rinse.fm/kool/ChineseDaughter201023.mp3" length="288743665" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288743665</guid>
-<pubDate>Fri, 14 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2023-10-19-at-09.58.40-Leila-Beesley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

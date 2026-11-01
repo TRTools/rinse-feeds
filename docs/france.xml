@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>kIM0 presents POV - 01/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 01 Nov 2026 17:00. Pop, Electronic, Talk</description>
+<enclosure url="https://replay.rinse.fm/france/Kim0inviteJoanna(Talk&amp;DJSet)011126(VBR).mp3" length="141722104" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-141722104</guid>
+<pubDate>Sun, 01 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/AB442DED-24AD-4334-B8B6-5CFFAF99710D-Kim-Huynh.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Rinse France Guest Show - 31/10/2026 - 20:00</title>
 <description>Rinse France, broadcast 31 Oct 2026 20:00. Electronic, House, Techno</description>
 <enclosure url="https://replay.rinse.fm/france/MariaGehnyei(VBR).mp3" length="143833559" type="audio/mpeg"/>
@@ -2997,16 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Masaka-Masaka-July-2026-masaka-masaka.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Weirdies Records - 20/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 20 Jul 2026 20:00</description>
-<enclosure url="https://replay.rinse.fm/france/WeirdiesavecJonBeigeBlogHouseSpecial200726(VBR).mp3" length="147347014" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-147347014</guid>
-<pubDate>Mon, 20 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Pact-of-Negation-Future-Sight-MtG-Art-Jonathan-Evrard.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

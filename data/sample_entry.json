@@ -1,7 +1,7 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": null,
+  "artistTitle": "Kara presents The Foundation",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
@@ -25,25 +25,25 @@
     "title": "Kool FM"
    }
   ],
-  "displayTitle": "with Gino & ORA",
-  "episodeDate": "2026-10-02T23:00:00+00:00",
+  "displayTitle": "with guest Jamelia",
+  "episodeDate": "2026-10-16T23:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-10-31T21:00:00+00:00",
-  "extract": "Crucast returns to Rinse FM with Gino & ORA stepping up for the latest edition of the show.  Gino digs deep into his own catalogue for a special 100% productions mix, while ORA brings her own selection of upfront Drum & Bass to the Crucast airwaves.  Two distinct sides of the scene, two guest mixes, live on Rinse FM.",
+  "episodeTime": "2026-11-01T21:00:00+00:00",
+  "extract": "Kara takes down the tempo for an hour of 160bpm high energy breaks followed by a guest mix from up coming dj Jamelia",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "418a8d0b-6a0b-4739-873f-4f3e887eb329.png",
+    "filename": "Kara-30-Kara-Foundation.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1254,
-    "width": 1254
+    "height": 7835,
+    "width": 5876
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/uk/Crucast031026.mp3",
+  "fileUrl": "https://replay.rinse.fm/kool/Kara171026.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
@@ -53,7 +53,7 @@
     "title": "Drum & Bass"
    }
   ],
-  "id": "2310364",
+  "id": "2314529",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -64,39 +64,22 @@
       "slug": "kool"
      }
     ],
-    "defaultEpisodeImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "Crucast_Press-Shot_1600x900.png",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 900,
-      "width": 1600
-     }
-    ],
-    "extract": "An institution for underground dance music, CruCast have been the UK Bass scenes leading light since their foundation",
+    "defaultEpisodeImage": [],
+    "extract": "Hosted by Kara with Foundation crew Wilman and Ronnie, the show highlights the best in classic and modern Jungle and Drum & Bass. Featuring old-school anthems, fresh releases, guest mixes, and showcases of upcoming label releases.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "CruCast-June-2023_1.jpg",
+      "filename": "463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1354,
-      "width": 2031
+      "height": 1795,
+      "width": 1440
      }
     ],
     "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "bass",
-      "title": "Bass"
-     },
      {
       "__typename": "genre_Tag",
       "slug": "dnb",
@@ -104,22 +87,27 @@
      },
      {
       "__typename": "genre_Tag",
-      "slug": "garage",
-      "title": "Garage"
+      "slug": "jungle",
+      "title": "Jungle"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "oldskool",
+      "title": "Oldskool"
      }
     ],
-    "id": "12630",
+    "id": "1670324",
     "showStatus": "highlighted",
-    "slug": "crucast",
-    "title": "Crucast",
-    "url": "https://admin.rinse.fm/shows/crucast"
+    "slug": "kara",
+    "title": "Kara",
+    "url": "https://admin.rinse.fm/shows/kara"
    }
   ],
-  "slug": "crucast-03-10-2026-2100",
+  "slug": "kara-17-10-2026-2100",
   "subtitle": null,
-  "title": "Crucast - 03/10/2026 - 21:00",
+  "title": "Kara - 17/10/2026 - 21:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/418a8d0b-6a0b-4739-873f-4f3e887eb329.png",
+ "image": "https://image.rinse.fm/_/Kara-30-Kara-Foundation.jpg",
  "image_found_at": ".featuredImage.filename"
 }

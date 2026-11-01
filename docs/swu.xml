@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Blacksmith &amp; Frenic - 01/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 01 Nov 2026 12:00. Hip-Hop, Rap, Grime</description>
+<enclosure url="https://replay.rinse.fm/swu/Blacksmith&amp;Frenic011126.mp3" length="288010280" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010280</guid>
+<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Blacksmith-Frenic_Jan_2025.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Sourdough Disco - 01/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 01 Nov 2026 10:00. Dub, Soul, Disco</description>
+<enclosure url="https://replay.rinse.fm/swu/SourdoughDisco011126.mp3" length="288010266" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010266</guid>
+<pubDate>Sun, 01 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Sourdough_Nov_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Felix Joy - 29/10/2026 - 10:00</title>
+<description>SWU FM, broadcast 29 Oct 2026 10:00. Multigenre</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy291026.mp3" length="288010254" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010254</guid>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rotate - 28/10/2026 - 23:00</title>
+<description>SWU FM, broadcast 28 Oct 2026 23:00. Multigenre, Garage, Old Skool</description>
+<enclosure url="https://replay.rinse.fm/swu/Rotate281026.mp3" length="144010771" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010771</guid>
+<pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-10-28-at-19.24.58.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Pessimist &amp; Vega - 28/10/2026 - 21:00</title>
 <description>SWU FM, broadcast 28 Oct 2026 21:00. Drum &amp; Bass, Techno, Electronic</description>
 <enclosure url="https://replay.rinse.fm/swu/Pessimist&amp;Vega281026.mp3" length="288009915" type="audio/mpeg"/>
@@ -20,6 +60,16 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Zohar_Oct_26.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Oppidan - 30/10/2026 - 01:00</title>
+<description>SWU FM, broadcast 28 Oct 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Oppidan130224.mp3" length="288033990" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288033990</guid>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Oppidan-September-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Feel The Real - 28/10/2026 - 14:00</title>
@@ -50,6 +100,26 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Don't Admit Defeat - 28/10/2026 - 00:00</title>
+<description>SWU FM, broadcast 28 Oct 2026 00:00. House, Disco, Dance</description>
+<enclosure url="https://replay.rinse.fm/swu/DAD281026.mp3" length="144010795" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010795</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DAD_Oct_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Synkro - 31/10/2026 - 18:00</title>
+<description>SWU FM, broadcast 27 Oct 2026 22:00. Dubstep, Bass, Garage</description>
+<enclosure url="https://replay.rinse.fm/swu/Synkro271026.mp3" length="144012482" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144012482</guid>
+<pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SYNKRO_OCT_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Sir Hiss - 27/10/2026 - 21:00</title>
@@ -199,7 +269,7 @@
 <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Dani-Whylie-Oct-2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/DaniWhylie_May_2024_05.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Body Clinic - 24/10/2026 - 23:00</title>
@@ -2940,76 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DJ-Die-Feb-2026_2026-07-24-105132_lgch.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Idle Hands - 22/07/2026 - 18:00</title>
-<description>SWU FM, broadcast 22 Jul 2026 18:00. House, Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/IdleHands220726.mp3" length="144010536" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010536</guid>
-<pubDate>Wed, 22 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IdleHands_July_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 22/07/2026 - 10:00</title>
-<description>SWU FM, broadcast 22 Jul 2026 10:00. Pop, Hip Hop, Soul</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy220726.mp3" length="288008954" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288008954</guid>
-<pubDate>Wed, 22 Jul 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>A Sagittariun - 23/07/2026 - 03:00</title>
-<description>SWU FM, broadcast 21 Jul 2026 23:00. Techno, Electronic, Ambient</description>
-<enclosure url="https://replay.rinse.fm/swu/ASagittariun210726.mp3" length="288008936" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288008936</guid>
-<pubDate>Tue, 21 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/A-Sagittariun-July-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Tommy Jackson - 21/07/2026 - 21:00</title>
-<description>SWU FM, broadcast 21 Jul 2026 21:00. Techno, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/TommyJackson210726.mp3" length="144009451" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144009451</guid>
-<pubDate>Tue, 21 Jul 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Thomas-Jackson_July_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Amity - 23/07/2026 - 01:00</title>
-<description>SWU FM, broadcast 21 Jul 2026 19:00. Bass, Dub, House</description>
-<enclosure url="https://replay.rinse.fm/swu/Amity210726.mp3" length="288009944" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009944</guid>
-<pubDate>Tue, 21 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/AmityClub_JULY_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>PBR Streetgang - 29/07/2026 - 16:00</title>
-<description>SWU FM, broadcast 21 Jul 2026 16:00. Disco, House, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/PBRStreetgang210726.mp3" length="288010058" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010058</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/PBR_Streetgang_JULY_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>RSD - 20/07/2026 - 23:00</title>
-<description>SWU FM, broadcast 20 Jul 2026 23:00</description>
-<enclosure url="https://replay.rinse.fm/swu/RSD200726.mp3" length="288009904" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009904</guid>
-<pubDate>Mon, 20 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LEXXI_JUL_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
