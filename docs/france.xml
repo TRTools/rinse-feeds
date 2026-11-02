@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Rythme Brisé - 02/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 02 Nov 2026 17:00. Footwork, Breakbeat, Jungle</description>
+<enclosure url="https://replay.rinse.fm/france/rythmebriseinviteTacticyokouno021126(VBR).mp3" length="139779028" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139779028</guid>
+<pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/rbcarre%CC%81VF-Rythme-Brise%CC%81.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Bloodsport - 02/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 02 Nov 2026 15:00. Electronic, Ambient, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/BLOODSPORT021126(VBR).mp3" length="141820536" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-141820536</guid>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/P1160280-salem-jabou.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>kIM0 presents POV - 01/11/2026 - 17:00</title>
 <description>Rinse France, broadcast 01 Nov 2026 17:00. Pop, Electronic, Talk</description>
 <enclosure url="https://replay.rinse.fm/france/Kim0inviteJoanna(Talk&amp;DJSet)011126(VBR).mp3" length="141722104" type="audio/mpeg"/>
@@ -2987,26 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/731052322_18599588725033921_7731552373672210066_n-BASEI-RBS.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MENTAL HEALTH RADIO par Stencia - 22/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 22 Jul 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/france/MENTALHEALTHRADIO220726(320).mp3" length="77100079" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-77100079</guid>
-<pubDate>Wed, 22 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/image0_2023-10-16-150846_jxkw.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Nyege Nyege - 21/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 21 Jul 2026 19:00. Ambient, Electronic, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/NyegeNyegeTakeoverMasakaMasaka210726(VBR).mp3" length="110784255" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-110784255</guid>
-<pubDate>Tue, 21 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Masaka-Masaka-July-2026-masaka-masaka.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -32,6 +32,36 @@
 <itunes:image href="https://image.rinse.fm/_/MILLZ-SUPER-SUNDAYS-PIC-millie-andersson-gylden.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
+<title>Benny V - 30/10/2026 - 17:00</title>
+<description>Kool FM, broadcast 30 Oct 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BennyV301026.mp3" length="288515938" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288515938</guid>
+<pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Benny-V...ampire-with-his-castle-30th-Oct-1.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Crate Classics - 30/10/2026 - 14:00</title>
+<description>Kool FM, broadcast 30 Oct 2026 14:00. Drum &amp; Bass, Jungle, Liquid</description>
+<enclosure url="https://replay.rinse.fm/kool/CrateClassics301026.mp3" length="288432360" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288432360</guid>
+<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8999-Jamie-Rodigan_2026-10-29-171940_trhn.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Artemis - 29/10/2026 - 19:00</title>
+<description>Kool FM, broadcast 29 Oct 2026 19:00. Drum &amp; Bass, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/Artemis291026.mp3" length="290298520" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290298520</guid>
+<pubDate>Thu, 29 Oct 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Artemis-B2B-Simms-Website-Photo_2026-10-28-110145_dszg.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Benny V - 29/10/2026 - 17:00</title>
 <description>Kool FM, broadcast 29 Oct 2026 17:00. Drum &amp; Bass, Jump Up, Rollers</description>
 <enclosure url="https://replay.rinse.fm/kool/BennyV291026.mp3" length="288591147" type="audio/mpeg"/>
@@ -2979,36 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Kara-29-Kara-Foundation.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gifta - 15/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 15 Aug 2026 19:00. Drum &amp; Bass, Rollers, minimal</description>
-<enclosure url="https://replay.rinse.fm/kool/Gifta150826.mp3" length="284882876" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-284882876</guid>
-<pubDate>Sat, 15 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_5774-Gifta-Dnb.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Funky Flirt - 15/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 15 Aug 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/kool/FunkyFlirt150826.mp3" length="286626799" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-286626799</guid>
-<pubDate>Sat, 15 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-FUNKY-FLIRT-March-2023_2023-07-12-120424_nbvu.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Zar - 14/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 14 Aug 2026 23:00. Drum &amp; Bass, Jazz, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/Zar140826.mp3" length="288370732" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288370732</guid>
-<pubDate>Fri, 14 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_5262-Pierluigi-Zardetto.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

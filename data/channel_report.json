@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 33,
+  "count": 32,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/Kim0inviteJoanna(Talk&DJSet)011126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/BambiprésenteOddSeeds-003avecOlgaB021126.mp3"
  },
  "kool": {
-  "count": 41,
+  "count": 44,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/Kara171026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/10031Recordings050526.mp3"
  },
  "swu": {
-  "count": 90,
+  "count": 87,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Blacksmith&Frenic011126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/BedroomRatRecords031026.mp3"
  },
  "uk": {
-  "count": 75,
+  "count": 77,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/Roska231026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/StonesTaro121026.mp3"
  }
 }

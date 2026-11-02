@@ -1,7 +1,7 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": "Kara presents The Foundation",
+  "artistTitle": "100% 31 Recordings",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
@@ -25,35 +25,27 @@
     "title": "Kool FM"
    }
   ],
-  "displayTitle": "with guest Jamelia",
-  "episodeDate": "2026-10-16T23:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-11-01T21:00:00+00:00",
-  "extract": "Kara takes down the tempo for an hour of 160bpm high energy breaks followed by a guest mix from up coming dj Jamelia",
+  "displayTitle": null,
+  "episodeDate": "2026-05-04T23:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-11-02T16:00:00+00:00",
+  "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Kara-30-Kara-Foundation.jpg",
+    "filename": "logo_2026-05-01-153017_lmnc.png",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 7835,
-    "width": 5876
+    "height": 500,
+    "width": 500
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/kool/Kara171026.mp3",
-  "genreTag": [
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "dnb",
-    "title": "Drum & Bass"
-   }
-  ],
-  "id": "2314529",
+  "fileUrl": "https://replay.rinse.fm/kool/10031Recordings050526.mp3",
+  "genreTag": [],
+  "id": "2266699",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -64,50 +56,46 @@
       "slug": "kool"
      }
     ],
-    "defaultEpisodeImage": [],
-    "extract": "Hosted by Kara with Foundation crew Wilman and Ronnie, the show highlights the best in classic and modern Jungle and Drum & Bass. Featuring old-school anthems, fresh releases, guest mixes, and showcases of upcoming label releases.",
-    "featuredImage": [
+    "defaultEpisodeImage": [
      {
       "__typename": "media_Asset",
-      "filename": "463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg",
+      "filename": "Placeholder_Kool-100-—-Square.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1795,
-      "width": 1440
+      "height": 1600,
+      "width": 1600
      }
     ],
-    "genreTag": [
+    "extract": "100% - A 60 minute focus on an icon from the Drum & Bass / Jungle scenes. Lock in every Monday-Thursday 4-5PM.",
+    "featuredImage": [
      {
-      "__typename": "genre_Tag",
-      "slug": "dnb",
-      "title": "Drum & Bass"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "jungle",
-      "title": "Jungle"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "oldskool",
-      "title": "Oldskool"
+      "__typename": "media_Asset",
+      "filename": "100-—-Page-Banner.png",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1480,
+      "width": 5333
      }
     ],
-    "id": "1670324",
+    "genreTag": [],
+    "id": "2256732",
     "showStatus": "highlighted",
-    "slug": "kara",
-    "title": "Kara",
-    "url": "https://admin.rinse.fm/shows/kara"
+    "slug": "100",
+    "title": "100%",
+    "url": "https://admin.rinse.fm/shows/100"
    }
   ],
-  "slug": "kara-17-10-2026-2100",
+  "slug": "100-05-05-2026-1600",
   "subtitle": null,
-  "title": "Kara - 17/10/2026 - 21:00",
+  "title": "100% - 05/05/2026 - 16:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Kara-30-Kara-Foundation.jpg",
+ "image": "https://image.rinse.fm/_/logo_2026-05-01-153017_lmnc.png",
  "image_found_at": ".featuredImage.filename"
 }

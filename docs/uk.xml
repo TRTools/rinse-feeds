@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Oneman - 01/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 01 Nov 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Oneman011126.mp3" length="287822087" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287822087</guid>
+<pubDate>Sun, 01 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Oneman-September-2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>CoOp Presents - 01/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 01 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/uk/CoopPresents011126.mp3" length="287380128" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287380128</guid>
+<pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PHOTO-2025-03-20-16-04-10-2-Alex-Phountzi_2026-11-01-111750_tzbj.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Russ Ryan - 01/11/2026 - 12:00</title>
+<description>Rinse FM, broadcast 01 Nov 2026 12:00. Jazz, Soul, House</description>
+<enclosure url="https://replay.rinse.fm/uk/RussRyan011126.mp3" length="293961920" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-293961920</guid>
+<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/adrien-olichon-RCAhiGJsUUE-unsplash-Russ.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Harri Pepper - 01/11/2026 - 10:00</title>
+<description>Rinse FM, broadcast 01 Nov 2026 10:00</description>
+<enclosure url="https://replay.rinse.fm/uk/HarriPepper011126.mp3" length="293919094" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-293919094</guid>
+<pubDate>Sun, 01 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DA420EC9-9DDF-4BDF-8A1D-14B50E89F48B-Harri-Pepper.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>ELOQ - 30/10/2026 - 23:00</title>
 <description>Rinse FM, broadcast 30 Oct 2026 23:00. Garage</description>
 <enclosure url="https://replay.rinse.fm/uk/ELOQ091026.mp3" length="143919819" type="audio/mpeg"/>
@@ -32,6 +72,26 @@
 <itunes:image href="https://image.rinse.fm/_/Ambers-2025-Marketing_05-James-Hutchins.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
+<title>Farsight - 30/10/2026 - 21:00</title>
+<description>Rinse FM, broadcast 30 Oct 2026 21:00. Dubstep, Grime, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/uk/Farsight301026.mp3" length="145650143" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145650143</guid>
+<pubDate>Fri, 30 Oct 2026 21:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Farsight-Promo-Pic-B-Marshall-Smith.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Sprinter - 30/10/2026 - 20:00</title>
+<description>Rinse FM, broadcast 30 Oct 2026 20:00. Breakbeat, Techno, Bass</description>
+<enclosure url="https://replay.rinse.fm/uk/DJSprinter301026.mp3" length="143451684" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143451684</guid>
+<pubDate>Fri, 30 Oct 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_3976-3-Gerard-Taylor.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Joe Armon-Jones - 30/10/2026 - 14:00</title>
 <description>Rinse FM, broadcast 30 Oct 2026 14:00. Electronic, Dub, BrokenBeat</description>
 <enclosure url="https://replay.rinse.fm/uk/MaxwellOwin301026.mp3" length="288381799" type="audio/mpeg"/>
@@ -50,6 +110,16 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>10800</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Area Records - 29/10/2026 - 18:00</title>
+<description>Rinse FM, broadcast 29 Oct 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/uk/AreaRecords291026.mp3" length="288487758" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288487758</guid>
+<pubDate>Thu, 29 Oct 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RINSE-Kai-Whitfield.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>SK Vibemaker - 29/10/2026 - 13:00</title>
@@ -2940,76 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/OIL-SHENZHEN-2-Thomas-Bray.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Steel City Dance Discs - 17/09/2026 - 22:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 22:00. Electronic, Garage</description>
-<enclosure url="https://replay.rinse.fm/uk/SteelCityDanceDiscs170926.mp3" length="144810294" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144810294</guid>
-<pubDate>Thu, 17 Sep 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/f8b9632293d02545f0af1d5457d5bbe6-VSCO-Sebastian-Swanborough.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>X CLUB. - 17/09/2026 - 19:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 19:00. House, Electronic, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/uk/XClub170926.mp3" length="287847246" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287847246</guid>
-<pubDate>Thu, 17 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/X-CLUB.-with-Jeshi.01_03_41_04.Still008.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>SKALAH - 17/09/2026 - 17:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Skalah170926.mp3" length="145140278" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145140278</guid>
-<pubDate>Thu, 17 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SKALAH-March-2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Tom Ravenscroft - 17/09/2026 - 15:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 15:00</description>
-<enclosure url="https://replay.rinse.fm/uk/TomRavenscroft170926.mp3" length="288400049" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288400049</guid>
-<pubDate>Thu, 17 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Tom-Ravenscroft-June-2025-2.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mr. Redley - 17/09/2026 - 14:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 14:00. House</description>
-<enclosure url="https://replay.rinse.fm/uk/MrRedley170926.mp3" length="145270889" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145270889</guid>
-<pubDate>Thu, 17 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/P1040318-Mr.-Redley.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>SK Vibemaker - 17/09/2026 - 13:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 13:00. Hip-Hop, R&amp;B, Dancehall</description>
-<enclosure url="https://replay.rinse.fm/uk/SKVibemaker17092026.mp3" length="147505964" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-147505964</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SK__OS___DSC00225-SK-Vibemaker_2026-09-16-191700_phgu.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hi-Fidelity - 23/09/2026 - 09:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 12:00. Soul, Broken Beat, House</description>
-<enclosure url="https://replay.rinse.fm/uk/Bambi170926.mp3" length="150515279" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-150515279</guid>
-<pubDate>Thu, 17 Sep 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/bcd79063-3335-41a9-8767-1b3ba1f08468-Aideen-Ryan.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
