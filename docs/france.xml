@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Izzy Lindqwister - 03/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 03 Nov 2026 15:00. Dub, Reggae, Dancehall</description>
+<enclosure url="https://replay.rinse.fm/france/izzylindqwisterlicencetoweed031126vbr.mp3" length="131152103" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-131152103</guid>
+<pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8043-IZZY-Lindqwister.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Lysiane N. - 03/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 03 Nov 2026 14:00. rnb, Soul, Jazz</description>
+<enclosure url="https://replay.rinse.fm/france/DedicaceauGrooveavecLysianeN031126(VBR).mp3" length="129587864" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-129587864</guid>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DAG_Rinse-L.-N.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>HALFPIPE RECORDS - 02/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 02 Nov 2026 20:00. Bass, Latin, Reggaeton</description>
+<enclosure url="https://replay.rinse.fm/france/HalfpipeRecordsinvite-LilDrea021126(VBR).mp3" length="137049384" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137049384</guid>
+<pubDate>Mon, 02 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSCF6253_2024-05-02-135936_jlod.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Hewan Aman - 02/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 02 Nov 2026 19:00. Techno, Dub, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/HewanAman021136(VBR).mp3" length="138647736" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-138647736</guid>
+<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/9-Hewan-Goethals.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Rythme Brisé - 02/11/2026 - 17:00</title>
 <description>Rinse France, broadcast 02 Nov 2026 17:00. Footwork, Breakbeat, Jungle</description>
 <enclosure url="https://replay.rinse.fm/france/rythmebriseinviteTacticyokouno021126(VBR).mp3" length="139779028" type="audio/mpeg"/>
@@ -2967,46 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>5400</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/GAITE2307NEGOOSIDE.00_36_45_14.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Vie Garantie - 23/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 23 Jul 2026 16:00. Podcast, Experimental, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/VieGarantie230726(VBR).mp3" length="122513476" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-122513476</guid>
-<pubDate>Thu, 23 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_1982-Vie-Garantie.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>TONAK.fm - 23/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 23 Jul 2026 15:00. Multigenre, Pop, Dub</description>
-<enclosure url="https://replay.rinse.fm/france/TONAK.fmMusicForTheSoul230726(VBR).mp3" length="98072999" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-98072999</guid>
-<pubDate>Thu, 23 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Cover-Rinse-1_1-Juillet_2026-10-01-090742_ipuo.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>GЯEG - 22/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 22 Jul 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/Greg&amp;Friends(VBR).mp3" length="138531487" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-138531487</guid>
-<pubDate>Wed, 22 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Greg.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>WEDOMiEL - 22/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 22 Jul 2026 15:00. Afrobeat, Talk</description>
-<enclosure url="https://replay.rinse.fm/france/WEDOMiELinviteCKAY220726(320).mp3" length="136110673" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-136110673</guid>
-<pubDate>Wed, 22 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/731052322_18599588725033921_7731552373672210066_n-BASEI-RBS.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>OSSX - 02/11/2026 - 23:00</title>
+<description>Rinse FM, broadcast 02 Nov 2026 23:00. House, Dance</description>
+<enclosure url="https://replay.rinse.fm/uk/OSSX021126.mp3" length="287536448" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287536448</guid>
+<pubDate>Mon, 02 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_2387-chris-equiss.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Delilah - 02/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 02 Nov 2026 17:00. Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/Delilah021126.mp3" length="145108245" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145108245</guid>
+<pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Delilah-35mm-05-Delilah-Saxena.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Charles Green - 02/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 02 Nov 2026 14:00. Techno, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/CharlesGreen021126.mp3" length="144265393" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144265393</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/881746797_18654512083023079_3779336856363070393_n-Charles-Green.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Donsurf - 02/11/2026 - 12:00</title>
+<description>Rinse FM, broadcast 02 Nov 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Donsurf021126.mp3" length="144186647" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144186647</guid>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/wide-banner-Donsurf.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Oneman - 01/11/2026 - 18:00</title>
 <description>Rinse FM, broadcast 01 Nov 2026 18:00</description>
 <enclosure url="https://replay.rinse.fm/uk/Oneman011126.mp3" length="287822087" type="audio/mpeg"/>
@@ -110,6 +150,16 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>10800</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Fracture - 27/10/2026 - 22:00</title>
+<description>Rinse FM, broadcast 29 Oct 2026 22:00. Jungle, Electro, Footwork</description>
+<enclosure url="https://replay.rinse.fm/uk/Fracture271026_.mp3" length="151378969" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-151378969</guid>
+<pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_0701-Charlie-Fieber.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Area Records - 29/10/2026 - 18:00</title>
@@ -2960,56 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Lu-2-3-LuRe-Music.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DJ Polo - 18/09/2026 - 18:00</title>
-<description>Rinse FM, broadcast 18 Sep 2026 18:00. Amapiano, Broken Beat, Funky</description>
-<enclosure url="https://replay.rinse.fm/uk/DJPolo180926.mp3" length="144579205" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144579205</guid>
-<pubDate>Fri, 18 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-Polo-Rinse-Sept-Xavier-Redkwa.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ella Knight - 18/09/2026 - 16:00</title>
-<description>Rinse FM, broadcast 18 Sep 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/uk/EllaKnight180926.mp3" length="288012372" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288012372</guid>
-<pubDate>Fri, 18 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/BCDF0993-545B-483A-9A18-00051239E251-Ella-Knight.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Jeremy Sylvester - 18/09/2026 - 14:00</title>
-<description>Rinse FM, broadcast 18 Sep 2026 14:00. Garage, House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/JeremySylvester180926.mp3" length="288216208" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288216208</guid>
-<pubDate>Fri, 18 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/5acb5008-94da-42b5-9372-a5d8fa58dc3c-Jeremy-Sylvester.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Daddy Nature - 18/09/2026 - 11:00</title>
-<description>Rinse FM, broadcast 18 Sep 2026 11:00</description>
-<enclosure url="https://replay.rinse.fm/uk/DaddyNature180926.mp3" length="433093312" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-433093312</guid>
-<pubDate>Fri, 18 Sep 2026 11:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>10800</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ME-PRESS-MAIN.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>YETI OUT - 17/09/2026 - 23:00</title>
-<description>Rinse FM, broadcast 17 Sep 2026 23:00. Bass, Electronic, multi genre</description>
-<enclosure url="https://replay.rinse.fm/uk/YetiOut170926.mp3" length="135670372" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-135670372</guid>
-<pubDate>Thu, 17 Sep 2026 23:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OIL-SHENZHEN-2-Thomas-Bray.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

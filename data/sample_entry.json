@@ -1,7 +1,7 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": "100% 31 Recordings",
+  "artistTitle": "Workforce presents Must Make Music",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
@@ -26,26 +26,48 @@
    }
   ],
   "displayTitle": null,
-  "episodeDate": "2026-05-04T23:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-11-02T16:00:00+00:00",
-  "extract": null,
+  "episodeDate": "2026-08-31T23:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-11-03T19:00:00+00:00",
+  "extract": "Workforce goes into the mix for the full 2 hours - spanning the full spectrum of Drum & Bass",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "logo_2026-05-01-153017_lmnc.png",
+    "filename": "L1006763-no-tufts-RESIZED-Workforce-Must-Make_2026-09-01-131342_fcwp.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 500,
-    "width": 500
+    "height": 1283,
+    "width": 1920
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/kool/10031Recordings050526.mp3",
-  "genreTag": [],
-  "id": "2266699",
+  "fileUrl": "https://replay.rinse.fm/kool/Workforce010926.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "dnb",
+    "title": "Drum & Bass"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": false,
+    "slug": "liquid",
+    "title": "Liquid"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "jungle",
+    "title": "Jungle"
+   }
+  ],
+  "id": "2301800",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -56,46 +78,50 @@
       "slug": "kool"
      }
     ],
-    "defaultEpisodeImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "Placeholder_Kool-100-—-Square.jpg",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1600,
-      "width": 1600
-     }
-    ],
-    "extract": "100% - A 60 minute focus on an icon from the Drum & Bass / Jungle scenes. Lock in every Monday-Thursday 4-5PM.",
+    "defaultEpisodeImage": [],
+    "extract": null,
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "100-—-Page-Banner.png",
+      "filename": "IMG_3367-copy-Workforce-Must-Make.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1480,
-      "width": 5333
+      "height": 1500,
+      "width": 2000
      }
     ],
-    "genreTag": [],
-    "id": "2256732",
+    "genreTag": [
+     {
+      "__typename": "genre_Tag",
+      "slug": "dnb",
+      "title": "Drum & Bass"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "liquid",
+      "title": "Liquid"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "jungle",
+      "title": "Jungle"
+     }
+    ],
+    "id": "2226335",
     "showStatus": "highlighted",
-    "slug": "100",
-    "title": "100%",
-    "url": "https://admin.rinse.fm/shows/100"
+    "slug": "workforce-2",
+    "title": "Workforce",
+    "url": "https://admin.rinse.fm/shows/workforce-2"
    }
   ],
-  "slug": "100-05-05-2026-1600",
+  "slug": "workforce-01-09-2026-1900",
   "subtitle": null,
-  "title": "100% - 05/05/2026 - 16:00",
+  "title": "Workforce - 01/09/2026 - 19:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/logo_2026-05-01-153017_lmnc.png",
+ "image": "https://image.rinse.fm/_/L1006763-no-tufts-RESIZED-Workforce-Must-Make_2026-09-01-131342_fcwp.jpg",
  "image_found_at": ".featuredImage.filename"
 }

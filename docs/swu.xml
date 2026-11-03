@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>A For Alpha - 03/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 03 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/swu/AForAlpha031126.mp3" length="288009881" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009881</guid>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/A-For-Alpha-new-press-shot.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Felix Joy - 03/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 03 Nov 2026 10:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy031126.mp3" length="288009877" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009877</guid>
+<pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Foundation Audio with Chad Dubz - 02/11/2026 - 22:00</title>
+<description>SWU FM, broadcast 02 Nov 2026 22:00. Dubstep</description>
+<enclosure url="https://replay.rinse.fm/swu/FoundationAudio021126.mp3" length="144010444" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010444</guid>
+<pubDate>Mon, 02 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Chad-Dubz-Nov-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Trends - 02/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 02 Nov 2026 21:00. Dubstep, Grime, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/Trends021126.mp3" length="144010394" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010394</guid>
+<pubDate>Mon, 02 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Trends_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Gemmy - 02/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 02 Nov 2026 19:00. Dubstep, Grime</description>
+<enclosure url="https://replay.rinse.fm/swu/Gemmy021126.mp3" length="285098854" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-285098854</guid>
+<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Gemmy_Nov_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Zoro - 02/11/2026 - 18:00</title>
 <description>SWU FM, broadcast 02 Nov 2026 18:00. Multigenre</description>
 <enclosure url="https://replay.rinse.fm/swu/Zoro021126.mp3" length="144010390" type="audio/mpeg"/>
@@ -209,7 +259,7 @@
 <pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SYNKRO_OCT_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Untitled_1.3.3-Joe-Gareth-at-SK1-Records.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Sir Hiss - 27/10/2026 - 21:00</title>
@@ -2960,56 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Portway_JULY_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Bell Curve - 27/07/2026 - 03:00</title>
-<description>SWU FM, broadcast 25 Jul 2026 19:00. Grime, Bass, Dubstep</description>
-<enclosure url="https://replay.rinse.fm/swu/BellCurve250726.mp3" length="144010826" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010826</guid>
-<pubDate>Sat, 25 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/JL_JULY_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rukus &amp; A:sine - 25/07/2026 - 17:00</title>
-<description>SWU FM, broadcast 25 Jul 2026 17:00. Bass, Breakbeat, Garage</description>
-<enclosure url="https://replay.rinse.fm/swu/Rukus&amp;ASine250726.mp3" length="288010285" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010285</guid>
-<pubDate>Sat, 25 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RukusAsine_July_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MAMBA - 01/08/2026 - 16:00</title>
-<description>SWU FM, broadcast 25 Jul 2026 16:00. Electronic, Dubstep, Garage</description>
-<enclosure url="https://replay.rinse.fm/swu/MAMBA250726.mp3" length="144010786" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010786</guid>
-<pubDate>Sat, 25 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MAMBA_July_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>BRUK - 24/07/2026 - 20:00</title>
-<description>SWU FM, broadcast 24 Jul 2026 20:00. Jungle, Breakbeat</description>
-<enclosure url="https://replay.rinse.fm/swu/BRUK240726.mp3" length="144010808" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010808</guid>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Arturo_JUL_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 24/07/2026 - 10:00</title>
-<description>SWU FM, broadcast 24 Jul 2026 10:00. House, Disco, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy240726.mp3" length="288010301" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010301</guid>
-<pubDate>Fri, 24 Jul 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Will-Benson_July_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
