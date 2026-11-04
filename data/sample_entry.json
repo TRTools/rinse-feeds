@@ -1,127 +1,138 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": "Workforce presents Must Make Music",
+  "artistTitle": "La Connect'",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "1164956",
-      "slug": "kool-red",
-      "title": "Kool Red"
+      "id": "95203",
+      "slug": "rinse-steel",
+      "title": "Rinse Steel"
      }
     ],
-    "channelLaunchDateTime": "2023-04-23T11:00:00+00:00",
+    "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/London",
-    "extract": null,
-    "id": "946125",
+    "defaultTimezoneOffset": "Europe/Paris",
+    "extract": "France Extract",
+    "id": "32",
     "isPermanentChannel": true,
-    "lft": 10,
-    "slug": "kool",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
-    "title": "Kool FM"
+    "lft": 4,
+    "slug": "france",
+    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
+    "title": "France"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2026-08-31T23:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-11-03T19:00:00+00:00",
-  "extract": "Workforce goes into the mix for the full 2 hours - spanning the full spectrum of Drum & Bass",
+  "displayTitle": "Le Kaiju invite Human Plushie",
+  "episodeDate": "2026-11-04T00:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-11-04T19:00:00+00:00",
+  "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "L1006763-no-tufts-RESIZED-Workforce-Must-Make_2026-09-01-131342_fcwp.jpg",
+    "filename": "Fall-Headshot-01-Clem-Mbaye.jpeg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1283,
-    "width": 1920
+    "height": 5334,
+    "width": 4000
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/kool/Workforce010926.mp3",
+  "fileUrl": "https://replay.rinse.fm/france/LaConnect'LeKaijuinviteHumanPlushie041126(VBR).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "dnb",
-    "title": "Drum & Bass"
+    "slug": "techno",
+    "title": "Techno"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "electronic",
+    "title": "Electronic"
    },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
     "isVisibleTag": false,
-    "slug": "liquid",
-    "title": "Liquid"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "jungle",
-    "title": "Jungle"
+    "slug": "danse",
+    "title": "Danse"
    }
   ],
-  "id": "2301800",
+  "id": "2320495",
   "isRebroadcast": false,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "kool"
+      "slug": "france"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": null,
+    "extract": "Reflet de cette nouvelle génération enflammant la scène parisienne et française, et ﻿notamment Queer, Le Kaiju est riche de ses pluralités la composant.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "IMG_3367-copy-Workforce-Must-Make.jpg",
+      "filename": "INSTA_LEKAIJU7.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1500,
-      "width": 2000
+      "height": 1080,
+      "width": 1080
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "dnb",
-      "title": "Drum & Bass"
+      "slug": "footwork",
+      "title": "Footwork"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "liquid",
-      "title": "Liquid"
+      "slug": "house",
+      "title": "House"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "techno",
+      "title": "Techno"
      },
      {
       "__typename": "genre_Tag",
       "slug": "jungle",
       "title": "Jungle"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "bass",
+      "title": "Bass"
      }
     ],
-    "id": "2226335",
+    "id": "1484527",
     "showStatus": "highlighted",
-    "slug": "workforce-2",
-    "title": "Workforce",
-    "url": "https://admin.rinse.fm/shows/workforce-2"
+    "slug": "la-connect-avec-le-kaiju",
+    "title": "La Connect’ avec Le Kaiju",
+    "url": "https://admin.rinse.fm/shows/la-connect-avec-le-kaiju"
    }
   ],
-  "slug": "workforce-01-09-2026-1900",
+  "slug": "la-connect-avec-le-kaiju-04-11-2026-1900",
   "subtitle": null,
-  "title": "Workforce - 01/09/2026 - 19:00",
+  "title": "La Connect’ avec Le Kaiju - 04/11/2026 - 19:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/L1006763-no-tufts-RESIZED-Workforce-Must-Make_2026-09-01-131342_fcwp.jpg",
+ "image": "https://image.rinse.fm/_/Fall-Headshot-01-Clem-Mbaye.jpeg",
  "image_found_at": ".featuredImage.filename"
 }

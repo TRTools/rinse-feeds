@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>IYRE - 02/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 02 Nov 2026 23:00. Drum &amp; Bass, Rollers, minimal</description>
+<enclosure url="https://replay.rinse.fm/kool/IYRE021126.mp3" length="284961808" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-284961808</guid>
+<pubDate>Mon, 02 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-11-01-at-10.03.17-PMfhgf-IYRE.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Paul T &amp; Edward Oberon - 02/11/2026 - 19:00</title>
 <description>Kool FM, broadcast 02 Nov 2026 19:00</description>
 <enclosure url="https://replay.rinse.fm/kool/PaulT&amp;EdwardOberon021126.mp3" length="288538498" type="audio/mpeg"/>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/20200305_013320.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rebel Music - 16/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 16 Aug 2026 19:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/RebelMusic160826.mp3" length="171988734" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-171988734</guid>
-<pubDate>Sun, 16 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot_20260803_154730_Gallery-Ben-FutureSoul.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

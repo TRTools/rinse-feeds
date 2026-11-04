@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Firenze Phoenix - 04/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 04 Nov 2026 12:00. Grime, Rap, Presenters</description>
+<enclosure url="https://replay.rinse.fm/swu/FirenzePhoenix041126.mp3" length="288008968" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008968</guid>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Firenze-Phoenix-November-2026-F-P.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>EM + STAV - 03/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 03 Nov 2026 23:00. Techno, Bass, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/EM+STAV031126.mp3" length="288008914" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008914</guid>
+<pubDate>Tue, 03 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/EMSTAV_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Hodge - 03/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 03 Nov 2026 21:00. Techno, Bass, House</description>
+<enclosure url="https://replay.rinse.fm/swu/Hodge031126.mp3" length="288009867" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009867</guid>
+<pubDate>Tue, 03 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Axle - 03/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 03 Nov 2026 19:00. Dubstep, Techno, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/Axle031126.mp3" length="288009636" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009636</guid>
+<pubDate>Tue, 03 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Axle_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>A For Alpha - 03/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 03 Nov 2026 14:00</description>
 <enclosure url="https://replay.rinse.fm/swu/AForAlpha031126.mp3" length="288009881" type="audio/mpeg"/>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/YoungLion_AUGUST3_2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Dani Whylie - 26/07/2026 - 00:00</title>
-<description>SWU FM, broadcast 26 Jul 2026 00:00. House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/DaniWhylie250726.mp3" length="144010798" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010798</guid>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DaniWhylie_JULY_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Body Clinic - 25/07/2026 - 23:00</title>
-<description>SWU FM, broadcast 25 Jul 2026 23:00. Dance, House, Trance</description>
-<enclosure url="https://replay.rinse.fm/swu/BodyClinic250726.mp3" length="144010836" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010836</guid>
-<pubDate>Sat, 25 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/AidenFrancis_July_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gemi - 27/07/2026 - 01:00</title>
-<description>SWU FM, broadcast 25 Jul 2026 21:00. Techno, Dance, House</description>
-<enclosure url="https://replay.rinse.fm/swu/Gemi250726.mp3" length="288010283" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010283</guid>
-<pubDate>Sat, 25 Jul 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Gemi-July-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Portway - 27/07/2026 - 04:00</title>
-<description>SWU FM, broadcast 25 Jul 2026 20:00. Bass, Techno, Experimental</description>
-<enclosure url="https://replay.rinse.fm/swu/Portway250726.mp3" length="144010775" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010775</guid>
-<pubDate>Sat, 25 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Portway_JULY_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
