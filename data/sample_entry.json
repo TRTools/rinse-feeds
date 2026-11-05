@@ -1,138 +1,101 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": "La Connect'",
+  "artistTitle": "100% Critical Music",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95203",
-      "slug": "rinse-steel",
-      "title": "Rinse Steel"
+      "id": "1164956",
+      "slug": "kool-red",
+      "title": "Kool Red"
      }
     ],
-    "channelLaunchDateTime": null,
+    "channelLaunchDateTime": "2023-04-23T11:00:00+00:00",
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/Paris",
-    "extract": "France Extract",
-    "id": "32",
+    "defaultTimezoneOffset": "Europe/London",
+    "extract": null,
+    "id": "946125",
     "isPermanentChannel": true,
-    "lft": 4,
-    "slug": "france",
-    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
-    "title": "France"
+    "lft": 10,
+    "slug": "kool",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
+    "title": "Kool FM"
    }
   ],
-  "displayTitle": "Le Kaiju invite Human Plushie",
-  "episodeDate": "2026-11-04T00:00:00+00:00",
+  "displayTitle": null,
+  "episodeDate": "2026-05-13T23:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-04T19:00:00+00:00",
+  "episodeTime": "2026-11-05T16:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Fall-Headshot-01-Clem-Mbaye.jpeg",
+    "filename": "criticalLogo-medium.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 5334,
-    "width": 4000
+    "height": 400,
+    "width": 400
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/LaConnect'LeKaijuinviteHumanPlushie041126(VBR).mp3",
-  "genreTag": [
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "techno",
-    "title": "Techno"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "electronic",
-    "title": "Electronic"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": false,
-    "slug": "danse",
-    "title": "Danse"
-   }
-  ],
-  "id": "2320495",
+  "fileUrl": "https://replay.rinse.fm/kool/100CriticalMusic140526.mp3",
+  "genreTag": [],
+  "id": "2269439",
   "isRebroadcast": false,
-  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "france"
+      "slug": "kool"
      }
     ],
-    "defaultEpisodeImage": [],
-    "extract": "Reflet de cette nouvelle génération enflammant la scène parisienne et française, et ﻿notamment Queer, Le Kaiju est riche de ses pluralités la composant.",
-    "featuredImage": [
+    "defaultEpisodeImage": [
      {
       "__typename": "media_Asset",
-      "filename": "INSTA_LEKAIJU7.jpg",
+      "filename": "Placeholder_Kool-100-—-Square.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1080,
-      "width": 1080
+      "height": 1600,
+      "width": 1600
      }
     ],
-    "genreTag": [
+    "extract": "100% - A 60 minute focus on an icon from the Drum & Bass / Jungle scenes. Lock in every Monday-Thursday 4-5PM.",
+    "featuredImage": [
      {
-      "__typename": "genre_Tag",
-      "slug": "footwork",
-      "title": "Footwork"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "house",
-      "title": "House"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "jungle",
-      "title": "Jungle"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "bass",
-      "title": "Bass"
+      "__typename": "media_Asset",
+      "filename": "100-—-Page-Banner.png",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1480,
+      "width": 5333
      }
     ],
-    "id": "1484527",
+    "genreTag": [],
+    "id": "2256732",
     "showStatus": "highlighted",
-    "slug": "la-connect-avec-le-kaiju",
-    "title": "La Connect’ avec Le Kaiju",
-    "url": "https://admin.rinse.fm/shows/la-connect-avec-le-kaiju"
+    "slug": "100",
+    "title": "100%",
+    "url": "https://admin.rinse.fm/shows/100"
    }
   ],
-  "slug": "la-connect-avec-le-kaiju-04-11-2026-1900",
+  "slug": "100-14-05-2026-1600",
   "subtitle": null,
-  "title": "La Connect’ avec Le Kaiju - 04/11/2026 - 19:00",
+  "title": "100% - 14/05/2026 - 16:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Fall-Headshot-01-Clem-Mbaye.jpeg",
+ "image": "https://image.rinse.fm/_/criticalLogo-medium.jpg",
  "image_found_at": ".featuredImage.filename"
 }

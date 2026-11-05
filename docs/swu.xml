@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Felix Joy - 05/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 05 Nov 2026 10:00. Multigenre, R&amp;B, House</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy051126.mp3" length="288010178" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010178</guid>
+<pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Born On Road - 04/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 04 Nov 2026 21:00. Drum &amp; Bass, Jungle, Jump Up</description>
+<enclosure url="https://replay.rinse.fm/swu/BornOnRoad041126.mp3" length="288010176" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010176</guid>
+<pubDate>Wed, 04 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Aries_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Scruz - 04/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 04 Nov 2026 18:00. House, Techno, Garage</description>
+<enclosure url="https://replay.rinse.fm/swu/Scruz041126.mp3" length="144010392" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010392</guid>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/scruz_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Firenze Phoenix - 04/11/2026 - 12:00</title>
 <description>SWU FM, broadcast 04 Nov 2026 12:00. Grime, Rap, Presenters</description>
 <enclosure url="https://replay.rinse.fm/swu/FirenzePhoenix041126.mp3" length="288008968" type="audio/mpeg"/>
@@ -2980,36 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Myriam_July2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Escher - 28/07/2026 - 03:00</title>
-<description>SWU FM, broadcast 26 Jul 2026 21:00. Electronic, Dance, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/Escher260726.mp3" length="288008946" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288008946</guid>
-<pubDate>Sun, 26 Jul 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Escher-05-Escher-Music-Connection.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ZamZam Sounds - 28/07/2026 - 05:00</title>
-<description>SWU FM, broadcast 26 Jul 2026 16:00. Dub</description>
-<enclosure url="https://replay.rinse.fm/swu/ZamZam260726.mp3" length="288010305" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010305</guid>
-<pubDate>Sun, 26 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ZAMZAM_JULY2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Young Lion - 27/07/2026 - 07:00</title>
-<description>SWU FM, broadcast 26 Jul 2026 10:00. Dub, Reggae, Dancehall</description>
-<enclosure url="https://replay.rinse.fm/swu/YoungLion260726.mp3" length="288010273" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010273</guid>
-<pubDate>Sun, 26 Jul 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/YoungLion_AUGUST3_2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

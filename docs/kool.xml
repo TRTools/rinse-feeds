@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Jamie G presents the United Colours Of Jungle Show - 03/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 03 Nov 2026 17:00. Jungle, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/JamieG031126.mp3" length="288389254" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288389254</guid>
+<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9801-Jamie-G_2026-11-03-121533_jevz.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>IYRE - 02/11/2026 - 23:00</title>
 <description>Kool FM, broadcast 02 Nov 2026 23:00. Drum &amp; Bass, Rollers, minimal</description>
 <enclosure url="https://replay.rinse.fm/kool/IYRE021126.mp3" length="284961808" type="audio/mpeg"/>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-08-09-at-14.13.13-Xeonz-UK.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MC Det - 19/04/2026 - 21:00</title>
-<description>Kool FM, broadcast 16 Aug 2026 21:00</description>
-<enclosure url="https://replay.rinse.fm/kool/MCDet190426.mp3" length="139515694" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-139515694</guid>
-<pubDate>Sun, 16 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/20200305_013320.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

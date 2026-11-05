@@ -12,6 +12,66 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Fever AM - 04/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 04 Nov 2026 22:00. Techno, Bass, Rollers</description>
+<enclosure url="https://replay.rinse.fm/uk/FeverAM041126.mp3" length="144156787" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144156787</guid>
+<pubDate>Wed, 04 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Rinse_Fever-AM_Rhyw_04.11.2026-Fever-AM.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ESC - 04/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 04 Nov 2026 18:00. Bass, Garage, Electro</description>
+<enclosure url="https://replay.rinse.fm/uk/ESC041126.mp3" length="145230817" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145230817</guid>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-11-03-at-08.00.40-Ella.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jumbi - 04/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 04 Nov 2026 14:00. Afrobeat, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/uk/Jumbi041126.mp3" length="143691012" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143691012</guid>
+<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RNS_2026-11-04_01-01-12-Amos-Mukombero.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Eclecticist - 04/11/2026 - 13:00</title>
+<description>Rinse FM, broadcast 04 Nov 2026 13:00. Techno, Bass, Dubstep</description>
+<enclosure url="https://replay.rinse.fm/uk/Eclecticist041126.mp3" length="144238539" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144238539</guid>
+<pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/dsc00126-Eclectivity_2026-11-03-131027_yjlm.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Esk - 04/11/2026 - 10:00</title>
+<description>Rinse FM, broadcast 04 Nov 2026 10:00</description>
+<enclosure url="https://replay.rinse.fm/uk/EskTX04112026.mp3" length="286142565" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286142565</guid>
+<pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/eskpic.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Soul Mass Transit System - 03/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 03 Nov 2026 22:00. Garage, House</description>
+<enclosure url="https://replay.rinse.fm/uk/SoulMassTransitSystem031126.mp3" length="143165487" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143165487</guid>
+<pubDate>Tue, 03 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/709626-david-jason.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Taylah Elaine - 03/11/2026 - 19:00</title>
 <description>Rinse FM, broadcast 03 Nov 2026 19:00. Amapiano, Electronic, Funky</description>
 <enclosure url="https://replay.rinse.fm/uk/TaylahElaine031126.mp3" length="288524368" type="audio/mpeg"/>
@@ -50,6 +110,16 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Brighter-Days-March-2023_2026-11-03-204021_pcyc.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>LILA - 03/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 03 Nov 2026 14:00. House, Disco</description>
+<enclosure url="https://replay.rinse.fm/uk/LILA031126_.mp3" length="142993031" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142993031</guid>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Lila-October-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>OSSX - 02/11/2026 - 23:00</title>
@@ -2940,76 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_1701-JD.-REID.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>El Londo - 20/09/2026 - 17:00</title>
-<description>Rinse FM, broadcast 20 Sep 2026 17:00. House</description>
-<enclosure url="https://replay.rinse.fm/uk/ElLondo200926.mp3" length="140967979" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-140967979</guid>
-<pubDate>Sun, 20 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/El-Londo.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Scotti Dee - 20/09/2026 - 16:00</title>
-<description>Rinse FM, broadcast 20 Sep 2026 16:00. Amapiano, House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/ScottiDee200926.mp3" length="144129863" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144129863</guid>
-<pubDate>Sun, 20 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-SHOOT-049-Daniel-Reno_2026-09-18-201718_ofbz.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>CoOp Presents - 20/09/2026 - 14:00</title>
-<description>Rinse FM, broadcast 20 Sep 2026 14:00. Broken Beat</description>
-<enclosure url="https://replay.rinse.fm/uk/CoOpPresents200926.mp3" length="285291413" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-285291413</guid>
-<pubDate>Sun, 20 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/55B23643-78D6-4A05-B29C-F6BAD56AFE06-Alex-Phountzi.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Phonica Records - 20/09/2026 - 10:00</title>
-<description>Rinse FM, broadcast 20 Sep 2026 10:00. Techno, House, Experiemental</description>
-<enclosure url="https://replay.rinse.fm/uk/PhonicaRecords200926.mp3" length="274195652" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-274195652</guid>
-<pubDate>Sun, 20 Sep 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/PHOTO-2026-09-15-14-27-12-Luther-Vine.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Roman Flügel - 17/01/2026 - 22:00</title>
-<description>Rinse FM, broadcast 19 Sep 2026 22:00. Dance, Techno, Electro</description>
-<enclosure url="https://replay.rinse.fm/uk/RomanFlugel170126_.mp3" length="144530120" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144530120</guid>
-<pubDate>Sat, 19 Sep 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/tb_dgtl_records_5years_3616-Roman-Fluegel.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>unknown - untitled - 19/09/2026 - 21:00</title>
-<description>Rinse FM, broadcast 19 Sep 2026 21:00. Bass, Garage, Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/unknown-untitiled190926.mp3" length="144442390" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144442390</guid>
-<pubDate>Sat, 19 Sep 2026 21:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/uurinse19september2026_final-Kane-Dansie.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Cinthie - 28/02/2026 - 18:00</title>
-<description>Rinse FM, broadcast 19 Sep 2026 18:00. House, Disco, Garage</description>
-<enclosure url="https://replay.rinse.fm/uk/Cinthie280226.mp3" length="287783645" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287783645</guid>
-<pubDate>Sat, 19 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_3938-Elevate-Shop.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

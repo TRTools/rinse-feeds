@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Couvre x Chefs - 05/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 05 Nov 2026 19:00. Bass, Dubstep, Latin</description>
+<enclosure url="https://replay.rinse.fm/france/CouvreXChefsinviteSieteCatorce051126(VBR).mp3" length="121285443" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-121285443</guid>
+<pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/1-1-V2-Couvre-Chefs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Lisa More - 04/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 04 Nov 2026 20:00. Electro, Multigenre, EDM</description>
+<enclosure url="https://replay.rinse.fm/france/LisaMoreinviteLiliCastiglioni041126(VBR).mp3" length="129074676" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-129074676</guid>
+<pubDate>Wed, 04 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-11-04-at-00.54.09-Lisa-More.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>La Connect’ avec Le Kaiju - 04/11/2026 - 19:00</title>
 <description>Rinse France, broadcast 04 Nov 2026 19:00. Techno, Electronic, Danse</description>
 <enclosure url="https://replay.rinse.fm/france/LaConnect'LeKaijuinviteHumanPlushie041126(VBR).mp3" length="80287947" type="audio/mpeg"/>
@@ -20,6 +40,16 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Fall-Headshot-01-Clem-Mbaye.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 04/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 04 Nov 2026 18:00. Funk, Afrobeat, Dancehall</description>
+<enclosure url="https://replay.rinse.fm/france/CRAZYJEFFBom&amp;Louco041126(VBR).mp3" length="139633599" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139633599</guid>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/CRAZY-JEFF-11_2026-Crazy-Jeff-BomLouco.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Sauti - 04/11/2026 - 17:00</title>
@@ -2978,36 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/282d58da-3b99-4031-a6bc-07c550bf7b8b.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mariad - 26/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 26 Jul 2026 18:00</description>
-<enclosure url="https://replay.rinse.fm/france/MARIAD260726(VBR).mp3" length="75368264" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-75368264</guid>
-<pubDate>Sun, 26 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/NF24_HubDive01_EmmaSouharce_SimonBoschi_2-mariad-digger.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>POLAAR - 26/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 26 Jul 2026 17:00. Bass, Multigenre, Dubstep</description>
-<enclosure url="https://replay.rinse.fm/france/POLAARFloreB2BEHUA260727(320).mp3" length="152907511" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-152907511</guid>
-<pubDate>Sun, 26 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DSCF3536.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Tom Val - 26/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 26 Jul 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/france/TomValLeJazzEstDangereux260726(VBR).mp3" length="220231709" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-220231709</guid>
-<pubDate>Sun, 26 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Visuel.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
