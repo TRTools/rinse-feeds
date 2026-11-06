@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Nicky Blackmarket - 06/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 06 Nov 2026 14:00. Drum &amp; Bass, Jungle, Jump Up</description>
+<enclosure url="https://replay.rinse.fm/swu/NickyBlackmarket061126.mp3" length="288010164" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010164</guid>
+<pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Nicky-Blackmarket-2021-by-Chelone-Wolf_web-fb_008-Nicholas-Andersson-gylden_2026-11-04-150813_cbdq.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Mornings with... - 06/11/2026 - 11:00</title>
+<description>SWU FM, broadcast 06 Nov 2026 11:00</description>
+<enclosure url="https://replay.rinse.fm/swu/MorningsWith150825.mp3" length="144010852" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010852</guid>
+<pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/HIJINX_SEPT_2025.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>LMajor - 05/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 05 Nov 2026 23:00. Jungle, Drum &amp; Bass, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/LMajor051126.mp3" length="144010665" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010665</guid>
+<pubDate>Thu, 05 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LMajor-Nov-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>0079 - 05/11/2026 - 22:00</title>
+<description>SWU FM, broadcast 05 Nov 2026 22:00. Dubstep, Bass, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/0079_051126.mp3" length="144010661" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010661</guid>
+<pubDate>Thu, 05 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/0079-6th-August-2026-Kane-Bonnick_2026-10-25-154937_njay.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Felix Joy - 05/11/2026 - 10:00</title>
 <description>SWU FM, broadcast 05 Nov 2026 10:00. Multigenre, R&amp;B, House</description>
 <enclosure url="https://replay.rinse.fm/swu/FelixJoy051126.mp3" length="288010178" type="audio/mpeg"/>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/SYNKRO_JULY_2026-Joe-Synkro.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Pineapple Records - 28/07/2026 - 18:00</title>
-<description>SWU FM, broadcast 28 Jul 2026 18:00. Garage, Bass, Electro</description>
-<enclosure url="https://replay.rinse.fm/swu/PineappleRecords280726.mp3" length="144010465" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010465</guid>
-<pubDate>Tue, 28 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SiriusSoundz_July_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Samba, Glume and Phossa - 29/07/2026 - 01:00</title>
-<description>SWU FM, broadcast 27 Jul 2026 19:00. Dubstep, Ambient, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/SGP270726.mp3" length="288009201" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009201</guid>
-<pubDate>Mon, 27 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/BW.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sufferah's Choice with Stryda - 29/07/2026 - 03:00</title>
-<description>SWU FM, broadcast 27 Jul 2026 16:00. Dub, Roots, Reggae</description>
-<enclosure url="https://replay.rinse.fm/swu/SufferahsChoice270726.mp3" length="288009940" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009940</guid>
-<pubDate>Mon, 27 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Stryda_JUL_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sophia Loizou - 26/07/2026 - 23:00</title>
-<description>SWU FM, broadcast 26 Jul 2026 23:00. Ambient, Electronic, Experimental</description>
-<enclosure url="https://replay.rinse.fm/swu/SophiaLoizou260726.mp3" length="288008972" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288008972</guid>
-<pubDate>Sun, 26 Jul 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Myriam_July2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

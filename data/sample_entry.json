@@ -1,65 +1,70 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": "100% Critical Music",
+  "artistTitle": null,
   "channel": [
    {
     "__typename": "channel_channel_Entry",
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "1164956",
-      "slug": "kool-red",
-      "title": "Kool Red"
+      "id": "1331125",
+      "slug": "swu-purple",
+      "title": "SWU Purple"
      }
     ],
-    "channelLaunchDateTime": "2023-04-23T11:00:00+00:00",
+    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
     "channelPagePreviewDateTime": null,
     "defaultTimezoneOffset": "Europe/London",
     "extract": null,
-    "id": "946125",
+    "id": "1016220",
     "isPermanentChannel": true,
-    "lft": 10,
-    "slug": "kool",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
-    "title": "Kool FM"
+    "lft": 12,
+    "slug": "swu",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
+    "title": "SWU FM"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2026-05-13T23:00:00+00:00",
+  "displayTitle": "HIJINX",
+  "episodeDate": "2026-11-06T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-05T16:00:00+00:00",
+  "episodeTime": "2026-11-06T11:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "criticalLogo-medium.jpg",
+    "filename": "HIJINX_SEPT_2025.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 400,
-    "width": 400
+    "height": 5000,
+    "width": 4000
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/kool/100CriticalMusic140526.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/MorningsWith150825.mp3",
   "genreTag": [],
-  "id": "2269439",
-  "isRebroadcast": false,
+  "id": "2322563",
+  "isRebroadcast": true,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "kool"
+      "slug": "uk"
+     },
+     {
+      "__typename": "channel_channel_Entry",
+      "slug": "swu"
      }
     ],
     "defaultEpisodeImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Placeholder_Kool-100-—-Square.jpg",
+      "filename": "Mornings-With-Square.png",
       "focalPoint": [
        0.5,
        0.5
@@ -69,33 +74,33 @@
       "width": 1600
      }
     ],
-    "extract": "100% - A 60 minute focus on an icon from the Drum & Bass / Jungle scenes. Lock in every Monday-Thursday 4-5PM.",
+    "extract": "An hour-long mix exploring sounds and genres you’re not used to hearing from our residents.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "100-—-Page-Banner.png",
+      "filename": "Mornings-With-Web-Banner.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1480,
+      "height": 1600,
       "width": 5333
      }
     ],
     "genreTag": [],
-    "id": "2256732",
+    "id": "610060",
     "showStatus": "highlighted",
-    "slug": "100",
-    "title": "100%",
-    "url": "https://admin.rinse.fm/shows/100"
+    "slug": "mornings-with",
+    "title": "Mornings with...",
+    "url": "https://admin.rinse.fm/shows/mornings-with"
    }
   ],
-  "slug": "100-14-05-2026-1600",
+  "slug": "mornings-with-06-11-2026-1100",
   "subtitle": null,
-  "title": "100% - 14/05/2026 - 16:00",
+  "title": "Mornings with... - 06/11/2026 - 11:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/criticalLogo-medium.jpg",
+ "image": "https://image.rinse.fm/_/HIJINX_SEPT_2025.jpg",
  "image_found_at": ".featuredImage.filename"
 }

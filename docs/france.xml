@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>SOA420 - 06/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 06 Nov 2026 20:00. Dubstep, Dub, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/Soa420b2bCultureJahTovo061126(VBR).mp3" length="170655860" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-170655860</guid>
+<pubDate>Fri, 06 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Soa420-%C2%A9-Corentin-SEPE-ZADI-copie-Soa420.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Carlos do Complexo - 06/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 06 Nov 2026 18:00. Electronic, Latin, Funk</description>
+<enclosure url="https://replay.rinse.fm/france/CarlosdoComplexoComplexcity06112026(VBR).mp3" length="117979539" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-117979539</guid>
+<pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/11_CarlosDoComplexo_NOV2026-CDC-MGMT.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Queer Cult - 06/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 06 Nov 2026 16:00. Talk, Podcast</description>
+<enclosure url="https://replay.rinse.fm/france/KoraTalkBallroom06112026(320).mp3" length="200330460" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-200330460</guid>
+<pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_5118-N.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>2much - 05/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 05 Nov 2026 20:00. Trance, Techno, Electro</description>
+<enclosure url="https://replay.rinse.fm/france/2muchinvite4000hz051126(VBR).mp3" length="133624073" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-133624073</guid>
+<pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/4000hz-photos3-La-2much-Ex-La-Darude.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Couvre x Chefs - 05/11/2026 - 19:00</title>
 <description>Rinse France, broadcast 05 Nov 2026 19:00. Bass, Dubstep, Latin</description>
 <enclosure url="https://replay.rinse.fm/france/CouvreXChefsinviteSieteCatorce051126(VBR).mp3" length="121285443" type="audio/mpeg"/>
@@ -20,6 +60,26 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/1-1-V2-Couvre-Chefs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Meli Mena - 05/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 05 Nov 2026 18:00. Techno, Bass, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/MeliMena051126(VBR).mp3" length="136720067" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-136720067</guid>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/402ea708-bb63-40b3-b16b-f9bc5b9adcff-Me%CC%81lissa-Menaa.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ARTEM - 05/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 05 Nov 2026 17:00. Multigenre, Breakbeat, Footwork</description>
+<enclosure url="https://replay.rinse.fm/france/ARTEM-CLUBTOOLS041126(VBR).mp3" length="138073685" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-138073685</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ARTEM_NOVEMBRE-2026-ARTEM.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Lisa More - 04/11/2026 - 20:00</title>
@@ -2948,66 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DYNE.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Kokoprisci - 28/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 28 Jul 2026 19:00. Techno, breakbat, Ambient</description>
-<enclosure url="https://replay.rinse.fm/france/TheKokoShowavecJerrau280726(VBR).mp3" length="56971709" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-56971709</guid>
-<pubDate>Tue, 28 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/JERRAU_THE_KOKO_SHOW_JUILLET_26_SUSANELINE_COPYRIGHTS-kokoprisci.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rebequita - 28/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 28 Jul 2026 18:00</description>
-<enclosure url="https://replay.rinse.fm/france/Rebequita280726(VBR).mp3" length="141274929" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141274929</guid>
-<pubDate>Tue, 28 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/uuidD774D097-2C0A-4B9B-9AD1-4A94308EF3E8code001library1type1mode1loctruecaptrue-Rebecca-Jodorowsky.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Miley Serious - 27/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 27 Jul 2026 20:00</description>
-<enclosure url="https://replay.rinse.fm/france/MileySeriousinviteJR2k270726(VBR).mp3" length="76433786" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-76433786</guid>
-<pubDate>Mon, 27 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/JR2k-Promo-Photo-Miley-Serious.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Soyoon - 27/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 27 Jul 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/france/SoyooninviteSunjunHargun270726(320).mp3" length="144318374" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144318374</guid>
-<pubDate>Mon, 27 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Untitled-design_2026-09-02-102013_pbne.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sentaku - 27/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 27 Jul 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/france/SentakuinvitesAmineBentires270726(VBR).mp3" length="142839001" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142839001</guid>
-<pubDate>Mon, 27 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/bc5a8788-9d1b-4c26-8767-b6d927c1ea9c-%E9%81%B8%E6%8A%9ESentaku.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ifeoluwa - 26/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 26 Jul 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/IfeoluwaTearsInTheClubwnowtCelebrating10YearsofINTERVENTION)260726(VBR).mp3" length="117479326" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-117479326</guid>
-<pubDate>Sun, 26 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/282d58da-3b99-4031-a6bc-07c550bf7b8b.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
