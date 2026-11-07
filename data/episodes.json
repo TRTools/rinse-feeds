@@ -927,6 +927,19 @@
   "size": 254105044,
   "title": "Camion Bazar - 05/09/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/CamionBazarinviteMontero071126(320).mp3": {
+  "channel": "france",
+  "date": "2026-11-07T14:00:00+00:00",
+  "genres": [
+   "Techno",
+   "Dub",
+   "Electro"
+  ],
+  "image": "https://image.rinse.fm/_/unnamed_2026-11-05-152117_gnmx.jpg",
+  "minutes": 120,
+  "size": 287281073,
+  "title": "Camion Bazar - 07/11/2026 - 14:00"
+ },
  "https://replay.rinse.fm/france/CarlosdoComplexoComplexcity0210226(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-02T18:00:00+01:00",
@@ -2019,6 +2032,19 @@
   "size": 125713889,
   "title": "Griffes d'Anges - 04/07/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/GriffesdAngesprésenteExmantera071126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-07T16:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Experimental",
+   "Electro"
+  ],
+  "image": "https://image.rinse.fm/_/Exmantera-rinse-photo-Griffes-dAnges.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "Griffes d'Anges - 07/11/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/Guyzin290626(VBR).mp3": {
   "channel": "france",
   "date": "2026-06-29T19:00:00+01:00",
@@ -2672,6 +2698,19 @@
   "minutes": 60,
   "size": 141724191,
   "title": "Queer Cult Takeover - 30/06/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/france/LACREOLEinviteSELZOU061126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-06T17:00:00+00:00",
+  "genres": [
+   "Dancehall",
+   "Amapiano",
+   "Electro"
+  ],
+  "image": "https://image.rinse.fm/_/PHOTO-2026-07-03-10-43-37-VINCENT-FREDERIC-COLOMBO.jpg",
+  "minutes": 60,
+  "size": 142870130,
+  "title": "LA CREOLE - 06/11/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/LACREOLEinviteSUGARTANTINE040926(320).mp3": {
   "channel": "france",
@@ -4919,6 +4958,19 @@
   "size": 122927530,
   "title": "RAAR - 05/09/2026 - 18:00"
  },
+ "https://replay.rinse.fm/france/RAARSHOWtrainwreckingwithLOUISAHHH071026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-07T18:00:00+00:00",
+  "genres": [
+   "Electro",
+   "Techno",
+   "Breakbeat"
+  ],
+  "image": "https://image.rinse.fm/_/F1B8FDBB-1ED8-4DFC-971A-D1AB7A5F3D0D-LOUISAHHH-Pillot.jpeg",
+  "minutes": 60,
+  "size": 125948975,
+  "title": "RAAR - 07/11/2026 - 18:00"
+ },
  "https://replay.rinse.fm/france/RAVL250926(320).mp3": {
   "channel": "france",
   "date": "2026-09-25T15:00:00+01:00",
@@ -4979,6 +5031,18 @@
   "minutes": 60,
   "size": 115080668,
   "title": "Rama - 03/10/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/france/RamaTakeoverbyKornet07112026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-07T17:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/Rama-w_-Kornet-Novembre-2026-Rama-Mahanna.jpg",
+  "minutes": 60,
+  "size": 122000043,
+  "title": "Rama - 07/11/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/Rebequita280726(VBR).mp3": {
   "channel": "france",
@@ -6102,6 +6166,15 @@
   "size": 272131766,
   "title": "Vie Garantie - 27/09/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/VanilleB2BKVKN071126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-07T19:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/INSTA_Vanille4.JPG",
+  "minutes": 60,
+  "size": 148818354,
+  "title": "Vanille - 07/11/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/VanilleinviteMohajer040626(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-04T19:00:00+01:00",
@@ -6778,6 +6851,19 @@
   "minutes": 60,
   "size": 156447033,
   "title": "Mariad - 02/10/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/france/mariadpresentedormirdeboutavecmelag0m061126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-06T19:00:00+00:00",
+  "genres": [
+   "EDM",
+   "Dubstep",
+   "Electro"
+  ],
+  "image": "https://image.rinse.fm/_/P1040807-mariad-digger.jpg",
+  "minutes": 60,
+  "size": 140169410,
+  "title": "Mariad - 06/11/2026 - 19:00"
  },
  "https://replay.rinse.fm/france/mayashibaakaghettomoyofromthecollection02071026(VBR).mp3": {
   "channel": "france",
@@ -14484,7 +14570,7 @@
    "Garage",
    "Bass"
   ],
-  "image": "https://image.rinse.fm/_/BRR_OCT_2026.png",
+  "image": "https://image.rinse.fm/_/BRR_MAY_2024_2025-06-13-141413_iojx.jpeg",
   "minutes": 120,
   "size": 288010239,
   "title": "Bedroom Rat Records - 03/10/2026 - 17:00"
@@ -18158,7 +18244,7 @@
    "Techno",
    "Electronic"
   ],
-  "image": "https://image.rinse.fm/_/Hodge_Oct_2026.jpg",
+  "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg",
   "minutes": 120,
   "size": 288008924,
   "title": "Hodge - 08/10/2026 - 01:00"
@@ -18799,6 +18885,15 @@
   "minutes": 60,
   "size": 144010413,
   "title": "Janaway - 03/07/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/swu/Janaway061126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-06T20:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Janaway_OCT_2026.jpg",
+  "minutes": 60,
+  "size": 144010396,
+  "title": "Janaway - 06/11/2026 - 20:00"
  },
  "https://replay.rinse.fm/swu/Janaway070826.mp3": {
   "channel": "swu",
@@ -21640,6 +21735,18 @@
   "size": 144010423,
   "title": "Rose Holland - 29/07/2026 - 18:00"
  },
+ "https://replay.rinse.fm/swu/RoseHolland061126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-06T18:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/RoseHolland_NOV_2026.jpg",
+  "minutes": 60,
+  "size": 144010406,
+  "title": "Rose Holland - 06/11/2026 - 18:00"
+ },
  "https://replay.rinse.fm/swu/RoseHolland070826.mp3": {
   "channel": "swu",
   "date": "2026-08-07T18:00:00+01:00",
@@ -21958,6 +22065,19 @@
   "minutes": 120,
   "size": 288009008,
   "title": "Ruth Royall, APH & Euphonique - 05/07/2026 - 03:00"
+ },
+ "https://replay.rinse.fm/swu/RuthRoyall061126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-06T16:00:00+00:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle",
+   "Breakbeat"
+  ],
+  "image": "https://image.rinse.fm/_/SophDexxV2-2.JPEG",
+  "minutes": 120,
+  "size": 288009939,
+  "title": "Ruth Royall & Euphonique - 06/11/2026 - 16:00"
  },
  "https://replay.rinse.fm/swu/RuthRoyall070826.mp3": {
   "channel": "swu",
@@ -25966,6 +26086,19 @@
   "size": 145090139,
   "title": "Hi-Fidelity - 03/09/2026 - 12:00"
  },
+ "https://replay.rinse.fm/uk/Cafe1001051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T12:00:00+00:00",
+  "genres": [
+   "Experimental",
+   "Ambient",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Cafe1001-Ell.iot-004-1C6A0682-Elliot-Ferguson.JPEG",
+  "minutes": 60,
+  "size": 144165372,
+  "title": "Hi-Fidelity - 05/11/2026 - 12:00"
+ },
  "https://replay.rinse.fm/uk/Cafe1001060826.mp3": {
   "channel": "uk",
   "date": "2026-08-06T12:00:00+01:00",
@@ -26546,6 +26679,19 @@
   "minutes": 60,
   "size": 144529745,
   "title": "CONDUCTA - 02/07/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/uk/Conducta051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T19:00:00+00:00",
+  "genres": [
+   "House",
+   "Funky",
+   "Garage"
+  ],
+  "image": "https://image.rinse.fm/_/Conducts-press-Iona-Rae.jpg",
+  "minutes": 60,
+  "size": 143633516,
+  "title": "CONDUCTA - 05/11/2026 - 19:00"
  },
  "https://replay.rinse.fm/uk/Conducta090526.mp3": {
   "channel": "uk",
@@ -28181,6 +28327,19 @@
   "minutes": 120,
   "size": 288114783,
   "title": "Eliza Rose - 26/09/2026 - 10:00"
+ },
+ "https://replay.rinse.fm/uk/ElizaRose061126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-06T14:00:00+00:00",
+  "genres": [
+   "Soul",
+   "House",
+   "Garage"
+  ],
+  "image": "https://image.rinse.fm/_/Rinse-Show-Press-Shot-1-Sasha-Sinkler.JPG",
+  "minutes": 120,
+  "size": 288663271,
+  "title": "Eliza Rose - 06/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/uk/ElizaRose070826.mp3": {
   "channel": "uk",
@@ -30386,6 +30545,18 @@
   "size": -1,
   "title": "LIZZ - 05/08/2026 - 23:00"
  },
+ "https://replay.rinse.fm/uk/LIZZ051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T23:00:00+00:00",
+  "genres": [
+   "Latin",
+   "Reggaeton"
+  ],
+  "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-11-03-at-18.31.32-LIZZ-MGMT.jpeg",
+  "minutes": 60,
+  "size": 144420336,
+  "title": "LIZZ - 05/11/2026 - 23:00"
+ },
  "https://replay.rinse.fm/uk/LaLa190526.mp3": {
   "channel": "uk",
   "date": "2026-10-20T19:00:00+01:00",
@@ -31310,6 +31481,17 @@
   "minutes": 60,
   "size": 144156890,
   "title": "Mr. Redley - 04/06/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/MrRedley051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T14:00:00+00:00",
+  "genres": [
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/861770687_29031277906506016_340496820899101450_n-Louis-Redley.jpg",
+  "minutes": 60,
+  "size": 143910532,
+  "title": "Mr. Redley - 05/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/uk/MrRedley060826.mp3": {
   "channel": "uk",
@@ -32422,6 +32604,17 @@
   "minutes": 60,
   "size": 144045483,
   "title": "Pariah - 02/07/2026 - 22:00"
+ },
+ "https://replay.rinse.fm/uk/Pariah051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T22:00:00+00:00",
+  "genres": [
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/Copia-de-RIBELA_300ppp-733-Arthur-Cayzer.jpg",
+  "minutes": 60,
+  "size": 143991934,
+  "title": "Pariah - 05/11/2026 - 22:00"
  },
  "https://replay.rinse.fm/uk/Pariah170826.mp3": {
   "channel": "uk",
@@ -33612,6 +33805,15 @@
   "minutes": 120,
   "size": 287758125,
   "title": "Scratcha - 27/06/2025 - 16:00"
+ },
+ "https://replay.rinse.fm/uk/Scratchclart061126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-07T09:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/241f8045-73d4-4d59-b3a2-a76f27d8a714_2024-01-31-165759_iids.JPG",
+  "minutes": 120,
+  "size": 288542075,
+  "title": "Scratchclart - 07/11/2026 - 09:00"
  },
  "https://replay.rinse.fm/uk/Serenda020926.mp3": {
   "channel": "uk",
@@ -34938,6 +35140,19 @@
   "size": 288671268,
   "title": "Tom Ravenscroft - 03/09/2026 - 15:00"
  },
+ "https://replay.rinse.fm/uk/TomRavenscroft051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T15:00:00+00:00",
+  "genres": [
+   "Ambient",
+   "Dub",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/2a97898b-40b4-430f-8d0a-26d9cbdc3862-thomas-ravenscroft_2026-11-04-161739_aezm.jpg",
+  "minutes": 120,
+  "size": 288216079,
+  "title": "Tom Ravenscroft - 05/11/2026 - 15:00"
+ },
  "https://replay.rinse.fm/uk/TomRavenscroft081026.mp3": {
   "channel": "uk",
   "date": "2026-10-08T15:00:00+01:00",
@@ -35970,6 +36185,18 @@
   "minutes": 60,
   "size": 142983631,
   "title": "bullet tooth - 29/09/2026 - 22:00"
+ },
+ "https://replay.rinse.fm/uk/bullettooth051126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-05T20:00:00+00:00",
+  "genres": [
+   "Garage",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_1661-bullet-tooth.jpg",
+  "minutes": 60,
+  "size": 145006530,
+  "title": "bullet tooth - 05/11/2026 - 20:00"
  },
  "https://replay.rinse.fm/uk/case031026.mp3": {
   "channel": "uk",

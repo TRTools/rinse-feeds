@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Janaway - 06/11/2026 - 20:00</title>
+<description>SWU FM, broadcast 06 Nov 2026 20:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Janaway061126.mp3" length="144010396" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010396</guid>
+<pubDate>Fri, 06 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Janaway_OCT_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rose Holland - 06/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 06 Nov 2026 18:00. Bass, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/swu/RoseHolland061126.mp3" length="144010406" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010406</guid>
+<pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RoseHolland_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ruth Royall &amp; Euphonique - 06/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 06 Nov 2026 16:00. Drum &amp; Bass, Jungle, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/swu/RuthRoyall061126.mp3" length="288009939" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009939</guid>
+<pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SophDexxV2-2.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Nicky Blackmarket - 06/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 06 Nov 2026 14:00. Drum &amp; Bass, Jungle, Jump Up</description>
 <enclosure url="https://replay.rinse.fm/swu/NickyBlackmarket061126.mp3" length="288010164" type="audio/mpeg"/>
@@ -1129,7 +1159,7 @@
 <pubDate>Tue, 06 Oct 2026 21:00:00 +0100</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Hodge_Oct_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 07/10/2026 - 05:00</title>
@@ -2980,36 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Lomare-August-2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>IZIEIN - 29/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 10:00. Multigenre, R&amp;B, House</description>
-<enclosure url="https://replay.rinse.fm/swu/Iziein010826.mp3" length="288010998" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010998</guid>
-<pubDate>Sat, 01 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IZIEIN_August_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Don't Admit Defeat - 29/07/2026 - 00:00</title>
-<description>SWU FM, broadcast 29 Jul 2026 00:00. House, Dance, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/DAD280726.mp3" length="144010812" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010812</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DAD_JUL_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Synkro - 28/07/2026 - 22:00</title>
-<description>SWU FM, broadcast 28 Jul 2026 22:00. Jungle, Drum &amp; Bass, Intelligent</description>
-<enclosure url="https://replay.rinse.fm/swu/Synkro280726.mp3" length="144010788" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010788</guid>
-<pubDate>Tue, 28 Jul 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SYNKRO_JULY_2026-Joe-Synkro.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

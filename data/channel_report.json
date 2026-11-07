@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 38,
+  "count": 39,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/Soa420b2bCultureJahTovo061126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/VanilleB2BKVKN071126(VBR).mp3"
  },
  "kool": {
-  "count": 31,
+  "count": 26,
   "sample_fields": {
    "channel": [
     {
@@ -58,7 +58,7 @@
   "sample_url": "https://replay.rinse.fm/kool/Sweetpea051126.mp3"
  },
  "swu": {
-  "count": 93,
+  "count": 84,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/MorningsWith150825.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/0079_051126.mp3"
  },
  "uk": {
-  "count": 54,
+  "count": 64,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/LILATX161026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/CounterCulture230526.mp3"
  }
 }
