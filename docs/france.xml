@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>LU2K - 08/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 08 Nov 2026 19:00. Techno</description>
+<enclosure url="https://replay.rinse.fm/france/LU2K81126(VBR).mp3" length="144467229" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144467229</guid>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/lu2k-2026-lu-2k.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>[re]sources - 08/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 08 Nov 2026 18:00. Bass, Garage, House</description>
+<enclosure url="https://replay.rinse.fm/france/resourcesavecOddOccasion08112026(VBR).mp3" length="122093503" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-122093503</guid>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RINSE-2026-Thomas-Ferrare%CC%81.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Paloma Colombe - 08/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 08 Nov 2026 17:00. Electronic, Bass, Latin</description>
+<enclosure url="https://replay.rinse.fm/france/PALOMACOLOMBE081126(VBR).mp3" length="139219810" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139219810</guid>
+<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/paloma-colombe-x-bdv-nov-2026-Paloma-Colombe.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Eclipse Tribez - 08/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 08 Nov 2026 16:00. Bass, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/EclipseTribezinviteLucine100FlintaMix08112026(VBR).mp3" length="123848574" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-123848574</guid>
+<pubDate>Sun, 08 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ET_Lucine_1126-Le%CC%81a-Landu.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>La Sunday Abidjan - 08/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 08 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/france/lasundayinviteDJAyafor(VBR).mp3" length="148216008" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-148216008</guid>
+<pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SQUARE_LA-SUNDAY.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Vanille - 07/11/2026 - 19:00</title>
 <description>Rinse France, broadcast 07 Nov 2026 19:00</description>
 <enclosure url="https://replay.rinse.fm/france/VanilleB2BKVKN071126(VBR).mp3" length="148818354" type="audio/mpeg"/>
@@ -2958,56 +3008,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>5400</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/EDIT-STUDIO.00_30_04_07.Still004.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gaîté L'Été - 30/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 30 Jul 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/cheetahAUDIO300726(320).mp3" length="138242088" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-138242088</guid>
-<pubDate>Thu, 30 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/EDIT.00_17_12_05.Still011.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gaîté L'Été - 30/07/2026 - 18:00</title>
-<description>Rinse France, broadcast 30 Jul 2026 18:00</description>
-<enclosure url="https://replay.rinse.fm/france/restonsflex310726.mp3" length="143574698" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143574698</guid>
-<pubDate>Thu, 30 Jul 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/EDIT-STUDIO.00_24_24_02.Still005.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 30/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 30 Jul 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/france/ZAVITNIK300726(VBR).mp3" length="143571440" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143571440</guid>
-<pubDate>Thu, 30 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_1126.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 30/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 30 Jul 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/france/MRTN300726(VBR).mp3" length="143798967" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143798967</guid>
-<pubDate>Thu, 30 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/1000038332.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Roulita - 29/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 29 Jul 2026 20:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/france/RoulitainviteKerrie290726(320).mp3" length="143795163" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143795163</guid>
-<pubDate>Wed, 29 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/kerrie-photo-Rou-lita.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

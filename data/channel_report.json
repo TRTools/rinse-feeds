@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 39,
+  "count": 42,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/VanilleB2BKVKN071126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/LU2K81126(VBR).mp3"
  },
  "kool": {
-  "count": 26,
+  "count": 18,
   "sample_fields": {
    "channel": [
     {
@@ -58,7 +58,7 @@
   "sample_url": "https://replay.rinse.fm/kool/Sweetpea051126.mp3"
  },
  "swu": {
-  "count": 84,
+  "count": 80,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/0079_051126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/SurgeonsGirl181026.mp3"
  },
  "uk": {
-  "count": 64,
+  "count": 53,
   "sample_fields": {
    "channel": [
     {

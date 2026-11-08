@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Streets Of Soul - 08/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 08 Nov 2026 10:00. Soul, Disco, Funk</description>
+<enclosure url="https://replay.rinse.fm/swu/StreetsOfSoul081126.mp3" length="288010262" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010262</guid>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/34-Streets-Of-Soul_2025-04-09-125204_xrjt.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Dual Monitor - 07/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 07 Nov 2026 19:00. Ambient, Electro, House</description>
+<enclosure url="https://replay.rinse.fm/swu/DualMonitor071126.mp3" length="288010274" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010274</guid>
+<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PIP_Nov_26.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Bedroom Rat Records - 07/11/2026 - 17:00</title>
+<description>SWU FM, broadcast 07 Nov 2026 17:00. Garage, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/BedroomRarRecords071126.mp3" length="288010270" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010270</guid>
+<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/BRR_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Janaway - 06/11/2026 - 20:00</title>
 <description>SWU FM, broadcast 06 Nov 2026 20:00</description>
 <enclosure url="https://replay.rinse.fm/swu/Janaway061126.mp3" length="144010396" type="audio/mpeg"/>
@@ -259,7 +289,7 @@
 <pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mistafire_JUL_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/mistafire-press-shot-2-June-23.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>COCODUBZ - 01/11/2026 - 18:00</title>
@@ -279,7 +309,7 @@
 <pubDate>Sun, 01 Nov 2026 16:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Yuseemi_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Alastair-Brookes-Courntey-Press-Photos-2020-Hi5ghost.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Club Djembe - 01/11/2026 - 14:00</title>
@@ -289,7 +319,7 @@
 <pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ClubDjembe_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/DJEMBE-LOGO-DARK.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Blacksmith &amp; Frenic - 01/11/2026 - 12:00</title>
@@ -309,7 +339,7 @@
 <pubDate>Sun, 01 Nov 2026 10:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Sourdough_Nov_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Sourdough-Press-shot-main-James-Dewey_2025-10-07-205617_uytc.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Felix Joy - 29/10/2026 - 10:00</title>
@@ -2980,36 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/BRR_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MAMBA - 14/09/2026 - 18:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 16:00. Jungle, Electronic, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/Mamba220826.mp3" length="144010832" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010832</guid>
-<pubDate>Sat, 01 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mamba_May_04.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Dan Kelly - 01/08/2026 - 14:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 14:00. Footwork, Dancefloor, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/DanKelly010826.mp3" length="287102988" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287102988</guid>
-<pubDate>Sat, 01 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DanKelly_AUG_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Lomare - 01/08/2026 - 12:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 12:00. Jazz, House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/Lomare010826.mp3" length="288011024" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011024</guid>
-<pubDate>Sat, 01 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Lomare-August-2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

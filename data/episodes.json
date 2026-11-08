@@ -1562,6 +1562,18 @@
   "size": 115164074,
   "title": "Eclipse Tribez - 12/07/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/EclipseTribezinviteLucine100FlintaMix08112026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-08T16:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Experimental"
+  ],
+  "image": "https://image.rinse.fm/_/ET_Lucine_1126-Le%CC%81a-Landu.jpg",
+  "minutes": 60,
+  "size": 123848574,
+  "title": "Eclipse Tribez - 08/11/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/EclipseTribezinviteQueenParamount(320).mp3": {
   "channel": "france",
   "date": "2026-10-11T16:00:00+01:00",
@@ -2885,6 +2897,17 @@
   "minutes": 60,
   "size": 144620751,
   "title": "LU2K - 21/06/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/france/LU2K81126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-08T19:00:00+00:00",
+  "genres": [
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/lu2k-2026-lu-2k.JPG",
+  "minutes": 60,
+  "size": 144467229,
+  "title": "LU2K - 08/11/2026 - 19:00"
  },
  "https://replay.rinse.fm/france/LaConnect'LeKaijuinviteHumanPlushie041126(VBR).mp3": {
   "channel": "france",
@@ -4438,6 +4461,19 @@
   "minutes": 60,
   "size": 144850205,
   "title": "Ouanounou - 25/09/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/france/PALOMACOLOMBE081126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-08T17:00:00+00:00",
+  "genres": [
+   "Electronic",
+   "Bass",
+   "Latin"
+  ],
+  "image": "https://image.rinse.fm/_/paloma-colombe-x-bdv-nov-2026-Paloma-Colombe.jpg",
+  "minutes": 60,
+  "size": 139219810,
+  "title": "Paloma Colombe - 08/11/2026 - 17:00"
  },
  "https://replay.rinse.fm/france/PEW26TakeoverwGabborpourErrancesNocturnes300926.(VBR).mp3": {
   "channel": "france",
@@ -6786,6 +6822,15 @@
   "size": 134135110,
   "title": "LA CREOLE - 02/10/2026 - 17:00"
  },
+ "https://replay.rinse.fm/france/lasundayinviteDJAyafor(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-08T14:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/SQUARE_LA-SUNDAY.png",
+  "minutes": 60,
+  "size": 148216008,
+  "title": "La Sunday Abidjan - 08/11/2026 - 14:00"
+ },
  "https://replay.rinse.fm/france/laze180626(VBR).mp3": {
   "channel": "france",
   "date": "2026-06-18T20:00:00+01:00",
@@ -7004,6 +7049,19 @@
   "minutes": 60,
   "size": 130081715,
   "title": "renoiterrible - 25/09/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/resourcesavecOddOccasion08112026(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-08T18:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Garage",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/RINSE-2026-Thomas-Ferrare%CC%81.jpg",
+  "minutes": 60,
+  "size": 122093503,
+  "title": "[re]sources - 08/11/2026 - 18:00"
  },
  "https://replay.rinse.fm/france/resourcesavectommykid(320).mp3": {
   "channel": "france",
@@ -14081,6 +14139,17 @@
   "size": 288010247,
   "title": "Amen4Tekno - 05/09/2026 - 23:00"
  },
+ "https://replay.rinse.fm/swu/Amen4Tekno071126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-07T23:00:00+00:00",
+  "genres": [
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/KonectsonOct2026.jpeg",
+  "minutes": 120,
+  "size": 288010284,
+  "title": "Amen4Tekno - 07/11/2026 - 23:00"
+ },
  "https://replay.rinse.fm/swu/Amity150926.mp3": {
   "channel": "swu",
   "date": "2026-09-15T19:00:00+01:00",
@@ -14549,6 +14618,18 @@
   "minutes": 120,
   "size": 288009932,
   "title": "Beavs - 05/08/2026 - 07:00"
+ },
+ "https://replay.rinse.fm/swu/BedroomRarRecords071126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-07T17:00:00+00:00",
+  "genres": [
+   "Garage",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/BRR_NOV_2026.png",
+  "minutes": 120,
+  "size": 288010270,
+  "title": "Bedroom Rat Records - 07/11/2026 - 17:00"
  },
  "https://replay.rinse.fm/swu/BedroomRat050926.mp3": {
   "channel": "swu",
@@ -15500,7 +15581,7 @@
    "House",
    "Garage"
   ],
-  "image": "https://image.rinse.fm/_/ClubDjembe_NOV_2026.jpeg",
+  "image": "https://image.rinse.fm/_/DJEMBE-LOGO-DARK.png",
   "minutes": 120,
   "size": 288010182,
   "title": "Club Djembe - 01/11/2026 - 14:00"
@@ -15742,6 +15823,19 @@
   "minutes": 120,
   "size": 288010217,
   "title": "Dan Kelly - 07/09/2026 - 05:00"
+ },
+ "https://replay.rinse.fm/swu/DanKelly071126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-07T14:00:00+00:00",
+  "genres": [
+   "R&B",
+   "Bass",
+   "Dancefloor"
+  ],
+  "image": "https://image.rinse.fm/_/GhostPhone_Oct_2026.jpeg",
+  "minutes": 120,
+  "size": 288010280,
+  "title": "Dan Kelly - 07/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/swu/DaniWhylie220826.mp3": {
   "channel": "swu",
@@ -16274,6 +16368,19 @@
   "minutes": 120,
   "size": 288010239,
   "title": "Dual Monitor - 07/09/2026 - 01:00"
+ },
+ "https://replay.rinse.fm/swu/DualMonitor071126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-07T19:00:00+00:00",
+  "genres": [
+   "Ambient",
+   "Electro",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/PIP_Nov_26.jpeg",
+  "minutes": 120,
+  "size": 288010274,
+  "title": "Dual Monitor - 07/11/2026 - 19:00"
  },
  "https://replay.rinse.fm/swu/EM+STAV010926.mp3": {
   "channel": "swu",
@@ -18762,6 +18869,19 @@
   "size": 288010998,
   "title": "IZIEIN - 29/08/2026 - 10:00"
  },
+ "https://replay.rinse.fm/swu/Iziein071126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-07T10:00:00+00:00",
+  "genres": [
+   "House",
+   "Amapiano",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/IZIEIN_NOV_2026.JPG",
+  "minutes": 120,
+  "size": 288010244,
+  "title": "IZIEIN - 07/11/2026 - 10:00"
+ },
  "https://replay.rinse.fm/swu/JPEG080726.mp3": {
   "channel": "swu",
   "date": "2026-07-08T18:00:00+01:00",
@@ -19804,6 +19924,19 @@
   "size": 288010211,
   "title": "Lomare - 03/10/2026 - 12:00"
  },
+ "https://replay.rinse.fm/swu/Lomare071126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-07T12:00:00+00:00",
+  "genres": [
+   "Electronic",
+   "House",
+   "Disco"
+  ],
+  "image": "https://image.rinse.fm/_/Lomare-November-26-Liam-ONeill.png",
+  "minutes": 120,
+  "size": 288010244,
+  "title": "Lomare - 07/11/2026 - 12:00"
+ },
  "https://replay.rinse.fm/swu/Longeez160726.mp3": {
   "channel": "swu",
   "date": "2026-07-16T23:00:00+01:00",
@@ -20230,7 +20363,7 @@
    "Rap",
    "Grime"
   ],
-  "image": "https://image.rinse.fm/_/Mistafire_JUL_2026.jpg",
+  "image": "https://image.rinse.fm/_/mistafire-press-shot-2-June-23.jpg",
   "minutes": 120,
   "size": 288009156,
   "title": "Mistafire - 01/11/2026 - 21:00"
@@ -22877,7 +23010,7 @@
    "Soul",
    "Disco"
   ],
-  "image": "https://image.rinse.fm/_/Sourdough_Nov_2026.jpeg",
+  "image": "https://image.rinse.fm/_/Sourdough-Press-shot-main-James-Dewey_2025-10-07-205617_uytc.jpg",
   "minutes": 60,
   "size": 288010266,
   "title": "Sourdough Disco - 01/11/2026 - 10:00"
@@ -23153,6 +23286,19 @@
   "minutes": 120,
   "size": 288009924,
   "title": "Steve Rice - 30/09/2026 - 12:00"
+ },
+ "https://replay.rinse.fm/swu/StreetsOfSoul081126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-08T10:00:00+00:00",
+  "genres": [
+   "Soul",
+   "Disco",
+   "Funk"
+  ],
+  "image": "https://image.rinse.fm/_/34-Streets-Of-Soul_2025-04-09-125204_xrjt.jpg",
+  "minutes": 120,
+  "size": 288010262,
+  "title": "Streets Of Soul - 08/11/2026 - 10:00"
  },
  "https://replay.rinse.fm/swu/StreetsOfSoul090826.mp3": {
   "channel": "swu",
@@ -24427,7 +24573,7 @@
    "Grime",
    "Electronic"
   ],
-  "image": "https://image.rinse.fm/_/Yuseemi_NOV_2026.jpg",
+  "image": "https://image.rinse.fm/_/Alastair-Brookes-Courntey-Press-Photos-2020-Hi5ghost.jpg",
   "minutes": 120,
   "size": 288010144,
   "title": "Yuseemi - 01/11/2026 - 16:00"
