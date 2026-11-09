@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Millicent - 09/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 09 Nov 2026 18:00. Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/Millicent091126.mp3" length="144010400" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010400</guid>
+<pubDate>Mon, 09 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Millicent_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Lifted Icons - 09/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 09 Nov 2026 16:00. Latin, Presenters, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/LiftedIcons091126.mp3" length="288009947" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009947</guid>
+<pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LiftedIcons_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Viridity - 08/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 08 Nov 2026 19:00. Drum &amp; Bass, Liquid, Jungle</description>
+<enclosure url="https://replay.rinse.fm/swu/Viridity081126.mp3" length="288010170" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010170</guid>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Viridity_NOV-2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Infernal Sounds - 08/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 08 Nov 2026 18:00. Dubstep, Grime, Trap</description>
+<enclosure url="https://replay.rinse.fm/swu/InfernalSounds081126.mp3" length="144010703" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010703</guid>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/q100_Nov_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Snazzback - 08/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 08 Nov 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Snazzback161125_FIXED.mp3" length="288012368" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288012368</guid>
+<pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/EDIT_240911_Snazzback_%40giugliotto_Silhouettes_HiRes-Snazzback.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Streets Of Soul - 08/11/2026 - 10:00</title>
 <description>SWU FM, broadcast 08 Nov 2026 10:00. Soul, Disco, Funk</description>
 <enclosure url="https://replay.rinse.fm/swu/StreetsOfSoul081126.mp3" length="288010262" type="audio/mpeg"/>
@@ -219,7 +269,7 @@
 <pubDate>Mon, 02 Nov 2026 21:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Trends_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Trends-press-shot-1.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Gemmy - 02/11/2026 - 19:00</title>
@@ -2960,56 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Blacksmith-May-23.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sourdough Disco - 02/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 02 Aug 2026 10:00. House, Soul, Disco</description>
-<enclosure url="https://replay.rinse.fm/swu/SourdoughDisco020826.mp3" length="288011058" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011058</guid>
-<pubDate>Sun, 02 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Sourdough_AUG_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Amen4Tekno - 01/08/2026 - 23:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 23:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/Amen4Tekno010826.mp3" length="288011070" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011070</guid>
-<pubDate>Sat, 01 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/GDM_AUGUST_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Alexisitry - 01/08/2026 - 21:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 21:00. Techno, Bass, House</description>
-<enclosure url="https://replay.rinse.fm/swu/AlexisitryFIX010826.mp3" length="288011104" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011104</guid>
-<pubDate>Sat, 01 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/KlubKaos_AUG_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Dual Monitor - 01/08/2026 - 19:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 19:00. Electronic, Experimental, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/DualMonitor010826.mp3" length="288011010" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011010</guid>
-<pubDate>Sat, 01 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Dual-Monitor_August_26.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Bedroom Rat Records - 01/08/2026 - 17:00</title>
-<description>SWU FM, broadcast 01 Aug 2026 17:00. Garage, House, Funky</description>
-<enclosure url="https://replay.rinse.fm/swu/BedroomRatRecordsFix2010826.mp3" length="287103052" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287103052</guid>
-<pubDate>Sat, 01 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/BRR_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

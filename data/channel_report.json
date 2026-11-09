@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 42,
+  "count": 41,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/LU2K81126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/MileySeriousinviteBehne091126(VBR).mp3"
  },
  "kool": {
-  "count": 18,
+  "count": 27,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/Sweetpea051126.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/Yanneck081126.mp3"
  },
  "swu": {
-  "count": 80,
+  "count": 105,
   "sample_fields": {
    "channel": [
     {
@@ -87,7 +87,7 @@
   "sample_url": "https://replay.rinse.fm/swu/SurgeonsGirl181026.mp3"
  },
  "uk": {
-  "count": 53,
+  "count": 52,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/CounterCulture230526.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Baalti081126.mp3"
  }
 }

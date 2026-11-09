@@ -12,6 +12,45 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Miley Serious - 09/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 09 Nov 2026 20:00. Techno, Multigenre, Electro</description>
+<enclosure url="https://replay.rinse.fm/france/MileySeriousinviteBehne091126(VBR).mp3" length="118417508" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-118417508</guid>
+<pubDate>Mon, 09 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Behne-PIC-Miley-Serious.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Souzo - 09/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 09 Nov 2026 19:00. Techno, Ambient</description>
+<enclosure url="https://replay.rinse.fm/france/Souzo091126VBR.mp3" length="124359342" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-124359342</guid>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/INSTA_SOUZO.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 09/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 09 Nov 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/france/DJGAMBA091126(320).mp3" length="135312000" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-135312000</guid>
+<pubDate>Mon, 09 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+</item>
+<item>
+<title>Rinse France Guest Show - 09/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 09 Nov 2026 17:00. Techno, Breakbeat, Trance</description>
+<enclosure url="https://replay.rinse.fm/france/SashaPervukhin(320).mp3" length="136912066" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-136912066</guid>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/sasha-7-Sasha-Pervukhin.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>LU2K - 08/11/2026 - 19:00</title>
 <description>Rinse France, broadcast 08 Nov 2026 19:00. Techno</description>
 <enclosure url="https://replay.rinse.fm/france/LU2K81126(VBR).mp3" length="144467229" type="audio/mpeg"/>
@@ -109,7 +148,7 @@
 <pubDate>Fri, 06 Nov 2026 20:00:00 +0000</pubDate>
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Soa420-%C2%A9-Corentin-SEPE-ZADI-copie-Soa420.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Soa420-invite-Culture-Jah-Tovo.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Mariad - 06/11/2026 - 19:00</title>
@@ -2968,46 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Mamdouh313-July-2026-Mamdouh-Elmchad.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hey Bony - 31/07/2026 - 16:00</title>
-<description>Rinse France, broadcast 31 Jul 2026 16:00. Electronic, Bass, Grime</description>
-<enclosure url="https://replay.rinse.fm/france/HeyBonyinvitesKhxdeej310726(320).mp3" length="89400796" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-89400796</guid>
-<pubDate>Fri, 31 Jul 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/heybony-juillet-2026-Antony-Bonneto.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Kayamba - 31/07/2026 - 15:00</title>
-<description>Rinse France, broadcast 31 Jul 2026 15:00. Bass, Breakbeat, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/KayambaRecords310726(VBR).mp3" length="135779172" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-135779172</guid>
-<pubDate>Fri, 31 Jul 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Kayamba-Records-Juillet-2026-Kayamba-Records.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mayashiba - 31/07/2026 - 14:00</title>
-<description>Rinse France, broadcast 31 Jul 2026 14:00. Dubstep, Multigenre, Presenters</description>
-<enclosure url="https://replay.rinse.fm/france/MayashibaFromtheCollection310826(VBR).mp3" length="144591010" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144591010</guid>
-<pubDate>Fri, 31 Jul 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8689-Maya-Ba.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gaîté L'Été - 30/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 30 Jul 2026 20:00. Afrobeat, Trap, Funky</description>
-<enclosure url="https://replay.rinse.fm/france/LOLAONDIKWA300726(VBR).mp3" length="198417524" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-198417524</guid>
-<pubDate>Thu, 30 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>5400</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/EDIT-STUDIO.00_30_04_07.Still004.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

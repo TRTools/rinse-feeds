@@ -8,42 +8,42 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "1331125",
-      "slug": "swu-purple",
-      "title": "SWU Purple"
+      "id": "95203",
+      "slug": "rinse-steel",
+      "title": "Rinse Steel"
      }
     ],
-    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+    "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/London",
-    "extract": null,
-    "id": "1016220",
+    "defaultTimezoneOffset": "Europe/Paris",
+    "extract": "France Extract",
+    "id": "32",
     "isPermanentChannel": true,
-    "lft": 12,
-    "slug": "swu",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
-    "title": "SWU FM"
+    "lft": 4,
+    "slug": "france",
+    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
+    "title": "France"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2026-10-17T23:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-11-08T23:00:00+00:00",
-  "extract": "I'm delivering the full two hours this month.  Great new techno and tracks from my collection!",
+  "displayTitle": "invite Behne",
+  "episodeDate": "2026-11-09T00:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-11-09T20:00:00+00:00",
+  "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Surgeons-Girl_Oct_26.JPG",
+    "filename": "Behne-PIC-Miley-Serious.png",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1253,
+    "height": 1273,
     "width": 1179
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/SurgeonsGirl181026.mp3",
+  "fileUrl": "https://replay.rinse.fm/france/MileySeriousinviteBehne091126(VBR).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
@@ -54,67 +54,75 @@
    },
    {
     "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": false,
+    "slug": "multigenre",
+    "title": "Multigenre"
+   },
+   {
+    "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "ambient",
-    "title": "Ambient"
+    "slug": "electro",
+    "title": "Electro"
    }
   ],
-  "id": "2314720",
+  "id": "2322670",
   "isRebroadcast": false,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "swu"
+      "slug": "france"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "The show is a mixture of music I'm loving Ambient to Techno to imprvoisations with hardware.",
+    "extract": "“Mon show, c’est les archives de ce que peut représenter la scène de l’intérieur”, explique Miley Serious à propos de son émission mensuelle sur Rinse France. Dj et également boss du label 99cts Records, elle est l’une de nos résidentes depuis 2017.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Surgeons-Girl-3-June23.JPG",
+      "filename": "MILEY.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 960,
-      "width": 1440
+      "height": 1200,
+      "width": 1200
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "ambient",
-      "title": "Ambient"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "experimental",
-      "title": "Experimental"
-     },
-     {
-      "__typename": "genre_Tag",
       "slug": "techno",
       "title": "Techno"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "jungle",
+      "title": "Jungle"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "hardcore",
+      "title": "Hardcore"
      }
     ],
-    "id": "1018689",
+    "id": "14288",
     "showStatus": "highlighted",
-    "slug": "surgeons-girl",
-    "title": "Surgeons Girl",
-    "url": "https://admin.rinse.fm/shows/surgeons-girl"
+    "slug": "miley-serious",
+    "title": "Miley Serious",
+    "url": "https://admin.rinse.fm/shows/miley-serious"
    }
   ],
-  "slug": "surgeons-girl-18-10-2026-2300",
+  "slug": "miley-serious-09-11-2026-2000",
   "subtitle": null,
-  "title": "Surgeons Girl - 18/10/2026 - 23:00",
+  "title": "Miley Serious - 09/11/2026 - 20:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Surgeons-Girl_Oct_26.JPG",
+ "image": "https://image.rinse.fm/_/Behne-PIC-Miley-Serious.png",
  "image_found_at": ".featuredImage.filename"
 }
