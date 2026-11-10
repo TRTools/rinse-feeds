@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Sharnie - 09/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 09 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Sharnie091126.mp3" length="140813969" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-140813969</guid>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_2497-Sharnie-Brown.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Braga Circuit - 09/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 09 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/uk/BragaCircuit091126.mp3" length="143917336" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143917336</guid>
+<pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/000252740019-Joe-Burrows.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Baalti - 08/11/2026 - 23:00</title>
 <description>Rinse FM, broadcast 08 Nov 2026 23:00. Bass, Techno, Electronic</description>
 <enclosure url="https://replay.rinse.fm/uk/Baalti081126.mp3" length="85752739" type="audio/mpeg"/>
@@ -2990,26 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/R1-08274-0028-2-Nikola-Tordeich.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Buckley - 23/09/2026 - 17:00</title>
-<description>Rinse FM, broadcast 23 Sep 2026 17:00. Dubstep</description>
-<enclosure url="https://replay.rinse.fm/uk/Buckley230926.mp3" length="144010750" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010750</guid>
-<pubDate>Wed, 23 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_3680-Elias-Buckley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Utopia Presents - 23/09/2026 - 15:00</title>
-<description>Rinse FM, broadcast 23 Sep 2026 15:00. Soul, House, Dance</description>
-<enclosure url="https://replay.rinse.fm/uk/UtopiaPresents230926.mp3" length="289447029" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-289447029</guid>
-<pubDate>Wed, 23 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Coflo-2021-1-Utopia-Presents.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

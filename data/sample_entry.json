@@ -25,32 +25,39 @@
     "title": "France"
    }
   ],
-  "displayTitle": "invite Behne",
-  "episodeDate": "2026-11-09T00:00:00+00:00",
+  "displayTitle": "Moonshine with Pierre Kwenders, San Farafina and Negoo",
+  "episodeDate": "2026-11-10T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-09T20:00:00+00:00",
+  "episodeTime": "2026-11-10T20:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Behne-PIC-Miley-Serious.png",
+    "filename": "moonshinevol62025©schaelmarceus90-Farrah-Sintimé.jpeg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1273,
-    "width": 1179
+    "height": 1365,
+    "width": 2048
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/MileySeriousinviteBehne091126(VBR).mp3",
+  "fileUrl": "https://replay.rinse.fm/france/Moonshine091126(320).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": true,
+    "isFeaturedTag": false,
+    "isVisibleTag": false,
+    "slug": "afrobeat",
+    "title": "Afrobeat"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
     "isVisibleTag": true,
-    "slug": "techno",
-    "title": "Techno"
+    "slug": "electronic",
+    "title": "Electronic"
    },
    {
     "__typename": "genre_Tag",
@@ -58,16 +65,9 @@
     "isVisibleTag": false,
     "slug": "multigenre",
     "title": "Multigenre"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "electro",
-    "title": "Electro"
    }
   ],
-  "id": "2322670",
+  "id": "2322692",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -80,11 +80,11 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "“Mon show, c’est les archives de ce que peut représenter la scène de l’intérieur”, explique Miley Serious à propos de son émission mensuelle sur Rinse France. Dj et également boss du label 99cts Records, elle est l’une de nos résidentes depuis 2017.",
+    "extract": "Moonshine est un collectif de musiciens, DJs et artistes visuels basé à Montréal, né de fil en aiguille de soirées et afters secret aux quatre coins de la ville (annoncés via des vidéos cryptées et des sms) et mené par le DJ Pierre Kwenders.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "MILEY.png",
+      "filename": "SQUARE-MOONSHINE.png",
       "focalPoint": [
        0.5,
        0.5
@@ -97,32 +97,37 @@
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
+      "slug": "afrobeats",
+      "title": "Afrobeats"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "jungle",
-      "title": "Jungle"
+      "slug": "amapiano",
+      "title": "Amapiano"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "hardcore",
-      "title": "Hardcore"
+      "slug": "reggaeton",
+      "title": "Reggaeton"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "dancehall",
+      "title": "Dancehall"
      }
     ],
-    "id": "14288",
+    "id": "14296",
     "showStatus": "highlighted",
-    "slug": "miley-serious",
-    "title": "Miley Serious",
-    "url": "https://admin.rinse.fm/shows/miley-serious"
+    "slug": "moonshine",
+    "title": "Moonshine",
+    "url": "https://admin.rinse.fm/shows/moonshine"
    }
   ],
-  "slug": "miley-serious-09-11-2026-2000",
+  "slug": "moonshine-10-11-2026-2000",
   "subtitle": null,
-  "title": "Miley Serious - 09/11/2026 - 20:00",
+  "title": "Moonshine - 10/11/2026 - 20:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Behne-PIC-Miley-Serious.png",
+ "image": "https://image.rinse.fm/_/moonshinevol62025%C2%A9schaelmarceus90-Farrah-Sintime%CC%81.jpeg",
  "image_found_at": ".featuredImage.filename"
 }

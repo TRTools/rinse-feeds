@@ -2264,6 +2264,19 @@
   "size": 145479983,
   "title": "Hey Bony - 08/09/2026 - 17:00"
  },
+ "https://replay.rinse.fm/france/HeyBonyInviteshero.created101126VBR.mp3": {
+  "channel": "france",
+  "date": "2026-11-10T17:00:00+00:00",
+  "genres": [
+   "Afrobeat",
+   "Electronic",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/hey-bony-novembre-2026-Antony-Bonneto.jpeg",
+  "minutes": 60,
+  "size": 117105709,
+  "title": "Hey Bony - 10/11/2026 - 17:00"
+ },
  "https://replay.rinse.fm/france/HeyBonyOnlyfansAmsterdam131026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-13T17:00:00+01:00",
@@ -2624,6 +2637,19 @@
   "minutes": 60,
   "size": 139045370,
   "title": "King Doudou - 27/06/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/france/Klemee101126VBR.mp3": {
+  "channel": "france",
+  "date": "2026-11-10T15:00:00+00:00",
+  "genres": [
+   "Afrobeat",
+   "R&B",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/KlemeeNovembre-Klemee.JPEG",
+  "minutes": 60,
+  "size": 139456060,
+  "title": "Klemee - 10/11/2026 - 15:00"
  },
  "https://replay.rinse.fm/france/KokoPrisci(VBR)220926.mp3": {
   "channel": "france",
@@ -4109,6 +4135,19 @@
   "size": 143898993,
   "title": "Mohamedream - 04/11/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/Moonshine091126(320).mp3": {
+  "channel": "france",
+  "date": "2026-11-10T20:00:00+00:00",
+  "genres": [
+   "Afrobeat",
+   "Electronic",
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/moonshinevol62025%C2%A9schaelmarceus90-Farrah-Sintime%CC%81.jpeg",
+  "minutes": 60,
+  "size": 143516156,
+  "title": "Moonshine - 10/11/2026 - 20:00"
+ },
  "https://replay.rinse.fm/france/MumBeatsavecRamonaYacef161026(320).mp3": {
   "channel": "france",
   "date": "2026-10-16T14:00:00+01:00",
@@ -5149,6 +5188,18 @@
   "minutes": 60,
   "size": 144102931,
   "title": "Rebequita - 13/10/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/france/RebequitapresentsULTRASUAVE101126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-10T16:00:00+00:00",
+  "genres": [
+   "Multigenre",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-11-06-at-13.26.44-Rebecca-Jodorowsky.jpeg",
+  "minutes": 60,
+  "size": 136124930,
+  "title": "Rebequita - 10/11/2026 - 16:00"
  },
  "https://replay.rinse.fm/france/RestonsFlex-imissLATAMevenifiveneverbeen031126(VBR).mp3": {
   "channel": "france",
@@ -9900,6 +9951,19 @@
   "minutes": 120,
   "size": 288435556,
   "title": "Fokus - 05/09/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/kool/FokusTX071126_FINAL.mp3": {
+  "channel": "kool",
+  "date": "2026-11-10T21:00:00+00:00",
+  "genres": [
+   "Drum & Bass",
+   "minimal",
+   "Rollers"
+  ],
+  "image": "https://image.rinse.fm/_/Vits_Flowcase_Nov-Phil-Stanley.jpeg",
+  "minutes": 120,
+  "size": 288010260,
+  "title": "Fokus - 10/11/2026 - 21:00"
  },
  "https://replay.rinse.fm/kool/Fokuz270926.mp3": {
   "channel": "kool",
@@ -14857,7 +14921,7 @@
    "House",
    "Latin"
   ],
-  "image": "https://image.rinse.fm/_/AngelMel_Oct_2026.jpeg",
+  "image": "https://image.rinse.fm/_/000031-Lauren-Beavis.jpeg",
   "minutes": 120,
   "size": 288009922,
   "title": "Beavs - 07/10/2026 - 07:00"
@@ -16843,6 +16907,15 @@
   "size": 288009912,
   "title": "Feel The Real - 09/09/2026 - 07:00"
  },
+ "https://replay.rinse.fm/swu/FeelTheReal101126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-10T12:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/FTR1-June23.JPG",
+  "minutes": 120,
+  "size": 288009885,
+  "title": "Feel The Real - 10/11/2026 - 12:00"
+ },
  "https://replay.rinse.fm/swu/FeelTheReal110826.mp3": {
   "channel": "swu",
   "date": "2026-08-11T12:00:00+01:00",
@@ -17203,6 +17276,15 @@
   "minutes": 120,
   "size": 288009952,
   "title": "Felix Joy - 10/09/2026 - 10:00"
+ },
+ "https://replay.rinse.fm/swu/FelixJoy101126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-10T10:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/FelixJoy2024.jpeg",
+  "minutes": 120,
+  "size": 288009877,
+  "title": "Felix Joy - 10/11/2026 - 10:00"
  },
  "https://replay.rinse.fm/swu/FelixJoy110826.mp3": {
   "channel": "swu",
@@ -19237,6 +19319,17 @@
   "minutes": 60,
   "size": 144010415,
   "title": "J.Sparrow - 22/06/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/swu/Jakes091126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-09T21:00:00+00:00",
+  "genres": [
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/Jakes_NOV_2026.jpg",
+  "minutes": 60,
+  "size": 144010392,
+  "title": "Jakes - 09/11/2026 - 21:00"
  },
  "https://replay.rinse.fm/swu/Jakes130726.mp3": {
   "channel": "swu",
@@ -22790,6 +22883,17 @@
   "size": 288009898,
   "title": "Safiye - 10/09/2026 - 05:00"
  },
+ "https://replay.rinse.fm/swu/Safiye101126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-10T14:00:00+00:00",
+  "genres": [
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/Saf_NOV_2026.JPG",
+  "minutes": 120,
+  "size": 288009871,
+  "title": "Safiye - 10/11/2026 - 14:00"
+ },
  "https://replay.rinse.fm/swu/Safiye110826.mp3": {
   "channel": "swu",
   "date": "2026-08-11T14:00:00+01:00",
@@ -24003,6 +24107,19 @@
   "minutes": 60,
   "size": 141771052,
   "title": "SYNTAX - 10/10/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/swu/TRUTH091126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-09T23:00:00+00:00",
+  "genres": [
+   "Dubstep",
+   "Bass",
+   "Grime"
+  ],
+  "image": "https://image.rinse.fm/_/TRUTH_NOV_26.jpg",
+  "minutes": 120,
+  "size": 288009869,
+  "title": "TRUTH - 09/11/2026 - 23:00"
  },
  "https://replay.rinse.fm/swu/TRUTH121026.mp3": {
   "channel": "swu",
@@ -26112,6 +26229,15 @@
   "minutes": 60,
   "size": 144010753,
   "title": "Bok Bok - 18/10/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/uk/BragaCircuit091126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-09T14:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/000252740019-Joe-Burrows.jpg",
+  "minutes": 60,
+  "size": 143917336,
+  "title": "Braga Circuit - 09/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/uk/BragaCircuit10082026.mp3": {
   "channel": "uk",
@@ -34480,6 +34606,15 @@
   "minutes": 60,
   "size": 135617193,
   "title": "Serenda - 20/06/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/uk/Sharnie091126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-09T17:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/IMG_2497-Sharnie-Brown.jpeg",
+  "minutes": 60,
+  "size": 140813969,
+  "title": "Sharnie - 09/11/2026 - 17:00"
  },
  "https://replay.rinse.fm/uk/Sharnie10082026.mp3": {
   "channel": "uk",

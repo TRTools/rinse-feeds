@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Safiye - 10/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 10 Nov 2026 14:00. Multigenre</description>
+<enclosure url="https://replay.rinse.fm/swu/Safiye101126.mp3" length="288009871" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009871</guid>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Saf_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Feel The Real - 10/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 10 Nov 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FeelTheReal101126.mp3" length="288009885" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009885</guid>
+<pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FTR1-June23.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Millicent - 09/11/2026 - 18:00</title>
 <description>SWU FM, broadcast 09 Nov 2026 18:00. Bass</description>
 <enclosure url="https://replay.rinse.fm/swu/Millicent091126.mp3" length="144010400" type="audio/mpeg"/>
@@ -2990,26 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/COCODUBZ_August_26.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yuseemi - 29/08/2026 - 07:00</title>
-<description>SWU FM, broadcast 02 Aug 2026 16:00. Dancehall, Funky</description>
-<enclosure url="https://replay.rinse.fm/swu/Yuseemi020826.mp3" length="288011004" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011004</guid>
-<pubDate>Sun, 02 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Yuseemi_AUG_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Blacksmith &amp; Frenic - 01/09/2026 - 07:00</title>
-<description>SWU FM, broadcast 02 Aug 2026 12:00. Hip-Hop, Rap, Soul</description>
-<enclosure url="https://replay.rinse.fm/swu/Blacksmith&amp;Frenic020826.mp3" length="288011030" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288011030</guid>
-<pubDate>Sun, 02 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Blacksmith-May-23.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Fokus - 10/11/2026 - 21:00</title>
+<description>Kool FM, broadcast 10 Nov 2026 21:00. Drum &amp; Bass, minimal, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/FokusTX071126_FINAL.mp3" length="288010260" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010260</guid>
+<pubDate>Tue, 10 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Vits_Flowcase_Nov-Phil-Stanley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Yanneck - 09/11/2026 - 00:00</title>
 <description>Kool FM, broadcast 09 Nov 2026 00:00. Drum &amp; Bass</description>
 <enclosure url="https://replay.rinse.fm/kool/Yanneck081126.mp3" length="144302282" type="audio/mpeg"/>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DB27AB5E-FA00-4AD7-95F8-0B828C7DE6B1-Mark-Xtc.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Tesen - 27/03/2026 - 17:00</title>
-<description>Kool FM, broadcast 22 Aug 2026 17:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/Tesen270326.mp3" length="288215141" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288215141</guid>
-<pubDate>Sat, 22 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/162-Tesen-28_01_23_Peter-O_Sullivan_-Theo-Boyesen_2026-03-26-181736_ylag.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

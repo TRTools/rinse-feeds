@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Moonshine - 10/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 10 Nov 2026 20:00. Afrobeat, Electronic, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/Moonshine091126(320).mp3" length="143516156" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143516156</guid>
+<pubDate>Tue, 10 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/moonshinevol62025%C2%A9schaelmarceus90-Farrah-Sintime%CC%81.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Hey Bony - 10/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 10 Nov 2026 17:00. Afrobeat, Electronic, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/HeyBonyInviteshero.created101126VBR.mp3" length="117105709" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-117105709</guid>
+<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/hey-bony-novembre-2026-Antony-Bonneto.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rebequita - 10/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 10 Nov 2026 16:00. Multigenre, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/RebequitapresentsULTRASUAVE101126(VBR).mp3" length="136124930" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-136124930</guid>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-11-06-at-13.26.44-Rebecca-Jodorowsky.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Klemee - 10/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 10 Nov 2026 15:00. Afrobeat, R&amp;B, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/Klemee101126VBR.mp3" length="139456060" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139456060</guid>
+<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KlemeeNovembre-Klemee.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Miley Serious - 09/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 09 Nov 2026 20:00. Techno, Multigenre, Electro</description>
 <enclosure url="https://replay.rinse.fm/france/MileySeriousinviteBehne091126(VBR).mp3" length="118417508" type="audio/mpeg"/>
@@ -2967,46 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_1203-Restons-Flex.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Izzy Lindqwister - 01/09/2026 - 15:00</title>
-<description>Rinse France, broadcast 01 Sep 2026 15:00. Dub, Reggae, Dancehall</description>
-<enclosure url="https://replay.rinse.fm/france/IzzyLindqwisterpresentsLicenceToWeed(VBR).mp3" length="115489438" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-115489438</guid>
-<pubDate>Tue, 01 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/photo-output-Izzy-Lindqwister.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LAZE - 31/07/2026 - 20:00</title>
-<description>Rinse France, broadcast 31 Jul 2026 20:00. Noise, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/LAZE(VBR).mp3" length="141704974" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141704974</guid>
-<pubDate>Fri, 31 Jul 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LAZE.00_08_14_07.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 31/07/2026 - 19:00</title>
-<description>Rinse France, broadcast 31 Jul 2026 19:00. Electronic, Latin, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/BJF(320).mp3" length="143617536" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143617536</guid>
-<pubDate>Fri, 31 Jul 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/BJF-Juillet-2026-B-JF.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 31/07/2026 - 17:00</title>
-<description>Rinse France, broadcast 31 Jul 2026 17:00</description>
-<enclosure url="https://replay.rinse.fm/france/Mamdouh313310726(VBR).mp3" length="137065339" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137065339</guid>
-<pubDate>Fri, 31 Jul 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mamdouh313-July-2026-Mamdouh-Elmchad.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
