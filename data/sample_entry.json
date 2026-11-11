@@ -1,7 +1,7 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": null,
+  "artistTitle": "Machi",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
@@ -25,39 +25,39 @@
     "title": "France"
    }
   ],
-  "displayTitle": "Moonshine with Pierre Kwenders, San Farafina and Negoo",
-  "episodeDate": "2026-11-10T00:00:00+00:00",
+  "displayTitle": null,
+  "episodeDate": "2026-11-11T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-10T20:00:00+00:00",
+  "episodeTime": "2026-11-11T15:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "moonshinevol62025©schaelmarceus90-Farrah-Sintimé.jpeg",
+    "filename": "1b7ab366-0ee3-4374-b4f2-cf5a0c434924-Machi.JPG",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1365,
-    "width": 2048
+    "height": 1830,
+    "width": 2692
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/Moonshine091126(320).mp3",
+  "fileUrl": "https://replay.rinse.fm/france/Machi111126(VBR).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
-    "isVisibleTag": false,
-    "slug": "afrobeat",
-    "title": "Afrobeat"
+    "isVisibleTag": true,
+    "slug": "funk",
+    "title": "Funk"
    },
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": false,
+    "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "electronic",
-    "title": "Electronic"
+    "slug": "jazz",
+    "title": "Jazz"
    },
    {
     "__typename": "genre_Tag",
@@ -67,7 +67,7 @@
     "title": "Multigenre"
    }
   ],
-  "id": "2322692",
+  "id": "2323892",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -80,54 +80,57 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Moonshine est un collectif de musiciens, DJs et artistes visuels basé à Montréal, né de fil en aiguille de soirées et afters secret aux quatre coins de la ville (annoncés via des vidéos cryptées et des sms) et mené par le DJ Pierre Kwenders.",
+    "extract": null,
+    "featuredImage": [],
+    "genreTag": [],
+    "id": "2324431",
+    "showStatus": "hidden",
+    "slug": "machi",
+    "title": "Machi",
+    "url": "https://admin.rinse.fm/shows/machi"
+   },
+   {
+    "__typename": "show_show_Entry",
+    "channel": [
+     {
+      "__typename": "channel_channel_Entry",
+      "slug": "france"
+     }
+    ],
+    "defaultEpisodeImage": [],
+    "extract": null,
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "SQUARE-MOONSHINE.png",
+      "filename": "RECORD-01.00_00_00_00.Still001.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1200,
-      "width": 1200
+      "height": 1080,
+      "width": 1920
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "afrobeats",
-      "title": "Afrobeats"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "amapiano",
-      "title": "Amapiano"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "reggaeton",
-      "title": "Reggaeton"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "dancehall",
-      "title": "Dancehall"
+      "slug": "multigenre",
+      "title": "Multigenre"
      }
     ],
-    "id": "14296",
+    "id": "2316850",
     "showStatus": "highlighted",
-    "slug": "moonshine",
-    "title": "Moonshine",
-    "url": "https://admin.rinse.fm/shows/moonshine"
+    "slug": "rinse-france-live-from-the-studio",
+    "title": "Rinse France: Live From The Studio",
+    "url": "https://admin.rinse.fm/shows/rinse-france-live-from-the-studio"
    }
   ],
-  "slug": "moonshine-10-11-2026-2000",
+  "slug": "machi-11-11-2026-1500",
   "subtitle": null,
-  "title": "Moonshine - 10/11/2026 - 20:00",
-  "youtubeStreamUrl": null
+  "title": "Machi - 11/11/2026 - 15:00",
+  "youtubeStreamUrl": "YURn12BA2RE"
  },
- "image": "https://image.rinse.fm/_/moonshinevol62025%C2%A9schaelmarceus90-Farrah-Sintime%CC%81.jpeg",
+ "image": "https://image.rinse.fm/_/1b7ab366-0ee3-4374-b4f2-cf5a0c434924-Machi.JPG",
  "image_found_at": ".featuredImage.filename"
 }

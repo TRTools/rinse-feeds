@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Holysseus Fly - 11/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 11 Nov 2026 12:00. Pop, R&amp;B, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/swu/HolysseusFly111126.mp3" length="288009883" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009883</guid>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/HolysseusFly_01.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Finlay Shakespeare - 10/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 10 Nov 2026 23:00. Electronic, Electro, Experimental</description>
+<enclosure url="https://replay.rinse.fm/swu/FinlayShakespeare101126.mp3" length="288009893" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009893</guid>
+<pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FinlayShakespeare_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Josi Devil - 10/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 10 Nov 2026 19:00. Bass, Electronic, Experimental</description>
+<enclosure url="https://replay.rinse.fm/swu/JosiDevil101126.mp3" length="274998808" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-274998808</guid>
+<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/JosiDevil_Nov_2026.webp?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Caragh - 10/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 10 Nov 2026 18:00. House, Techno, Garage</description>
+<enclosure url="https://replay.rinse.fm/swu/Caragh101126.mp3" length="144009431" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009431</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Caragh_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Big Miz - 10/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 10 Nov 2026 16:00. Electronic, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/swu/BigMiz101126.mp3" length="288008910" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008910</guid>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/BigMiz_Oct_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Safiye - 10/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 10 Nov 2026 14:00. Multigenre</description>
 <enclosure url="https://replay.rinse.fm/swu/Safiye101126.mp3" length="288009871" type="audio/mpeg"/>
@@ -2960,56 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DAD_AUG_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Firenze Phoenix - 06/08/2026 - 07:00</title>
-<description>SWU FM, broadcast 05 Aug 2026 12:00. R&amp;B, Rap, Talk</description>
-<enclosure url="https://replay.rinse.fm/swu/FirenzePhoenix050826.mp3" length="288009934" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009934</guid>
-<pubDate>Wed, 05 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Firenze-Phoenix_August_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Foundation Audio with Chad Dubz - 05/08/2026 - 04:00</title>
-<description>SWU FM, broadcast 03 Aug 2026 22:00. Dubstep, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/FoundationAudio030826.mp3" length="140976081" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-140976081</guid>
-<pubDate>Mon, 03 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/CHad_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gemmy - 05/08/2026 - 01:00</title>
-<description>SWU FM, broadcast 03 Aug 2026 19:00. Dubstep, Grime</description>
-<enclosure url="https://replay.rinse.fm/swu/Gemmy030826.mp3" length="288009890" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009890</guid>
-<pubDate>Mon, 03 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Gemmy_August-26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 03/08/2026 - 14:00</title>
-<description>SWU FM, broadcast 03 Aug 2026 14:00. Multigenre, Reggae, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/LaidBlak030826.mp3" length="288009956" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009956</guid>
-<pubDate>Mon, 03 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Laid-Blak_August_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>COCODUBZ - 02/08/2026 - 18:00</title>
-<description>SWU FM, broadcast 02 Aug 2026 18:00. Dubstep, Bass, Dub</description>
-<enclosure url="https://replay.rinse.fm/swu/COCODUBZ020826.mp3" length="144011529" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144011529</guid>
-<pubDate>Sun, 02 Aug 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/COCODUBZ_August_26.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

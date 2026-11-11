@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Menace Progressive - 11/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 11 Nov 2026 18:00. Rap, Bass, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/MenaceProgressiveinviteVVPeteUtility111126(320).mp3" length="130720119" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-130720119</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/176d21ff-ba31-49f6-89ed-d6bec913ab26-Franc%CC%A7ois-Leclinche.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Machi - 11/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 11 Nov 2026 15:00. Funk, Jazz, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/Machi111126(VBR).mp3" length="144205541" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144205541</guid>
+<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/1b7ab366-0ee3-4374-b4f2-cf5a0c434924-Machi.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Moonshine - 10/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 10 Nov 2026 20:00. Afrobeat, Electronic, Multigenre</description>
 <enclosure url="https://replay.rinse.fm/france/Moonshine091126(320).mp3" length="143516156" type="audio/mpeg"/>
@@ -20,6 +40,16 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/moonshinevol62025%C2%A9schaelmarceus90-Farrah-Sintime%CC%81.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Missy Da Kunt - 10/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 10 Nov 2026 18:00. Mulltigenre, Pop, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/MissyDaKuntinvitesDyne101126(VBR).mp3" length="145886169" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145886169</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Missy.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Hey Bony - 10/11/2026 - 17:00</title>
@@ -2977,36 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Tribal-Evans-Aout-2026-Haroun-Belaoudja.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LeZduA - 02/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 02 Sep 2026 16:00. drum and bass, Podcast, Mulltigenre</description>
-<enclosure url="https://replay.rinse.fm/france/LeZduAinvitejuwa.ria020926(VBR).mp3" length="137358372" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137358372</guid>
-<pubDate>Wed, 02 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/image0_2026-09-02-134314_mtaz.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hewan Aman - 02/09/2026 - 15:00</title>
-<description>Rinse France, broadcast 02 Sep 2026 15:00. Dub, Techno, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/DubDelightHewanAman020926(320).mp3" length="154597089" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-154597089</guid>
-<pubDate>Wed, 02 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Design-sans-titre-Hewan-Goethals.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>restonsflex - 01/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 01 Sep 2026 17:00. Bass, Breakbeat, Funky</description>
-<enclosure url="https://replay.rinse.fm/france/restonsflexBACKTOSCHOOL010926(VBR).mp3" length="140766804" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-140766804</guid>
-<pubDate>Tue, 01 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_1203-Restons-Flex.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>blkout. - 10/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 10 Nov 2026 23:00. Drum &amp; Bass, Jump Up, Dancefloor</description>
+<enclosure url="https://replay.rinse.fm/kool/blkout101126.mp3" length="288862864" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288862864</guid>
+<pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/shellaz-kool-fm-Daniel-Raschilla.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Fokus - 10/11/2026 - 21:00</title>
 <description>Kool FM, broadcast 10 Nov 2026 21:00. Drum &amp; Bass, minimal, Rollers</description>
 <enclosure url="https://replay.rinse.fm/kool/FokusTX071126_FINAL.mp3" length="288010260" type="audio/mpeg"/>
@@ -20,6 +30,46 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Vits_Flowcase_Nov-Phil-Stanley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Bailey - 10/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 10 Nov 2026 19:00. Drum &amp; Bass, Jungle, Liquid</description>
+<enclosure url="https://replay.rinse.fm/kool/Bailey101126.mp3" length="288465803" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288465803</guid>
+<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Bailey-June-2023_1.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jamie G presents the United Colours Of Jungle Show - 10/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 10 Nov 2026 17:00. Hardcore, Jungle, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/JamieG101126.mp3" length="287945514" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287945514</guid>
+<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_7855-Jamie-G_2026-11-10-204424_cswr.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Future Flavas with Profile - 09/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 09 Nov 2026 19:00. Drum &amp; Bass, Jump Up, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/ProfileTX091126.mp3" length="288731239" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288731239</guid>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8620-Clive-Bourne-1.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Inspired Lou - 09/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 09 Nov 2026 17:00. Drum &amp; Bass, Liquid</description>
+<enclosure url="https://replay.rinse.fm/kool/InspiredLouTX091126.mp3" length="288715530" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288715530</guid>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_7462-Louise-Yusuf.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Yanneck - 09/11/2026 - 00:00</title>
@@ -2959,56 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Crossover-carnival-2026-asset-picture-Adrian-Davis.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Eastman - 23/08/2026 - 10:00</title>
-<description>Kool FM, broadcast 23 Aug 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Eastman230826.mp3" length="262557740" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-262557740</guid>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Eastman-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Marcus Visionary - 31/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 22 Aug 2026 23:00. Drum &amp; Bass, Jungle, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/kool/MarcusVisionary220826.mp3" length="290459606" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-290459606</guid>
-<pubDate>Sat, 22 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/test-Marcus-Sills.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Overview Music - 16/04/2026 - 22:00</title>
-<description>Kool FM, broadcast 22 Aug 2026 22:00. Drum &amp; Bass, minimal, Jump Up</description>
-<enclosure url="https://replay.rinse.fm/kool/OverviewMusic160426.mp3" length="144328558" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144328558</guid>
-<pubDate>Sat, 22 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/fe63c45b-3e2f-4a73-bd59-a5e3bc162ab1-Overview-Music.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Over/shadow - 30/08/2026 - 04:00</title>
-<description>Kool FM, broadcast 22 Aug 2026 21:00. Jungle, Drum &amp; Bass, Breakbeat</description>
-<enclosure url="https://replay.rinse.fm/kool/OverShadow220826.mp3" length="304491456" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-304491456</guid>
-<pubDate>Sat, 22 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RUNDR-ETCH-Simon-Colebrooke.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mark XTC - 22/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 22 Aug 2026 19:00. Oldskool, Jungle, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/MarkXTC220826.mp3" length="294345441" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-294345441</guid>
-<pubDate>Sat, 22 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DB27AB5E-FA00-4AD7-95F8-0B828C7DE6B1-Mark-Xtc.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

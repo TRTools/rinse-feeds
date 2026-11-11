@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 38,
+  "count": 35,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/Moonshine091126(320).mp3"
+  "sample_url": "https://replay.rinse.fm/france/Machi111126(VBR).mp3"
  },
  "kool": {
-  "count": 21,
+  "count": 26,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/FokusTX071126_FINAL.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/100MCFats040526.mp3"
  },
  "swu": {
-  "count": 105,
+  "count": 106,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/SteveRice091126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/MillyOnAir211026.mp3"
  },
  "uk": {
-  "count": 39,
+  "count": 47,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/YUQT131026_.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/CuppaSounds121125.mp3"
  }
 }
