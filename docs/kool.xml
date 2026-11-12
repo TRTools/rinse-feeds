@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Flexout Audio - 11/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 11 Nov 2026 23:00. Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/FlexoutAudio111126.mp3" length="288797783" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288797783</guid>
+<pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/bassipress-Thomas-Bassi_2026-11-11-122723_xltz.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Flight - 11/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 11 Nov 2026 19:00. Drum &amp; Bass, Jungle, Electronic</description>
+<enclosure url="https://replay.rinse.fm/kool/DJFlight111126.mp3" length="282968626" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-282968626</guid>
+<pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FlightNov26-DJ-Flight.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Brockie - 11/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 11 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/uk/DJBrockiee111126.mp3" length="289420838" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289420838</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Brockie-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>blkout. - 10/11/2026 - 23:00</title>
 <description>Kool FM, broadcast 10 Nov 2026 23:00. Drum &amp; Bass, Jump Up, Dancefloor</description>
 <enclosure url="https://replay.rinse.fm/kool/blkout101126.mp3" length="288862864" type="audio/mpeg"/>
@@ -2979,36 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/70B57427-38E2-426B-A2C8-218194E7D71E-Alfie-Channell.PNG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>BEXLO - 23/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 23 Aug 2026 23:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/BEXLO230826.mp3" length="148557304" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-148557304</guid>
-<pubDate>Sun, 23 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ben-photo-2-BEXLO-MUSIC.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Fokuz Recordings - 23/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 23 Aug 2026 16:00. Drum &amp; Bass, Liquid</description>
-<enclosure url="https://replay.rinse.fm/kool/FokuzRecordings230826.mp3" length="141827739" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141827739</guid>
-<pubDate>Sun, 23 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ec12_day2_robert-antal-363-Alexandru-Lucian-Cobe.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Devious D - 23/08/2026 - 14:00</title>
-<description>Kool FM, broadcast 23 Aug 2026 14:00. Jungle, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/DeviousD230826.mp3" length="261649318" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-261649318</guid>
-<pubDate>Sun, 23 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Crossover-carnival-2026-asset-picture-Adrian-Davis.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

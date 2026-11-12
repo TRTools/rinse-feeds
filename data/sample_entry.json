@@ -1,136 +1,101 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": "Machi",
+  "artistTitle": "100% Prototype Recordings",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95203",
-      "slug": "rinse-steel",
-      "title": "Rinse Steel"
+      "id": "1164956",
+      "slug": "kool-red",
+      "title": "Kool Red"
      }
     ],
-    "channelLaunchDateTime": null,
+    "channelLaunchDateTime": "2023-04-23T11:00:00+00:00",
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/Paris",
-    "extract": "France Extract",
-    "id": "32",
+    "defaultTimezoneOffset": "Europe/London",
+    "extract": null,
+    "id": "946125",
     "isPermanentChannel": true,
-    "lft": 4,
-    "slug": "france",
-    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
-    "title": "France"
+    "lft": 10,
+    "slug": "kool",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
+    "title": "Kool FM"
    }
   ],
   "displayTitle": null,
-  "episodeDate": "2026-11-11T00:00:00+00:00",
+  "episodeDate": "2026-06-10T23:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-11T15:00:00+00:00",
+  "episodeTime": "2026-11-12T16:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "1b7ab366-0ee3-4374-b4f2-cf5a0c434924-Machi.JPG",
+    "filename": "PROREC001.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1830,
-    "width": 2692
+    "height": 1000,
+    "width": 1000
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/Machi111126(VBR).mp3",
-  "genreTag": [
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "funk",
-    "title": "Funk"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "jazz",
-    "title": "Jazz"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": false,
-    "slug": "multigenre",
-    "title": "Multigenre"
-   }
-  ],
-  "id": "2323892",
+  "fileUrl": "https://replay.rinse.fm/kool/100PrototypeRecordings110626.mp3",
+  "genreTag": [],
+  "id": "2277545",
   "isRebroadcast": false,
-  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "france"
+      "slug": "kool"
      }
     ],
-    "defaultEpisodeImage": [],
-    "extract": null,
-    "featuredImage": [],
-    "genreTag": [],
-    "id": "2324431",
-    "showStatus": "hidden",
-    "slug": "machi",
-    "title": "Machi",
-    "url": "https://admin.rinse.fm/shows/machi"
-   },
-   {
-    "__typename": "show_show_Entry",
-    "channel": [
-     {
-      "__typename": "channel_channel_Entry",
-      "slug": "france"
-     }
-    ],
-    "defaultEpisodeImage": [],
-    "extract": null,
-    "featuredImage": [
+    "defaultEpisodeImage": [
      {
       "__typename": "media_Asset",
-      "filename": "RECORD-01.00_00_00_00.Still001.jpg",
+      "filename": "Placeholder_Kool-100-—-Square.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1080,
-      "width": 1920
+      "height": 1600,
+      "width": 1600
      }
     ],
-    "genreTag": [
+    "extract": "100% - A 60 minute focus on an icon from the Drum & Bass / Jungle scenes. Lock in every Monday-Thursday 4-5PM.",
+    "featuredImage": [
      {
-      "__typename": "genre_Tag",
-      "slug": "multigenre",
-      "title": "Multigenre"
+      "__typename": "media_Asset",
+      "filename": "100-—-Page-Banner.png",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1480,
+      "width": 5333
      }
     ],
-    "id": "2316850",
+    "genreTag": [],
+    "id": "2256732",
     "showStatus": "highlighted",
-    "slug": "rinse-france-live-from-the-studio",
-    "title": "Rinse France: Live From The Studio",
-    "url": "https://admin.rinse.fm/shows/rinse-france-live-from-the-studio"
+    "slug": "100",
+    "title": "100%",
+    "url": "https://admin.rinse.fm/shows/100"
    }
   ],
-  "slug": "machi-11-11-2026-1500",
+  "slug": "100-11-06-2026-1600",
   "subtitle": null,
-  "title": "Machi - 11/11/2026 - 15:00",
-  "youtubeStreamUrl": "YURn12BA2RE"
+  "title": "100% - 11/06/2026 - 16:00",
+  "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/1b7ab366-0ee3-4374-b4f2-cf5a0c434924-Machi.JPG",
+ "image": "https://image.rinse.fm/_/PROREC001.jpg",
  "image_found_at": ".featuredImage.filename"
 }

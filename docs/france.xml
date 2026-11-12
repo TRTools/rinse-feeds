@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Twerkistan - 12/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 12 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/france/Twerkistan12.11.26(VBR)mp3.mp3" length="137231468" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137231468</guid>
+<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/INSTA_TWERKISTAN.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>JP MANO - 12/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 12 Nov 2026 14:00. Afrobeat, Soul, Talk</description>
+<enclosure url="https://replay.rinse.fm/france/OnParleMusiquebyJPMano12112025(320).mp3" length="282900426" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-282900426</guid>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/On-Parle-Musique-by-JP-Mano-12_1126-JP-MANO.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>RONI - 11/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 11 Nov 2026 20:00. Latin, Techno, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/RONIB2BDeGrandi111026(320).mp3" length="136645102" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-136645102</guid>
+<pubDate>Wed, 11 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9689-Jasmina-Solente.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Menace Progressive - 11/11/2026 - 18:00</title>
 <description>Rinse France, broadcast 11 Nov 2026 18:00. Rap, Bass, Multigenre</description>
 <enclosure url="https://replay.rinse.fm/france/MenaceProgressiveinviteVVPeteUtility111126(320).mp3" length="130720119" type="audio/mpeg"/>
@@ -20,6 +50,16 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/176d21ff-ba31-49f6-89ed-d6bec913ab26-Franc%CC%A7ois-Leclinche.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Andy4000 - 11/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 11 Nov 2026 17:00. Rap, Hip-Hop</description>
+<enclosure url="https://replay.rinse.fm/france/ANDYREKTSHOW-KLIBR&amp;FRIENDSTAKEOVER111126(VBR).mp3" length="139635335" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139635335</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KLIBRFRIENDS-NOVEMBRE-2026-Felix-Langlais-Edenborn.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Machi - 11/11/2026 - 15:00</title>
@@ -2967,46 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Capture-d%E2%80%99e%CC%81cran-2026-09-02-a%CC%80-14.48.37-La-2much-Ex-La-Darude.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DOUBLE-O-THEATRE - 03/09/2026 - 15:00</title>
-<description>Rinse France, broadcast 03 Sep 2026 15:00. Electronic, Jazz, Rap</description>
-<enclosure url="https://replay.rinse.fm/france/DOUBLEOTHEATRE030926.mp3" length="142240196" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142240196</guid>
-<pubDate>Thu, 03 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DOT-202609-Monsieur-Boo.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Léna Daniel - 03/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 03 Sep 2026 14:00. Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/LenaDaniel030926.(VBR).mp3" length="145175435" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145175435</guid>
-<pubDate>Thu, 03 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/08A7840-Le%CC%81na-Daniel.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Lisa More - 02/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 02 Sep 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/LisaMoreB2BTTristana020926(VBR).mp3" length="130195809" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-130195809</guid>
-<pubDate>Wed, 02 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SQUARE-LISA-TSUNAMI.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sauti - 02/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 02 Sep 2026 17:00. House, Amapiano, Talk</description>
-<enclosure url="https://replay.rinse.fm/france/SautiOnAirHeezyinviteTribalEvans(VBR).mp3" length="136631859" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-136631859</guid>
-<pubDate>Wed, 02 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Tribal-Evans-Aout-2026-Haroun-Belaoudja.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
