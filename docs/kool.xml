@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Uncle Dugs - 13/11/2026 - 11:00</title>
+<description>Kool FM, broadcast 13 Nov 2026 11:00</description>
+<enclosure url="https://replay.rinse.fm/uk/UncleDugs131126.mp3" length="427025524" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-427025524</guid>
+<pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>10800</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Patife - 12/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 12 Nov 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJPatife121126.mp3" length="288864930" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288864930</guid>
+<pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Patife-April-2023_3.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Soul In Motion Records - 12/11/2026 - 21:00</title>
+<description>Kool FM, broadcast 12 Nov 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulInMotion121126.mp3" length="287468011" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287468011</guid>
+<pubDate>Thu, 12 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/NFM-SIM-KOOL_2026-02-17-103801_sfjg.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ant TC1 presents Dispatch Recordings - 12/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 12 Nov 2026 19:00. Drum &amp; Bass, Jungle, Techstep</description>
+<enclosure url="https://replay.rinse.fm/kool/ANTTC1121126.mp3" length="291904527" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-291904527</guid>
+<pubDate>Thu, 12 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Jamal-Drex174-Ant-C.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Benny V - 12/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 12 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BennyV121126.mp3" length="286038016" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286038016</guid>
+<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/New-Press-For-Kool_2026-10-29-144250_wybk.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Flexout Audio - 11/11/2026 - 23:00</title>
 <description>Kool FM, broadcast 11 Nov 2026 23:00. Drum &amp; Bass</description>
 <enclosure url="https://replay.rinse.fm/kool/FlexoutAudio111126.mp3" length="288797783" type="audio/mpeg"/>
@@ -102,6 +152,16 @@
 <itunes:image href="https://image.rinse.fm/_/IMG_7462-Louise-Yusuf.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
+<title>Inspired Lou - 09/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 09 Nov 2026 17:00. Drum &amp; Bass, Liquid</description>
+<enclosure url="https://replay.rinse.fm/kool/InspiredLou091126.mp3" length="288510718" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288510718</guid>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_7462-Louise-Yusuf.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Yanneck - 09/11/2026 - 00:00</title>
 <description>Kool FM, broadcast 09 Nov 2026 00:00. Drum &amp; Bass</description>
 <enclosure url="https://replay.rinse.fm/kool/Yanneck081126.mp3" length="144302282" type="audio/mpeg"/>
@@ -149,7 +209,7 @@
 <pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Profile-pic.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/exec-9779f87a-7981-43eb-a908-10cb0e5fd74e-1-Adrian-Davis.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Young Head - 08/11/2026 - 12:00</title>
@@ -2949,66 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Basic-Rhythm-at-Valve-Anthoney-Hart.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Technimatic - 25/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 25 Aug 2026 19:00. Drum &amp; Bass, Liquid, Rollers</description>
-<enclosure url="https://replay.rinse.fm/kool/Technimatic250826.mp3" length="287672292" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287672292</guid>
-<pubDate>Tue, 25 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/T-bw-4-of-4-peter-rogers_2026-08-25-142145_lcek.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Jamie G presents the United Colours Of Jungle Show - 25/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 25 Aug 2026 17:00. Hardcore, Jungle, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/JamieG250826.mp3" length="287806460" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287806460</guid>
-<pubDate>Tue, 25 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/d1e564ba-851d-4d67-a795-00177b6a421e-Jamie-G.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>100% - 25/08/2026 - 16:00</title>
-<description>Kool FM, broadcast 25 Aug 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/100GoodLookinRecords190526_.mp3" length="144398634" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144398634</guid>
-<pubDate>Tue, 25 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/06a36ead-b55a-4e7a-9118-b4f7eaa4f7fb.webp?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Klute - 24/08/2026 - 23:00</title>
-<description>Kool FM, broadcast 24 Aug 2026 23:00. Drum &amp; Bass, Techstep, Intelligent</description>
-<enclosure url="https://replay.rinse.fm/kool/Klute240826.mp3" length="287832582" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287832582</guid>
-<pubDate>Mon, 24 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Klute-aug26-Tom-Klute.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Laurie Charlesworth - 24/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 24 Aug 2026 17:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/LaurieCharlesworth240826.mp3" length="288188948" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288188948</guid>
-<pubDate>Mon, 24 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8118-2-Laurie-Charlesworth_2026-08-23-175442_ackg.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Channell - 24/08/2026 - 00:00</title>
-<description>Kool FM, broadcast 24 Aug 2026 00:00. Drum &amp; Bass, Liquid, Intelligent</description>
-<enclosure url="https://replay.rinse.fm/kool/Channell2300826.mp3" length="145026579" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145026579</guid>
-<pubDate>Mon, 24 Aug 2026 00:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/70B57427-38E2-426B-A2C8-218194E7D71E-Alfie-Channell.PNG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

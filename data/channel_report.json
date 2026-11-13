@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/Twerkistan12.11.26(VBR)mp3.mp3"
+  "sample_url": "https://replay.rinse.fm/france/FLEGON131126.mp3"
  },
  "kool": {
-  "count": 27,
+  "count": 26,
   "sample_fields": {
    "channel": [
     {
@@ -52,13 +52,34 @@
      "slug": "kool",
      "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
      "title": "Kool FM"
+    },
+    {
+     "__typename": "channel_channel_Entry",
+     "channelColour": [
+      {
+       "__typename": "colour_Entry",
+       "id": "95198",
+       "slug": "rinse-cyan",
+       "title": "Rinse Cyan"
+      }
+     ],
+     "channelLaunchDateTime": null,
+     "channelPagePreviewDateTime": null,
+     "defaultTimezoneOffset": "Europe/London",
+     "extract": "Live from London",
+     "id": "35",
+     "isPermanentChannel": true,
+     "lft": 2,
+     "slug": "uk",
+     "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+     "title": "UK"
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/100PrototypeRecordings110626.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/UncleDugs131126.mp3"
  },
  "swu": {
-  "count": 102,
+  "count": 108,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +105,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Typleless101126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/Lamont200324.mp3"
  },
  "uk": {
-  "count": 51,
+  "count": 52,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +134,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/ElleClarke100926.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/EllaKnight180926.mp3"
  }
 }

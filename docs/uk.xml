@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Jacques Greene - 12/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 12 Nov 2026 22:00. Electronic, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/JacquesGreene121126.mp3" length="144483046" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144483046</guid>
+<pubDate>Thu, 12 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LOOK_8_2085-Philippe-Aubin-Dionne.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jaz Imsky - 12/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 12 Nov 2026 18:00. Dubstep, Bass, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/JazImsky121126.mp3" length="144053110" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144053110</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/cymatic-bubble-pic-2-jaz-i.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Maey - 12/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 12 Nov 2026 17:00. Electronic, Multigenre, R&amp;B</description>
+<enclosure url="https://replay.rinse.fm/uk/Maey121126.mp3" length="144266259" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144266259</guid>
+<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Rinse-FM-November-Maey-Marith-van-Beek.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Tom Ravenscroft - 12/11/2026 - 15:00</title>
+<description>Rinse FM, broadcast 12 Nov 2026 15:00. Bass, Experimental, Dance</description>
+<enclosure url="https://replay.rinse.fm/uk/TomRavenscroft121126.mp3" length="287817497" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287817497</guid>
+<pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/2a97898b-40b4-430f-8d0a-26d9cbdc3862-thomas-ravenscroft_2026-11-11-174015_kakg.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Cassy - 12/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 12 Nov 2026 14:00. Techno, Electronic, minimal</description>
+<enclosure url="https://replay.rinse.fm/uk/Cassy121126.mp3" length="147018522" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-147018522</guid>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/103f1266-ea0e-48c6-8299-872ef63331ee-Beatrix.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Hi-Fidelity - 12/11/2026 - 12:00</title>
 <description>Rinse FM, broadcast 12 Nov 2026 12:00. Soul, Disco, House</description>
 <enclosure url="https://replay.rinse.fm/uk/MadCats121126.mp3" length="145242693" type="audio/mpeg"/>
@@ -389,7 +439,7 @@
 <pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SCRATCHCLART_HZ8_2304-Scratchclart.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/241f8045-73d4-4d59-b3a2-a76f27d8a714_2024-01-31-165759_iids.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Eliza Rose - 06/11/2026 - 14:00</title>
@@ -2960,56 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_5284.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>EMA - 27/09/2026 - 20:00</title>
-<description>Rinse FM, broadcast 27 Sep 2026 20:00. Dub, Bass</description>
-<enclosure url="https://replay.rinse.fm/uk/Woozy270926.mp3" length="144210323" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144210323</guid>
-<pubDate>Sun, 27 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_5551-Emma-Jane-Gilliland.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Plastician - 27/09/2026 - 18:00</title>
-<description>Rinse FM, broadcast 27 Sep 2026 18:00. Bass, Electronic, Experimental</description>
-<enclosure url="https://replay.rinse.fm/uk/Plastician270926_.mp3" length="288138752" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288138752</guid>
-<pubDate>Sun, 27 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Football_Session_16.30-19.30-52__credit_%40rakeem_madeit-Terrorhythm-Team_2026-09-27-152532_noml.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Dean Bryce - 27/09/2026 - 12:00</title>
-<description>Rinse FM, broadcast 27 Sep 2026 12:00</description>
-<enclosure url="https://replay.rinse.fm/uk/DeanBryce270926.mp3" length="288507234" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288507234</guid>
-<pubDate>Sun, 27 Sep 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/JAMAICA-11-Dean-Bryce.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>IsGwan - 26/09/2026 - 23:00</title>
-<description>Rinse FM, broadcast 26 Sep 2026 23:00. Electronic, Bass, Garage</description>
-<enclosure url="https://replay.rinse.fm/uk/IsGwan260926.mp3" length="144439217" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144439217</guid>
-<pubDate>Sat, 26 Sep 2026 23:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_9470-Isaac-Walker.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>UNFOLD - 08/05/2026 - 22:00</title>
-<description>Rinse FM, broadcast 26 Sep 2026 22:00. Bass, Techno, Breakbeat</description>
-<enclosure url="https://replay.rinse.fm/uk/UNFOLD080526.mp3" length="144685484" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144685484</guid>
-<pubDate>Sat, 26 Sep 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Copy-of-2N2A0112-Tee-Craven.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

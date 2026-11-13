@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Rinse France Guest Show - 13/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 13 Nov 2026 16:00. Multigenre, Electro</description>
+<enclosure url="https://replay.rinse.fm/france/SPRKLBB131126(VBR).mp3" length="144642944" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144642944</guid>
+<pubDate>Fri, 13 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RINSE_SPRKLBB.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Flegon - 13/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 13 Nov 2026 15:00. Funk</description>
+<enclosure url="https://replay.rinse.fm/france/FLEGON131126.mp3" length="106990534" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-106990534</guid>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/visuel-funk-fr-90-Brice_2026-11-12-133606_dsil.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Vitaline - 12/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 12 Nov 2026 19:00. Bass, Breakbeat, Garage</description>
+<enclosure url="https://replay.rinse.fm/france/VitalineinviteEole121126(VBR).mp3" length="135455372" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-135455372</guid>
+<pubDate>Thu, 12 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Vitaline-11.12-Vitaline.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Triple G Records - 12/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 12 Nov 2026 18:00. Bass, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/JusteSb2bLefblom121126(VBR).mp3" length="147673654" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-147673654</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/triple-G-novembre-2026-Lefblom.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Twerkistan - 12/11/2026 - 17:00</title>
 <description>Rinse France, broadcast 12 Nov 2026 17:00</description>
 <enclosure url="https://replay.rinse.fm/france/Twerkistan12.11.26(VBR)mp3.mp3" length="137231468" type="audio/mpeg"/>
@@ -2967,46 +3007,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Soa420-%C2%A9-Corentin-SEPE-ZADI-copie-Soa420.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mariad - 04/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 04 Sep 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/mariadb2bBenjaminb2bFannyVilhelmsson040926(VBR).mp3" length="151560697" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-151560697</guid>
-<pubDate>Fri, 04 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/mariad1.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Carlos do Complexo - 04/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 04 Sep 2026 18:00. Electronic, Dancehall, Latin</description>
-<enclosure url="https://replay.rinse.fm/france/CarlosdoComplexoComplexcity040926(VBR).mp3" length="115803510" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-115803510</guid>
-<pubDate>Fri, 04 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/CarlosDoComplexo_SEP2026-CDC-MGMT.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LA CREOLE - 04/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 04 Sep 2026 17:00. Dancehall, Multigenre, Afrobeat</description>
-<enclosure url="https://replay.rinse.fm/france/LACREOLEinviteSUGARTANTINE040926(320).mp3" length="143656006" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143656006</guid>
-<pubDate>Fri, 04 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/PHOTO-2026-07-03-10-42-28-Vincent-FREDERIC-COLOMBO.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>2much - 03/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 03 Sep 2026 20:00. Trance, Techno, Dance</description>
-<enclosure url="https://replay.rinse.fm/france/2muchinvitePartTimeKiller030926(VBR).mp3" length="101919729" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-101919729</guid>
-<pubDate>Thu, 03 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Capture-d%E2%80%99e%CC%81cran-2026-09-02-a%CC%80-14.48.37-La-2much-Ex-La-Darude.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,116 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>OPR8 - 13/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 13 Nov 2026 14:00. Multigenre, Jungle, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/swu/OPR8_131126.mp3" length="288010984" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010984</guid>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/OPR8_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Felix Joy - 13/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 13 Nov 2026 10:00. Multigenre, House, Disco</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy131126.mp3" length="288011056" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011056</guid>
+<pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Golesworthy_Nov_2026_2026-11-12-161140_gbul.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>IZZIT - 13/11/2026 - 00:00</title>
+<description>SWU FM, broadcast 13 Nov 2026 00:00. House, Electro, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/IZZIT121126.mp3" length="144011509" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144011509</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IZZIT_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ALYA L - 12/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 12 Nov 2026 23:00. Bass, Dubstep, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/swu/ALYAL121126.mp3" length="144011511" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144011511</guid>
+<pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ALYA-L-November-2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ZUKKI - 12/11/2026 - 22:00</title>
+<description>SWU FM, broadcast 12 Nov 2026 22:00. Grime, Dubstep, Rap</description>
+<enclosure url="https://replay.rinse.fm/swu/ZUKKI121126.mp3" length="142384647" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142384647</guid>
+<pubDate>Thu, 12 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/JJ_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>OH91 - 12/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 12 Nov 2026 21:00. Grime, Dubstep</description>
+<enclosure url="https://replay.rinse.fm/swu/OH91121126.mp3" length="144010877" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010877</guid>
+<pubDate>Thu, 12 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/OH91_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>MINTY - 12/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 12 Nov 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Minty081124.mp3" length="144010125" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010125</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_5002-MINTY.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Nuff Pedals - 12/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 12 Nov 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/swu/NuffPedals131123.mp3" length="288010926" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010926</guid>
+<pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Nuff-Pedals-by-Tom-Swindell.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Boogie Cafe - 12/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 12 Nov 2026 14:00. Broken Beat, Garage, House</description>
+<enclosure url="https://replay.rinse.fm/swu/BoogieCafe121126.mp3" length="288009913" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009913</guid>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/BoogieCafe_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Nomine - 11/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 11 Nov 2026 23:00. Electronic, Multigenre, Experimental</description>
+<enclosure url="https://replay.rinse.fm/swu/Nomine111126.mp3" length="288011315" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011315</guid>
+<pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Nomine_Nov_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Kyrist - 11/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 11 Nov 2026 19:00. Drum &amp; Bass, Techstep</description>
+<enclosure url="https://replay.rinse.fm/swu/Kyrist111126.mp3" length="288011333" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011333</guid>
+<pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KYRIST_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>JPEG - 11/11/2026 - 18:00</title>
 <description>SWU FM, broadcast 11 Nov 2026 18:00. Breakbeat, House, Electro</description>
 <enclosure url="https://replay.rinse.fm/swu/JPEG111126.mp3" length="144010398" type="audio/mpeg"/>
@@ -189,7 +299,7 @@
 <pubDate>Fri, 06 Nov 2026 20:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Janaway_OCT_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Press-Shot-Graff-Mateus-Janaway.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Rose Holland - 06/11/2026 - 18:00</title>
@@ -199,7 +309,7 @@
 <pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RoseHolland_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/RoseHolland_May_2024_01.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Ruth Royall &amp; Euphonique - 06/11/2026 - 16:00</title>
@@ -219,7 +329,7 @@
 <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Nicky-Blackmarket-2021-by-Chelone-Wolf_web-fb_008-Nicholas-Andersson-gylden_2026-11-04-150813_cbdq.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Nicky-Blackmarket-2021-by-Chelone-Wolf_web-fb_007-Nicholas-Andersson-gylden.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Mornings with... - 06/11/2026 - 11:00</title>
@@ -2900,116 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Oldboy-June2024-Max_2024-05-28-222704_bzwy.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Emmet Read - 08/08/2026 - 12:00</title>
-<description>SWU FM, broadcast 08 Aug 2026 12:00. Disco</description>
-<enclosure url="https://replay.rinse.fm/swu/EmmetRead080826.mp3" length="288010289" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010289</guid>
-<pubDate>Sat, 08 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/EmmetRead_AUG_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hardcore Energy - 07/08/2026 - 21:00</title>
-<description>SWU FM, broadcast 07 Aug 2026 21:00. Hardcore, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/HardcoreEnergy070826.mp3" length="288010379" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010379</guid>
-<pubDate>Fri, 07 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Origin8a-Propa_Aug_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Janaway - 09/08/2026 - 05:00</title>
-<description>SWU FM, broadcast 07 Aug 2026 20:00. Jungle, Latin, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/Janaway070826.mp3" length="143993344" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143993344</guid>
-<pubDate>Fri, 07 Aug 2026 20:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Janaway_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rose Holland - 15/08/2026 - 16:00</title>
-<description>SWU FM, broadcast 07 Aug 2026 18:00. Bass, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/RoseHolland070826.mp3" length="144010706" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010706</guid>
-<pubDate>Fri, 07 Aug 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ROSE-HOLLAND-MAY-2026_2026-08-02-132858_umwp.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ruth Royall &amp; Euphonique - 09/08/2026 - 03:00</title>
-<description>SWU FM, broadcast 07 Aug 2026 16:00. Drum &amp; Bass, Jungle, Garage</description>
-<enclosure url="https://replay.rinse.fm/swu/RuthRoyall070826.mp3" length="288010263" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010263</guid>
-<pubDate>Fri, 07 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Euphonique_AUGUST_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ben Daley - 08/08/2026 - 07:00</title>
-<description>SWU FM, broadcast 07 Aug 2026 12:00. House, Garage, Old Skool</description>
-<enclosure url="https://replay.rinse.fm/swu/BenDaley070826.mp3" length="288010175" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010175</guid>
-<pubDate>Fri, 07 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Ben-Daley-June-2023_1.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 07/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 07 Aug 2026 10:00. House, Disco, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy070826.mp3" length="288010205" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010205</guid>
-<pubDate>Fri, 07 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/FelixJoy_wednesdays_2026-08-07-124211_haqr.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LMajor - 08/08/2026 - 05:00</title>
-<description>SWU FM, broadcast 06 Aug 2026 23:00. Drum &amp; Bass, Jungle, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/LMajor060826.mp3" length="144010692" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010692</guid>
-<pubDate>Thu, 06 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LMajor-SWU-AUG-2026-LMajor-Official.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>0079 - 06/08/2026 - 22:00</title>
-<description>SWU FM, broadcast 06 Aug 2026 22:00. Dubstep, Bass, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/0079_060826.mp3" length="144010688" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010688</guid>
-<pubDate>Thu, 06 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/0079-6th-August-2026-Kane-Bonnick.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hijinx - 06/08/2026 - 21:00</title>
-<description>SWU FM, broadcast 06 Aug 2026 21:00. Bass, Garage, Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/HIJINX041225.mp3" length="144010442" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010442</guid>
-<pubDate>Thu, 06 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Hijinx_Dec_2025.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Carbon Music with Jubei - 01/10/2026 - 19:00</title>
-<description>SWU FM, broadcast 06 Aug 2026 19:00. Drum &amp; Bass, Rollers</description>
-<enclosure url="https://replay.rinse.fm/swu/CarbonMusic060826.mp3" length="288013486" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288013486</guid>
-<pubDate>Thu, 06 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Jubei-April-2023.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
