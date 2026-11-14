@@ -255,6 +255,19 @@
   "size": 143470691,
   "title": "Adam BFD - 16/09/2026 - 20:00"
  },
+ "https://replay.rinse.fm/france/AdèleParis131126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-13T17:00:00+00:00",
+  "genres": [
+   "House",
+   "Broken Beat",
+   "Jazz"
+  ],
+  "image": "https://image.rinse.fm/_/Photo-05-03-2022-17-44-51.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "Rinse France Guest Show - 13/11/2026 - 17:00"
+ },
  "https://replay.rinse.fm/france/AfraaavedJungeEkoSébastienForrester191026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-19T15:00:00+01:00",
@@ -4294,6 +4307,19 @@
   "size": 148765103,
   "title": "Rinse France Guest Show - 15/07/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/NIÑOSRATADELTRAPavecMYSTIQUE131126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-13T18:00:00+00:00",
+  "genres": [
+   "Trap",
+   "Reggaeton",
+   "Rap"
+  ],
+  "image": "https://image.rinse.fm/_/Sans-titre-MJ_2026-11-13-183316_qxlb.png",
+  "minutes": 60,
+  "size": null,
+  "title": "Mystique - 13/11/2026 - 18:00"
+ },
  "https://replay.rinse.fm/france/NOTSORRYDOU(VBR)1609.mp3": {
   "channel": "france",
   "date": "2026-09-16T18:00:00+01:00",
@@ -5962,6 +5988,19 @@
   "size": 141754232,
   "title": "La Sunday Abidjan - 11/10/2026 - 14:00"
  },
+ "https://replay.rinse.fm/france/TATANKA111126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-14T18:00:00+00:00",
+  "genres": [
+   "House",
+   "Dub",
+   "Techno"
+  ],
+  "image": null,
+  "minutes": 60,
+  "size": 128546202,
+  "title": "Rinse France Guest Show - 14/11/2026 - 18:00"
+ },
  "https://replay.rinse.fm/france/TEDDYKITANOGTARADIO031126(VBR).mp3": {
   "channel": "france",
   "date": "2026-11-03T19:00:00+00:00",
@@ -6372,6 +6411,19 @@
   "size": 144810961,
   "title": "Southern Fried Records Takeover - 31/10/2026 - 18:00"
  },
+ "https://replay.rinse.fm/france/Trois-QuartsTaxiSystem131126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-13T20:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Experimental",
+   "Ambient"
+  ],
+  "image": "https://image.rinse.fm/_/TROIS-QUARTS-TAXI-SYSTEM-11.26-copie-Malesa_2026-11-13-191114_svys.png",
+  "minutes": 60,
+  "size": 138016647,
+  "title": "Trois-Quarts Taxi System - 13/11/2026 - 20:00"
+ },
  "https://replay.rinse.fm/france/TroisQuartsTaxiSystem091026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-09T20:00:00+01:00",
@@ -6640,6 +6692,15 @@
   "minutes": 60,
   "size": 136110673,
   "title": "WEDOMiEL - 22/07/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/france/WHITNEYWEISS141126.mp3": {
+  "channel": "france",
+  "date": "2026-11-14T14:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/SUB-P-ww-November-2026-Whitney-Weiss.png",
+  "minutes": 120,
+  "size": 224646359,
+  "title": "Whitney Weiss - 14/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/france/WallaP121026(VBR).mp3": {
   "channel": "france",
@@ -9030,6 +9091,15 @@
   "size": 285408508,
   "title": "Crate Classics - 11/09/2026 - 14:00"
  },
+ "https://replay.rinse.fm/kool/CrateClassics131126.mp3": {
+  "channel": "kool",
+  "date": "2026-11-13T14:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Crate-Classics-March-2023_3.jpeg",
+  "minutes": 120,
+  "size": -1,
+  "title": "Crate Classics - 13/11/2026 - 14:00"
+ },
  "https://replay.rinse.fm/kool/CrateClassics140826.mp3": {
   "channel": "kool",
   "date": "2026-08-14T14:00:00+01:00",
@@ -10528,6 +10598,19 @@
   "size": 287727450,
   "title": "Goldfat Music - 10/07/2026 - 17:00"
  },
+ "https://replay.rinse.fm/kool/GoldfatMusic131126.mp3": {
+  "channel": "kool",
+  "date": "2026-11-13T17:00:00+00:00",
+  "genres": [
+   "Liquid",
+   "Jungle",
+   "Drum & Bass"
+  ],
+  "image": "https://image.rinse.fm/_/Alpha-Rhythm-Winter-Sitting-Cherece-Lucina.jpg",
+  "minutes": 120,
+  "size": -1,
+  "title": "Goldfat Music - 13/11/2026 - 17:00"
+ },
  "https://replay.rinse.fm/kool/GoldfatMusic140826.mp3": {
   "channel": "kool",
   "date": "2026-08-14T17:00:00+01:00",
@@ -10788,6 +10871,15 @@
   "minutes": 60,
   "size": 145808084,
   "title": "Ibiza Records Show - 11/09/2026 - 16:00"
+ },
+ "https://replay.rinse.fm/kool/IbizaRecords131126.mp3": {
+  "channel": "kool",
+  "date": "2026-11-13T16:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg",
+  "minutes": 60,
+  "size": -1,
+  "title": "Ibiza Records Show - 13/11/2026 - 16:00"
  },
  "https://replay.rinse.fm/kool/IbizaRecords140826_.mp3": {
   "channel": "kool",
@@ -12802,6 +12894,19 @@
   "minutes": 120,
   "size": 289301778,
   "title": "Rompa's Reggae Shack - 14/08/2026 - 09:00"
+ },
+ "https://replay.rinse.fm/kool/RompaReggaeShack131126.mp3": {
+  "channel": "kool",
+  "date": "2026-11-13T09:00:00+00:00",
+  "genres": [
+   "Reggae",
+   "Dub",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/dd76693e-4e7f-49fa-9b18-aefb0cc6d212-2-Concrete-PR.JPG",
+  "minutes": 120,
+  "size": -1,
+  "title": "Rompa's Reggae Shack - 13/11/2026 - 09:00"
  },
  "https://replay.rinse.fm/kool/Rompas210723.mp3": {
   "channel": "kool",
@@ -17155,6 +17260,18 @@
   "size": 288009894,
   "title": "EM + STAV - 07/07/2026 - 23:00"
  },
+ "https://replay.rinse.fm/swu/EllisRoberts051024.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T18:00:00+00:00",
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/Ellis-Roberts_October_2024.JPG",
+  "minutes": 120,
+  "size": 288011033,
+  "title": "Ellis Roberts - 05/10/2024 - 18:00"
+ },
  "https://replay.rinse.fm/swu/EmmetRead080826.mp3": {
   "channel": "swu",
   "date": "2026-08-08T12:00:00+01:00",
@@ -19693,7 +19810,7 @@
    "Amapiano",
    "Multigenre"
   ],
-  "image": "https://image.rinse.fm/_/IZIEIN_NOV_2026.JPG",
+  "image": "https://image.rinse.fm/_/IZIEIN7-June23.JPG",
   "minutes": 120,
   "size": 288010244,
   "title": "IZIEIN - 07/11/2026 - 10:00"
@@ -21620,6 +21737,19 @@
   "minutes": 120,
   "size": 246660182,
   "title": "No Nation - 13/09/2026 - 05:00"
+ },
+ "https://replay.rinse.fm/swu/NoNation131126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-13T16:00:00+00:00",
+  "genres": [
+   "Garage",
+   "Bass",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/DJKez_NOV_2026.jpg",
+  "minutes": 120,
+  "size": 288009899,
+  "title": "No Nation - 13/11/2026 - 16:00"
  },
  "https://replay.rinse.fm/swu/NoNation231026.mp3": {
   "channel": "swu",
@@ -23726,6 +23856,17 @@
   "minutes": 120,
   "size": 288010217,
   "title": "See No Evil - 27/09/2026 - 12:00"
+ },
+ "https://replay.rinse.fm/swu/SemiDelicious060424.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T21:00:00+00:00",
+  "genres": [
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/Polyamoross_April_2024.png",
+  "minutes": 60,
+  "size": 144010864,
+  "title": "Semi Delicious - 06/04/2024 - 21:00"
  },
  "https://replay.rinse.fm/swu/SirHiss220926.mp3": {
   "channel": "swu",
@@ -36481,6 +36622,15 @@
   "minutes": 120,
   "size": 289398951,
   "title": "The MoodSwing Show - 11/09/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/TheMoodswingShow131126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-13T14:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Webite-Episode-Square_2023-09-14-131737_zlro.png",
+  "minutes": 120,
+  "size": -1,
+  "title": "The MoodSwing Show - 13/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/uk/TheMoodswingShow140826.mp3": {
   "channel": "uk",

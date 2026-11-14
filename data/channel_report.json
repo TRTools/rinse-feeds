@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/FLEGON131126.mp3"
+  "sample_url": "https://replay.rinse.fm/france/TATANKA111126(VBR).mp3"
  },
  "kool": {
-  "count": 26,
+  "count": 28,
   "sample_fields": {
    "channel": [
     {
@@ -52,34 +52,13 @@
      "slug": "kool",
      "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/kool/stream",
      "title": "Kool FM"
-    },
-    {
-     "__typename": "channel_channel_Entry",
-     "channelColour": [
-      {
-       "__typename": "colour_Entry",
-       "id": "95198",
-       "slug": "rinse-cyan",
-       "title": "Rinse Cyan"
-      }
-     ],
-     "channelLaunchDateTime": null,
-     "channelPagePreviewDateTime": null,
-     "defaultTimezoneOffset": "Europe/London",
-     "extract": "Live from London",
-     "id": "35",
-     "isPermanentChannel": true,
-     "lft": 2,
-     "slug": "uk",
-     "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-     "title": "UK"
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/UncleDugs131126.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/GoldfatMusic131126.mp3"
  },
  "swu": {
-  "count": 108,
+  "count": 103,
   "sample_fields": {
    "channel": [
     {
@@ -105,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Lamont200324.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/BodyClinic241026.mp3"
  },
  "uk": {
-  "count": 52,
+  "count": 49,
   "sample_fields": {
    "channel": [
     {

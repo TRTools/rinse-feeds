@@ -12,6 +12,35 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Rinse France Guest Show - 14/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 14 Nov 2026 18:00. House, Dub, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/TATANKA111126(VBR).mp3" length="128546202" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-128546202</guid>
+<pubDate>Sat, 14 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+</item>
+<item>
+<title>Whitney Weiss - 14/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 14 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/france/WHITNEYWEISS141126.mp3" length="224646359" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-224646359</guid>
+<pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SUB-P-ww-November-2026-Whitney-Weiss.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Trois-Quarts Taxi System - 13/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 13 Nov 2026 20:00. Bass, Experimental, Ambient</description>
+<enclosure url="https://replay.rinse.fm/france/Trois-QuartsTaxiSystem131126(VBR).mp3" length="138016647" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-138016647</guid>
+<pubDate>Fri, 13 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/TROIS-QUARTS-TAXI-SYSTEM-11.26-copie-Malesa_2026-11-13-191114_svys.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Rinse France Guest Show - 13/11/2026 - 16:00</title>
 <description>Rinse France, broadcast 13 Nov 2026 16:00. Multigenre, Electro</description>
 <enclosure url="https://replay.rinse.fm/france/SPRKLBB131126(VBR).mp3" length="144642944" type="audio/mpeg"/>
@@ -2977,36 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Rama-Sept-2026-Rama-Mahanna.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Griffes d'Anges - 05/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 05 Sep 2026 16:00. Breakbeat, Electro, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/WantOne050926.mp3" length="138918366" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-138918366</guid>
-<pubDate>Sat, 05 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_3865-RINSE-COVER.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Camion Bazar - 05/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 05 Sep 2026 14:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/france/CamionBazarVortex(VBR).mp3" length="254105044" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-254105044</guid>
-<pubDate>Sat, 05 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Camion-bazar-RINSE-Septembre-2026-Camion-Bazar.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>SOA420 - 04/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 04 Sep 2026 20:00. Reggae, Dub, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/Soa420b2bMarguerite.(VBR)mp3.mp3" length="138555445" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-138555445</guid>
-<pubDate>Fri, 04 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Soa420-%C2%A9-Corentin-SEPE-ZADI-copie-Soa420.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Semi Delicious - 06/04/2024 - 21:00</title>
+<description>SWU FM, broadcast 14 Nov 2026 21:00. House</description>
+<enclosure url="https://replay.rinse.fm/swu/SemiDelicious060424.mp3" length="144010864" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010864</guid>
+<pubDate>Sat, 14 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Polyamoross_April_2024.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ellis Roberts - 05/10/2024 - 18:00</title>
+<description>SWU FM, broadcast 14 Nov 2026 18:00. Techno, House</description>
+<enclosure url="https://replay.rinse.fm/swu/EllisRoberts051024.mp3" length="288011033" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011033</guid>
+<pubDate>Sat, 14 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Ellis-Roberts_October_2024.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>OPR8 - 13/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 13 Nov 2026 14:00. Multigenre, Jungle, Breakbeat</description>
 <enclosure url="https://replay.rinse.fm/swu/OPR8_131126.mp3" length="288010984" type="audio/mpeg"/>
@@ -2990,26 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/ishan-sound-June-23.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Swankout - 08/08/2026 - 19:00</title>
-<description>SWU FM, broadcast 08 Aug 2026 19:00. House, Breakbeat, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/Swankout080826.mp3" length="144010806" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010806</guid>
-<pubDate>Sat, 08 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Swankout_AUG_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Oldboy - 14/09/2026 - 03:00</title>
-<description>SWU FM, broadcast 08 Aug 2026 17:00. House, Garage</description>
-<enclosure url="https://replay.rinse.fm/swu/Oldboy080826.mp3" length="288010281" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010281</guid>
-<pubDate>Sat, 08 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Oldboy-June2024-Max_2024-05-28-222704_bzwy.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

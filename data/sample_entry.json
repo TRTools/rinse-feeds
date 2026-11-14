@@ -25,35 +25,27 @@
     "title": "France"
    }
   ],
-  "displayTitle": "Funk Français 90's",
-  "episodeDate": "2026-11-13T00:00:00+00:00",
-  "episodeLength": 60,
-  "episodeTime": "2026-11-13T15:00:00+00:00",
+  "displayTitle": "presents It's Whitney, Bitch with SUB-P",
+  "episodeDate": "2026-11-14T00:00:00+00:00",
+  "episodeLength": 120,
+  "episodeTime": "2026-11-14T14:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "visuel-funk-fr-90-Brice_2026-11-12-133606_dsil.jpeg",
+    "filename": "SUB-P-ww-November-2026-Whitney-Weiss.png",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1007,
-    "width": 1499
+    "height": 2814,
+    "width": 2000
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/FLEGON131126.mp3",
-  "genreTag": [
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "funk",
-    "title": "Funk"
-   }
-  ],
-  "id": "2323896",
+  "fileUrl": "https://replay.rinse.fm/france/WHITNEYWEISS141126.mp3",
+  "genreTag": [],
+  "id": "2324141",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -66,54 +58,49 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Le collectif Flégon naît en 2016, fruit de la collaboration entre les DJs Greita, Cebrak 2000 et DJ Stalingrad, lorsqu’ils réalisent qu’une pièce manque pour compléter le gigantesque puzzle de la scène dance music à travers le monde.",
+    "extract": "Des raves open air illégales d’Amérique du Sud aux clubs underground d’Europe, la DJ et productrice Whitney Weiss produit des sets qu’elle affûte depuis des années dans les usines et les parcs argentins.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "01provinsXflegonXleoaupetit-Flegon.JPG",
+      "filename": "WHITNEY-SQUARE.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 4000,
-      "width": 6000
+      "height": 1080,
+      "width": 1080
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "funk",
-      "title": "Funk"
+      "slug": "house",
+      "title": "House"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "electro",
+      "title": "Electro"
      },
      {
       "__typename": "genre_Tag",
       "slug": "disco",
       "title": "Disco"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "rap",
-      "title": "Rap"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "house",
-      "title": "House"
      }
     ],
-    "id": "15488",
+    "id": "243571",
     "showStatus": "highlighted",
-    "slug": "flegon",
-    "title": "Flegon",
-    "url": "https://admin.rinse.fm/shows/flegon"
+    "slug": "whitney-weiss",
+    "title": "Whitney Weiss",
+    "url": "https://admin.rinse.fm/shows/whitney-weiss"
    }
   ],
-  "slug": "flegon-13-11-2026-1500",
+  "slug": "whitney-weiss-14-11-2026-1400",
   "subtitle": null,
-  "title": "Flegon - 13/11/2026 - 15:00",
+  "title": "Whitney Weiss - 14/11/2026 - 14:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/visuel-funk-fr-90-Brice_2026-11-12-133606_dsil.jpeg",
+ "image": "https://image.rinse.fm/_/SUB-P-ww-November-2026-Whitney-Weiss.png",
  "image_found_at": ".featuredImage.filename"
 }
