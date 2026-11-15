@@ -1327,6 +1327,15 @@
   "size": 65909361,
   "title": "Miss Sheitana - 18/10/2026 - 15:00"
  },
+ "https://replay.rinse.fm/france/DNGDNGDNG151126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-15T15:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/DNGDNGDNG-November-2026-Rafael-Pereira.jpg",
+  "minutes": 60,
+  "size": 137179809,
+  "title": "Rinse France Guest Show - 15/11/2026 - 15:00"
+ },
  "https://replay.rinse.fm/france/DOUBLEOTHEATRE011026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-01T15:00:00+01:00",
@@ -3772,6 +3781,20 @@
   "size": 117602766,
   "title": "MUTEK - 19/07/2026 - 19:00"
  },
+ "https://replay.rinse.fm/france/MUTEKinviteCLEOLEIGH151126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-15T19:00:00+00:00",
+  "genres": [
+   "Techno",
+   "Electro",
+   "Experimental",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/MUTEKinviteCLEOLEIGH_Nov2026-Thomas-Giboudeaux.jpg",
+  "minutes": 60,
+  "size": 119625173,
+  "title": "MUTEK - 15/11/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/MUTEKinviteCUERPOS200926(VBR).mp3": {
   "channel": "france",
   "date": "2026-09-20T19:00:00+01:00",
@@ -4843,6 +4866,19 @@
   "minutes": 60,
   "size": 127758184,
   "title": "Rinse France Guest Show - 23/06/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/france/PromessesinviteISMA151126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-15T16:00:00+00:00",
+  "genres": [
+   "Trap",
+   "Experimental",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/RINSE_NOV_26-square-Promesses.png",
+  "minutes": 120,
+  "size": 210884578,
+  "title": "Promesses - 15/11/2026 - 16:00"
  },
  "https://replay.rinse.fm/france/PromessesinviteNori200926(VBR).mp3": {
   "channel": "france",
@@ -17262,7 +17298,7 @@
  },
  "https://replay.rinse.fm/swu/EllisRoberts051024.mp3": {
   "channel": "swu",
-  "date": "2026-11-14T18:00:00+00:00",
+  "date": "2026-11-14T17:00:00+00:00",
   "genres": [
    "Techno",
    "House"
@@ -17315,6 +17351,18 @@
   "minutes": 120,
   "size": 288010185,
   "title": "Emmet Read - 01/10/2026 - 12:00"
+ },
+ "https://replay.rinse.fm/swu/EmmetRead141126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T12:00:00+00:00",
+  "genres": [
+   "Disco",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/EmmetRead_NOV_2026.JPG",
+  "minutes": 120,
+  "size": 288010246,
+  "title": "Emmet Read - 15/11/2026 - 07:00"
  },
  "https://replay.rinse.fm/swu/Escher230626.mp3": {
   "channel": "swu",
@@ -20082,6 +20130,18 @@
   "size": 288008934,
   "title": "Joe Koshin - 14/10/2026 - 14:00"
  },
+ "https://replay.rinse.fm/swu/JoeKoshin141126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T14:00:00+00:00",
+  "genres": [
+   "House",
+   "Intelligent"
+  ],
+  "image": "https://image.rinse.fm/_/JoeKoshin_NOV_2026.png",
+  "minutes": 120,
+  "size": 288010861,
+  "title": "Joe Koshin - 14/11/2026 - 14:00"
+ },
  "https://replay.rinse.fm/swu/JoeValek160826.mp3": {
   "channel": "swu",
   "date": "2026-08-16T21:00:00+01:00",
@@ -20325,6 +20385,19 @@
   "minutes": 60,
   "size": 144010413,
   "title": "K-65 - 09/10/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/swu/KaotikKartel151126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-15T10:00:00+00:00",
+  "genres": [
+   "Reggae",
+   "Dancehall",
+   "Dub"
+  ],
+  "image": "https://image.rinse.fm/_/Kaotik-Kartel-Nov-26.jpeg",
+  "minutes": 120,
+  "size": 288010276,
+  "title": "Kaotik Kartel - 15/11/2026 - 10:00"
  },
  "https://replay.rinse.fm/swu/KaotikKartel160826.mp3": {
   "channel": "swu",
@@ -21382,7 +21455,7 @@
    "Rap",
    "Grime"
   ],
-  "image": "https://image.rinse.fm/_/mistafire-press-shot-2-June-23.jpg",
+  "image": "https://image.rinse.fm/_/Mistafire_JUL_2026.jpg",
   "minutes": 120,
   "size": 288009156,
   "title": "Mistafire - 01/11/2026 - 21:00"
@@ -23549,6 +23622,17 @@
   "size": 288010175,
   "title": "Saaaz - 26/09/2026 - 10:00"
  },
+ "https://replay.rinse.fm/swu/Saaaz141126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T10:00:00+00:00",
+  "genres": [
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/Saaaz_NOV_2026.png",
+  "minutes": 120,
+  "size": 288010236,
+  "title": "Saaaz - 14/11/2026 - 10:00"
+ },
  "https://replay.rinse.fm/swu/Safiye080926.mp3": {
   "channel": "swu",
   "date": "2026-09-08T14:00:00+01:00",
@@ -23792,6 +23876,19 @@
   "size": 288010175,
   "title": "Scuba - 14/09/2026 - 01:00"
  },
+ "https://replay.rinse.fm/swu/Scuba141126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T21:00:00+00:00",
+  "genres": [
+   "House",
+   "Techno",
+   "Deep House"
+  ],
+  "image": "https://image.rinse.fm/_/Scuba_NOV_2026.png",
+  "minutes": 120,
+  "size": 286980009,
+  "title": "Scuba - 14/11/2026 - 21:00"
+ },
  "https://replay.rinse.fm/swu/SeeNoEvil081126.mp3": {
   "channel": "swu",
   "date": "2026-11-08T14:00:00+00:00",
@@ -23859,7 +23956,7 @@
  },
  "https://replay.rinse.fm/swu/SemiDelicious060424.mp3": {
   "channel": "swu",
-  "date": "2026-11-14T21:00:00+00:00",
+  "date": "2026-11-14T16:00:00+00:00",
   "genres": [
    "House"
   ],
@@ -23952,6 +24049,19 @@
   "minutes": 120,
   "size": 288010309,
   "title": "Headset with Skillis - 16/08/2026 - 01:00"
+ },
+ "https://replay.rinse.fm/swu/Skillis131126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-13T21:00:00+00:00",
+  "genres": [
+   "Amapiano",
+   "Jungle",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/Skillis_OCT_2026.png",
+  "minutes": 120,
+  "size": 288010266,
+  "title": "Headset with Skillis - 13/11/2026 - 21:00"
  },
  "https://replay.rinse.fm/swu/Skillis140826.mp3": {
   "channel": "swu",
@@ -24239,6 +24349,15 @@
   "minutes": 120,
   "size": -1,
   "title": "Spectral - 12/11/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/swu/Spectral121126fix.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T01:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Spectral-May-2024.jpeg",
+  "minutes": 120,
+  "size": 288011365,
+  "title": "Spectral - 14/11/2026 - 01:00"
  },
  "https://replay.rinse.fm/swu/Spectral130826.mp3": {
   "channel": "swu",
@@ -24719,6 +24838,19 @@
   "size": 144010704,
   "title": "Swankout - 12/09/2026 - 19:00"
  },
+ "https://replay.rinse.fm/swu/Swankout141126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T19:00:00+00:00",
+  "genres": [
+   "Garage",
+   "Breakbeat",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/Swankout_Nov_2026.jpeg",
+  "minutes": 60,
+  "size": 144011515,
+  "title": "Swankout - 14/11/2026 - 19:00"
+ },
  "https://replay.rinse.fm/swu/Swankout161026.mp3": {
   "channel": "swu",
   "date": "2026-10-16T19:00:00+01:00",
@@ -24809,6 +24941,19 @@
   "minutes": 60,
   "size": 141771052,
   "title": "SYNTAX - 10/10/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/swu/TOYSBerlin141126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-14T23:00:00+00:00",
+  "genres": [
+   "House",
+   "Garage",
+   "Bass"
+  ],
+  "image": "https://image.rinse.fm/_/mareike_NOV_2026.png",
+  "minutes": 120,
+  "size": 291185323,
+  "title": "TOYS Berlin - 14/11/2026 - 23:00"
  },
  "https://replay.rinse.fm/swu/TRUTH091126.mp3": {
   "channel": "swu",

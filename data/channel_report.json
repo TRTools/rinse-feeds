@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 33,
+  "count": 31,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/TATANKA111126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/DNGDNGDNG151126(VBR).mp3"
  },
  "kool": {
-  "count": 28,
+  "count": 22,
   "sample_fields": {
    "channel": [
     {
@@ -58,7 +58,7 @@
   "sample_url": "https://replay.rinse.fm/kool/GoldfatMusic131126.mp3"
  },
  "swu": {
-  "count": 103,
+  "count": 122,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/BodyClinic241026.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/Mistafire011126.mp3"
  },
  "uk": {
-  "count": 49,
+  "count": 44,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/EllaKnight180926.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/MadCats121126.mp3"
  }
 }

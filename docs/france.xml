@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>MUTEK - 15/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 15 Nov 2026 19:00. Techno, Electro, Experimental, House</description>
+<enclosure url="https://replay.rinse.fm/france/MUTEKinviteCLEOLEIGH151126(VBR).mp3" length="119625173" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-119625173</guid>
+<pubDate>Sun, 15 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MUTEKinviteCLEOLEIGH_Nov2026-Thomas-Giboudeaux.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Promesses - 15/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 15 Nov 2026 16:00. Trap, Experimental, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/PromessesinviteISMA151126(VBR).mp3" length="210884578" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-210884578</guid>
+<pubDate>Sun, 15 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RINSE_NOV_26-square-Promesses.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 15/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 15 Nov 2026 15:00</description>
+<enclosure url="https://replay.rinse.fm/france/DNGDNGDNG151126(VBR).mp3" length="137179809" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137179809</guid>
+<pubDate>Sun, 15 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DNGDNGDNG-November-2026-Rafael-Pereira.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Rinse France Guest Show - 14/11/2026 - 18:00</title>
 <description>Rinse France, broadcast 14 Nov 2026 18:00. House, Dub, Techno</description>
 <enclosure url="https://replay.rinse.fm/france/TATANKA111126(VBR).mp3" length="128546202" type="audio/mpeg"/>
@@ -2976,36 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/SQUARE_HADJSAMEERV3.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Vanille - 05/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 05 Sep 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/VanilleinvitedrMazza(VBR).mp3" length="124953029" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-124953029</guid>
-<pubDate>Sat, 05 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/INSTA_Vanille4.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>RAAR - 05/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 05 Sep 2026 18:00. Electro, Techno, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/RAARSHOWevilhostisback050926(VBR).mp3" length="122927530" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-122927530</guid>
-<pubDate>Sat, 05 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_9287-LOUISAHHH-Pillot.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rama - 05/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 05 Sep 2026 17:00. Bass, Multigenre, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/Rama050926(VBR).mp3" length="117066218" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-117066218</guid>
-<pubDate>Sat, 05 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Rama-Sept-2026-Rama-Mahanna.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

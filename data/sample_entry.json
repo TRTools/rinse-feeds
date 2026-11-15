@@ -1,7 +1,7 @@
 {
  "entry": {
   "__typename": "episode_episode_Entry",
-  "artistTitle": null,
+  "artistTitle": "DNGDNGDNG",
   "channel": [
    {
     "__typename": "channel_channel_Entry",
@@ -25,27 +25,27 @@
     "title": "France"
    }
   ],
-  "displayTitle": "presents It's Whitney, Bitch with SUB-P",
-  "episodeDate": "2026-11-14T00:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-11-14T14:00:00+00:00",
+  "displayTitle": null,
+  "episodeDate": "2026-11-15T00:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-11-15T15:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "SUB-P-ww-November-2026-Whitney-Weiss.png",
+    "filename": "DNGDNGDNG-November-2026-Rafael-Pereira.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2814,
-    "width": 2000
+    "height": 4000,
+    "width": 2666
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/WHITNEYWEISS141126.mp3",
+  "fileUrl": "https://replay.rinse.fm/france/DNGDNGDNG151126(VBR).mp3",
   "genreTag": [],
-  "id": "2324141",
+  "id": "2324330",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -58,49 +58,21 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Des raves open air illégales d’Amérique du Sud aux clubs underground d’Europe, la DJ et productrice Whitney Weiss produit des sets qu’elle affûte depuis des années dans les usines et les parcs argentins.",
-    "featuredImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "WHITNEY-SQUARE.png",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1080,
-      "width": 1080
-     }
-    ],
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "house",
-      "title": "House"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "electro",
-      "title": "Electro"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "disco",
-      "title": "Disco"
-     }
-    ],
-    "id": "243571",
-    "showStatus": "highlighted",
-    "slug": "whitney-weiss",
-    "title": "Whitney Weiss",
-    "url": "https://admin.rinse.fm/shows/whitney-weiss"
+    "extract": null,
+    "featuredImage": [],
+    "genreTag": [],
+    "id": "2248073",
+    "showStatus": "hidden",
+    "slug": "guest-show",
+    "title": "Rinse France Guest Show",
+    "url": "https://admin.rinse.fm/shows/guest-show"
    }
   ],
-  "slug": "whitney-weiss-14-11-2026-1400",
+  "slug": "rinse-france-guest-show-15-11-2026-1500-2",
   "subtitle": null,
-  "title": "Whitney Weiss - 14/11/2026 - 14:00",
+  "title": "Rinse France Guest Show - 15/11/2026 - 15:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/SUB-P-ww-November-2026-Whitney-Weiss.png",
+ "image": "https://image.rinse.fm/_/DNGDNGDNG-November-2026-Rafael-Pereira.jpg",
  "image_found_at": ".featuredImage.filename"
 }
