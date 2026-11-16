@@ -12,6 +12,76 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 16/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 16 Nov 2026 14:00. Dub, Talk, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/LaidBlak161126.mp3" length="288011114" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011114</guid>
+<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-11-16-at-16.04.04.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Worm Disco Club - 16/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 16 Nov 2026 12:00. Afrobeat, Jazz, Funk</description>
+<enclosure url="https://replay.rinse.fm/swu/WormDiscoClub161126.mp3" length="288011006" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011006</guid>
+<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WormDiscoClub_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Surgeons Girl - 15/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 15 Nov 2026 23:00. Techno, Ambient</description>
+<enclosure url="https://replay.rinse.fm/swu/SurgeonsGirl151126.mp3" length="288011002" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011002</guid>
+<pubDate>Sun, 15 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Surgeons-Girl_NOV_26.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Argo - 15/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 15 Nov 2026 18:00. Dubstep, Multigenre, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/Argo151126.mp3" length="144011507" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144011507</guid>
+<pubDate>Sun, 15 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Argo-November-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Medis - 15/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 15 Nov 2026 16:00. Grime, Dubstep, Trap</description>
+<enclosure url="https://replay.rinse.fm/swu/Medis151126.mp3" length="288011042" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288011042</guid>
+<pubDate>Sun, 15 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MEDIS_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Spiney - 15/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 15 Nov 2026 14:00. House, Garage, Amapiano</description>
+<enclosure url="https://replay.rinse.fm/swu/Spiney151126.mp3" length="288010988" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010988</guid>
+<pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-11-15-at-16.43.37.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>King Original - 15/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 15 Nov 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/swu/KingOriginal131123.mp3" length="288049497" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288049497</guid>
+<pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2023-09-10-at-21.26.41.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Kaotik Kartel - 15/11/2026 - 10:00</title>
 <description>SWU FM, broadcast 15 Nov 2026 10:00. Reggae, Dancehall, Dub</description>
 <enclosure url="https://replay.rinse.fm/swu/KaotikKartel151126.mp3" length="288010276" type="audio/mpeg"/>
@@ -2940,76 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Roo_Nov_25_2026-08-14-104343_zkqa.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>IZZIT - 15/08/2026 - 06:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 00:00. Electro, House, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/IZZIT130826.mp3" length="144010694" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010694</guid>
-<pubDate>Fri, 14 Aug 2026 00:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8295-Isobel-Taylor.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ALYA L - 15/08/2026 - 05:00</title>
-<description>SWU FM, broadcast 13 Aug 2026 23:00. Electronic, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/ALYAL130826.mp3" length="144010696" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010696</guid>
-<pubDate>Thu, 13 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ALYA-L-August-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ZUKKI - 15/08/2026 - 04:00</title>
-<description>SWU FM, broadcast 13 Aug 2026 22:00. Grime, Bass, Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/Zukki130826.mp3" length="143360811" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143360811</guid>
-<pubDate>Thu, 13 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/PROTY-AUGUST-2026-zukki.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>OH91 - 15/08/2026 - 03:00</title>
-<description>SWU FM, broadcast 13 Aug 2026 21:00. Grime, Dubstep, bassline</description>
-<enclosure url="https://replay.rinse.fm/swu/OH91_130826.mp3" length="140950186" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-140950186</guid>
-<pubDate>Thu, 13 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OH91.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Spectral - 29/08/2026 - 19:00</title>
-<description>SWU FM, broadcast 13 Aug 2026 19:00. Dubstep, Bass, Grime</description>
-<enclosure url="https://replay.rinse.fm/swu/Spectral130826.mp3" length="288010219" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010219</guid>
-<pubDate>Thu, 13 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Spectral_August_2026.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 13/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 13 Aug 2026 10:00. House, Disco, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy130826.mp3" length="288010209" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010209</guid>
-<pubDate>Thu, 13 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/FelixJoy_Thursdays.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Toby Ross - 12/08/2026 - 22:00</title>
-<description>SWU FM, broadcast 12 Aug 2026 22:00. Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/TobyRoss120826.mp3" length="144010730" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010730</guid>
-<pubDate>Wed, 12 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Shfoosja_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

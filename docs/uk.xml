@@ -12,6 +12,146 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>El Londo - 15/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 17:00. House</description>
+<enclosure url="https://replay.rinse.fm/uk/ElLondo151126.mp3" length="144174793" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144174793</guid>
+<pubDate>Sun, 15 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_6655_-_El_Londo.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Scotti Dee - 15/11/2026 - 16:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 16:00. House, Amapiano, Funky</description>
+<enclosure url="https://replay.rinse.fm/uk/SottiDee151126.mp3" length="143981495" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143981495</guid>
+<pubDate>Sun, 15 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/file_000000005a808246a4a3dac46c2e4add-Daniel-Reno.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>CoOp Presents - 15/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 14:00. Broken Beat</description>
+<enclosure url="https://replay.rinse.fm/uk/CoopPresents151126.mp3" length="286208799" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286208799</guid>
+<pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PHOTO-2025-03-20-16-04-10-2-Alex-Phountzi_2026-11-13-214404_dqxk.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Phonica Records - 15/11/2026 - 10:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 10:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Phonicarecords151126.mp3" length="286712538" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286712538</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/a5265459-0f43-4a10-9860-d2980fae712f-Daire-Carolan.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>7ip7o3 - 14/11/2026 - 23:00</title>
+<description>Rinse FM, broadcast 14 Nov 2026 23:00. Breakbeat, Bass, Experimental</description>
+<enclosure url="https://replay.rinse.fm/uk/7ip7o3141126.mp3" length="142731522" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142731522</guid>
+<pubDate>Sat, 14 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/89C3C131-53F8-4362-9909-8B516C5BF1F7-3889-000002C295590D90-Hyerin-Ko.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Nervous Horizon - 14/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 14 Nov 2026 22:00. Garage</description>
+<enclosure url="https://replay.rinse.fm/uk/NervousHorizonWithMezza141126.mp3" length="139370170" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139370170</guid>
+<pubDate>Sat, 14 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Mezza-NH-Rinse-Mix-Tommy-Wallwork.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Emerald - 14/11/2026 - 19:00</title>
+<description>Rinse FM, broadcast 14 Nov 2026 19:00. Electro, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/Emerald141126.mp3" length="288010031" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010031</guid>
+<pubDate>Sat, 14 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/EMERALD_05_04_25_LIMERENCE0159-Emerald-Lewis.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Man Power - 14/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 14 Nov 2026 17:00. House, Disco, Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/ManPower141126.mp3" length="288248424" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288248424</guid>
+<pubDate>Sat, 14 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MP-Pic-Man-Power.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ELOQ - 13/11/2026 - 23:00</title>
+<description>Rinse FM, broadcast 13 Nov 2026 23:00. Electronic, Breakbeat, Garage</description>
+<enclosure url="https://replay.rinse.fm/uk/ELOQ131126.mp3" length="143856040" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143856040</guid>
+<pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/B002599-R1-20-21-August-Janson-ELOQ.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Amber's - 13/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 13 Nov 2026 22:00. House, Electronic, Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/Ambers131126.mp3" length="144322080" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144322080</guid>
+<pubDate>Fri, 13 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/8010-3-head-closeup-James-Hutchins.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DREA - 13/11/2026 - 21:00</title>
+<description>Rinse FM, broadcast 13 Nov 2026 21:00. House</description>
+<enclosure url="https://replay.rinse.fm/uk/DREA131126.mp3" length="143480726" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143480726</guid>
+<pubDate>Fri, 13 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/GAE1234-andrea-bautista-beneitez.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Interplanetary Criminal - 13/11/2026 - 19:00</title>
+<description>Rinse FM, broadcast 13 Nov 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/uk/InterplanetaryCriminal131126.mp3" length="289128298" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289128298</guid>
+<pubDate>Fri, 13 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Interplanetary-Criminal-Press-Shot.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Heras Records - 13/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 13 Nov 2026 18:00. House, Techno, Electro</description>
+<enclosure url="https://replay.rinse.fm/uk/HerasRecords131126.mp3" length="143516493" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143516493</guid>
+<pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-11-11-at-17.47.40.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>The MoodSwing Show - 13/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 13 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/uk/TheMoodswingShow131126_.mp3" length="283142132" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-283142132</guid>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Webite-Episode-Square_2023-09-14-131737_zlro.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Jacques Greene - 12/11/2026 - 22:00</title>
 <description>Rinse FM, broadcast 12 Nov 2026 22:00. Electronic, House, Techno</description>
 <enclosure url="https://replay.rinse.fm/uk/JacquesGreene121126.mp3" length="144483046" type="audio/mpeg"/>
@@ -2870,146 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Utopia Presents - 30/09/2026 - 15:00</title>
-<description>Rinse FM, broadcast 30 Sep 2026 15:00. House, Soul, Dance</description>
-<enclosure url="https://replay.rinse.fm/uk/UtopiaPresents30092026.mp3" length="288406341" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288406341</guid>
-<pubDate>Wed, 30 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/42d9c19a-ae61-4fae-9527-961547d7968b_2_-_Utopia_Presents.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Eclecticist - 30/09/2026 - 14:00</title>
-<description>Rinse FM, broadcast 30 Sep 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Eclecticist30092026.mp3" length="144080785" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144080785</guid>
-<pubDate>Wed, 30 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Esk - 30/09/2026 - 10:00</title>
-<description>Rinse FM, broadcast 30 Sep 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Esk300926.mp3" length="287482575" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287482575</guid>
-<pubDate>Wed, 30 Sep 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/eskpic.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Erica McKoy - 30/09/2026 - 07:00</title>
-<description>Rinse FM, broadcast 30 Sep 2026 07:00. R&amp;B, Rap</description>
-<enclosure url="https://replay.rinse.fm/uk/EricaMcKoy060323.mp3" length="292246500" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-292246500</guid>
-<pubDate>Wed, 30 Sep 2026 07:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Webite-Episode-_No-Text-Overlayed_-Square_2023-03-06-213733_xocw.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Debba - 29/09/2026 - 19:00</title>
-<description>Rinse FM, broadcast 29 Sep 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Debba290926.mp3" length="133365349" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-133365349</guid>
-<pubDate>Tue, 29 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Debba-September-2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Brighter Days Family - 29/09/2026 - 15:00</title>
-<description>Rinse FM, broadcast 29 Sep 2026 15:00</description>
-<enclosure url="https://replay.rinse.fm/uk/BrighterDaysFamily290926.mp3" length="263845985" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-263845985</guid>
-<pubDate>Tue, 29 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Brighter-Days-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MiNNA - 29/09/2026 - 14:00</title>
-<description>Rinse FM, broadcast 29 Sep 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/uk/MiNNA290926.mp3" length="148930070" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-148930070</guid>
-<pubDate>Tue, 29 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/000033310013-Minna-Honey-Hall.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Papaoul - 29/09/2026 - 10:00</title>
-<description>Rinse FM, broadcast 29 Sep 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Papaoul290926.mp3" length="287915092" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287915092</guid>
-<pubDate>Tue, 29 Sep 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DJ Stingray 313 - 28/09/2026 - 20:00</title>
-<description>Rinse FM, broadcast 28 Sep 2026 20:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/DJStingray313280926.mp3" length="145425655" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145425655</guid>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_7231-Valerio-Modern-Matters.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ghoulish - 28/09/2026 - 17:00</title>
-<description>Rinse FM, broadcast 28 Sep 2026 17:00. House, minimal, Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/Ghoulish280926.mp3" length="146275878" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-146275878</guid>
-<pubDate>Mon, 28 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/825312581_2612962915829871_6474542032008526779_n-Adam-Harper.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>HalfPint - 28/09/2026 - 14:00</title>
-<description>Rinse FM, broadcast 28 Sep 2026 14:00. Garage, House, Funky</description>
-<enclosure url="https://replay.rinse.fm/uk/HalfPint280926.mp3" length="146479635" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-146479635</guid>
-<pubDate>Mon, 28 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_9176-Fred-Houser.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Patrick Hinton - 28/09/2026 - 13:00</title>
-<description>Rinse FM, broadcast 28 Sep 2026 13:00. Talk, Dubstep, Bass</description>
-<enclosure url="https://replay.rinse.fm/uk/PatrickHinton280926.mp3" length="144058620" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144058620</guid>
-<pubDate>Mon, 28 Sep 2026 13:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Patrick-and-Carre-Rinse-Patrick-Hinton.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>TEKLIFE - 27/09/2026 - 23:00</title>
-<description>Rinse FM, broadcast 27 Sep 2026 23:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Teklife270926FINAL.mp3" length="144263636" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144263636</guid>
-<pubDate>Sun, 27 Sep 2026 23:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/D_ZUNI_IMG_3347-copy-TEKLIFE-Records.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Oblig - 27/09/2026 - 21:00</title>
-<description>Rinse FM, broadcast 27 Sep 2026 21:00. Drill</description>
-<enclosure url="https://replay.rinse.fm/uk/Oblig270926FINAL.mp3" length="280321919" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-280321919</guid>
-<pubDate>Sun, 27 Sep 2026 21:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_5284.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

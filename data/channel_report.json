@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 31,
+  "count": 33,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/DNGDNGDNG151126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/SebastienForrester161126VBR.mp3"
  },
  "kool": {
-  "count": 22,
+  "count": 23,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/GoldfatMusic131126.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/DaddyNature141126_.mp3"
  },
  "swu": {
-  "count": 122,
+  "count": 127,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Mistafire011126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/KaotikKartel151126.mp3"
  },
  "uk": {
-  "count": 44,
+  "count": 52,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/MadCats121126.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/ElLondo151126.mp3"
  }
 }
