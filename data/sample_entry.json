@@ -26,14 +26,14 @@
    }
   ],
   "displayTitle": null,
-  "episodeDate": "2026-11-16T00:00:00+00:00",
+  "episodeDate": "2026-11-17T00:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-11-16T07:00:00+00:00",
+  "episodeTime": "2026-11-17T07:00:00+00:00",
   "extract": null,
   "featuredImage": [],
-  "fileUrl": "https://replay.rinse.fm/swu/KaotikKartel151126.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/WormDiscoClub161126.mp3",
   "genreTag": [],
-  "id": "2325077",
+  "id": "2325194",
   "isRebroadcast": true,
   "originalEpisode": [
    {
@@ -62,49 +62,49 @@
       "title": "SWU FM"
      }
     ],
-    "displayTitle": "with Papa B",
-    "episodeDate": "2026-11-15T00:00:00+00:00",
+    "displayTitle": null,
+    "episodeDate": "2026-11-16T00:00:00+00:00",
     "episodeLength": 120,
-    "episodeTime": "2026-11-16T10:00:00+00:00",
-    "extract": "Reggae and dancehall to start your Sunday",
+    "episodeTime": "2026-11-17T12:00:00+00:00",
+    "extract": "All 3 Worms in the place!",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Kaotik-Kartel-Nov-26.jpeg",
+      "filename": "WormDiscoClub_NOV_2026.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 3024,
-      "width": 4032
+      "height": 1440,
+      "width": 1440
      }
     ],
-    "fileUrl": "https://replay.rinse.fm/swu/KaotikKartel151126.mp3",
+    "fileUrl": "https://replay.rinse.fm/swu/WormDiscoClub161126.mp3",
     "genreTag": [
      {
       "__typename": "genre_Tag",
       "isFeaturedTag": false,
+      "isVisibleTag": false,
+      "slug": "afrobeat",
+      "title": "Afrobeat"
+     },
+     {
+      "__typename": "genre_Tag",
+      "isFeaturedTag": true,
       "isVisibleTag": true,
-      "slug": "reggae",
-      "title": "Reggae"
+      "slug": "jazz",
+      "title": "Jazz"
      },
      {
       "__typename": "genre_Tag",
       "isFeaturedTag": false,
       "isVisibleTag": true,
-      "slug": "dancehall",
-      "title": "Dancehall"
-     },
-     {
-      "__typename": "genre_Tag",
-      "isFeaturedTag": false,
-      "isVisibleTag": true,
-      "slug": "dub",
-      "title": "Dub"
+      "slug": "funk",
+      "title": "Funk"
      }
     ],
-    "id": "2319182",
+    "id": "2319202",
     "isRebroadcast": false,
     "parentShow": [
      {
@@ -116,30 +116,30 @@
        }
       ],
       "defaultEpisodeImage": [],
-      "extract": "The freshest Reggae, Dancehall, Jungle and everything in between from Gurnsey, DJ Stivs, Ed Cox, Papa B & friends.",
+      "extract": "Join the Worms for an eclectic mix of music varying from Jazz, Latin, Brazilian and Caribbean grooves.",
       "featuredImage": [
        {
         "__typename": "media_Asset",
-        "filename": "Kaotik-Kartel-June23.jpg",
+        "filename": "©-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
         "focalPoint": [
          0.5,
          0.5
         ],
         "hasFocalPoint": false,
-        "height": 2684,
-        "width": 2016
+        "height": 1983,
+        "width": 2048
        }
       ],
       "genreTag": [
        {
         "__typename": "genre_Tag",
-        "slug": "dancehall",
-        "title": "Dancehall"
+        "slug": "jazz",
+        "title": "Jazz"
        },
        {
         "__typename": "genre_Tag",
-        "slug": "reggae",
-        "title": "Reggae"
+        "slug": "latin",
+        "title": "Latin"
        },
        {
         "__typename": "genre_Tag",
@@ -147,16 +147,16 @@
         "title": "Multigenre"
        }
       ],
-      "id": "1092475",
+      "id": "1095069",
       "showStatus": "highlighted",
-      "slug": "kaotik-kartel",
-      "title": "Kaotik Kartel",
-      "url": "https://admin.rinse.fm/shows/kaotik-kartel"
+      "slug": "worm-disco-club",
+      "title": "Worm Disco Club",
+      "url": "https://admin.rinse.fm/shows/worm-disco-club"
      }
     ],
-    "slug": "kaotik-kartel-15-11-2026-1000",
+    "slug": "worm-disco-club-16-11-2026-1200",
     "subtitle": null,
-    "title": "Kaotik Kartel - 15/11/2026 - 10:00",
+    "title": "Worm Disco Club - 16/11/2026 - 12:00",
     "youtubeStreamUrl": null
    }
   ],
@@ -170,30 +170,30 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "The freshest Reggae, Dancehall, Jungle and everything in between from Gurnsey, DJ Stivs, Ed Cox, Papa B & friends.",
+    "extract": "Join the Worms for an eclectic mix of music varying from Jazz, Latin, Brazilian and Caribbean grooves.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Kaotik-Kartel-June23.jpg",
+      "filename": "©-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 2684,
-      "width": 2016
+      "height": 1983,
+      "width": 2048
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "dancehall",
-      "title": "Dancehall"
+      "slug": "jazz",
+      "title": "Jazz"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "reggae",
-      "title": "Reggae"
+      "slug": "latin",
+      "title": "Latin"
      },
      {
       "__typename": "genre_Tag",
@@ -201,18 +201,18 @@
       "title": "Multigenre"
      }
     ],
-    "id": "1092475",
+    "id": "1095069",
     "showStatus": "highlighted",
-    "slug": "kaotik-kartel",
-    "title": "Kaotik Kartel",
-    "url": "https://admin.rinse.fm/shows/kaotik-kartel"
+    "slug": "worm-disco-club",
+    "title": "Worm Disco Club",
+    "url": "https://admin.rinse.fm/shows/worm-disco-club"
    }
   ],
-  "slug": "kaotik-kartel-16-11-2026-0700",
+  "slug": "worm-disco-club-17-11-2026-0700",
   "subtitle": null,
-  "title": "Kaotik Kartel - 16/11/2026 - 07:00",
+  "title": "Worm Disco Club - 17/11/2026 - 07:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Kaotik-Kartel-June23.jpg",
+ "image": "https://image.rinse.fm/_/%C2%A9-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
  "image_found_at": ".parentShow.featuredImage.filename"
 }

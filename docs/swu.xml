@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ba Dum Tish with Alec Falconer - 17/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 17 Nov 2026 14:00. House, Garage, Dance</description>
+<enclosure url="https://replay.rinse.fm/swu/BaDumTish171126.mp3" length="288009957" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009957</guid>
+<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/BaDumTish_Nov_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>SABRINA - 17/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 17 Nov 2026 12:00. Hardcore, Techno</description>
+<enclosure url="https://replay.rinse.fm/swu/Sabrina150923.mp3" length="287193988" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287193988</guid>
+<pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/SabrinawithRandall_SEPT1_2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>King Original - 17/11/2026 - 05:00</title>
+<description>SWU FM, broadcast 17 Nov 2026 05:00</description>
+<enclosure url="https://replay.rinse.fm/swu/KingOriginal120224.mp3" length="227022326" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-227022326</guid>
+<pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2023-09-10-at-21.26.41.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>RSD - 16/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 16 Nov 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/swu/RSD161126.mp3" length="288009865" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009865</guid>
+<pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/RSD.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 16/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 16 Nov 2026 14:00. Dub, Talk, Bass</description>
 <enclosure url="https://replay.rinse.fm/swu/LaidBlak161126.mp3" length="288011114" type="audio/mpeg"/>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/K-65_August_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Lily Huu - 14/08/2026 - 18:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 18:00. Bass, Multigenre, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/LilyHuu140826.mp3" length="144010700" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010700</guid>
-<pubDate>Fri, 14 Aug 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/LilyHuu_August_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>No Nation - 16/08/2026 - 05:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 16:00. Jazz, Drum &amp; Bass, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/NoNationWEB_140826.mp3" length="275770245" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-275770245</guid>
-<pubDate>Fri, 14 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/NoNation_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>OPR8 - 29/08/2026 - 16:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 14:00. Breakbeat, Multigenre, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/OPR8_140826.mp3" length="288010169" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010169</guid>
-<pubDate>Fri, 14 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OPR8_AUG_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Roo - 01/09/2026 - 05:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 12:00. House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/Roo140826.mp3" length="288010167" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010167</guid>
-<pubDate>Fri, 14 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Roo_Nov_25_2026-08-14-104343_zkqa.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

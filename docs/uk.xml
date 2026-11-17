@@ -12,6 +12,76 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Amaliah - 16/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 16 Nov 2026 18:00. Bass, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/Amaliah161126.mp3" length="144569576" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144569576</guid>
+<pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_0411-Amaliah.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Dyslecta - 16/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 16 Nov 2026 17:00. Techno, Bass, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/uk/Dyslecta161126.mp3" length="143946744" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143946744</guid>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_4656-Leo-Bell.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Tim Garcia - 16/11/2026 - 10:00</title>
+<description>Rinse FM, broadcast 16 Nov 2026 10:00. Electronic, Dance, Soul</description>
+<enclosure url="https://replay.rinse.fm/uk/TimGarcia161126.mp3" length="287889805" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287889805</guid>
+<pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Tim-Garcia-Press-Shot-Tim-Garcia_2026-11-15-190641_wdib.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Kush Jones - 15/11/2026 - 23:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 23:00</description>
+<enclosure url="https://replay.rinse.fm/uk/KushJones151126.mp3" length="142661791" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142661791</guid>
+<pubDate>Sun, 15 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Kush-Jones-May-2025.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Silencer - 15/11/2026 - 21:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Silencer151126.mp3" length="291268230" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-291268230</guid>
+<pubDate>Sun, 15 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Silencer_Press-Shot_1600x.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Chamber45 - 15/11/2026 - 20:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 20:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Chamber45151126.mp3" length="143086988" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143086988</guid>
+<pubDate>Sun, 15 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Chamber-45-October-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Bok Bok - 15/11/2026 - 19:00</title>
+<description>Rinse FM, broadcast 15 Nov 2026 19:00. House, Techno, Funky</description>
+<enclosure url="https://replay.rinse.fm/uk/bokbok151126.mp3" length="144481950" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144481950</guid>
+<pubDate>Sun, 15 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/941e6ba2-0ea0-4351-af81-aeef9d67656b-Alex-Sushon.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>El Londo - 15/11/2026 - 17:00</title>
 <description>Rinse FM, broadcast 15 Nov 2026 17:00. House</description>
 <enclosure url="https://replay.rinse.fm/uk/ElLondo151126.mp3" length="144174793" type="audio/mpeg"/>
@@ -2940,76 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/DSC07647-Arthur-Cayzer.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse Live From Sónar 2026 - 01/10/2026 - 21:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 21:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/Akua011026.mp3" length="196153942" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-196153942</guid>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Photo_So%CC%81nar_Akua_SonarLab_SofiaRendos_v1_4.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>bullet tooth - 01/10/2026 - 20:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 20:00</description>
-<enclosure url="https://replay.rinse.fm/uk/BulletTooth011026.mp3" length="144232294" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144232294</guid>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/bullet-tooth-may-2025-2.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>malix - 01/10/2026 - 17:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 17:00. House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/Malix011026.mp3" length="145181025" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145181025</guid>
-<pubDate>Thu, 01 Oct 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8776-Radio-Producer.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mr. Redley - 01/10/2026 - 14:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Mr.Redley011026.mp3" length="143897517" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143897517</guid>
-<pubDate>Thu, 01 Oct 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mr-Redley-October-2023-1_2023-10-03-224856_xmes.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>SK Vibemaker - 01/10/2026 - 13:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 13:00. Hip-Hop, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/uk/SKVibeMaker01102026.mp3" length="144323832" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144323832</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SKVM-x-RINSE-01-10-2026-1996-rap-RNB-mix-SK-Vibemaker.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hi-Fidelity - 01/10/2026 - 12:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 12:00. Experimental, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/uk/Cafe1001011026.mp3" length="144005149" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144005149</guid>
-<pubDate>Thu, 01 Oct 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Untitled-30-September-2026-at-10.46.06-Elliot-Ferguson.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yazmin Lacey - 01/10/2026 - 10:00</title>
-<description>Rinse FM, broadcast 01 Oct 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/YazminLacey011026.mp3" length="286100832" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-286100832</guid>
-<pubDate>Thu, 01 Oct 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

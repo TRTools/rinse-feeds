@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Charlie 3000 - 17/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 17 Nov 2026 14:00. Electronic, Experimental, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/france/Charlie3000inviteCirrusProcess171126(VBR).mp3" length="288273470" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288273470</guid>
+<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Charlie-3000-Novembre-2026-Charlotte-Calamel-Duprey.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Weirdies Records - 16/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 16 Nov 2026 20:00. Dub, Ambient, Techno</description>
 <enclosure url="https://replay.rinse.fm/france/WeirdiesRec161126(VBR).mp3" length="143281566" type="audio/mpeg"/>
@@ -2996,16 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Capture-d%E2%80%99e%CC%81cran-2026-09-03-a%CC%80-21.09.38-Antony-Bonneto.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>HALFPIPE RECORDS - 07/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 07 Sep 2026 20:00. Bass, Garage, Funky</description>
-<enclosure url="https://replay.rinse.fm/france/HalfpipeRecords070926(320).mp3" length="140684778" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-140684778</guid>
-<pubDate>Mon, 07 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/STAND-WITH-SEPT-1-Halfpipe-Records.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
