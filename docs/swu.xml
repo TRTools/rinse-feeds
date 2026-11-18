@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Peter Storm - 18/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 18 Nov 2026 12:00. House, Soul</description>
+<enclosure url="https://replay.rinse.fm/swu/PeterStorm181126.mp3" length="288009160" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009160</guid>
+<pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PeterStorm_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Amity - 17/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 17 Nov 2026 19:00. Bass, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/swu/Amity171126.mp3" length="288009901" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009901</guid>
+<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Amity_Nov_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Ba Dum Tish with Alec Falconer - 17/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 17 Nov 2026 14:00. House, Garage, Dance</description>
 <enclosure url="https://replay.rinse.fm/swu/BaDumTish171126.mp3" length="288009957" type="audio/mpeg"/>
@@ -2990,26 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/HazelMarimba_AfroLion_Aug_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Headset with Skillis - 14/08/2026 - 21:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 21:00. Bass, Dubstep, House</description>
-<enclosure url="https://replay.rinse.fm/swu/Skillis140826.mp3" length="288010201" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010201</guid>
-<pubDate>Fri, 14 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Skillis-August-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>K-65 - 14/08/2026 - 20:00</title>
-<description>SWU FM, broadcast 14 Aug 2026 20:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/swu/K-65_140826.mp3" length="141111100" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141111100</guid>
-<pubDate>Fri, 14 Aug 2026 20:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/K-65_August_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

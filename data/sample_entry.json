@@ -25,141 +25,50 @@
     "title": "SWU FM"
    }
   ],
-  "displayTitle": null,
+  "displayTitle": "& Captain Wallop",
   "episodeDate": "2026-11-17T00:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-11-17T07:00:00+00:00",
-  "extract": null,
-  "featuredImage": [],
-  "fileUrl": "https://replay.rinse.fm/swu/WormDiscoClub161126.mp3",
-  "genreTag": [],
-  "id": "2325194",
-  "isRebroadcast": true,
-  "originalEpisode": [
+  "episodeTime": "2026-11-18T14:00:00+00:00",
+  "extract": "Alec and the Capt'n go b2b for 2hrs",
+  "featuredImage": [
    {
-    "__typename": "episode_episode_Entry",
-    "artistTitle": null,
-    "channel": [
-     {
-      "__typename": "channel_channel_Entry",
-      "channelColour": [
-       {
-        "__typename": "colour_Entry",
-        "id": "1331125",
-        "slug": "swu-purple",
-        "title": "SWU Purple"
-       }
-      ],
-      "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
-      "channelPagePreviewDateTime": null,
-      "defaultTimezoneOffset": "Europe/London",
-      "extract": null,
-      "id": "1016220",
-      "isPermanentChannel": true,
-      "lft": 12,
-      "slug": "swu",
-      "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
-      "title": "SWU FM"
-     }
+    "__typename": "media_Asset",
+    "filename": "BaDumTish_Nov_2026.JPG",
+    "focalPoint": [
+     0.5,
+     0.5
     ],
-    "displayTitle": null,
-    "episodeDate": "2026-11-16T00:00:00+00:00",
-    "episodeLength": 120,
-    "episodeTime": "2026-11-17T12:00:00+00:00",
-    "extract": "All 3 Worms in the place!",
-    "featuredImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "WormDiscoClub_NOV_2026.jpeg",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1440,
-      "width": 1440
-     }
-    ],
-    "fileUrl": "https://replay.rinse.fm/swu/WormDiscoClub161126.mp3",
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "isFeaturedTag": false,
-      "isVisibleTag": false,
-      "slug": "afrobeat",
-      "title": "Afrobeat"
-     },
-     {
-      "__typename": "genre_Tag",
-      "isFeaturedTag": true,
-      "isVisibleTag": true,
-      "slug": "jazz",
-      "title": "Jazz"
-     },
-     {
-      "__typename": "genre_Tag",
-      "isFeaturedTag": false,
-      "isVisibleTag": true,
-      "slug": "funk",
-      "title": "Funk"
-     }
-    ],
-    "id": "2319202",
-    "isRebroadcast": false,
-    "parentShow": [
-     {
-      "__typename": "show_show_Entry",
-      "channel": [
-       {
-        "__typename": "channel_channel_Entry",
-        "slug": "swu"
-       }
-      ],
-      "defaultEpisodeImage": [],
-      "extract": "Join the Worms for an eclectic mix of music varying from Jazz, Latin, Brazilian and Caribbean grooves.",
-      "featuredImage": [
-       {
-        "__typename": "media_Asset",
-        "filename": "©-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
-        "focalPoint": [
-         0.5,
-         0.5
-        ],
-        "hasFocalPoint": false,
-        "height": 1983,
-        "width": 2048
-       }
-      ],
-      "genreTag": [
-       {
-        "__typename": "genre_Tag",
-        "slug": "jazz",
-        "title": "Jazz"
-       },
-       {
-        "__typename": "genre_Tag",
-        "slug": "latin",
-        "title": "Latin"
-       },
-       {
-        "__typename": "genre_Tag",
-        "slug": "multigenre",
-        "title": "Multigenre"
-       }
-      ],
-      "id": "1095069",
-      "showStatus": "highlighted",
-      "slug": "worm-disco-club",
-      "title": "Worm Disco Club",
-      "url": "https://admin.rinse.fm/shows/worm-disco-club"
-     }
-    ],
-    "slug": "worm-disco-club-16-11-2026-1200",
-    "subtitle": null,
-    "title": "Worm Disco Club - 16/11/2026 - 12:00",
-    "youtubeStreamUrl": null
+    "hasFocalPoint": false,
+    "height": 2048,
+    "width": 1536
    }
   ],
+  "fileUrl": "https://replay.rinse.fm/swu/BaDumTish171126.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "house",
+    "title": "House"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "garage",
+    "title": "Garage"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": false,
+    "slug": "dance",
+    "title": "Dance"
+   }
+  ],
+  "id": "2323449",
+  "isRebroadcast": false,
   "parentShow": [
    {
     "__typename": "show_show_Entry",
@@ -170,49 +79,44 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Join the Worms for an eclectic mix of music varying from Jazz, Latin, Brazilian and Caribbean grooves.",
+    "extract": "A journey into the housey world of Ba Dum Tish.  Because music doesn't need to be serious to be good.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "©-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
+      "filename": "Alec-Falconer-Press-Shot-1.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1983,
-      "width": 2048
+      "height": 1910,
+      "width": 2052
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "jazz",
-      "title": "Jazz"
+      "slug": "house",
+      "title": "House"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "latin",
-      "title": "Latin"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "multigenre",
-      "title": "Multigenre"
+      "slug": "garage",
+      "title": "Garage"
      }
     ],
-    "id": "1095069",
+    "id": "2323434",
     "showStatus": "highlighted",
-    "slug": "worm-disco-club",
-    "title": "Worm Disco Club",
-    "url": "https://admin.rinse.fm/shows/worm-disco-club"
+    "slug": "ba-dum-tish-with-alec-falconer",
+    "title": "Ba Dum Tish with Alec Falconer",
+    "url": "https://admin.rinse.fm/shows/ba-dum-tish-with-alec-falconer"
    }
   ],
-  "slug": "worm-disco-club-17-11-2026-0700",
+  "slug": "ba-dum-tish-with-alec-falconer-17-11-2026-1400",
   "subtitle": null,
-  "title": "Worm Disco Club - 17/11/2026 - 07:00",
+  "title": "Ba Dum Tish with Alec Falconer - 17/11/2026 - 14:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/%C2%A9-Khali-Ackford-Worm-Disco-8-Jackson-Lapes.jpg",
- "image_found_at": ".parentShow.featuredImage.filename"
+ "image": "https://image.rinse.fm/_/BaDumTish_Nov_2026.JPG",
+ "image_found_at": ".featuredImage.filename"
 }

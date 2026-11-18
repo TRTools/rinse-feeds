@@ -12,6 +12,86 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Adam BFD - 18/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 20:00</description>
+<enclosure url="https://replay.rinse.fm/france/AdamBFDB2BSmallCrab-181126.mp3" length="136601019" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-136601019</guid>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_4231-Adam-BFD.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Hyas - 18/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 19:00. Techno, House, Ambient</description>
+<enclosure url="https://replay.rinse.fm/france/Hyas181126(VBR).mp3" length="121419963" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-121419963</guid>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/HYAS_NOV1-Hyas.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>CHÔ! - 18/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 17:00. Afrobeat, Dance, House</description>
+<enclosure url="https://replay.rinse.fm/france/CHO181126(VBR).mp3" length="115514597" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-115514597</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC_1919_1-David-Mendy.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>La Passe D avec Armel Bizzman - 18/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 16:00. R&amp;B, Hip Hop, Soul</description>
+<enclosure url="https://replay.rinse.fm/france/LaPasseDavecArmelBizzman181126(VBR).mp3" length="126804625" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-126804625</guid>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_6454_1-Armel-BIZZMAN.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Le Cercle - 18/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 15:00. Hip-Hop, Rap, Afrobeat</description>
+<enclosure url="https://replay.rinse.fm/france/LECERCLE-ElMvnoloTizzyMiller&amp;Shayne181126(VBR).mp3" length="129651289" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-129651289</guid>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Snapinsta.app_329775508_730500161988869_1812215322361263919_n_1080.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 18/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 14:00. Disco, House, Pop</description>
+<enclosure url="https://replay.rinse.fm/france/AurielleSayeh181126(320).mp3" length="156164773" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-156164773</guid>
+<pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/55570010-Auri-sayeh.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 17/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 17 Nov 2026 20:00. Latin, Afrobeat, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/DJPOMPOMPOM171126(VBR).mp3" length="144923274" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144923274</guid>
+<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJPOMPOMPOM-Novembre-2026-Pamela-Monteiro-Teixeira.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 17/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 17 Nov 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/france/Surya171126(320).mp3" length="88106656" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-88106656</guid>
+<pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Surya171126.00_16_09_17.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Charlie 3000 - 17/11/2026 - 14:00</title>
 <description>Rinse France, broadcast 17 Nov 2026 14:00. Electronic, Experimental, Breakbeat</description>
 <enclosure url="https://replay.rinse.fm/france/Charlie3000inviteCirrusProcess171126(VBR).mp3" length="288273470" type="audio/mpeg"/>
@@ -2926,86 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Anisetta-Photo-9-2-Lisa-Aithnard.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Tysha Cee - 10/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 10 Sep 2026 16:00. House</description>
-<enclosure url="https://replay.rinse.fm/france/WAHGWAANTYSHACEEINVITESANE100926(VBR).mp3" length="127714257" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-127714257</guid>
-<pubDate>Thu, 10 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SANE-RINSE-SEPT-100926-Tysha-Cee.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>JP MANO - 10/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 10 Sep 2026 14:00. Hiphop, House, Soul</description>
-<enclosure url="https://replay.rinse.fm/france/JPManoOnParleMusique100926(VBR)mp3.mp3" length="285300693" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-285300693</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/4E4E708F-DD7F-4323-95A2-A31FA0BCF78B-JP-MANO.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>The Iueke Show - 09/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 09 Sep 2026 19:00</description>
-<enclosure url="https://replay.rinse.fm/france/TheIuekeShow09.09.26(VBR).mp3" length="131153510" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-131153510</guid>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/9c0da229-a2f0-4ea1-aed9-ee5643fbffa0.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Menace Progressive - 09/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 09 Sep 2026 18:00. Bass, club music, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/MenaceProgressiveinviteDaddyIssues090926(VBR)mp3.mp3" length="142024031" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142024031</guid>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/D1A9CDF5-E712-48C7-94F8-A8C73DFAB484.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ShayBySchai - 09/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 09 Sep 2026 16:00. Amapiano, Afrobeat, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/SHAYBYSCHAIB2BFLOUTEE090926(VBR).mp3" length="142768402" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-142768402</guid>
-<pubDate>Wed, 09 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_0576-schaitine-AURIVEL.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Black Square Club - 09/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 09 Sep 2026 14:00. Talk</description>
-<enclosure url="https://replay.rinse.fm/france/BlacksquareClub080926(VBR).mp3" length="265229203" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-265229203</guid>
-<pubDate>Wed, 09 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/INSTA_BLACKSQUARE.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Missy Da Kunt - 08/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 08 Sep 2026 18:00. Bass, Electronic, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/MissyDaKuntwithOluwa080926(VBR).mp3" length="107227793" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-107227793</guid>
-<pubDate>Tue, 08 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Missy.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hey Bony - 08/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 08 Sep 2026 17:00. Dancehall, Electronic, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/HeyBonyBacktoschool080926(VBR).mp3" length="145479983" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145479983</guid>
-<pubDate>Tue, 08 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Capture-d%E2%80%99e%CC%81cran-2026-09-03-a%CC%80-21.09.38-Antony-Bonneto.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

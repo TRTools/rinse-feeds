@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 29,
+  "count": 33,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/JeuneàJamais-KIMS171126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/AdamBFDB2BSmallCrab-181126.mp3"
  },
  "kool": {
-  "count": 26,
+  "count": 28,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/BasicRecords151126.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/10031Recordings050526.mp3"
  },
  "swu": {
-  "count": 124,
+  "count": 119,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/WormDiscoClub161126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/BaDumTish171126.mp3"
  },
  "uk": {
-  "count": 48,
+  "count": 52,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/CaraCrosby201026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/ANTCONSTANTINO211026.mp3"
  }
 }
