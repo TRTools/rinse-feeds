@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Soulvent Records - 18/11/2026 - 21:00</title>
+<description>Kool FM, broadcast 18 Nov 2026 21:00. Drum &amp; Bass, Liquid, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/SoulventRecords181126.mp3" length="289383064" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289383064</guid>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/JGUKRAINE-Joe-Goss_2026-11-17-193031_limv.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Brockie - 18/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 18 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/DJBrockie181126.mp3" length="290880567" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-290880567</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DJ-Brockie-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Hugh Hardie - 17/11/2026 - 21:00</title>
 <description>Kool FM, broadcast 17 Nov 2026 21:00</description>
 <enclosure url="https://replay.rinse.fm/kool/HughHardie171126_.mp3" length="288784159" type="audio/mpeg"/>
@@ -2097,7 +2117,7 @@
 <guid isPermaLink="false">rinse-size-144332747</guid>
 <pubDate>Mon, 21 Sep 2026 16:00:00 +0100</pubDate>
 <itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
+<itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Goldie-press-shot-1.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
@@ -2989,26 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_1355-CHEF_2026-08-30-095048_roou.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Gray - 30/08/2026 - 19:00</title>
-<description>Kool FM, broadcast 30 Aug 2026 19:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/Gray300826.mp3" length="288226571" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288226571</guid>
-<pubDate>Sun, 30 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Gray-B2B-Bladerunner-B2B-Diagnostix-B2B-Esme-Banks-Website-Photo.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Pressure X - 30/08/2026 - 14:00</title>
-<description>Kool FM, broadcast 30 Aug 2026 14:00. Drum &amp; Bass, Jungle, Rollers</description>
-<enclosure url="https://replay.rinse.fm/kool/PressureXTX300826_FINALmp3.mp3" length="288496136" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288496136</guid>
-<pubDate>Sun, 30 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8696-Pressure-X.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

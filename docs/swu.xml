@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Miley Serious - 19/10/2024 - 20:00</title>
+<description>SWU FM, broadcast 19 Nov 2026 20:00. Bass, Multigenre, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/MileySerious191024.mp3" length="144010847" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010847</guid>
+<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Miley-Serious_Oct_2024.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Fez The Kid - 18/11/2026 - 22:00</title>
+<description>SWU FM, broadcast 18 Nov 2026 22:00. Dub, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/swu/FezTheKid181126.mp3" length="144010428" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010428</guid>
+<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FezTheKid_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Toby Ross - 18/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 18 Nov 2026 21:00. Jungle</description>
+<enclosure url="https://replay.rinse.fm/swu/TobyRoss181126.mp3" length="144009439" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144009439</guid>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Jungle-CakesToby-Ross-07-2023-Toby-Ross.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Sofa Sound Bristol - 18/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 18 Nov 2026 19:00. Drum &amp; Bass, Jungle, Liquid</description>
+<enclosure url="https://replay.rinse.fm/swu/SofaSoundBristol181126.mp3" length="288008988" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008988</guid>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KublaiHydro_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Peter Storm - 18/11/2026 - 12:00</title>
 <description>SWU FM, broadcast 18 Nov 2026 12:00. House, Soul</description>
 <enclosure url="https://replay.rinse.fm/swu/PeterStorm181126.mp3" length="288009160" type="audio/mpeg"/>
@@ -539,7 +579,7 @@
 <pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RoseHolland_May_2024_01.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/RoseHolland_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Ruth Royall &amp; Euphonique - 06/11/2026 - 16:00</title>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/EDIT_240911_Snazzback_%40giugliotto_Silhouettes_HiRes-Snazzback.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Kaotik Kartel - 17/08/2026 - 07:00</title>
-<description>SWU FM, broadcast 16 Aug 2026 10:00. Reggae, Dub, Dancehall</description>
-<enclosure url="https://replay.rinse.fm/swu/KaotikKartel160826.mp3" length="288010211" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010211</guid>
-<pubDate>Sun, 16 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/KaotikKartel_AUG_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Stay Up Forever - 02/09/2026 - 03:00</title>
-<description>SWU FM, broadcast 15 Aug 2026 23:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/StayUpForever150826.mp3" length="288010243" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010243</guid>
-<pubDate>Sat, 15 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DAVE-The-Drummer_August_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Banoffee Pies with DJ Autumn - 21/09/2026 - 01:00</title>
-<description>SWU FM, broadcast 15 Aug 2026 19:00. House, Broken Beat, Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/BanoffeePies150826.mp3" length="144010740" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010740</guid>
-<pubDate>Sat, 15 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Banoffee_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hazel Marimba - 17/08/2026 - 03:00</title>
-<description>SWU FM, broadcast 15 Aug 2026 14:00. Funky</description>
-<enclosure url="https://replay.rinse.fm/swu/HazelMarimba150826.mp3" length="288010215" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010215</guid>
-<pubDate>Sat, 15 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/HazelMarimba_AfroLion_Aug_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -25,49 +25,42 @@
     "title": "SWU FM"
    }
   ],
-  "displayTitle": "& Captain Wallop",
-  "episodeDate": "2026-11-17T00:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-11-18T14:00:00+00:00",
-  "extract": "Alec and the Capt'n go b2b for 2hrs",
+  "displayTitle": "with Kaya",
+  "episodeDate": "2025-12-18T00:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-11-19T21:00:00+00:00",
+  "extract": "B2B with Kaya for an hour, showcasing unreleased tracks and more.",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "BaDumTish_Nov_2026.JPG",
+    "filename": "Kaya_DEC_2025.JPG",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2048,
-    "width": 1536
+    "height": 1280,
+    "width": 853
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/BaDumTish171126.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/Umbra181225.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "house",
-    "title": "House"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "garage",
-    "title": "Garage"
-   },
-   {
-    "__typename": "genre_Tag",
     "isFeaturedTag": false,
-    "isVisibleTag": false,
-    "slug": "dance",
-    "title": "Dance"
+    "isVisibleTag": true,
+    "slug": "dubstep",
+    "title": "Dubstep"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "dnb",
+    "title": "Drum & Bass"
    }
   ],
-  "id": "2323449",
+  "id": "2241220",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -79,44 +72,33 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "A journey into the housey world of Ba Dum Tish.  Because music doesn't need to be serious to be good.",
+    "extract": "A monthly showcase of Underground Bass Music. Featuring lots of my own productions and unreleased material.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Alec-Falconer-Press-Shot-1.jpeg",
+      "filename": "IMG_8780-George-Nicholson.jpeg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 1910,
-      "width": 2052
+      "height": 4096,
+      "width": 2730
      }
     ],
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "house",
-      "title": "House"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "garage",
-      "title": "Garage"
-     }
-    ],
-    "id": "2323434",
+    "genreTag": [],
+    "id": "2195195",
     "showStatus": "highlighted",
-    "slug": "ba-dum-tish-with-alec-falconer",
-    "title": "Ba Dum Tish with Alec Falconer",
-    "url": "https://admin.rinse.fm/shows/ba-dum-tish-with-alec-falconer"
+    "slug": "umbra",
+    "title": "Umbra",
+    "url": "https://admin.rinse.fm/shows/umbra"
    }
   ],
-  "slug": "ba-dum-tish-with-alec-falconer-17-11-2026-1400",
+  "slug": "umbra-18-12-2025-2100-3",
   "subtitle": null,
-  "title": "Ba Dum Tish with Alec Falconer - 17/11/2026 - 14:00",
+  "title": "Umbra - 18/12/2025 - 21:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/BaDumTish_Nov_2026.JPG",
+ "image": "https://image.rinse.fm/_/Kaya_DEC_2025.JPG",
  "image_found_at": ".featuredImage.filename"
 }

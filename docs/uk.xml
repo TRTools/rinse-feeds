@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Hi-Fidelity - 19/11/2026 - 12:00</title>
+<description>Rinse FM, broadcast 19 Nov 2026 12:00. House</description>
+<enclosure url="https://replay.rinse.fm/uk/Bambi191126.mp3" length="144065086" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144065086</guid>
+<pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/AMF-Laurence-McAulay.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Paradise - 18/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 18 Nov 2026 22:00. Dance, House</description>
+<enclosure url="https://replay.rinse.fm/uk/Paradise181126.mp3" length="139796435" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139796435</guid>
+<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC05175-Esther-Chan.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>KILIMANJARO - 18/11/2026 - 19:00</title>
+<description>Rinse FM, broadcast 18 Nov 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/uk/KILIMANJARO181126.mp3" length="286481531" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286481531</guid>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KILIMANJARO-January-2023_2.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Just Jane - 18/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 18 Nov 2026 18:00. Dubstep, Techno, Bass</description>
+<enclosure url="https://replay.rinse.fm/uk/JustJane181126.mp3" length="144422116" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144422116</guid>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Untitled-Design-15-Just-Jane.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Utopia Presents - 18/11/2026 - 15:00</title>
 <description>Rinse FM, broadcast 18 Nov 2026 15:00. House, Jazz, Soul</description>
 <enclosure url="https://replay.rinse.fm/uk/UtopiaPresents181126.mp3" length="288537934" type="audio/mpeg"/>
@@ -2970,46 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Rinse-Ollie-Hutchinson.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Logan Sama - 02/11/2025 - 21:00</title>
-<description>Rinse FM, broadcast 04 Oct 2026 21:00. Grime</description>
-<enclosure url="https://replay.rinse.fm/uk/LoganSama021125.mp3" length="288010136" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010136</guid>
-<pubDate>Sun, 04 Oct 2026 21:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Jon-E-Cash-thumbnail.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Freshta - 04/10/2026 - 20:00</title>
-<description>Rinse FM, broadcast 04 Oct 2026 20:00. Dubstep, Techno, Bass</description>
-<enclosure url="https://replay.rinse.fm/uk/Freshta041026.mp3" length="143667020" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143667020</guid>
-<pubDate>Sun, 04 Oct 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/freshta-oct-2026-Freshta.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>CoOp Presents - 04/10/2026 - 14:00</title>
-<description>Rinse FM, broadcast 04 Oct 2026 14:00. Broken Beat</description>
-<enclosure url="https://replay.rinse.fm/uk/coop041026.mp3" length="288101095" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288101095</guid>
-<pubDate>Sun, 04 Oct 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/CoOp-2025-LOGO-WHT-Alex-Phountzi_2026-10-02-153237_mlmi.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Russ Ryan - 04/10/2026 - 12:00</title>
-<description>Rinse FM, broadcast 04 Oct 2026 12:00. Soul, Garage, House</description>
-<enclosure url="https://replay.rinse.fm/uk/RussRyan041026.mp3" length="281842207" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-281842207</guid>
-<pubDate>Sun, 04 Oct 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ig-sq-Russ.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

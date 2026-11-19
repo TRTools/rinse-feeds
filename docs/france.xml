@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>TTristana - 19/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 19 Nov 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/france/TTristanainviteJdotbalance191126(VBR).mp3" length="109310908" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-109310908</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PXL_20261108_1855087202-TTristana.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ERNA - 19/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 19 Nov 2026 17:00. Techno, Bass, Break</description>
+<enclosure url="https://replay.rinse.fm/france/SIDEQUESTwithERNA191126(320).mp3" length="114322785" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-114322785</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/erna0354.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>MABOUL BASMATI - 19/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 19 Nov 2026 14:00. House, Drum &amp; Bass, Funk</description>
+<enclosure url="https://replay.rinse.fm/france/MABOULBASMATIinviteLUCASMOINET191126(VBR).mp3" length="137813413" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-137813413</guid>
+<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FRENCH-VORETX-91-invite-LUCAS-MOINET-19-11-26-14h00-FRENCH-VORTEX_2026-11-18-104450_mdux.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Adam BFD - 18/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 18 Nov 2026 20:00</description>
 <enclosure url="https://replay.rinse.fm/france/AdamBFDB2BSmallCrab-181126.mp3" length="136601019" type="audio/mpeg"/>
@@ -30,6 +60,16 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/HYAS_NOV1-Hyas.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Not Sorry - 18/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 18 Nov 2026 18:00. Breakbeat, Bass, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/france/NotSorryw-Nawme181126(VBR).mp3" length="142057582" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142057582</guid>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Nawme-novembre-2026-1-Manon-Ballue.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>CHÔ! - 18/11/2026 - 17:00</title>
@@ -2966,46 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/TROIS-QUARTS-TAXI-SYSTEM-SEPT-26-Eloi-Petillon.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Machka - 11/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 11 Sep 2026 19:00. Bass, Experimental, Jungle</description>
-<enclosure url="https://replay.rinse.fm/france/Machka11.09.26.mp3" length="137230672" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137230672</guid>
-<pubDate>Fri, 11 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Machka_Septembre2026-Mach-ka.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mystique - 11/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 11 Sep 2026 18:00. Rap</description>
-<enclosure url="https://replay.rinse.fm/france/MURDAONTHEDANCEFLOOR911avecMYSTIQUE110926.mp3" length="117119579" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-117119579</guid>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Sans-titre-Publication-Instagram-MJ.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Flegon - 11/09/2026 - 15:00</title>
-<description>Rinse France, broadcast 11 Sep 2026 15:00. Ambient, Multigenre, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/FlegonBlackGazeisthenewGaze110926(VBR).mp3" length="117077595" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-117077595</guid>
-<pubDate>Fri, 11 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_0312-david-cukier.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Twerkistan - 10/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 10 Sep 2026 17:00. Talk, Electronic, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/TwerkistanBackstagefeatAnisetta100926(VBR)mp3.mp3" length="133533955" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-133533955</guid>
-<pubDate>Thu, 10 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Anisetta-Photo-9-2-Lisa-Aithnard.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

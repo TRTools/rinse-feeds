@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 33,
+  "count": 35,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/AdamBFDB2BSmallCrab-181126.mp3"
+  "sample_url": "https://replay.rinse.fm/france/SoeursMalsainesHareyizéprésenteÉlogedenosenchaînées191126(320).mp3"
  },
  "kool": {
-  "count": 28,
+  "count": 26,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/10031Recordings050526.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/100Goldie080626.mp3"
  },
  "swu": {
-  "count": 119,
+  "count": 118,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/BaDumTish171126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/Umbra181225.mp3"
  },
  "uk": {
-  "count": 52,
+  "count": 48,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/ANTCONSTANTINO211026.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/JazImsky121126.mp3"
  }
 }
