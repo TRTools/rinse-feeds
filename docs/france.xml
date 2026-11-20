@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Useless Seconds - 20/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 20 Nov 2026 20:00. Techno</description>
+<enclosure url="https://replay.rinse.fm/france/uselesssecondsinviteGabbor20112026(VBR).mp3" length="91609782" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-91609782</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_2220-Coiffure.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Exa-Terra - 20/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 20 Nov 2026 19:00. Hardcore, Experimental, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/EXATERRAwithGTTRDMMRNG201126(VBR).mp3" length="117581427" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-117581427</guid>
+<pubDate>Fri, 20 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_0415-Guillaume-Arnaud.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Misantropical - 20/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 20 Nov 2026 17:00. Latin, Hardcore, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/MISANTROPICALinviteADDLYMUFF201126(VBR).mp3" length="144592105" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144592105</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Addly-Muff-11_2026-MISANTROPICAL.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Queer Cult - 20/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 20 Nov 2026 16:00. House, Electronic, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/QueerCult-DJMoniqueinviteOsoloco201126(VBR).mp3" length="139556817" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139556817</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG-1084-la-bambaataa_2026-11-20-162912_hhwr.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>LAZE - 19/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 19 Nov 2026 20:00. Multigenre, Electronic</description>
+<enclosure url="https://replay.rinse.fm/france/LAZEplanetmultivibes_191126(VBR).mp3" length="143574309" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143574309</guid>
+<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/8239BDCE-7719-4515-9455-96717448098F-Lisa-Ferrari.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>TTristana - 19/11/2026 - 18:00</title>
 <description>Rinse France, broadcast 19 Nov 2026 18:00</description>
 <enclosure url="https://replay.rinse.fm/france/TTristanainviteJdotbalance191126(VBR).mp3" length="109310908" type="audio/mpeg"/>
@@ -2956,56 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/ElectrAfrique-invite-HARUNA-Sep-2026-ElectrAfrique.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>La Sunday Abidjan - 13/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 13 Sep 2026 14:00</description>
-<enclosure url="https://replay.rinse.fm/france/LaSunday130926(VBR).mp3" length="114313864" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-114313864</guid>
-<pubDate>Sun, 13 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/unnamed_2026-09-11-144752_tyta.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Public System Recordings - 12/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 12 Sep 2026 19:00. Experimental, Rap, Techno</description>
-<enclosure url="https://replay.rinse.fm/france/PUBLICSYSTEMRECORDINGSMYNinviteDJNOTONSOCIALMEDIA120926(VBR).mp3" length="137574372" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137574372</guid>
-<pubDate>Sat, 12 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-NOT-ON-SOCIAL-MEDIA-SEP-26-Public-System-Recordings.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>D’Julz - 12/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 12 Sep 2026 16:00. House, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/D'JULZHomeDiggin120926(VBR).mp3" length="114029881" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-114029881</guid>
-<pubDate>Sat, 12 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/5-Julien-Veniel.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Whitney Weiss - 12/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 12 Sep 2026 14:00. Dance, Electronic, House</description>
-<enclosure url="https://replay.rinse.fm/france/WhitneyWeisspresentsItsWhitneyBitch120926(VBR).mp3" length="227756997" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-227756997</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Redance-Sept-2026-Whitney-Weiss.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Trois-Quarts Taxi System - 11/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 11 Sep 2026 20:00. Ambient, Breakbeat, Experimental</description>
-<enclosure url="https://replay.rinse.fm/france/TroisQuartsTaxiSystemInviteSarahWanita090926(VBR).mp3" length="125822899" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-125822899</guid>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/TROIS-QUARTS-TAXI-SYSTEM-SEPT-26-Eloi-Petillon.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

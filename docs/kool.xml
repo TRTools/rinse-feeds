@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>CPTN - 20/11/2026 - 09:00</title>
+<description>Kool FM, broadcast 20 Nov 2026 09:00. Reggae, Dub, Dancehall</description>
+<enclosure url="https://replay.rinse.fm/kool/CPTN201126TX_.mp3" length="288416645" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288416645</guid>
+<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Capture_0-Chris-Reid.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Metalheadz - 19/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 19 Nov 2026 19:00. Drum &amp; Bass, Jungle</description>
+<enclosure url="https://replay.rinse.fm/kool/Metalheadz191126.mp3" length="285117930" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-285117930</guid>
+<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/raykeith-Tom-Dagless.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Benny V - 19/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 19 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/BennyV191126.mp3" length="288975655" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288975655</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/New-Press-For-Kool_2026-10-29-144250_wybk.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Soulvent Records - 18/11/2026 - 21:00</title>
 <description>Kool FM, broadcast 18 Nov 2026 21:00. Drum &amp; Bass, Liquid, Rollers</description>
 <enclosure url="https://replay.rinse.fm/kool/SoulventRecords181126.mp3" length="289383064" type="audio/mpeg"/>
@@ -2979,36 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/ba688f75-9ba0-4408-a2e2-f78cf596dc51-Jamie-G.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Future Flavas with Profile - 31/08/2026 - 21:00</title>
-<description>Kool FM, broadcast 31 Aug 2026 21:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Profile280823.mp3" length="174267254" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-174267254</guid>
-<pubDate>Mon, 31 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/nhc6-510x763-1-Clive-Bourne.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Laurie Charlesworth - 31/08/2026 - 17:00</title>
-<description>Kool FM, broadcast 31 Aug 2026 17:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/LaurieCharlesworth310826.mp3" length="288349861" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288349861</guid>
-<pubDate>Mon, 31 Aug 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8118-Laurie-Charlesworth.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Chef presents Identity Sessions - 30/08/2026 - 21:00</title>
-<description>Kool FM, broadcast 30 Aug 2026 21:00. Drum &amp; Bass, Jungle, Liquid</description>
-<enclosure url="https://replay.rinse.fm/kool/Chef300826Final.mp3" length="137653528" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-137653528</guid>
-<pubDate>Sun, 30 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_1355-CHEF_2026-08-30-095048_roou.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

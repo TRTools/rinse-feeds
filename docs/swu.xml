@@ -12,14 +12,54 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ruffneck Ting with Dazee - 20/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 20 Nov 2026 14:00. Drum &amp; Bass, Jungle, Jump Up</description>
+<enclosure url="https://replay.rinse.fm/swu/RuffneckTing201126.mp3" length="288010382" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010382</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Ruffneck-Ting_Nov_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Felix Joy - 20/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 20 Nov 2026 10:00. Multigenre, Disco, House</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy201126.mp3" length="288010306" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010306</guid>
+<pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FelixJoy_SEPTEMBER2024_2026-11-20-124331_xgws.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Keeno - 19/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 19 Nov 2026 19:00. Drum &amp; Bass, Liquid, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/Keeno191126.mp3" length="288012394" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288012394</guid>
+<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Keeno_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Miley Serious - 19/10/2024 - 20:00</title>
-<description>SWU FM, broadcast 19 Nov 2026 20:00. Bass, Multigenre, Drum &amp; Bass</description>
+<description>SWU FM, broadcast 19 Nov 2026 18:00. Bass, Multigenre, Drum &amp; Bass</description>
 <enclosure url="https://replay.rinse.fm/swu/MileySerious191024.mp3" length="144010847" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-144010847</guid>
-<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Miley-Serious_Oct_2024.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Drifty - 19/11/2026 - 12:00</title>
+<description>SWU FM, broadcast 19 Nov 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Drifty200923.mp3" length="285929129" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-285929129</guid>
+<pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Ray-Keith_SEPT_2023.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Fez The Kid - 18/11/2026 - 22:00</title>
@@ -1619,7 +1659,7 @@
 <pubDate>Fri, 09 Oct 2026 18:00:00 +0100</pubDate>
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Lyra_OCT_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Lily-Huu_July_2025_2025-10-01-131402_wyro.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>ALYA L - 08/10/2026 - 23:00</title>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/TIA_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Laid Blak with DJ Bunjy &amp; MC Joe Peng - 19/08/2026 - 05:00</title>
-<description>SWU FM, broadcast 17 Aug 2026 14:00. Multigenre, Reggae, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/LaidBlak170826.mp3" length="288010008" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010008</guid>
-<pubDate>Mon, 17 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Bobby-Brant_Aug_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Worm Disco Club - 21/09/2026 - 12:00</title>
-<description>SWU FM, broadcast 17 Aug 2026 12:00. Latin, Reggae, Jazz</description>
-<enclosure url="https://replay.rinse.fm/swu/WormDisco170826.mp3" length="288009908" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009908</guid>
-<pubDate>Mon, 17 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Worms_AUG_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Spiney - 18/08/2026 - 01:00</title>
-<description>SWU FM, broadcast 16 Aug 2026 14:00. Amapiano, House, Funky</description>
-<enclosure url="https://replay.rinse.fm/swu/Spiney160826.mp3" length="287443839" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287443839</guid>
-<pubDate>Sun, 16 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Spiney_01.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Snazzback - 16/08/2026 - 12:00</title>
-<description>SWU FM, broadcast 16 Aug 2026 12:00</description>
-<enclosure url="https://replay.rinse.fm/swu/Snazzback150326.mp3" length="288009873" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009873</guid>
-<pubDate>Sun, 16 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/EDIT_240911_Snazzback_%40giugliotto_Silhouettes_HiRes-Snazzback.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
