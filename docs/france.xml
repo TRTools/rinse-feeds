@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Mensonges - 21/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 21 Nov 2026 18:00. Bass, Jungle, Dubstep</description>
+<enclosure url="https://replay.rinse.fm/france/MENSONGES211126(VBR).mp3" length="116415684" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-116415684</guid>
+<pubDate>Sat, 21 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC_4311-Mensonges.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>2-Steppers - 21/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 21 Nov 2026 16:00. Garage</description>
+<enclosure url="https://replay.rinse.fm/france/2STEPPERSINVITECLIKK211126(VBR).mp3" length="114488387" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-114488387</guid>
+<pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9287-2-Steppers.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Useless Seconds - 20/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 20 Nov 2026 20:00. Techno</description>
 <enclosure url="https://replay.rinse.fm/france/uselesssecondsinviteGabbor20112026(VBR).mp3" length="91609782" type="audio/mpeg"/>
@@ -2986,26 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/631a9-10-lu2k.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>[re]sources - 13/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 13 Sep 2026 18:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/france/[re]sources130926(VBR).mp3" length="153116775" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-153116775</guid>
-<pubDate>Sun, 13 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ChatGPT-Image-11-sept.-2026-15_34_57-Thomas-Ferrare%CC%81.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ElectrAfrique - 13/09/2026 - 15:00</title>
-<description>Rinse France, broadcast 13 Sep 2026 15:00. House, Funky, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/ELECTRAFRIQUEinviteHARUNA130926(VBR).mp3" length="107650731" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-107650731</guid>
-<pubDate>Sun, 13 Sep 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ElectrAfrique-invite-HARUNA-Sep-2026-ElectrAfrique.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

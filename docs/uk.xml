@@ -22,6 +22,26 @@
 <itunes:image href="https://image.rinse.fm/_/Screenshot-2026-02-19-at-16.56.25-Ella-Knight.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
+<title>DJ Polo - 20/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 20 Nov 2026 18:00. Amapiano, Broken Beat, Funky</description>
+<enclosure url="https://replay.rinse.fm/uk/DJPolo201126.mp3" length="145978260" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145978260</guid>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_4109-Xavier-Redkwa.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jeremy Sylvester - 20/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 20 Nov 2026 14:00. Garage, House, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/JeremySylvester201126.mp3" length="288806484" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288806484</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/a85295dc-4b08-44aa-8353-4da67fd714cd-Jeremy-Sylvester.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>YETI OUT - 19/11/2026 - 23:00</title>
 <description>Rinse FM, broadcast 19 Nov 2026 23:00</description>
 <enclosure url="https://replay.rinse.fm/uk/YETI191126.mp3" length="144108980" type="audio/mpeg"/>
@@ -2990,26 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_2379.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Papaoul - 06/10/2026 - 10:00</title>
-<description>Rinse FM, broadcast 06 Oct 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Papaoul061026_.mp3" length="293410255" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-293410255</guid>
-<pubDate>Tue, 06 Oct 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Greentea Peng - 06/10/2026 - 09:00</title>
-<description>Rinse FM, broadcast 06 Oct 2026 09:00</description>
-<enclosure url="https://replay.rinse.fm/uk/GreenteaPeng160725.mp3" length="143958051" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143958051</guid>
-<pubDate>Tue, 06 Oct 2026 09:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Greentea-peng-October-2023_2024-08-21-154545_dmqh.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

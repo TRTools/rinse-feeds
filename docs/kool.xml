@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Uncle Dugs - 20/11/2026 - 11:00</title>
+<description>Kool FM, broadcast 20 Nov 2026 11:00</description>
+<enclosure url="https://replay.rinse.fm/uk/UncleDugs201126.mp3" length="432175828" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-432175828</guid>
+<pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>10800</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>CPTN - 20/11/2026 - 09:00</title>
 <description>Kool FM, broadcast 20 Nov 2026 09:00. Reggae, Dub, Dancehall</description>
 <enclosure url="https://replay.rinse.fm/kool/CPTN201126TX_.mp3" length="288416645" type="audio/mpeg"/>
@@ -76,6 +86,16 @@
 <description>Kool FM, broadcast 17 Nov 2026 19:00</description>
 <enclosure url="https://replay.rinse.fm/kool/MarlyMarl171126.mp3" length="201103165" type="audio/mpeg"/>
 <guid isPermaLink="false">rinse-size-201103165</guid>
+<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/48a6f5b7-5935-4f5f-aa81-dab91588bb0e.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Marly Marl - 17/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 17 Nov 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/kool/MarlyMarl171126_.mp3" length="288601441" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288601441</guid>
 <pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
@@ -2989,26 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/ba688f75-9ba0-4408-a2e2-f78cf596dc51-Jamie-G_2026-09-03-180727_jhbn.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Workforce - 01/09/2026 - 19:00</title>
-<description>Kool FM, broadcast 01 Sep 2026 19:00. Drum &amp; Bass, Liquid, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/Workforce010926.mp3" length="291083337" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-291083337</guid>
-<pubDate>Tue, 01 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/L1006763-no-tufts-RESIZED-Workforce-Must-Make_2026-09-01-131342_fcwp.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Jamie G presents the United Colours Of Jungle Show - 01/09/2026 - 17:00</title>
-<description>Kool FM, broadcast 01 Sep 2026 17:00. Hardcore, Jungle, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/JamieG010926_.mp3" length="287567881" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287567881</guid>
-<pubDate>Tue, 01 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/ba688f75-9ba0-4408-a2e2-f78cf596dc51-Jamie-G.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

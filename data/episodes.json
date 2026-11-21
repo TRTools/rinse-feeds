@@ -34,6 +34,17 @@
   "size": -1,
   "title": "Twerkistan - 09/07/2026 - 16:00"
  },
+ "https://replay.rinse.fm/france/2STEPPERSINVITECLIKK211126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-21T16:00:00+00:00",
+  "genres": [
+   "Garage"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_9287-2-Steppers.jpeg",
+  "minutes": 60,
+  "size": 114488387,
+  "title": "2-Steppers - 21/11/2026 - 16:00"
+ },
  "https://replay.rinse.fm/france/2SteppersinviteJungli180726(320).mp3": {
   "channel": "france",
   "date": "2026-07-18T16:00:00+01:00",
@@ -2521,6 +2532,19 @@
   "size": null,
   "title": "Human Disease Network - 19/09/2026 - 15:00"
  },
+ "https://replay.rinse.fm/france/HumanDiseaseNetworkprésenteKitsch211126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-21T15:00:00+00:00",
+  "genres": [
+   "Garage",
+   "Breakbeat",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Kitsch-Press-Pic-5-1-promo-hdn.jpg",
+  "minutes": 60,
+  "size": null,
+  "title": "Human Disease Network - 21/11/2026 - 15:00"
+ },
  "https://replay.rinse.fm/france/HumanDiseaseNetworkprésenteStanislasSalvatoré171026(VBR).mp3": {
   "channel": "france",
   "date": "2026-10-17T15:00:00+01:00",
@@ -3824,6 +3848,19 @@
   "minutes": 60,
   "size": 118209967,
   "title": "Mensonges - 18/07/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/france/MENSONGES211126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-21T18:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Jungle",
+   "Dubstep"
+  ],
+  "image": "https://image.rinse.fm/_/DSC_4311-Mensonges.jpg",
+  "minutes": 60,
+  "size": 116415684,
+  "title": "Mensonges - 21/11/2026 - 18:00"
  },
  "https://replay.rinse.fm/france/MENTALHEALTHRADIO220726(320).mp3": {
   "channel": "france",
@@ -7224,6 +7261,17 @@
   "minutes": 60,
   "size": null,
   "title": "Yaël Ohayon - 20/06/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/france/YaëlOhayon211126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-21T14:00:00+00:00",
+  "genres": [
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_4997-3-Ygal-Ohayon.jpeg",
+  "minutes": 60,
+  "size": null,
+  "title": "Yaël Ohayon - 21/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/france/YaëlinviteChaia(VBR).mp3": {
   "channel": "france",
@@ -12491,6 +12539,15 @@
   "size": 201103165,
   "title": "Marly Marl - 17/11/2026 - 19:00"
  },
+ "https://replay.rinse.fm/kool/MarlyMarl171126_.mp3": {
+  "channel": "kool",
+  "date": "2026-11-17T19:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/48a6f5b7-5935-4f5f-aa81-dab91588bb0e.jpeg",
+  "minutes": 120,
+  "size": 288601441,
+  "title": "Marly Marl - 17/11/2026 - 19:00"
+ },
  "https://replay.rinse.fm/kool/MarlyMarl180826_.mp3": {
   "channel": "kool",
   "date": "2026-08-18T19:00:00+01:00",
@@ -17026,6 +17083,15 @@
   "minutes": 60,
   "size": 144010425,
   "title": "Cheff The Boy - 19/06/2026 - 20:00"
+ },
+ "https://replay.rinse.fm/swu/CheffTheBoy201126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-20T20:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Cheff-The-Boy-Press-Shot-1.JPG",
+  "minutes": 60,
+  "size": 144010408,
+  "title": "Cheff The Boy - 20/11/2026 - 20:00"
  },
  "https://replay.rinse.fm/swu/ChloeSage090826.mp3": {
   "channel": "swu",
@@ -24456,6 +24522,19 @@
   "size": 288010992,
   "title": "Ruth Royall & Euphonique - 18/09/2026 - 16:00"
  },
+ "https://replay.rinse.fm/swu/RuthRoyall201126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-20T16:00:00+00:00",
+  "genres": [
+   "Drum & Bass",
+   "Jungle",
+   "Jump Up"
+  ],
+  "image": "https://image.rinse.fm/_/Bryan-Gee-November-2026-Younique-Music.jpg",
+  "minutes": 120,
+  "size": 288010009,
+  "title": "Ruth Royall & Euphonique - 20/11/2026 - 16:00"
+ },
  "https://replay.rinse.fm/swu/SGP270726.mp3": {
   "channel": "swu",
   "date": "2026-07-27T19:00:00+01:00",
@@ -26916,6 +26995,17 @@
   "minutes": 60,
   "size": 144010411,
   "title": "Yanari - 19/06/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/swu/Yanari201126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-20T18:00:00+00:00",
+  "genres": [
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/Yanari_NOV_2026.png",
+  "minutes": 60,
+  "size": 144010418,
+  "title": "Yanari - 20/11/2026 - 18:00"
  },
  "https://replay.rinse.fm/swu/Yanari210826.mp3": {
   "channel": "swu",
@@ -29951,6 +30041,19 @@
   "minutes": 60,
   "size": 144579205,
   "title": "DJ Polo - 18/09/2026 - 18:00"
+ },
+ "https://replay.rinse.fm/uk/DJPolo201126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-20T18:00:00+00:00",
+  "genres": [
+   "Amapiano",
+   "Broken Beat",
+   "Funky"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_4109-Xavier-Redkwa.jpeg",
+  "minutes": 60,
+  "size": 145978260,
+  "title": "DJ Polo - 20/11/2026 - 18:00"
  },
  "https://replay.rinse.fm/uk/DJPolo210826.mp3": {
   "channel": "uk",
@@ -33121,6 +33224,19 @@
   "minutes": 120,
   "size": 288122174,
   "title": "Jeremy Sylvester - 19/06/2026 - 14:00"
+ },
+ "https://replay.rinse.fm/uk/JeremySylvester201126.mp3": {
+  "channel": "uk",
+  "date": "2026-11-20T14:00:00+00:00",
+  "genres": [
+   "Garage",
+   "House",
+   "Electronic"
+  ],
+  "image": "https://image.rinse.fm/_/a85295dc-4b08-44aa-8353-4da67fd714cd-Jeremy-Sylvester.JPG",
+  "minutes": 120,
+  "size": 288806484,
+  "title": "Jeremy Sylvester - 20/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/uk/JeremySylvester210826.mp3": {
   "channel": "uk",
@@ -39066,6 +39182,15 @@
   "minutes": 180,
   "size": 431923082,
   "title": "Uncle Dugs - 17/07/2026 - 11:00"
+ },
+ "https://replay.rinse.fm/uk/UncleDugs201126.mp3": {
+  "channel": "kool",
+  "date": "2026-11-20T11:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/DSC04866-Uncle-Dugs.jpg",
+  "minutes": 180,
+  "size": 432175828,
+  "title": "Uncle Dugs - 20/11/2026 - 11:00"
  },
  "https://replay.rinse.fm/uk/UncleDugs210826.mp3": {
   "channel": "uk",

@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Cheff The Boy - 20/11/2026 - 20:00</title>
+<description>SWU FM, broadcast 20 Nov 2026 20:00</description>
+<enclosure url="https://replay.rinse.fm/swu/CheffTheBoy201126.mp3" length="144010408" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010408</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Cheff-The-Boy-Press-Shot-1.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Yanari - 20/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 20 Nov 2026 18:00. Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/Yanari201126.mp3" length="144010418" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010418</guid>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Yanari_NOV_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ruth Royall &amp; Euphonique - 20/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 20 Nov 2026 16:00. Drum &amp; Bass, Jungle, Jump Up</description>
+<enclosure url="https://replay.rinse.fm/swu/RuthRoyall201126.mp3" length="288010009" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010009</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Bryan-Gee-November-2026-Younique-Music.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Ruffneck Ting with Dazee - 20/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 20 Nov 2026 14:00. Drum &amp; Bass, Jungle, Jump Up</description>
 <enclosure url="https://replay.rinse.fm/swu/RuffneckTing201126.mp3" length="288010382" type="audio/mpeg"/>
@@ -2980,36 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/RSD.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Mystic State - 07/09/2026 - 23:00</title>
-<description>SWU FM, broadcast 17 Aug 2026 19:00. Drum &amp; Bass, Dubstep, Garage</description>
-<enclosure url="https://replay.rinse.fm/swu/MysticState170826.mp3" length="288009948" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009948</guid>
-<pubDate>Mon, 17 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mystic-State_Aug_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Delian Sound - 17/08/2026 - 18:00</title>
-<description>SWU FM, broadcast 17 Aug 2026 18:00. Dubstep, Bass, Garage</description>
-<enclosure url="https://replay.rinse.fm/swu/DelianSound170826.mp3" length="144010427" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010427</guid>
-<pubDate>Mon, 17 Aug 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Delian_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Jay0117 &amp; Stulla - 19/08/2026 - 03:00</title>
-<description>SWU FM, broadcast 17 Aug 2026 16:00. Presenters, Grime, Hip-Hop</description>
-<enclosure url="https://replay.rinse.fm/swu/Jay0117&amp;Stulla170826.mp3" length="288009727" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009727</guid>
-<pubDate>Mon, 17 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/TIA_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

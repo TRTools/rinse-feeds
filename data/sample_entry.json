@@ -8,204 +8,104 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "1331125",
-      "slug": "swu-purple",
-      "title": "SWU Purple"
+      "id": "95198",
+      "slug": "rinse-cyan",
+      "title": "Rinse Cyan"
      }
     ],
-    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+    "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
     "defaultTimezoneOffset": "Europe/London",
-    "extract": null,
-    "id": "1016220",
+    "extract": "Live from London",
+    "id": "35",
     "isPermanentChannel": true,
-    "lft": 12,
-    "slug": "swu",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
-    "title": "SWU FM"
+    "lft": 2,
+    "slug": "uk",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+    "title": "UK"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2026-11-20T00:00:00+00:00",
+  "displayTitle": "with Jazu",
+  "episodeDate": "2025-06-13T23:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-11-20T07:00:00+00:00",
-  "extract": null,
-  "featuredImage": [],
-  "fileUrl": "https://replay.rinse.fm/swu/PeterStorm181126.mp3",
-  "genreTag": [],
-  "id": "2325259",
-  "isRebroadcast": true,
-  "originalEpisode": [
+  "episodeTime": "2026-11-21T11:00:00+00:00",
+  "extract": "A deep dive into the record library of Jazu, London",
+  "featuredImage": [
    {
-    "__typename": "episode_episode_Entry",
-    "artistTitle": null,
-    "channel": [
-     {
-      "__typename": "channel_channel_Entry",
-      "channelColour": [
-       {
-        "__typename": "colour_Entry",
-        "id": "1331125",
-        "slug": "swu-purple",
-        "title": "SWU Purple"
-       }
-      ],
-      "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
-      "channelPagePreviewDateTime": null,
-      "defaultTimezoneOffset": "Europe/London",
-      "extract": null,
-      "id": "1016220",
-      "isPermanentChannel": true,
-      "lft": 12,
-      "slug": "swu",
-      "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
-      "title": "SWU FM"
-     }
+    "__typename": "media_Asset",
+    "filename": "FullSizeRender-JAZU-bar.jpeg",
+    "focalPoint": [
+     0.5,
+     0.5
     ],
-    "displayTitle": null,
-    "episodeDate": "2026-11-18T00:00:00+00:00",
-    "episodeLength": 120,
-    "episodeTime": "2026-11-20T12:00:00+00:00",
-    "extract": "The soulful side of House music",
-    "featuredImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "PeterStorm_NOV_2026.png",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1361,
-      "width": 1156
-     }
-    ],
-    "fileUrl": "https://replay.rinse.fm/swu/PeterStorm181126.mp3",
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "isFeaturedTag": true,
-      "isVisibleTag": true,
-      "slug": "house",
-      "title": "House"
-     },
-     {
-      "__typename": "genre_Tag",
-      "isFeaturedTag": false,
-      "isVisibleTag": true,
-      "slug": "soul",
-      "title": "Soul"
-     }
-    ],
-    "id": "2321275",
-    "isRebroadcast": false,
-    "parentShow": [
-     {
-      "__typename": "show_show_Entry",
-      "channel": [
-       {
-        "__typename": "channel_channel_Entry",
-        "slug": "swu"
-       }
-      ],
-      "defaultEpisodeImage": [],
-      "extract": "Joining the dots between Neo Soul and Soulful House.",
-      "featuredImage": [
-       {
-        "__typename": "media_Asset",
-        "filename": "Peter-Storm1-June23.jpg",
-        "focalPoint": [
-         0.5,
-         0.5
-        ],
-        "hasFocalPoint": false,
-        "height": 2160,
-        "width": 2160
-       }
-      ],
-      "genreTag": [
-       {
-        "__typename": "genre_Tag",
-        "slug": "soul",
-        "title": "Soul"
-       },
-       {
-        "__typename": "genre_Tag",
-        "slug": "house",
-        "title": "House"
-       },
-       {
-        "__typename": "genre_Tag",
-        "slug": "r-b",
-        "title": "R&B"
-       }
-      ],
-      "id": "1092607",
-      "showStatus": "highlighted",
-      "slug": "peter-storm",
-      "title": "Peter Storm",
-      "url": "https://admin.rinse.fm/shows/peter-storm"
-     }
-    ],
-    "slug": "peter-storm-18-11-2026-1200",
-    "subtitle": null,
-    "title": "Peter Storm - 18/11/2026 - 12:00",
-    "youtubeStreamUrl": null
+    "hasFocalPoint": false,
+    "height": 2934,
+    "width": 3912
    }
   ],
+  "fileUrl": "https://replay.rinse.fm/uk/HiFidelity140625.mp3",
+  "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "jazz",
+    "title": "Jazz"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "latin",
+    "title": "Latin"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "reggae",
+    "title": "Reggae"
+   }
+  ],
+  "id": "2159708",
+  "isRebroadcast": false,
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "swu"
+      "slug": "uk"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Joining the dots between Neo Soul and Soulful House.",
+    "extract": "Hi-Fidelity. A selection of some our favourite listening bars throughout London to take the reigns over the course of 2 hours. Lock in Saturdays 11AM-1PM.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Peter-Storm1-June23.jpg",
+      "filename": "1_2025-06-06-164623_tfye.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 2160,
-      "width": 2160
+      "height": 600,
+      "width": 1050
      }
     ],
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "soul",
-      "title": "Soul"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "house",
-      "title": "House"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "r-b",
-      "title": "R&B"
-     }
-    ],
-    "id": "1092607",
+    "genreTag": [],
+    "id": "2159022",
     "showStatus": "highlighted",
-    "slug": "peter-storm",
-    "title": "Peter Storm",
-    "url": "https://admin.rinse.fm/shows/peter-storm"
+    "slug": "hi-fidelity",
+    "title": "Hi-Fidelity",
+    "url": "https://admin.rinse.fm/shows/hi-fidelity"
    }
   ],
-  "slug": "peter-storm-20-11-2026-0700",
+  "slug": "hi-fidelity-14-06-2025-1100",
   "subtitle": null,
-  "title": "Peter Storm - 20/11/2026 - 07:00",
+  "title": "Hi-Fidelity - 14/06/2025 - 11:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Peter-Storm1-June23.jpg",
- "image_found_at": ".parentShow.featuredImage.filename"
+ "image": "https://image.rinse.fm/_/FullSizeRender-JAZU-bar.jpeg",
+ "image_found_at": ".featuredImage.filename"
 }
