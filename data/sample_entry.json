@@ -8,66 +8,52 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95198",
-      "slug": "rinse-cyan",
-      "title": "Rinse Cyan"
+      "id": "1331125",
+      "slug": "swu-purple",
+      "title": "SWU Purple"
      }
     ],
-    "channelLaunchDateTime": null,
+    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
     "channelPagePreviewDateTime": null,
     "defaultTimezoneOffset": "Europe/London",
-    "extract": "Live from London",
-    "id": "35",
+    "extract": null,
+    "id": "1016220",
     "isPermanentChannel": true,
-    "lft": 2,
-    "slug": "uk",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-    "title": "UK"
+    "lft": 12,
+    "slug": "swu",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
+    "title": "SWU FM"
    }
   ],
-  "displayTitle": "with Jazu",
-  "episodeDate": "2025-06-13T23:00:00+00:00",
+  "displayTitle": null,
+  "episodeDate": "2024-10-25T23:00:00+00:00",
   "episodeLength": 120,
-  "episodeTime": "2026-11-21T11:00:00+00:00",
-  "extract": "A deep dive into the record library of Jazu, London",
+  "episodeTime": "2026-11-22T10:00:00+00:00",
+  "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "FullSizeRender-JAZU-bar.jpeg",
+    "filename": "Bruiser_OCT_2024.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2934,
-    "width": 3912
+    "height": 1080,
+    "width": 1080
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/uk/HiFidelity140625.mp3",
+  "fileUrl": "https://replay.rinse.fm/swu/Bruiser261024.mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "jazz",
-    "title": "Jazz"
-   },
-   {
-    "__typename": "genre_Tag",
     "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "latin",
-    "title": "Latin"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "reggae",
-    "title": "Reggae"
+    "isVisibleTag": false,
+    "slug": "multigenre",
+    "title": "Multigenre"
    }
   ],
-  "id": "2159708",
+  "id": "2035456",
   "isRebroadcast": false,
   "parentShow": [
    {
@@ -75,37 +61,43 @@
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "uk"
+      "slug": "swu"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Hi-Fidelity. A selection of some our favourite listening bars throughout London to take the reigns over the course of 2 hours. Lock in Saturdays 11AM-1PM.",
+    "extract": "Bruiser bring you the finest in uncompromising and upfront music; from post-punk and indie-rock to leftfield hip-hop and electronica.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "1_2025-06-06-164623_tfye.png",
+      "filename": "Bruiser-June-23.jpg",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
-      "height": 600,
-      "width": 1050
+      "height": 1200,
+      "width": 1800
      }
     ],
-    "genreTag": [],
-    "id": "2159022",
+    "genreTag": [
+     {
+      "__typename": "genre_Tag",
+      "slug": "multigenre",
+      "title": "Multigenre"
+     }
+    ],
+    "id": "1070326",
     "showStatus": "highlighted",
-    "slug": "hi-fidelity",
-    "title": "Hi-Fidelity",
-    "url": "https://admin.rinse.fm/shows/hi-fidelity"
+    "slug": "bruiser",
+    "title": "Bruiser",
+    "url": "https://admin.rinse.fm/shows/bruiser"
    }
   ],
-  "slug": "hi-fidelity-14-06-2025-1100",
+  "slug": "bruiser-26-10-2024-1000",
   "subtitle": null,
-  "title": "Hi-Fidelity - 14/06/2025 - 11:00",
+  "title": "Bruiser - 26/10/2024 - 10:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/FullSizeRender-JAZU-bar.jpeg",
+ "image": "https://image.rinse.fm/_/Bruiser_OCT_2024.jpg",
  "image_found_at": ".featuredImage.filename"
 }

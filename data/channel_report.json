@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 37,
+  "count": 38,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/MENSONGES211126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/IfeoluwaTearsInTheClubavecTOYBOLTON221126(VBR).mp3"
  },
  "kool": {
-  "count": 22,
+  "count": 16,
   "sample_fields": {
    "channel": [
     {
@@ -58,7 +58,7 @@
   "sample_url": "https://replay.rinse.fm/kool/Metalheadz191126.mp3"
  },
  "swu": {
-  "count": 103,
+  "count": 95,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/BenDaley201126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/Bruiser261024.mp3"
  },
  "uk": {
-  "count": 46,
+  "count": 37,
   "sample_fields": {
    "channel": [
     {

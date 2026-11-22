@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ifeoluwa - 22/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 22 Nov 2026 19:00. Bass, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/IfeoluwaTearsInTheClubavecTOYBOLTON221126(VBR).mp3" length="114465235" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-114465235</guid>
+<pubDate>Sun, 22 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_2064-Ye-A.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>LU2K - 22/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 22 Nov 2026 18:00. Electro, Bass, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/LU2KinviteBASSAUNTIE22112026(320).mp3" length="149833596" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-149833596</guid>
+<pubDate>Sun, 22 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/lu2k_bass-auntie-lu-2k.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>POLAAR - 22/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 22 Nov 2026 17:00. Drum &amp; Bass, Bass, Footwork</description>
+<enclosure url="https://replay.rinse.fm/france/POLAARinviteBreaka-Farsight221126(VBR).mp3" length="122551083" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-122551083</guid>
+<pubDate>Sun, 22 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Farsight-Promo-Pic-B-Flore-Music.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Maya-Joy - 22/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 22 Nov 2026 14:00</description>
+<enclosure url="https://replay.rinse.fm/france/SoundsGoodavecMayaJoy221126(320).mp3" length="139358555" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-139358555</guid>
+<pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Sounds-Good-avec-Maya-Joy221126.00_47_37_05.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Mensonges - 21/11/2026 - 18:00</title>
 <description>Rinse France, broadcast 21 Nov 2026 18:00. Bass, Jungle, Dubstep</description>
 <enclosure url="https://replay.rinse.fm/france/MENSONGES211126(VBR).mp3" length="116415684" type="audio/mpeg"/>
@@ -2966,46 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Charlie-3000-09_26-Charlotte-Calamel-Duprey.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Miley Serious - 14/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 14 Sep 2026 20:00. Bass, Dance, Funky</description>
-<enclosure url="https://replay.rinse.fm/france/MileySeriousinviteKailynCrabbe140926(VBR).mp3" length="127418818" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-127418818</guid>
-<pubDate>Mon, 14 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/000035-Miley-Serious.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Souzo - 14/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 14 Sep 2026 19:00. Techno, Bass, Dub</description>
-<enclosure url="https://replay.rinse.fm/france/Souzo140726(VBR).mp3" length="124704924" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-124704924</guid>
-<pubDate>Mon, 14 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Souzo_rinse_artwork-Patrick-P.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sabor A Mi - 14/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 14 Sep 2026 16:00. Latin, House, Afrobeat</description>
-<enclosure url="https://replay.rinse.fm/france/SaborAMiMusicadelAlma140926(VBR).mp3" length="119846842" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-119846842</guid>
-<pubDate>Mon, 14 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/99322393-a791-48d5-ab6e-407da633a678-Sophie-LEGAY.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LU2K - 13/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 13 Sep 2026 19:00. Techno, Oldskool</description>
-<enclosure url="https://replay.rinse.fm/france/LU2K130926(VBR).mp3" length="145014363" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145014363</guid>
-<pubDate>Sun, 13 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/631a9-10-lu2k.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

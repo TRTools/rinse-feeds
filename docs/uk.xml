@@ -12,16 +12,6 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Ella Knight - 20/02/2026 - 18:00</title>
-<description>Rinse FM, broadcast 20 Nov 2026 18:00. House, Garage</description>
-<enclosure url="https://replay.rinse.fm/uk/EllaKnight200226.mp3" length="287770120" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287770120</guid>
-<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-02-19-at-16.56.25-Ella-Knight.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
 <title>DJ Polo - 20/11/2026 - 18:00</title>
 <description>Rinse FM, broadcast 20 Nov 2026 18:00. Amapiano, Broken Beat, Funky</description>
 <enclosure url="https://replay.rinse.fm/uk/DJPolo201126.mp3" length="145978260" type="audio/mpeg"/>
@@ -30,6 +20,16 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_4109-Xavier-Redkwa.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ella Knight - 20/02/2026 - 18:00</title>
+<description>Rinse FM, broadcast 20 Nov 2026 18:00. House, Garage</description>
+<enclosure url="https://replay.rinse.fm/uk/EllaKnight200226.mp3" length="287770120" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-287770120</guid>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-02-19-at-16.56.25-Ella-Knight.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Jeremy Sylvester - 20/11/2026 - 14:00</title>

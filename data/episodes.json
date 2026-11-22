@@ -2593,6 +2593,18 @@
   "size": 126249435,
   "title": "Hyas - 21/10/2026 - 19:00"
  },
+ "https://replay.rinse.fm/france/IfeoluwaTearsInTheClubavecTOYBOLTON221126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-22T19:00:00+00:00",
+  "genres": [
+   "Bass",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/IMG_2064-Ye-A.jpg",
+  "minutes": 60,
+  "size": 114465235,
+  "title": "Ifeoluwa - 22/11/2026 - 19:00"
+ },
  "https://replay.rinse.fm/france/IfeoluwaTearsInTheClubwnowtCelebrating10YearsofINTERVENTION)260726(VBR).mp3": {
   "channel": "france",
   "date": "2026-07-26T19:00:00+01:00",
@@ -3219,6 +3231,19 @@
   "minutes": 60,
   "size": 144467229,
   "title": "LU2K - 08/11/2026 - 19:00"
+ },
+ "https://replay.rinse.fm/france/LU2KinviteBASSAUNTIE22112026(320).mp3": {
+  "channel": "france",
+  "date": "2026-11-22T18:00:00+00:00",
+  "genres": [
+   "Electro",
+   "Bass",
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/lu2k_bass-auntie-lu-2k.jpeg",
+  "minutes": 60,
+  "size": 149833596,
+  "title": "LU2K - 22/11/2026 - 18:00"
  },
  "https://replay.rinse.fm/france/LaConnect'LeKaijuinviteHumanPlushie041126(VBR).mp3": {
   "channel": "france",
@@ -5066,6 +5091,19 @@
   "size": 117024949,
   "title": "POLAAR - 27/06/2026 - 20:00"
  },
+ "https://replay.rinse.fm/france/POLAARinviteBreaka-Farsight221126(VBR).mp3": {
+  "channel": "france",
+  "date": "2026-11-22T17:00:00+00:00",
+  "genres": [
+   "Drum & Bass",
+   "Bass",
+   "Footwork"
+  ],
+  "image": "https://image.rinse.fm/_/Farsight-Promo-Pic-B-Flore-Music.png",
+  "minutes": 60,
+  "size": 122551083,
+  "title": "POLAAR - 22/11/2026 - 17:00"
+ },
  "https://replay.rinse.fm/france/POLAARinviteHoneydrip251026(320).mp3": {
   "channel": "france",
   "date": "2026-10-25T17:00:00+00:00",
@@ -6291,6 +6329,15 @@
   "minutes": 60,
   "size": 143726997,
   "title": "Queer Cult Takeover - 30/06/2026 - 15:00"
+ },
+ "https://replay.rinse.fm/france/SoundsGoodavecMayaJoy221126(320).mp3": {
+  "channel": "france",
+  "date": "2026-11-22T14:00:00+00:00",
+  "genres": [],
+  "image": "https://image.rinse.fm/_/Sounds-Good-avec-Maya-Joy221126.00_47_37_05.Still001.jpg",
+  "minutes": 60,
+  "size": 139358555,
+  "title": "Maya-Joy - 22/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/france/SouthernFriedRecordsTakeoverSHEECamilleDoeB2BPovoa311026(VBR).mp3": {
   "channel": "france",
@@ -16819,6 +16866,17 @@
   "size": 288010869,
   "title": "Bruiser - 25/04/2026 - 10:00"
  },
+ "https://replay.rinse.fm/swu/Bruiser261024.mp3": {
+  "channel": "swu",
+  "date": "2026-11-22T10:00:00+00:00",
+  "genres": [
+   "Multigenre"
+  ],
+  "image": "https://image.rinse.fm/_/Bruiser_OCT_2024.jpg",
+  "minutes": 120,
+  "size": 288011003,
+  "title": "Bruiser - 26/10/2024 - 10:00"
+ },
  "https://replay.rinse.fm/swu/BrukRogersvsZeroT081024.mp3": {
   "channel": "swu",
   "date": "2026-10-27T12:00:00+00:00",
@@ -20038,6 +20096,18 @@
   "minutes": 120,
   "size": 288010446,
   "title": "Hazel Marimba - 22/06/2026 - 03:00"
+ },
+ "https://replay.rinse.fm/swu/HazelMarimba21126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-21T14:00:00+00:00",
+  "genres": [
+   "R&B",
+   "Soul"
+  ],
+  "image": "https://image.rinse.fm/_/Hazel_NOV_2026.jpg",
+  "minutes": 120,
+  "size": 288010296,
+  "title": "Hazel Marimba - 21/11/2026 - 14:00"
  },
  "https://replay.rinse.fm/swu/HeadsetSkillis110926.mp3": {
   "channel": "swu",
@@ -25649,6 +25719,17 @@
   "size": 288010356,
   "title": "Stay Up Forever - 20/06/2026 - 23:00"
  },
+ "https://replay.rinse.fm/swu/StayUpForever211126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-21T23:00:00+00:00",
+  "genres": [
+   "Techno"
+  ],
+  "image": "https://image.rinse.fm/_/tiagosantos_Nov_2026.jpg",
+  "minutes": 120,
+  "size": 288010287,
+  "title": "Stay Up Forever - 21/11/2026 - 23:00"
+ },
  "https://replay.rinse.fm/swu/SteveRice091126.mp3": {
   "channel": "swu",
   "date": "2026-11-09T12:00:00+00:00",
@@ -26307,6 +26388,19 @@
   "minutes": 120,
   "size": 288010340,
   "title": "Time To Rush - 19/06/2026 - 21:00"
+ },
+ "https://replay.rinse.fm/swu/TimeToRush201126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-20T21:00:00+00:00",
+  "genres": [
+   "Hardcore",
+   "Jungle",
+   "Old Skool"
+  ],
+  "image": "https://image.rinse.fm/_/Screenshot-2026-11-20-at-12.28.51.png",
+  "minutes": 120,
+  "size": 288010284,
+  "title": "Time To Rush - 20/11/2026 - 21:00"
  },
  "https://replay.rinse.fm/swu/TimeToRush210826.mp3": {
   "channel": "swu",
@@ -27079,6 +27173,32 @@
   "size": 288010426,
   "title": "YOSH - 21/06/2026 - 05:00"
  },
+ "https://replay.rinse.fm/swu/Yosh211126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-21T17:00:00+00:00",
+  "genres": [
+   "House",
+   "Garage",
+   "Breakbeat"
+  ],
+  "image": "https://image.rinse.fm/_/Yosh_NOV_2026.JPG",
+  "minutes": 120,
+  "size": 288010244,
+  "title": "YOSH - 21/11/2026 - 17:00"
+ },
+ "https://replay.rinse.fm/swu/YoungLion221126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-22T10:00:00+00:00",
+  "genres": [
+   "Dub",
+   "Roots",
+   "Reggae"
+  ],
+  "image": "https://image.rinse.fm/_/YoungLion_AUGUST3_2023.jpeg",
+  "minutes": 120,
+  "size": 288010256,
+  "title": "Young Lion - 22/11/2026 - 10:00"
+ },
  "https://replay.rinse.fm/swu/YoungLion230826.mp3": {
   "channel": "swu",
   "date": "2026-08-23T10:00:00+01:00",
@@ -27419,6 +27539,18 @@
   "minutes": 120,
   "size": 272000458,
   "title": "Zen Arcade - 16/08/2026 - 07:00"
+ },
+ "https://replay.rinse.fm/swu/ZenArcade211126.mp3": {
+  "channel": "swu",
+  "date": "2026-11-21T12:00:00+00:00",
+  "genres": [
+   "Electro",
+   "House"
+  ],
+  "image": "https://image.rinse.fm/_/ZenArcade_NOV_2026.JPG",
+  "minutes": 120,
+  "size": 288010294,
+  "title": "Zen Arcade - 21/11/2026 - 12:00"
  },
  "https://replay.rinse.fm/swu/Zoro021126.mp3": {
   "channel": "swu",
