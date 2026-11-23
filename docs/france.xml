@@ -12,6 +12,66 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Miley Serious - 23/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 23 Nov 2026 20:00. Ambient, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/MileySeriousinviteAlyzea231126(VBR).mp3" length="118331701" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-118331701</guid>
+<pubDate>Mon, 23 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/alyzea-slowed-sessions-cover-Miley-Serious.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>HORS-SOL - 23/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 23 Nov 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/france/HorsSolMarsO10C23112026(320).mp3" length="145251486" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145251486</guid>
+<pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Hors-Sol-Mars-O10C-23112026.00_25_48_20.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Soyoon - 23/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 23 Nov 2026 17:00. Dance, Broken Beat, Electro</description>
+<enclosure url="https://replay.rinse.fm/france/Soyoon23102026(VBR).mp3" length="124046373" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-124046373</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9015-Soyoon.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Sentaku - 23/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 23 Nov 2026 16:00. House, Dub, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/SentakuinvitesMejd231126(320).mp3" length="131916250" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-131916250</guid>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-11-23-at-13.45.15-Alexandre-Chauveau.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rinse France Guest Show - 23/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 23 Nov 2026 15:00. Rap, Multigenre, Afrobeat</description>
+<enclosure url="https://replay.rinse.fm/france/KEBRANOITZ231126(VBR).mp3" length="122213529" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-122213529</guid>
+<pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KEBRA-NOITZ-231126.00_26_18_11.Still003.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Le Dr. Julian - 23/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 23 Nov 2026 14:00. Talk, Podcast</description>
+<enclosure url="https://replay.rinse.fm/france/LeDr.JuliaEP0123112026(VBR).mp3" length="141259238" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-141259238</guid>
+<pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/EP01_Visuel.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Ifeoluwa - 22/11/2026 - 19:00</title>
 <description>Rinse France, broadcast 22 Nov 2026 19:00. Bass, Techno</description>
 <enclosure url="https://replay.rinse.fm/france/IfeoluwaTearsInTheClubavecTOYBOLTON221126(VBR).mp3" length="114465235" type="audio/mpeg"/>
@@ -2946,66 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/HYAS_SEPT1-Hyas.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Not Sorry - 16/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 16 Sep 2026 18:00. House, Electronic, Dance</description>
-<enclosure url="https://replay.rinse.fm/france/NOTSORRYDOU(VBR)1609.mp3" length="110048079" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-110048079</guid>
-<pubDate>Wed, 16 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DOU-09-2026-Dou-Dou.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>CHÔ! - 16/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 16 Sep 2026 17:00. Funky, Broken Beat, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/CHO1609VBR.mp3" length="116392665" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-116392665</guid>
-<pubDate>Wed, 16 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/0016403490_10-David-D.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Kiala Ogawa - 16/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 16 Sep 2026 14:00. Ambient, Jazz, Electronic</description>
-<enclosure url="https://replay.rinse.fm/france/MaidenVoyage1609VBR.mp3" length="115192892" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-115192892</guid>
-<pubDate>Wed, 16 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/B55AB286-9A2A-4E68-BC37-1B8B55319440-Kiala-Ogawa.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Nyege Nyege - 15/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 15 Sep 2026 19:00. Electronic, Multigenre, Techno</description>
-<enclosure url="https://replay.rinse.fm/france/NyegeNyegetakeoverxDJPO150726(VBR).mp3" length="120364150" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-120364150</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Po%CC%88_Se%CC%80te_cre%CC%81dit-Malu-Franc%CC%A7a-19-Po%CC%88-Beda.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Rinse France Guest Show - 15/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 15 Sep 2026 18:00. Electronic, Techno, Dance</description>
-<enclosure url="https://replay.rinse.fm/france/LibbyBrothers150926(320).mp3" length="144126372" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144126372</guid>
-<pubDate>Tue, 15 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Libby-Brothers-Sept-2026-DADDIE.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Charlie 3000 - 15/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 15 Sep 2026 14:00. Breakbeat, Experimental, Dub</description>
-<enclosure url="https://replay.rinse.fm/france/Charlie3000150926(VBR).mp3" length="267382769" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-267382769</guid>
-<pubDate>Tue, 15 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Charlie-3000-09_26-Charlotte-Calamel-Duprey.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

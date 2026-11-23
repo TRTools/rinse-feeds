@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Sufferah's Choice with Stryda - 23/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 23 Nov 2026 16:00. Reggae, Dub</description>
+<enclosure url="https://replay.rinse.fm/swu/SufferahsChoice231126.mp3" length="288009959" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009959</guid>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Stryda_Nov_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ishmael Ensemble - 23/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 23 Nov 2026 14:00. Jazz, Ambient, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/IshmaelEnsemble231126_FIX.mp3" length="288008960" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288008960</guid>
+<pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/MosesBoyd_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Escher - 22/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 22 Nov 2026 21:00. Multigenre, Dance, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/Escher221126.mp3" length="288009887" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009887</guid>
+<pubDate>Sun, 22 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/OR_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>ZamZam Sounds - 22/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 22 Nov 2026 16:00. Dub, Dubstep</description>
+<enclosure url="https://replay.rinse.fm/swu/ZamZam221126.mp3" length="288010282" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010282</guid>
+<pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/ZAMZAM_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Inner Echo - 22/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 22 Nov 2026 14:00. Bass, Dub, Dubstep</description>
+<enclosure url="https://replay.rinse.fm/swu/InnerEcho221126.mp3" length="288010300" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010300</guid>
+<pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LAPO_NOV_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Bruiser - 26/10/2024 - 10:00</title>
 <description>SWU FM, broadcast 22 Nov 2026 10:00. Multigenre</description>
 <enclosure url="https://replay.rinse.fm/swu/Bruiser261024.mp3" length="288011003" type="audio/mpeg"/>
@@ -60,6 +110,16 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Cheff-The-Boy-Press-Shot-1.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Notion - 20/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 20 Nov 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/swu/Notion250524.mp3" length="143775508" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143775508</guid>
+<pubDate>Fri, 20 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/notion.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Yanari - 20/11/2026 - 18:00</title>
@@ -2950,66 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Mike-Shawe_August_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Nectax - 11/09/2026 - 18:00</title>
-<description>SWU FM, broadcast 20 Aug 2026 22:00. Jungle, Footwork, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/Nectax200826.mp3" length="144010698" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010698</guid>
-<pubDate>Thu, 20 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/NECTAX_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Keeno - 20/08/2026 - 19:00</title>
-<description>SWU FM, broadcast 20 Aug 2026 19:00. Drum &amp; Bass, Liquid, Electronic</description>
-<enclosure url="https://replay.rinse.fm/swu/Keeno200826.mp3" length="288010173" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010173</guid>
-<pubDate>Thu, 20 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/KEENO-Aug-2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Axle - 20/08/2026 - 18:00</title>
-<description>SWU FM, broadcast 20 Aug 2026 18:00. Dubstep, Techno, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/Axle200826.mp3" length="144010726" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010726</guid>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Dub-Athlete_Aug_26.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yusuf Suave - 20/08/2026 - 12:00</title>
-<description>SWU FM, broadcast 20 Aug 2026 12:00. Latin, House, Reggae</description>
-<enclosure url="https://replay.rinse.fm/swu/YusufSuave200826.mp3" length="288010185" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010185</guid>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Yusuf-Suave_August_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Fez The Kid - 19/08/2026 - 22:00</title>
-<description>SWU FM, broadcast 19 Aug 2026 22:00. Dub, Techno, Dubstep</description>
-<enclosure url="https://replay.rinse.fm/swu/Fez190826.mp3" length="144018022" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144018022</guid>
-<pubDate>Wed, 19 Aug 2026 22:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Fez_AUG_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sofa Sound Bristol - 19/08/2026 - 19:00</title>
-<description>SWU FM, broadcast 19 Aug 2026 19:00. Drum &amp; Bass, Jungle, Jump Up</description>
-<enclosure url="https://replay.rinse.fm/swu/SofaSoundBristol190826.mp3" length="288013087" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288013087</guid>
-<pubDate>Wed, 19 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DLR_LD50_Aug_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -8,43 +8,50 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "1331125",
-      "slug": "swu-purple",
-      "title": "SWU Purple"
+      "id": "95203",
+      "slug": "rinse-steel",
+      "title": "Rinse Steel"
      }
     ],
-    "channelLaunchDateTime": "2023-09-09T11:00:00+00:00",
+    "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/London",
-    "extract": null,
-    "id": "1016220",
+    "defaultTimezoneOffset": "Europe/Paris",
+    "extract": "France Extract",
+    "id": "32",
     "isPermanentChannel": true,
-    "lft": 12,
-    "slug": "swu",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/swu/stream",
-    "title": "SWU FM"
+    "lft": 4,
+    "slug": "france",
+    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
+    "title": "France"
    }
   ],
-  "displayTitle": null,
-  "episodeDate": "2024-10-25T23:00:00+00:00",
-  "episodeLength": 120,
-  "episodeTime": "2026-11-22T10:00:00+00:00",
+  "displayTitle": "invite Alyzea",
+  "episodeDate": "2026-11-23T00:00:00+00:00",
+  "episodeLength": 60,
+  "episodeTime": "2026-11-23T20:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "Bruiser_OCT_2024.jpg",
+    "filename": "alyzea-slowed-sessions-cover-Miley-Serious.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 1080,
-    "width": 1080
+    "height": 4000,
+    "width": 4000
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/swu/Bruiser261024.mp3",
+  "fileUrl": "https://replay.rinse.fm/france/MileySeriousinviteAlyzea231126(VBR).mp3",
   "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "ambient",
+    "title": "Ambient"
+   },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
@@ -53,51 +60,62 @@
     "title": "Multigenre"
    }
   ],
-  "id": "2035456",
+  "id": "2326396",
   "isRebroadcast": false,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "swu"
+      "slug": "france"
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "Bruiser bring you the finest in uncompromising and upfront music; from post-punk and indie-rock to leftfield hip-hop and electronica.",
+    "extract": "“Mon show, c’est les archives de ce que peut représenter la scène de l’intérieur”, explique Miley Serious à propos de son émission mensuelle sur Rinse France. Dj et également boss du label 99cts Records, elle est l’une de nos résidentes depuis 2017.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "Bruiser-June-23.jpg",
+      "filename": "MILEY.png",
       "focalPoint": [
        0.5,
        0.5
       ],
       "hasFocalPoint": false,
       "height": 1200,
-      "width": 1800
+      "width": 1200
      }
     ],
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "multigenre",
-      "title": "Multigenre"
+      "slug": "techno",
+      "title": "Techno"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "jungle",
+      "title": "Jungle"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "hardcore",
+      "title": "Hardcore"
      }
     ],
-    "id": "1070326",
+    "id": "14288",
     "showStatus": "highlighted",
-    "slug": "bruiser",
-    "title": "Bruiser",
-    "url": "https://admin.rinse.fm/shows/bruiser"
+    "slug": "miley-serious",
+    "title": "Miley Serious",
+    "url": "https://admin.rinse.fm/shows/miley-serious"
    }
   ],
-  "slug": "bruiser-26-10-2024-1000",
+  "slug": "miley-serious-23-11-2026-2000",
   "subtitle": null,
-  "title": "Bruiser - 26/10/2024 - 10:00",
+  "title": "Miley Serious - 23/11/2026 - 20:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/Bruiser_OCT_2024.jpg",
+ "image": "https://image.rinse.fm/_/alyzea-slowed-sessions-cover-Miley-Serious.jpg",
  "image_found_at": ".featuredImage.filename"
 }

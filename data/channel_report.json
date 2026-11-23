@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 38,
+  "count": 37,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/IfeoluwaTearsInTheClubavecTOYBOLTON221126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/MileySeriousinviteAlyzea231126(VBR).mp3"
  },
  "kool": {
-  "count": 16,
+  "count": 22,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/Metalheadz191126.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/FokuzRecordings22116.mp3"
  },
  "swu": {
-  "count": 95,
+  "count": 106,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Bruiser261024.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/YoungLion221126.mp3"
  },
  "uk": {
-  "count": 37,
+  "count": 38,
   "sample_fields": {
    "channel": [
     {
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/HiFidelity140625.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/Flyo221126.mp3"
  }
 }
