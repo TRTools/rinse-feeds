@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Pineapple Records - 24/11/2026 - 18:00</title>
+<description>SWU FM, broadcast 24 Nov 2026 18:00. Garage, Jungle, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/PineappleRecords241126.mp3" length="144010472" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010472</guid>
+<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Pineapple-Records_Nov_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Room Service with Gallegos - 24/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 24 Nov 2026 16:00. Dance, Electronic, House</description>
+<enclosure url="https://replay.rinse.fm/swu/RoomService241126.mp3" length="288009476" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009476</guid>
+<pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Gallegos_Nov_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>GLM - 23/11/2026 - 22:00</title>
+<description>SWU FM, broadcast 23 Nov 2026 22:00. Dubstep, Garage, Grime</description>
+<enclosure url="https://replay.rinse.fm/swu/GLM231126.mp3" length="144010412" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010412</guid>
+<pubDate>Mon, 23 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Milzy_NOV_2026.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Submarine - 23/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 23 Nov 2026 21:00. Drum &amp; Bass, Dubstep, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/Submarine231126.mp3" length="144010426" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010426</guid>
+<pubDate>Mon, 23 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Alegra_NOV_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Sufferah's Choice with Stryda - 23/11/2026 - 16:00</title>
 <description>SWU FM, broadcast 23 Nov 2026 16:00. Reggae, Dub</description>
 <enclosure url="https://replay.rinse.fm/swu/SufferahsChoice231126.mp3" length="288009959" type="audio/mpeg"/>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Portway_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Bell Curve - 08/09/2026 - 22:00</title>
-<description>SWU FM, broadcast 22 Aug 2026 19:00. Bass, Multigenre, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/BellCurve220826.mp3" length="144010816" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010816</guid>
-<pubDate>Sat, 22 Aug 2026 19:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/BellCurve_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ruffneck Ting with Dazee - 21/08/2026 - 14:00</title>
-<description>SWU FM, broadcast 21 Aug 2026 14:00. Drum &amp; Bass, Jungle, Bass</description>
-<enclosure url="https://replay.rinse.fm/swu/RuffneckTing210826.mp3" length="288010259" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010259</guid>
-<pubDate>Fri, 21 Aug 2026 14:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_4875-Dj-Dazee.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ben Daley - 05/09/2026 - 07:00</title>
-<description>SWU FM, broadcast 21 Aug 2026 12:00. House, Garage, Old Skool</description>
-<enclosure url="https://replay.rinse.fm/swu/BenDaley210826.mp3" length="288010181" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010181</guid>
-<pubDate>Fri, 21 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Ben-Daley-June-2023_1.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 21/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 21 Aug 2026 10:00. Disco, Dance, Funk</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy210826.mp3" length="288010241" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288010241</guid>
-<pubDate>Fri, 21 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Mike-Shawe_August_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

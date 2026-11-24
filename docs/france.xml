@@ -12,6 +12,26 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Lorkestra - 24/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 24 Nov 2026 17:00. Bass, Dancehall, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/lorkestraavecFlores241126(320).mp3" length="104255466" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-104255466</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/LORKESTRA-SGS-FLORES-24.11.26-Lorkestra.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>honeymel - 24/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 24 Nov 2026 15:00</description>
+<enclosure url="https://replay.rinse.fm/france/honeymel241126(VBR).mp3" length="144786944" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144786944</guid>
+<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/honeymel241126.00_52_39_19.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Miley Serious - 23/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 23 Nov 2026 20:00. Ambient, Multigenre</description>
 <enclosure url="https://replay.rinse.fm/france/MileySeriousinviteAlyzea231126(VBR).mp3" length="118331701" type="audio/mpeg"/>
@@ -2986,26 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/MABOUL-BASMATI-mode-FRENCH-VORTEX-90-invite-LORD-FUNK-More-Orgasms-Y-La-Vibracion-jeudi-17-septembre-14h00-FRENCH-VORTEX.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Adam BFD - 16/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 16 Sep 2026 20:00. Electronic, Garage, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/AdamBFD160926(VBR).mp3" length="143470691" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143470691</guid>
-<pubDate>Wed, 16 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Adam-BFD-Adam-Boufeldja.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hyas - 16/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 16 Sep 2026 19:00. Footwork, Jazz, Bass</description>
-<enclosure url="https://replay.rinse.fm/france/hyas160926vbr.mp3" length="106656552" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-106656552</guid>
-<pubDate>Wed, 16 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/HYAS_SEPT1-Hyas.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

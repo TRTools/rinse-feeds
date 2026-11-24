@@ -25,32 +25,39 @@
     "title": "France"
    }
   ],
-  "displayTitle": "invite Alyzea",
-  "episodeDate": "2026-11-23T00:00:00+00:00",
+  "displayTitle": "présente Secret Gems Show avec Flores",
+  "episodeDate": "2026-11-24T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-23T20:00:00+00:00",
+  "episodeTime": "2026-11-24T17:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "alyzea-slowed-sessions-cover-Miley-Serious.jpg",
+    "filename": "LORKESTRA-SGS-FLORES-24.11.26-Lorkestra.JPG",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 4000,
-    "width": 4000
+    "height": 782,
+    "width": 1179
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/MileySeriousinviteAlyzea231126(VBR).mp3",
+  "fileUrl": "https://replay.rinse.fm/france/lorkestraavecFlores241126(320).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "ambient",
-    "title": "Ambient"
+    "slug": "bass",
+    "title": "Bass"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "dancehall",
+    "title": "Dancehall"
    },
    {
     "__typename": "genre_Tag",
@@ -60,7 +67,7 @@
     "title": "Multigenre"
    }
   ],
-  "id": "2326396",
+  "id": "2326410",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -73,11 +80,11 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "“Mon show, c’est les archives de ce que peut représenter la scène de l’intérieur”, explique Miley Serious à propos de son émission mensuelle sur Rinse France. Dj et également boss du label 99cts Records, elle est l’une de nos résidentes depuis 2017.",
+    "extract": "« Solaire », c’est le mot que notre cher Lorkestra choisit pour se définir lui-même, et on en pourrait pas être plus d’accord avec lui.",
     "featuredImage": [
      {
       "__typename": "media_Asset",
-      "filename": "MILEY.png",
+      "filename": "SQUARE_LORKESTRA.png",
       "focalPoint": [
        0.5,
        0.5
@@ -90,32 +97,47 @@
     "genreTag": [
      {
       "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
+      "slug": "afrobeats",
+      "title": "Afrobeats"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "jungle",
-      "title": "Jungle"
+      "slug": "amapiano",
+      "title": "Amapiano"
      },
      {
       "__typename": "genre_Tag",
-      "slug": "hardcore",
-      "title": "Hardcore"
+      "slug": "r-b",
+      "title": "R&B"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "funky",
+      "title": "Funky"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "reggaeton",
+      "title": "Reggaeton"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "garage",
+      "title": "Garage"
      }
     ],
-    "id": "14288",
+    "id": "15788",
     "showStatus": "highlighted",
-    "slug": "miley-serious",
-    "title": "Miley Serious",
-    "url": "https://admin.rinse.fm/shows/miley-serious"
+    "slug": "lorkestra",
+    "title": "Lorkestra",
+    "url": "https://admin.rinse.fm/shows/lorkestra"
    }
   ],
-  "slug": "miley-serious-23-11-2026-2000",
+  "slug": "lorkestra-24-11-2026-1700",
   "subtitle": null,
-  "title": "Miley Serious - 23/11/2026 - 20:00",
+  "title": "Lorkestra - 24/11/2026 - 17:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/alyzea-slowed-sessions-cover-Miley-Serious.jpg",
+ "image": "https://image.rinse.fm/_/LORKESTRA-SGS-FLORES-24.11.26-Lorkestra.JPG",
  "image_found_at": ".featuredImage.filename"
 }

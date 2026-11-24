@@ -12,6 +12,66 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Visionobi - 23/11/2026 - 21:00</title>
+<description>Kool FM, broadcast 23 Nov 2026 21:00. Drum &amp; Bass, Rollers, Liquid</description>
+<enclosure url="https://replay.rinse.fm/kool/Visionobi231126.mp3" length="288756296" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288756296</guid>
+<pubDate>Mon, 23 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_7084-Visionobi-Mc.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Deselecta - 23/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 23 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Deselecta231126.mp3" length="143651282" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143651282</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Deselecta_April_2025.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Channell - 23/11/2026 - 00:00</title>
+<description>Kool FM, broadcast 23 Nov 2026 00:00. Drum &amp; Bass, Electronic</description>
+<enclosure url="https://replay.rinse.fm/kool/Channell221126.mp3" length="142650214" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142650214</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9845-Alfie-Channell.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>BEXLO - 22/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 22 Nov 2026 23:00. Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/kool/BEXLO221126.mp3" length="147535131" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-147535131</guid>
+<pubDate>Sun, 22 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/222200c8-bb9a-41c5-bfb5-725c2986f907-BEXLO-MUSIC.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>CK3 - 22/11/2026 - 22:00</title>
+<description>Kool FM, broadcast 22 Nov 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/kool/CK3221126.mp3" length="145125666" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145125666</guid>
+<pubDate>Sun, 22 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/JackKimberPhotographyLtd-2-2-Charlie-Keeley_2024-05-20-170238_atyx.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Chef presents Identity Sessions - 22/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 22 Nov 2026 19:00</description>
+<enclosure url="https://replay.rinse.fm/kool/Chef221126.mp3" length="304112071" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-304112071</guid>
+<pubDate>Sun, 22 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_1296-2-CHEF.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Fokuz Recordings - 22/11/2026 - 16:00</title>
 <description>Kool FM, broadcast 22 Nov 2026 16:00</description>
 <enclosure url="https://replay.rinse.fm/kool/FokuzRecordings22116.mp3" length="143330450" type="audio/mpeg"/>
@@ -2949,66 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Crucast-Kasia-KENZO.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Fokus - 05/09/2026 - 19:00</title>
-<description>Kool FM, broadcast 05 Sep 2026 19:00. Drum &amp; Bass, minimal, Rollers</description>
-<enclosure url="https://replay.rinse.fm/kool/Fokus050926.mp3" length="288435556" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288435556</guid>
-<pubDate>Sat, 05 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Verbz_Fokus_Kool_outside-Phil-Stanley.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Teej - 04/09/2026 - 23:00</title>
-<description>Kool FM, broadcast 04 Sep 2026 23:00. Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/Teej040926.mp3" length="288188921" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288188921</guid>
-<pubDate>Fri, 04 Sep 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/RNS_2026-09-02_19-30-41-Teejdnb.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>OS:MAN - 04/09/2026 - 21:00</title>
-<description>Kool FM, broadcast 04 Sep 2026 21:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/OSMAN040926.mp3" length="289199356" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-289199356</guid>
-<pubDate>Fri, 04 Sep 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/halftone_1788437769.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Planet Wax - 04/09/2026 - 19:00</title>
-<description>Kool FM, broadcast 04 Sep 2026 19:00. Jungle, Drum &amp; Bass</description>
-<enclosure url="https://replay.rinse.fm/kool/PlanetWax040926.mp3" length="293518968" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-293518968</guid>
-<pubDate>Fri, 04 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DSCN0272-Chris-Dexta.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Ibiza Records Show - 04/09/2026 - 16:00</title>
-<description>Kool FM, broadcast 04 Sep 2026 16:00</description>
-<enclosure url="https://replay.rinse.fm/kool/IbizaRecords040926.mp3" length="128235990" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-128235990</guid>
-<pubDate>Fri, 04 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Paul-Ibiza-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Crate Classics - 05/09/2026 - 07:00</title>
-<description>Kool FM, broadcast 04 Sep 2026 14:00. Drum &amp; Bass, Jungle, Liquid</description>
-<enclosure url="https://replay.rinse.fm/kool/CrateClassics040926.mp3" length="288434520" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288434520</guid>
-<pubDate>Fri, 04 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/e16e17e0-6d0c-44ef-81a9-f3ff18d6c4d4-Jamie-Rodigan.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

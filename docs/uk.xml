@@ -12,6 +12,76 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>DJ Stingray 313 - 23/11/2026 - 20:00</title>
+<description>Rinse FM, broadcast 23 Nov 2026 20:00. Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/DJStingray231126.mp3" length="144397407" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144397407</guid>
+<pubDate>Mon, 23 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/shawescape-renegade-at-zk-u-c-elisa-georgi-2024-11-Isa-Modern-Matters.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>COIDO - 23/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 23 Nov 2026 18:00. Drum &amp; Bass, Techno, minimal</description>
+<enclosure url="https://replay.rinse.fm/uk/COIDO231126.mp3" length="144223868" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144223868</guid>
+<pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC_5620-Canegiallo23.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Ghoulish - 23/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 23 Nov 2026 17:00. House, Garage, minimal</description>
+<enclosure url="https://replay.rinse.fm/uk/ghoulish231126.mp3" length="144196720" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144196720</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_9118-Adam-Harper.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>HalfPint - 23/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 23 Nov 2026 14:00. Experimental, Electronic, House</description>
+<enclosure url="https://replay.rinse.fm/uk/HalfPint231126.mp3" length="144804826" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144804826</guid>
+<pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8358-Fred-Houser.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Camille Munn - 23/11/2026 - 12:00</title>
+<description>Rinse FM, broadcast 23 Nov 2026 12:00</description>
+<enclosure url="https://replay.rinse.fm/uk/CamilleMunn231126.mp3" length="144658519" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144658519</guid>
+<pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Camille-Munn-2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Oblig - 22/11/2026 - 21:00</title>
+<description>Rinse FM, broadcast 22 Nov 2026 21:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Oblig221126.mp3" length="286885896" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286885896</guid>
+<pubDate>Sun, 22 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Oblig-May-2022.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Plastician - 22/11/2026 - 18:00</title>
+<description>Rinse FM, broadcast 22 Nov 2026 18:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Plastician221126.mp3" length="288587057" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288587057</guid>
+<pubDate>Sun, 22 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-11-20-at-14.30.30-Terrorhythm-Team.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Flyo - 22/11/2026 - 17:00</title>
 <description>Rinse FM, broadcast 22 Nov 2026 17:00. Hip-Hop, Drill</description>
 <enclosure url="https://replay.rinse.fm/uk/Flyo221126.mp3" length="143810037" type="audio/mpeg"/>
@@ -2940,76 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/834676962_1144208561620894_7811793188230727593_n-Riria-Booking.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>George FitzGerald - 07/10/2026 - 19:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 19:00. House, Electronic, Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/GeorgeFitzGerald071026.mp3" length="144161197" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144161197</guid>
-<pubDate>Wed, 07 Oct 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_2553-George-FitzGerald.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>ESC - 07/10/2026 - 18:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 18:00. Garage, Dubstep, Bass</description>
-<enclosure url="https://replay.rinse.fm/uk/ESC071026_.mp3" length="143241633" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143241633</guid>
-<pubDate>Wed, 07 Oct 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-10-05-at-21.32.55-Ella.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Utopia Presents - 07/10/2026 - 15:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 15:00. Jazz, Broken Beat, House</description>
-<enclosure url="https://replay.rinse.fm/uk/Utopia07102026.mp3" length="288435107" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288435107</guid>
-<pubDate>Wed, 07 Oct 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_0053-Utopia-Presents.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Jumbi - 07/10/2026 - 14:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 14:00. Dub, Electronic, Experimental</description>
-<enclosure url="https://replay.rinse.fm/uk/Jumbi07102026.mp3" length="143475356" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143475356</guid>
-<pubDate>Wed, 07 Oct 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8934.JPG-Amos-Mukombero.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Eclecticist - 07/10/2026 - 13:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 13:00</description>
-<enclosure url="https://replay.rinse.fm/uk/Eclecticist07102026.mp3" length="144209933" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144209933</guid>
-<pubDate>Wed, 07 Oct 2026 13:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sticky Dub - 07/10/2026 - 12:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 12:00. Multigenre</description>
-<enclosure url="https://replay.rinse.fm/uk/StickyDub071026.mp3" length="146188280" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-146188280</guid>
-<pubDate>Wed, 07 Oct 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/a15591b2-3ac3-4c1e-ba11-e361f9b6d887-Elias-Dubicki.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Soul Mass Transit System - 06/10/2026 - 22:00</title>
-<description>Rinse FM, broadcast 06 Oct 2026 22:00. Garage, House</description>
-<enclosure url="https://replay.rinse.fm/uk/SoulMassTransit061026.mp3" length="145474825" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145474825</guid>
-<pubDate>Tue, 06 Oct 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/1060810-jordon-saxton.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
