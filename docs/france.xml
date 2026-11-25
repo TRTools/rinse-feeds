@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>De Grandi - 25/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 25 Nov 2026 20:00. Bass, Experimental, Ambient</description>
+<enclosure url="https://replay.rinse.fm/france/DeGrandiinviteMyriaIdha251126(320).mp3" length="126764506" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-126764506</guid>
+<pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PXL_20261017_0823536472-Nicolas-De-Grandi.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Feadz - 25/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 25 Nov 2026 18:00. Electronic, Hip-Hop, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/Feadz-TopNotchVinylMix2(320).mp3" length="153707295" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-153707295</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_0738-FEADZ.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>WEDOMiEL - 25/11/2026 - 15:00</title>
+<description>Rinse France, broadcast 25 Nov 2026 15:00. Latin, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/france/YENDRYITWMIELPAP_01.mp3" length="82639223" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-82639223</guid>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/cover-rinse-Press-Photo-11-Karla-Read-sharpen-face-BASEI-RBS.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Kokoprisci - 24/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 24 Nov 2026 19:00. Funky, Dubstep, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/france/TheKokoShowavecKokoprisci241126(320).mp3" length="136919289" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-136919289</guid>
+<pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KOKOPRISCI_THE_KOKO_SHOW_NOV_26-Copie-2-kokoprisci.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Kaïlys - 24/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 24 Nov 2026 18:00. Electronic, Multigenre, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/KailysvsMoustafha241126(320).mp3" length="127950064" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-127950064</guid>
+<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Kai%CC%88lys-Novembre-2026-Kathia-Nseke.PNG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Lorkestra - 24/11/2026 - 17:00</title>
 <description>Rinse France, broadcast 24 Nov 2026 17:00. Bass, Dancehall, Multigenre</description>
 <enclosure url="https://replay.rinse.fm/france/lorkestraavecFlores241126(320).mp3" length="104255466" type="audio/mpeg"/>
@@ -49,7 +99,7 @@
 <pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Hors-Sol-Mars-O10C-23112026.00_25_48_20.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+<itunes:image href="https://image.rinse.fm/_/Mars-O10C.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 <item>
 <title>Soyoon - 23/11/2026 - 17:00</title>
@@ -2956,56 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_1317-la-bambaataa.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MumBeats - 18/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 18 Sep 2026 14:00. Talk, Podcast</description>
-<enclosure url="https://replay.rinse.fm/france/Maxye180926(VBR).mp3" length="139280464" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-139280464</guid>
-<pubDate>Fri, 18 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/0F4981DD-EC26-4844-9EE9-272BE62BF0DB-Marie-Ayme%CC%81.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>LAZE - 17/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 17 Sep 2026 20:00. Multigenre, Electronic, Latin</description>
-<enclosure url="https://replay.rinse.fm/france/LAZEinvitesukubratz17.09.26(VBR).mp3" length="144285779" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144285779</guid>
-<pubDate>Thu, 17 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_3207-Lisa-Ferrari.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Soeurs Malsaines - 17/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 17 Sep 2026 19:00. Electro, Disco, Techno</description>
-<enclosure url="https://replay.rinse.fm/france/LeSaintb2bMariePrude(VBR).mp3" length="152720269" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-152720269</guid>
-<pubDate>Thu, 17 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/unnamed_2026-09-15-174620_lrqv.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>TTristana - 17/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 17 Sep 2026 18:00. Bass, Multigenre, Dubstep</description>
-<enclosure url="https://replay.rinse.fm/france/TTristana170926(VBR).mp3" length="134622369" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-134622369</guid>
-<pubDate>Thu, 17 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_2432-Tristana.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MABOUL BASMATI - 17/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 17 Sep 2026 14:00. Funk, Disco, Soul</description>
-<enclosure url="https://replay.rinse.fm/france/MABOULBASMATImodeFRENCHVORTEXinviteLORDFUNK170926(VBR).mp3" length="143881714" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-143881714</guid>
-<pubDate>Thu, 17 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MABOUL-BASMATI-mode-FRENCH-VORTEX-90-invite-LORD-FUNK-More-Orgasms-Y-La-Vibracion-jeudi-17-septembre-14h00-FRENCH-VORTEX.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

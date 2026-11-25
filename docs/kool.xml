@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>L-Side - 24/11/2026 - 21:00</title>
+<description>Kool FM, broadcast 24 Nov 2026 21:00. Drum &amp; Bass, Jungle, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/L-Side241126.mp3" length="288083326" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288083326</guid>
+<pubDate>Tue, 24 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DSC_5486-Leonardo-Silva.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Technimatic - 24/11/2026 - 19:00</title>
+<description>Kool FM, broadcast 24 Nov 2026 19:00. Drum &amp; Bass, Liquid, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/Technimatic251126.mp3" length="288274572" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288274572</guid>
+<pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/T-bw-4-of-4-peter-rogers_2026-11-18-164052_qgxf.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jamie G presents the United Colours Of Jungle Show - 24/11/2026 - 17:00</title>
+<description>Kool FM, broadcast 24 Nov 2026 17:00. Jungle, Drum &amp; Bass, Rollers</description>
+<enclosure url="https://replay.rinse.fm/kool/JamieG241126.mp3" length="289669570" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289669570</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/7ca64e2c-7105-41a1-ae17-4050b58a1912-Jamie-G_2026-11-23-225106_hujb.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Klute - 23/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 23 Nov 2026 23:00. Drum &amp; Bass, Techstep, Intelligent</description>
+<enclosure url="https://replay.rinse.fm/kool/Klute231126.mp3" length="286458509" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-286458509</guid>
+<pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Klute-11_26-Tom-Klute.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Visionobi - 23/11/2026 - 21:00</title>
 <description>Kool FM, broadcast 23 Nov 2026 21:00. Drum &amp; Bass, Rollers, Liquid</description>
 <enclosure url="https://replay.rinse.fm/kool/Visionobi231126.mp3" length="288756296" type="audio/mpeg"/>
@@ -2969,46 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/sept-show-Saab-Mcdj.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>The Jinx - 06/09/2026 - 12:00</title>
-<description>Kool FM, broadcast 06 Sep 2026 12:00. Oldskool, Hardcore</description>
-<enclosure url="https://replay.rinse.fm/kool/TheJinxTX060926.mp3" length="287822155" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287822155</guid>
-<pubDate>Sun, 06 Sep 2026 12:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG-20250525-WA0015-james-claridge.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Eastman - 06/09/2026 - 10:00</title>
-<description>Kool FM, broadcast 06 Sep 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/kool/Eastman060926.mp3" length="276160007" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-276160007</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Eastman-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Transparent Audio - 05/09/2026 - 23:00</title>
-<description>Kool FM, broadcast 05 Sep 2026 23:00. Drum &amp; Bass, Dubstep, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/TransparentYamatai050926.mp3" length="288230838" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288230838</guid>
-<pubDate>Sat, 05 Sep 2026 23:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Revan_-7_Edit_4000_BW-Transparent-Audio.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Crucast - 05/09/2026 - 21:00</title>
-<description>Kool FM, broadcast 05 Sep 2026 21:00. Drum &amp; Bass, Jungle</description>
-<enclosure url="https://replay.rinse.fm/kool/Crucast050926.mp3" length="288426144" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288426144</guid>
-<pubDate>Sat, 05 Sep 2026 21:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Crucast-Kasia-KENZO.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Diffrent - 24/11/2026 - 23:00</title>
+<description>Rinse FM, broadcast 24 Nov 2026 23:00. Bass, Garage, Techno</description>
+<enclosure url="https://replay.rinse.fm/uk/Diffrent241126.mp3" length="144241702" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144241702</guid>
+<pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Diffrent_%40niko.neithardt_00006-Felipe-Pineros.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Fracture - 24/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 24 Nov 2026 22:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Fracture241126.mp3" length="143740833" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143740833</guid>
+<pubDate>Tue, 24 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Apollonia - 24/11/2026 - 19:00</title>
+<description>Rinse FM, broadcast 24 Nov 2026 19:00. House</description>
+<enclosure url="https://replay.rinse.fm/uk/Shonky241126.mp3" length="292177285" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-292177285</guid>
+<pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/unnamed-3-1-Thibaut-Veys.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Brighter Days Family - 24/11/2026 - 15:00</title>
+<description>Rinse FM, broadcast 24 Nov 2026 15:00</description>
+<enclosure url="https://replay.rinse.fm/uk/Brigtherdaysfamily241126.mp3" length="288112659" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288112659</guid>
+<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Brighter-Days-March-2023.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Kojay - 24/11/2026 - 14:00</title>
+<description>Rinse FM, broadcast 24 Nov 2026 14:00. Jazz, Electronic, Multigenre</description>
+<enclosure url="https://replay.rinse.fm/uk/Kojay241126.mp3" length="144190469" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144190469</guid>
+<pubDate>Tue, 24 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_2078-Kojay-Innis.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>DJ Stingray 313 - 23/11/2026 - 20:00</title>
 <description>Rinse FM, broadcast 23 Nov 2026 20:00. Techno</description>
 <enclosure url="https://replay.rinse.fm/uk/DJStingray231126.mp3" length="144397407" type="audio/mpeg"/>
@@ -2960,56 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Tom-Ravenscroft-June-2025-2.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Cassy - 08/10/2026 - 14:00</title>
-<description>Rinse FM, broadcast 08 Oct 2026 14:00. Experimental, Ambient, Intelligent</description>
-<enclosure url="https://replay.rinse.fm/uk/Cassy081026.mp3" length="144431456" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144431456</guid>
-<pubDate>Thu, 08 Oct 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-10-07-at-20.37.04.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>SK Vibemaker - 08/10/2026 - 13:00</title>
-<description>Rinse FM, broadcast 08 Oct 2026 13:00. Hip-Hop, Dancehall, R&amp;B</description>
-<enclosure url="https://replay.rinse.fm/uk/SKVibemaker081026.mp3" length="145601763" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-145601763</guid>
-<pubDate>Thu, 08 Oct 2026 13:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-10-07-at-20.34.58.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hi-Fidelity - 08/10/2026 - 12:00</title>
-<description>Rinse FM, broadcast 08 Oct 2026 12:00. Multigenre, House, Jazz</description>
-<enclosure url="https://replay.rinse.fm/uk/MadCats081026.mp3" length="144171287" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144171287</guid>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Sean-Rinse-sean-Gorham.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yazmin Lacey - 08/10/2026 - 10:00</title>
-<description>Rinse FM, broadcast 08 Oct 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/uk/YazminLacey081026.mp3" length="286403852" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-286403852</guid>
-<pubDate>Thu, 08 Oct 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Untitled-design-Cleo-Khan.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Riria - 07/10/2026 - 20:00</title>
-<description>Rinse FM, broadcast 07 Oct 2026 20:00. Garage, Bass, Dub</description>
-<enclosure url="https://replay.rinse.fm/uk/riria071026.mp3" length="144210270" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144210270</guid>
-<pubDate>Wed, 07 Oct 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/834676962_1144208561620894_7811793188230727593_n-Riria-Booking.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

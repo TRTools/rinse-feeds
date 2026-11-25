@@ -25,25 +25,25 @@
     "title": "France"
    }
   ],
-  "displayTitle": "présente Secret Gems Show avec Flores",
-  "episodeDate": "2026-11-24T00:00:00+00:00",
+  "displayTitle": "invite Myria Idha",
+  "episodeDate": "2026-11-25T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-24T17:00:00+00:00",
+  "episodeTime": "2026-11-25T20:00:00+00:00",
   "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "LORKESTRA-SGS-FLORES-24.11.26-Lorkestra.JPG",
+    "filename": "PXL_20261017_0823536472-Nicolas-De-Grandi.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 782,
-    "width": 1179
+    "height": 4032,
+    "width": 2268
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/lorkestraavecFlores241126(320).mp3",
+  "fileUrl": "https://replay.rinse.fm/france/DeGrandiinviteMyriaIdha251126(320).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
@@ -54,20 +54,20 @@
    },
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": false,
+    "isFeaturedTag": true,
     "isVisibleTag": true,
-    "slug": "dancehall",
-    "title": "Dancehall"
+    "slug": "experimental",
+    "title": "Experimental"
    },
    {
     "__typename": "genre_Tag",
-    "isFeaturedTag": false,
-    "isVisibleTag": false,
-    "slug": "multigenre",
-    "title": "Multigenre"
+    "isFeaturedTag": true,
+    "isVisibleTag": true,
+    "slug": "ambient",
+    "title": "Ambient"
    }
   ],
-  "id": "2326410",
+  "id": "2326440",
   "isRebroadcast": false,
   "originalEpisode": [],
   "parentShow": [
@@ -80,64 +80,21 @@
      }
     ],
     "defaultEpisodeImage": [],
-    "extract": "« Solaire », c’est le mot que notre cher Lorkestra choisit pour se définir lui-même, et on en pourrait pas être plus d’accord avec lui.",
-    "featuredImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "SQUARE_LORKESTRA.png",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1200,
-      "width": 1200
-     }
-    ],
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "afrobeats",
-      "title": "Afrobeats"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "amapiano",
-      "title": "Amapiano"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "r-b",
-      "title": "R&B"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "funky",
-      "title": "Funky"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "reggaeton",
-      "title": "Reggaeton"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "garage",
-      "title": "Garage"
-     }
-    ],
-    "id": "15788",
-    "showStatus": "highlighted",
-    "slug": "lorkestra",
-    "title": "Lorkestra",
-    "url": "https://admin.rinse.fm/shows/lorkestra"
+    "extract": null,
+    "featuredImage": [],
+    "genreTag": [],
+    "id": "2022269",
+    "showStatus": "hidden",
+    "slug": "de-grandi",
+    "title": "De Grandi",
+    "url": "https://admin.rinse.fm/shows/de-grandi"
    }
   ],
-  "slug": "lorkestra-24-11-2026-1700",
+  "slug": "de-grandi-25-11-2026-2000",
   "subtitle": null,
-  "title": "Lorkestra - 24/11/2026 - 17:00",
+  "title": "De Grandi - 25/11/2026 - 20:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/LORKESTRA-SGS-FLORES-24.11.26-Lorkestra.JPG",
+ "image": "https://image.rinse.fm/_/PXL_20261017_0823536472-Nicolas-De-Grandi.jpg",
  "image_found_at": ".featuredImage.filename"
 }
