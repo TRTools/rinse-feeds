@@ -12,6 +12,46 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Universal Magnetic - 26/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 26 Nov 2026 14:00. Broken Beat, House, Jazz</description>
+<enclosure url="https://replay.rinse.fm/swu/UniversalMagnetic261126.mp3" length="288009975" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009975</guid>
+<pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/KaijuBrokenhead_NOV_2026.PNG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Felix Joy - 26/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 26 Nov 2026 10:00</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy261126.mp3" length="288010476" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010476</guid>
+<pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rotate - 25/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 25 Nov 2026 23:00. Breakbeat, Drum &amp; Bass, Liquid</description>
+<enclosure url="https://replay.rinse.fm/swu/Rotate251126.mp3" length="144010430" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144010430</guid>
+<pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Rotate_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>DJ Die presents GutterFunk - 25/11/2026 - 19:00</title>
+<description>SWU FM, broadcast 25 Nov 2026 19:00. Funk, Disco, Drum &amp; Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/DJDiePresGutterfunk251126.mp3" length="288012027" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288012027</guid>
+<pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/cb85ee07-e746-4953-abbb-259e5f63a3d6.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Don't Admit Defeat - 25/11/2026 - 00:00</title>
 <description>SWU FM, broadcast 25 Nov 2026 00:00. House, Disco, Dance</description>
 <enclosure url="https://replay.rinse.fm/swu/DAD241126.mp3" length="144009038" type="audio/mpeg"/>
@@ -2970,46 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Hypho_AUG_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MINTY - 14/03/2025 - 16:00</title>
-<description>SWU FM, broadcast 24 Aug 2026 16:00. Bass, Dubstep, Grime</description>
-<enclosure url="https://replay.rinse.fm/swu/Minty140325.mp3" length="144010789" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010789</guid>
-<pubDate>Mon, 24 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MINTY_March_2025.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sufferah's Choice with Stryda - 24/08/2026 - 16:00</title>
-<description>SWU FM, broadcast 24 Aug 2026 16:00. Dub, Reggae</description>
-<enclosure url="https://replay.rinse.fm/swu/SufferahsChoice240826.mp3" length="283016371" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-283016371</guid>
-<pubDate>Mon, 24 Aug 2026 16:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Stryda_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>More Soup DJs - 22/09/2026 - 07:00</title>
-<description>SWU FM, broadcast 24 Aug 2026 12:00. Disco, Funky, Soul</description>
-<enclosure url="https://replay.rinse.fm/swu/MoreSoupTX240826.mp3" length="281267178" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-281267178</guid>
-<pubDate>Mon, 24 Aug 2026 12:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/More-Soup-August-26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 24/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 24 Aug 2026 10:00. Talk, Hip Hop, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy240826.mp3" length="288009978" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009978</guid>
-<pubDate>Mon, 24 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Bubba_August_26.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

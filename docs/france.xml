@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>To Van Kao - 26/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 26 Nov 2026 20:00. Electro, Grime, Experimental</description>
+<enclosure url="https://replay.rinse.fm/france/ToVanKao-ElectroGrimeRepeat_261126(320).mp3" length="143968120" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143968120</guid>
+<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_8938-To-Van-Kao_2026-11-26-181533_jafj.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Scarlett - 26/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 26 Nov 2026 18:00. Latin, Experimental, Dance</description>
+<enclosure url="https://replay.rinse.fm/france/Scarlett261126.mp3" length="114345102" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-114345102</guid>
+<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Loss-Index-Press-Photo-16-Susana-Moyaho-1x1-He%CC%81la-Savonniere.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Jaydakid - 26/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 26 Nov 2026 17:00. Rap, Hiphop, Trap</description>
+<enclosure url="https://replay.rinse.fm/france/LeLaboavecJaydakid261126(320).mp3" length="130801741" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-130801741</guid>
+<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Le-labo-avec-Jaydakid-11_2026-Jay-Da-Kid.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Naomi - 26/11/2026 - 16:00</title>
+<description>Rinse France, broadcast 26 Nov 2026 16:00. Bass, Electronic, Breakbeat</description>
+<enclosure url="https://replay.rinse.fm/france/NAOMI261126(VBR).mp3" length="143301475" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-143301475</guid>
+<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Naomi-Novembre-2026-Naomi-Cle%CC%81ment.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>TONAK.fm - 26/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 26 Nov 2026 14:00. Multigenre, House, Talk</description>
+<enclosure url="https://replay.rinse.fm/france/TONAKfm-MusicForTheSoul-23_261126(320).mp3" length="273796853" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-273796853</guid>
+<pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/TONAK.fm-Music-For-The-Soul23_261126.01_51_53_09.Still001.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>De Grandi - 25/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 25 Nov 2026 20:00. Bass, Experimental, Ambient</description>
 <enclosure url="https://replay.rinse.fm/france/DeGrandiinviteMyriaIdha251126(320).mp3" length="126764506" type="audio/mpeg"/>
@@ -2956,56 +3006,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Mensonges_SEPT-Mensonges.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>2-Steppers - 19/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 19 Sep 2026 16:00. Garage</description>
-<enclosure url="https://replay.rinse.fm/france/2SteppersinviteServye.mp3" length="147475822" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-147475822</guid>
-<pubDate>Sat, 19 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Untitled-design-2-Steppers.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Yaël Ohayon - 19/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 19 Sep 2026 14:00. House</description>
-<enclosure url="https://replay.rinse.fm/france/YaelOhayon19926(320).mp3" length="126831960" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-126831960</guid>
-<pubDate>Sat, 19 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_4138-Ygal-Ohayon.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Useless Seconds - 18/09/2026 - 20:00</title>
-<description>Rinse France, broadcast 18 Sep 2026 20:00. Techno</description>
-<enclosure url="https://replay.rinse.fm/france/uselesssecondsinviteNessiel180926(VBR).mp3" length="125185446" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-125185446</guid>
-<pubDate>Fri, 18 Sep 2026 20:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_8640_VSCO-Coiffure.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Misantropical - 18/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 18 Sep 2026 17:00. Bass, Latin, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/MISANTROPICALinviteSOFIXIT180926(VBR).mp3" length="141671542" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-141671542</guid>
-<pubDate>Fri, 18 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SOFIXTI-092026-Sofi%CC%81a-Zambrano.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Queer Cult - 18/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 18 Sep 2026 16:00. Techno, Electronic, Multigenre</description>
-<enclosure url="https://replay.rinse.fm/france/QueerCultinviteVanivachi180926(320).mp3" length="140300801" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-140300801</guid>
-<pubDate>Fri, 18 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/IMG_1317-la-bambaataa.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

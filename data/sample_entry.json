@@ -8,93 +8,120 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95203",
-      "slug": "rinse-steel",
-      "title": "Rinse Steel"
+      "id": "95198",
+      "slug": "rinse-cyan",
+      "title": "Rinse Cyan"
      }
     ],
     "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/Paris",
-    "extract": "France Extract",
-    "id": "32",
+    "defaultTimezoneOffset": "Europe/London",
+    "extract": "Live from London",
+    "id": "35",
     "isPermanentChannel": true,
-    "lft": 4,
-    "slug": "france",
-    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
-    "title": "France"
+    "lft": 2,
+    "slug": "uk",
+    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+    "title": "UK"
    }
   ],
-  "displayTitle": "invite Myria Idha",
-  "episodeDate": "2026-11-25T00:00:00+00:00",
+  "displayTitle": "with moktar",
+  "episodeDate": "2026-11-19T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-25T20:00:00+00:00",
-  "extract": null,
+  "episodeTime": "2026-11-26T22:00:00+00:00",
+  "extract": "After dropping his HAZMAT EP earlier this year, moktar steps up for an hour of dizzying electronics.",
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "PXL_20261017_0823536472-Nicolas-De-Grandi.jpg",
+    "filename": "000017430020-Sebastian-Swanborough.jpg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 4032,
-    "width": 2268
+    "height": 2400,
+    "width": 3600
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/france/DeGrandiinviteMyriaIdha251126(320).mp3",
+  "fileUrl": "https://replay.rinse.fm/uk/SteelCityDanceDiscsTX191126.mp3",
   "genreTag": [
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": true,
+    "slug": "electronic",
+    "title": "Electronic"
+   },
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": true,
     "isVisibleTag": true,
     "slug": "bass",
     "title": "Bass"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "experimental",
-    "title": "Experimental"
-   },
-   {
-    "__typename": "genre_Tag",
-    "isFeaturedTag": true,
-    "isVisibleTag": true,
-    "slug": "ambient",
-    "title": "Ambient"
    }
   ],
-  "id": "2326440",
+  "id": "2325016",
   "isRebroadcast": false,
-  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "france"
+      "slug": "uk"
      }
     ],
-    "defaultEpisodeImage": [],
-    "extract": null,
-    "featuredImage": [],
-    "genreTag": [],
-    "id": "2022269",
-    "showStatus": "hidden",
-    "slug": "de-grandi",
-    "title": "De Grandi",
-    "url": "https://admin.rinse.fm/shows/de-grandi"
+    "defaultEpisodeImage": [
+     {
+      "__typename": "media_Asset",
+      "filename": "Steel-City-Dance-Discs_Press-Shot_1600x900.png",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 900,
+      "width": 1600
+     }
+    ],
+    "extract": "From Steel City (Newcastle, Australia) to London, buckle up for a sonic voyage with the S.C.D.D family and their monthly injection of dancefloor venom.",
+    "featuredImage": [
+     {
+      "__typename": "media_Asset",
+      "filename": "steelcitydancediscs.jpeg",
+      "focalPoint": [
+       0.5,
+       0.5
+      ],
+      "hasFocalPoint": false,
+      "height": 1440,
+      "width": 1440
+     }
+    ],
+    "genreTag": [
+     {
+      "__typename": "genre_Tag",
+      "slug": "bass",
+      "title": "Bass"
+     },
+     {
+      "__typename": "genre_Tag",
+      "slug": "techno",
+      "title": "Techno"
+     }
+    ],
+    "id": "12672",
+    "showStatus": "highlighted",
+    "slug": "steel-city-dance-discs",
+    "title": "Steel City Dance Discs",
+    "url": "https://admin.rinse.fm/shows/steel-city-dance-discs"
    }
   ],
-  "slug": "de-grandi-25-11-2026-2000",
+  "slug": "steel-city-dance-discs-19-11-2026-2200",
   "subtitle": null,
-  "title": "De Grandi - 25/11/2026 - 20:00",
+  "title": "Steel City Dance Discs - 19/11/2026 - 22:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/PXL_20261017_0823536472-Nicolas-De-Grandi.jpg",
+ "image": "https://image.rinse.fm/_/000017430020-Sebastian-Swanborough.jpg",
  "image_found_at": ".featuredImage.filename"
 }

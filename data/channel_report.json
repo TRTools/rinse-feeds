@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 35,
+  "count": 34,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/DeGrandiinviteMyriaIdha251126(320).mp3"
+  "sample_url": "https://replay.rinse.fm/france/ToVanKao-ElectroGrimeRepeat_261126(320).mp3"
  },
  "kool": {
-  "count": 27,
+  "count": 26,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/L-Side241126.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/SABRINA221026.mp3"
  },
  "swu": {
-  "count": 101,
+  "count": 94,
   "sample_fields": {
    "channel": [
     {
@@ -84,7 +84,7 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/PartyResponsewithARLO181126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/UniversalMagnetic261126.mp3"
  },
  "uk": {
   "count": 37,
@@ -113,6 +113,6 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/uk/Diffrent241126.mp3"
+  "sample_url": "https://replay.rinse.fm/uk/SteelCityDanceDiscsTX191126.mp3"
  }
 }

@@ -12,6 +12,16 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/kool.jpg?v=33b207a6</url><title>Kool FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/kool.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>100% - 08/04/2026 - 16:00</title>
+<description>Kool FM, broadcast 26 Nov 2026 16:00</description>
+<enclosure url="https://replay.rinse.fm/kool/100Metalheadz080426.mp3" length="149310658" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-149310658</guid>
+<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Metalheadz-Memorabilia-by-Chelone-Wolf-22-Tom-Dagless.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>L-Side - 24/11/2026 - 21:00</title>
 <description>Kool FM, broadcast 24 Nov 2026 21:00. Drum &amp; Bass, Jungle, Rollers</description>
 <enclosure url="https://replay.rinse.fm/kool/L-Side241126.mp3" length="288083326" type="audio/mpeg"/>
@@ -2999,16 +3009,6 @@
 <itunes:author>Kool FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/WINSLOW-PRESS-120-5-Duncan-Winslow.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Shockin B - 06/09/2026 - 14:00</title>
-<description>Kool FM, broadcast 06 Sep 2026 14:00. Jungle, Drum &amp; Bass, Presenters</description>
-<enclosure url="https://replay.rinse.fm/kool/ShockinB060926.mp3" length="287308107" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287308107</guid>
-<pubDate>Sun, 06 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Kool FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/sept-show-Saab-Mcdj.png?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
