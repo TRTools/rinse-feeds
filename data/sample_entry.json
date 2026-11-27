@@ -8,49 +8,56 @@
     "channelColour": [
      {
       "__typename": "colour_Entry",
-      "id": "95198",
-      "slug": "rinse-cyan",
-      "title": "Rinse Cyan"
+      "id": "95203",
+      "slug": "rinse-steel",
+      "title": "Rinse Steel"
      }
     ],
     "channelLaunchDateTime": null,
     "channelPagePreviewDateTime": null,
-    "defaultTimezoneOffset": "Europe/London",
-    "extract": "Live from London",
-    "id": "35",
+    "defaultTimezoneOffset": "Europe/Paris",
+    "extract": "France Extract",
+    "id": "32",
     "isPermanentChannel": true,
-    "lft": 2,
-    "slug": "uk",
-    "streamerMountPoint": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
-    "title": "UK"
+    "lft": 4,
+    "slug": "france",
+    "streamerMountPoint": "https://radio10.pro-fhi.net/flux-trmqtiat/stream",
+    "title": "France"
    }
   ],
-  "displayTitle": "with moktar",
-  "episodeDate": "2026-11-19T00:00:00+00:00",
+  "displayTitle": "invite AZADI.MP3",
+  "episodeDate": "2026-11-27T00:00:00+00:00",
   "episodeLength": 60,
-  "episodeTime": "2026-11-26T22:00:00+00:00",
-  "extract": "After dropping his HAZMAT EP earlier this year, moktar steps up for an hour of dizzying electronics.",
+  "episodeTime": "2026-11-27T20:00:00+00:00",
+  "extract": null,
   "featuredImage": [
    {
     "__typename": "media_Asset",
-    "filename": "000017430020-Sebastian-Swanborough.jpg",
+    "filename": "WhatsApp-Image-2026-11-26-at-15.02.56.jpeg",
     "focalPoint": [
      0.5,
      0.5
     ],
     "hasFocalPoint": false,
-    "height": 2400,
-    "width": 3600
+    "height": 5120,
+    "width": 3828
    }
   ],
-  "fileUrl": "https://replay.rinse.fm/uk/SteelCityDanceDiscsTX191126.mp3",
+  "fileUrl": "https://replay.rinse.fm/france/ASIANCOREinviteAZADI271126(VBR).mp3",
   "genreTag": [
    {
     "__typename": "genre_Tag",
     "isFeaturedTag": false,
-    "isVisibleTag": true,
-    "slug": "electronic",
-    "title": "Electronic"
+    "isVisibleTag": false,
+    "slug": "talk",
+    "title": "Talk"
+   },
+   {
+    "__typename": "genre_Tag",
+    "isFeaturedTag": false,
+    "isVisibleTag": false,
+    "slug": "multigenre",
+    "title": "Multigenre"
    },
    {
     "__typename": "genre_Tag",
@@ -60,68 +67,34 @@
     "title": "Bass"
    }
   ],
-  "id": "2325016",
+  "id": "2326482",
   "isRebroadcast": false,
+  "originalEpisode": [],
   "parentShow": [
    {
     "__typename": "show_show_Entry",
     "channel": [
      {
       "__typename": "channel_channel_Entry",
-      "slug": "uk"
+      "slug": "france"
      }
     ],
-    "defaultEpisodeImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "Steel-City-Dance-Discs_Press-Shot_1600x900.png",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 900,
-      "width": 1600
-     }
-    ],
-    "extract": "From Steel City (Newcastle, Australia) to London, buckle up for a sonic voyage with the S.C.D.D family and their monthly injection of dancefloor venom.",
-    "featuredImage": [
-     {
-      "__typename": "media_Asset",
-      "filename": "steelcitydancediscs.jpeg",
-      "focalPoint": [
-       0.5,
-       0.5
-      ],
-      "hasFocalPoint": false,
-      "height": 1440,
-      "width": 1440
-     }
-    ],
-    "genreTag": [
-     {
-      "__typename": "genre_Tag",
-      "slug": "bass",
-      "title": "Bass"
-     },
-     {
-      "__typename": "genre_Tag",
-      "slug": "techno",
-      "title": "Techno"
-     }
-    ],
-    "id": "12672",
-    "showStatus": "highlighted",
-    "slug": "steel-city-dance-discs",
-    "title": "Steel City Dance Discs",
-    "url": "https://admin.rinse.fm/shows/steel-city-dance-discs"
+    "defaultEpisodeImage": [],
+    "extract": null,
+    "featuredImage": [],
+    "genreTag": [],
+    "id": "2071214",
+    "showStatus": "hidden",
+    "slug": "asian-core",
+    "title": "ASIAN CORE",
+    "url": "https://admin.rinse.fm/shows/asian-core"
    }
   ],
-  "slug": "steel-city-dance-discs-19-11-2026-2200",
+  "slug": "asian-core-27-11-2026-2000",
   "subtitle": null,
-  "title": "Steel City Dance Discs - 19/11/2026 - 22:00",
+  "title": "ASIAN CORE - 27/11/2026 - 20:00",
   "youtubeStreamUrl": null
  },
- "image": "https://image.rinse.fm/_/000017430020-Sebastian-Swanborough.jpg",
+ "image": "https://image.rinse.fm/_/WhatsApp-Image-2026-11-26-at-15.02.56.jpeg",
  "image_found_at": ".featuredImage.filename"
 }

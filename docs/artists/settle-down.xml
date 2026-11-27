@@ -8,9 +8,19 @@
 <itunes:author>Settle Down on Rinse</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
-<itunes:image href="https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth_2026-10-28-142525_sqmp.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-<image><url>https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth_2026-10-28-142525_sqmp.JPEG?w=1400&amp;h=1400&amp;fit=crop</url><title>Settle Down on Rinse</title><link>https://www.rinse.fm/shows/settle-down</link></image>
+<itunes:image href="https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth_2026-11-24-212708_fiko.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+<image><url>https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth_2026-11-24-212708_fiko.JPEG?w=1400&amp;h=1400&amp;fit=crop</url><title>Settle Down on Rinse</title><link>https://www.rinse.fm/shows/settle-down</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/artists/settle-down.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SETTLE DOWN - 25/11/2026 - 23:00</title>
+<description>Kool FM, broadcast 25 Nov 2026 23:00. Drum &amp; Bass, Jungle, Broken Beat</description>
+<enclosure url="https://replay.rinse.fm/kool/SETTLEDOWNTX251126.mp3" length="288010086" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010086</guid>
+<pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Kool FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/6B0852CA-569C-449A-8577-8A0F0CF4EAB5-Greg-Hepworth_2026-11-24-212708_fiko.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
 <item>
 <title>SETTLE DOWN - 28/10/2026 - 23:00</title>
 <description>Kool FM, broadcast 28 Oct 2026 23:00</description>

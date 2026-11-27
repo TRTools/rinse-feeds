@@ -12,6 +12,36 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>shekdash - 25/11/2026 - 23:00</title>
+<description>Rinse FM, broadcast 25 Nov 2026 23:00. Techno, House, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/Shekdash251126.mp3" length="144088058" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144088058</guid>
+<pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/48D6430E-3DF8-41CA-BFFC-8A4419413BA8-Shek-Ahmed-Jarrett.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>1985 Music - 25/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 25 Nov 2026 22:00. Dubstep, Drum &amp; Bass, Soul</description>
+<enclosure url="https://replay.rinse.fm/uk/1985Music251126.mp3" length="144612274" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144612274</guid>
+<pubDate>Wed, 25 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/PHOTO-2-Nikola-Tordeich.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>X &amp; Ivy - 25/11/2026 - 21:00</title>
+<description>Rinse FM, broadcast 25 Nov 2026 21:00. House, Electronic</description>
+<enclosure url="https://replay.rinse.fm/uk/X&amp;Ivy251126.mp3" length="144061925" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144061925</guid>
+<pubDate>Wed, 25 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/294A8842-Simon-Bensoussan.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Buckley - 25/11/2026 - 17:00</title>
 <description>Rinse FM, broadcast 25 Nov 2026 17:00. Ambient, House, Techno</description>
 <enclosure url="https://replay.rinse.fm/uk/Buckley251126.mp3" length="144153463" type="audio/mpeg"/>
@@ -2980,36 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>7200</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/bc063c3b-dea2-40e0-a1ea-97b8b1334e82-Man-Power.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Heras Records - 09/10/2026 - 18:00</title>
-<description>Rinse FM, broadcast 09 Oct 2026 18:00. Techno, Electro, Bass</description>
-<enclosure url="https://replay.rinse.fm/uk/HERASRecords091026.mp3" length="288057341" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288057341</guid>
-<pubDate>Fri, 09 Oct 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/thumbnail_HERAS_PRIMAL_PADS_CENTRE_LABEL-copy-Ruairi_2026-10-08-192421_aykt.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Supa D - 21/09/2025 - 15:00</title>
-<description>Rinse FM, broadcast 09 Oct 2026 15:00</description>
-<enclosure url="https://replay.rinse.fm/uk/SupaD210925.mp3" length="287963268" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287963268</guid>
-<pubDate>Fri, 09 Oct 2026 15:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Supa-D.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>The MoodSwing Show - 09/10/2026 - 14:00</title>
-<description>Rinse FM, broadcast 09 Oct 2026 14:00. Garage, House, Oldskool</description>
-<enclosure url="https://replay.rinse.fm/uk/TheMoodswingShow091026.mp3" length="288617405" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288617405</guid>
-<pubDate>Fri, 09 Oct 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DSC01492-Lady-Passion.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

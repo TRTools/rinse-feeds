@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/swu.jpg?v=349c5b9a</url><title>SWU FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/swu.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Ruggz - 27/11/2026 - 14:00</title>
+<description>SWU FM, broadcast 27 Nov 2026 14:00. Funky, Bass, Garage</description>
+<enclosure url="https://replay.rinse.fm/swu/Ruggz271126.mp3" length="288009891" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009891</guid>
+<pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Bakey_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Felix Joy - 27/11/2026 - 10:00</title>
+<description>SWU FM, broadcast 27 Nov 2026 10:00. Funk, Soul</description>
+<enclosure url="https://replay.rinse.fm/swu/FelixJoy271126.mp3" length="288009973" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009973</guid>
+<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DAD-Paul_Nov_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Western Lore - 26/11/2026 - 23:00</title>
+<description>SWU FM, broadcast 26 Nov 2026 23:00. Jungle, Breakbeat, Electronic</description>
+<enclosure url="https://replay.rinse.fm/swu/WesternLore261126.mp3" length="288009927" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288009927</guid>
+<pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/DMC_Nov_2026.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Disaffected - 26/11/2026 - 21:00</title>
+<description>SWU FM, broadcast 26 Nov 2026 21:00. Dance, Breakbeat, Bass</description>
+<enclosure url="https://replay.rinse.fm/swu/Disaffected261126.mp3" length="144019166" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144019166</guid>
+<pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Disaffected_Nov_26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>wav16 - 26/11/2026 - 16:00</title>
+<description>SWU FM, broadcast 26 Nov 2026 16:00. Grime, Hip Hop, R&amp;B</description>
+<enclosure url="https://replay.rinse.fm/swu/wav16_261126.mp3" length="288010140" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-288010140</guid>
+<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:author>SWU FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/wav16_Nov_26.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>Universal Magnetic - 26/11/2026 - 14:00</title>
 <description>SWU FM, broadcast 26 Nov 2026 14:00. Broken Beat, House, Jazz</description>
 <enclosure url="https://replay.rinse.fm/swu/UniversalMagnetic261126.mp3" length="288009975" type="audio/mpeg"/>
@@ -2960,56 +3010,6 @@
 <itunes:author>SWU FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Farrell_AUG_2026.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Don't Admit Defeat - 26/08/2026 - 00:00</title>
-<description>SWU FM, broadcast 26 Aug 2026 00:00. House, Disco, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/DAD250826.mp3" length="144010437" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010437</guid>
-<pubDate>Wed, 26 Aug 2026 00:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Screenshot-2026-08-24-at-20.33.55.png?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>DJ Cosworth - 27/01/2026 - 23:00</title>
-<description>SWU FM, broadcast 25 Aug 2026 23:00. House</description>
-<enclosure url="https://replay.rinse.fm/swu/DJCosworth270126.mp3" length="144009443" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144009443</guid>
-<pubDate>Tue, 25 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/DJ-Cosworth-Jan-26.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Sir Hiss - 25/08/2026 - 21:00</title>
-<description>SWU FM, broadcast 25 Aug 2026 21:00. Electronic, Bass, Dance</description>
-<enclosure url="https://replay.rinse.fm/swu/SirHiss250826.mp3" length="144010279" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010279</guid>
-<pubDate>Tue, 25 Aug 2026 21:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/SirHiss_AUG_2026.JPEG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Felix Joy - 25/08/2026 - 10:00</title>
-<description>SWU FM, broadcast 25 Aug 2026 10:00</description>
-<enclosure url="https://replay.rinse.fm/swu/FelixJoy250826.mp3" length="287990045" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-287990045</guid>
-<pubDate>Tue, 25 Aug 2026 10:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/FelixJoy2024.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Hypho - 26/08/2026 - 03:00</title>
-<description>SWU FM, broadcast 24 Aug 2026 23:00. Bass, Dubstep, Techno</description>
-<enclosure url="https://replay.rinse.fm/swu/HYPHO240826.mp3" length="288009938" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288009938</guid>
-<pubDate>Mon, 24 Aug 2026 23:00:00 +0100</pubDate>
-<itunes:author>SWU FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Hypho_AUG_2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>
