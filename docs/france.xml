@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/france.jpg?v=423662cb</url><title>Rinse France</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/france.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Shampain - 28/11/2026 - 20:00</title>
+<description>Rinse France, broadcast 28 Nov 2026 20:00</description>
+<enclosure url="https://replay.rinse.fm/france/ShampaininviteSTITCH281126(320).mp3" length="122832459" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-122832459</guid>
+<pubDate>Sat, 28 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/image3-Co%CC%81ili%CC%81-Collins.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Coffintexts - 28/11/2026 - 19:00</title>
+<description>Rinse France, broadcast 28 Nov 2026 19:00. Electronic, Dance, Bass</description>
+<enclosure url="https://replay.rinse.fm/france/coffintextsinvitesbebebad2812026(VBR).mp3" length="110812661" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-110812661</guid>
+<pubDate>Sat, 28 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/BEBE-BAD-_-11-_-2026-alexandra-muggli.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Tomás Urquieta - 28/11/2026 - 18:00</title>
+<description>Rinse France, broadcast 28 Nov 2026 18:00. House</description>
+<enclosure url="https://replay.rinse.fm/france/tomasurquieta28112026(VBR).mp3" length="92656249" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-92656249</guid>
+<pubDate>Sat, 28 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/55B55391-53EC-44A7-A601-C2104F440AD7-Toma%CC%81s-Urquieta.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>King Doudou - 28/11/2026 - 17:00</title>
+<description>Rinse France, broadcast 28 Nov 2026 17:00. Reggaeton, Electronic, Trap</description>
+<enclosure url="https://replay.rinse.fm/france/KINGDOUDOU281126(VBR).mp3" length="120283575" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-120283575</guid>
+<pubDate>Sat, 28 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/King-Doudou-nov-2026-hugo-passaquin.png?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Giorgi Pipia - 28/11/2026 - 14:00</title>
+<description>Rinse France, broadcast 28 Nov 2026 14:00. Electronic, House, Techno</description>
+<enclosure url="https://replay.rinse.fm/france/GiorgiPipiawithLowdub28112026(VBR).mp3" length="119906788" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-119906788</guid>
+<pubDate>Sat, 28 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:author>Rinse France</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/Slide-6-Giorgi-Pipia.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>ASIAN CORE - 27/11/2026 - 20:00</title>
 <description>Rinse France, broadcast 27 Nov 2026 20:00. Talk, Multigenre, Bass</description>
 <enclosure url="https://replay.rinse.fm/france/ASIANCOREinviteAZADI271126(VBR).mp3" length="142003378" type="audio/mpeg"/>
@@ -2955,56 +3005,6 @@
 <itunes:author>Rinse France</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/Belaria_Septembre_2026-Belaria_2026-09-22-133826_tkzv.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Fiona Zanetti - 21/09/2026 - 18:00</title>
-<description>Rinse France, broadcast 21 Sep 2026 18:00</description>
-<enclosure url="https://replay.rinse.fm/france/FionaZanetti.mp3" length="81867630" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-81867630</guid>
-<pubDate>Mon, 21 Sep 2026 18:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Image_2026-09-21-152428_daqg.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Music For Tourist - 21/09/2026 - 17:00</title>
-<description>Rinse France, broadcast 21 Sep 2026 17:00. Podcast</description>
-<enclosure url="https://replay.rinse.fm/france/MusicforTouristinviteSonyaHibiscus(VBR).mp3" length="135553605" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-135553605</guid>
-<pubDate>Mon, 21 Sep 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MA-PREF-Christophe-Martinon_2026-09-21-090713_xgye.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Tatie Dee - 21/09/2026 - 16:00</title>
-<description>Rinse France, broadcast 21 Sep 2026 16:00. House</description>
-<enclosure url="https://replay.rinse.fm/france/TatieDeeinvitesLumaG210926(VBR).mp3" length="144039999" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144039999</guid>
-<pubDate>Mon, 21 Sep 2026 16:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/tatie-dee-septembre-2026.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>O.Xander - 21/09/2026 - 14:00</title>
-<description>Rinse France, broadcast 21 Sep 2026 14:00. Electronic, Ambient, House</description>
-<enclosure url="https://replay.rinse.fm/france/OXANDER210926(VBR).mp3" length="118794523" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-118794523</guid>
-<pubDate>Mon, 21 Sep 2026 14:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/OXANDER_09_2026-Rado-Andriamiraho.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>MUTEK - 20/09/2026 - 19:00</title>
-<description>Rinse France, broadcast 20 Sep 2026 19:00. House, Dub, Electro</description>
-<enclosure url="https://replay.rinse.fm/france/MUTEKinviteCUERPOS200926(VBR).mp3" length="80550891" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-80550891</guid>
-<pubDate>Sun, 20 Sep 2026 19:00:00 +0100</pubDate>
-<itunes:author>Rinse France</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/MUTEKinviteCUERPOS_Sept26-Thomas-Giboudeaux.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

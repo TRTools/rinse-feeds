@@ -12,6 +12,56 @@
 <image><url>https://TRTools.github.io/rinse-feeds/covers/uk.jpg?v=543baf20</url><title>Rinse FM</title><link>https://www.rinse.fm</link></image>
 <atom:link href="https://TRTools.github.io/rinse-feeds/uk.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>NIKS - 26/11/2026 - 22:00</title>
+<description>Rinse FM, broadcast 26 Nov 2026 22:00. House</description>
+<enclosure url="https://replay.rinse.fm/uk/NIKS261126.mp3" length="144173708" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-144173708</guid>
+<pubDate>Thu, 26 Nov 2026 22:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/NIKS-rinse-pic-Niks-Delanancy.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Mona Yim - 26/11/2026 - 17:00</title>
+<description>Rinse FM, broadcast 26 Nov 2026 17:00</description>
+<enclosure url="https://replay.rinse.fm/uk/MonaYim261126.mp3" length="141830026" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-141830026</guid>
+<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_124227_0-Mona-Yim.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Rollo Jackson - 26/11/2026 - 13:00</title>
+<description>Rinse FM, broadcast 26 Nov 2026 13:00. Electronic, Bass, Presenters</description>
+<enclosure url="https://replay.rinse.fm/uk/RolloJackson261126.mp3" length="145604248" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-145604248</guid>
+<pubDate>Thu, 26 Nov 2026 13:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/4DDE29A8-B1EC-4086-9EDE-BFDDE1131B80-Rollo-Jackson.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Hi-Fidelity - 26/11/2026 - 12:00</title>
+<description>Rinse FM, broadcast 26 Nov 2026 12:00. Jazz, Ambient, Experimental</description>
+<enclosure url="https://replay.rinse.fm/uk/BehindThisWall261126.mp3" length="142178922" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-142178922</guid>
+<pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>3600</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/58840015-Alex-Harris.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
+<title>Yazmin Lacey - 26/11/2026 - 10:00</title>
+<description>Rinse FM, broadcast 26 Nov 2026 10:00. Hip-Hop, Funky, R&amp;B</description>
+<enclosure url="https://replay.rinse.fm/uk/YazminLacey261126.mp3" length="289575475" type="audio/mpeg"/>
+<guid isPermaLink="false">rinse-size-289575475</guid>
+<pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:author>Rinse FM</itunes:author>
+<itunes:duration>7200</itunes:duration>
+<itunes:image href="https://image.rinse.fm/_/IMG_6994-Cleo-Khan.JPG?w=1400&amp;h=1400&amp;fit=crop"/>
+</item>
+<item>
 <title>shekdash - 25/11/2026 - 23:00</title>
 <description>Rinse FM, broadcast 25 Nov 2026 23:00. Techno, House, Electronic</description>
 <enclosure url="https://replay.rinse.fm/uk/Shekdash251126.mp3" length="144088058" type="audio/mpeg"/>
@@ -2960,56 +3010,6 @@
 <itunes:author>Rinse FM</itunes:author>
 <itunes:duration>3600</itunes:duration>
 <itunes:image href="https://image.rinse.fm/_/IMG_7219-Tony.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Dean Bryce - 11/10/2026 - 12:00</title>
-<description>Rinse FM, broadcast 11 Oct 2026 12:00. Disco</description>
-<enclosure url="https://replay.rinse.fm/uk/DeanBryce111026.mp3" length="281746114" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-281746114</guid>
-<pubDate>Sun, 11 Oct 2026 12:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/Grilzz-Dean-Bryce.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Wisdom Teeth - 11/10/2026 - 10:00</title>
-<description>Rinse FM, broadcast 11 Oct 2026 10:00. Ambient, Electronic</description>
-<enclosure url="https://replay.rinse.fm/uk/WisdomTeeth111026.mp3" length="288642396" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288642396</guid>
-<pubDate>Sun, 11 Oct 2026 10:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/WhatsApp-Image-2026-10-08-at-17.20.56-Oscar-Henson.jpeg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>7ip7o3 - 10/10/2026 - 23:00</title>
-<description>Rinse FM, broadcast 10 Oct 2026 23:00. Breakbeat, Drum &amp; Bass, Techno</description>
-<enclosure url="https://replay.rinse.fm/uk/7ip7o3101026.mp3" length="144010746" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144010746</guid>
-<pubDate>Sat, 10 Oct 2026 23:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/7ip7o3-Oct-2026-Hyerin-Ko.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Nervous Horizon - 10/10/2026 - 22:00</title>
-<description>Rinse FM, broadcast 10 Oct 2026 22:00</description>
-<enclosure url="https://replay.rinse.fm/uk/NervousHorizon101026.mp3" length="144210404" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-144210404</guid>
-<pubDate>Sat, 10 Oct 2026 22:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>3600</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/wallwork-rinse_2026-10-11-095920_uukk.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
-</item>
-<item>
-<title>Man Power - 10/10/2026 - 17:00</title>
-<description>Rinse FM, broadcast 10 Oct 2026 17:00. House, Techno, Experimental</description>
-<enclosure url="https://replay.rinse.fm/uk/ManPower101026.mp3" length="288062481" type="audio/mpeg"/>
-<guid isPermaLink="false">rinse-size-288062481</guid>
-<pubDate>Sat, 10 Oct 2026 17:00:00 +0100</pubDate>
-<itunes:author>Rinse FM</itunes:author>
-<itunes:duration>7200</itunes:duration>
-<itunes:image href="https://image.rinse.fm/_/bc063c3b-dea2-40e0-a1ea-97b8b1334e82-Man-Power.jpg?w=1400&amp;h=1400&amp;fit=crop"/>
 </item>
 </channel>
 </rss>

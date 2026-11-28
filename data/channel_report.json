@@ -1,6 +1,6 @@
 {
  "france": {
-  "count": 36,
+  "count": 38,
   "sample_fields": {
    "channel": [
     {
@@ -26,10 +26,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/france/ASIANCOREinviteAZADI271126(VBR).mp3"
+  "sample_url": "https://replay.rinse.fm/france/ShampaininviteSTITCH281126(320).mp3"
  },
  "kool": {
-  "count": 24,
+  "count": 25,
   "sample_fields": {
    "channel": [
     {
@@ -55,10 +55,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/kool/SABRINA221026.mp3"
+  "sample_url": "https://replay.rinse.fm/kool/RompasReggaeShack271126.mp3"
  },
  "swu": {
-  "count": 91,
+  "count": 85,
   "sample_fields": {
    "channel": [
     {
@@ -84,10 +84,10 @@
     }
    ]
   },
-  "sample_url": "https://replay.rinse.fm/swu/Ruggz271126.mp3"
+  "sample_url": "https://replay.rinse.fm/swu/BenDaley271126.mp3"
  },
  "uk": {
-  "count": 32,
+  "count": 33,
   "sample_fields": {
    "channel": [
     {
